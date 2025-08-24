@@ -13,6 +13,7 @@ import LessonPage from "./pages/LessonPage";
 import LearningPage from "./pages/LearningPage";
 import TaskPage from "./pages/TaskPage";
 import AuthPage from "./pages/Auth";
+import StudentDashboard from "./pages/StudentDashboard";
 
 import { AuthProvider } from "./contexts/AuthContext";
 import ProtectedRoute from "./components/ProtectedRoute";
@@ -77,6 +78,14 @@ const App = () => (
               element={
                 <ProtectedRoute>
                   <TaskPage />
+                </ProtectedRoute>
+              }
+            />
+            <Route
+              path="/dashboard"
+              element={
+                <ProtectedRoute>
+                  <StudentDashboard />
                 </ProtectedRoute>
               }
             />
