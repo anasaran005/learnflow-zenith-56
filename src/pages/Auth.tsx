@@ -69,15 +69,7 @@ export default function AuthPage() {
           </GlowButton>
         </form>
 
-        <p className="mt-4 text-center text-sm text-muted-foreground">
-          {isLogin ? "Don’t have an account?" : "Already have an account?"}{" "}
-          <button
-            onClick={() => setIsLogin(!isLogin)}
-            className="text-primary underline"
-          >
-            {isLogin ? "Sign Up" : "Login"}
-          </button>
-        </p>
+       
       </div>
     </div>
   );

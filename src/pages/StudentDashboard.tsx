@@ -109,13 +109,13 @@ export default function StudentDashboard() {
     <div className="min-h-screen bg-background">
       <Header />
       
-      <div className="container mx-auto px-4 py-12">
+      <div className="container mx-auto px-4 py-5">
         {/* Page Header */}
         <div className="mb-8">
           <div className="flex items-center justify-between">
             <div>
               <h1 className="text-4xl font-heading font-bold text-foreground mb-2">
-                Student Dashboard
+                WELCOME Back 👋🏻
               </h1>
               <p className="text-xl text-muted-foreground">
                 Track your learning progress across all courses
@@ -167,8 +167,8 @@ export default function StudentDashboard() {
                   <p className="text-sm font-medium text-muted-foreground">Tasks Completed</p>
                   <p className="text-2xl font-bold text-foreground">{overall.completedTasks}/{overall.totalTasks}</p>
                 </div>
-                <div className="w-10 h-10 bg-accent/10 rounded-lg flex items-center justify-center">
-                  <TrendingUp className="w-5 h-5 text-accent" />
+                <div className="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center">
+                  <TrendingUp className="w-5 h-5 text-red-800" />
                 </div>
               </div>
             </CardContent>
@@ -181,8 +181,8 @@ export default function StudentDashboard() {
                   <p className="text-sm font-medium text-muted-foreground">XP Earned</p>
                   <p className="text-2xl font-bold text-foreground">{overall.earnedXP}/{overall.totalXP}</p>
                 </div>
-                <div className="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center">
-                  <Award className="w-5 h-5 text-primary" />
+                <div className="w-10 h-10 bg-success/10 rounded-lg flex items-center justify-center">
+                  <Award className="w-5 h-5 text-success" />
                 </div>
               </div>
             </CardContent>
@@ -212,7 +212,7 @@ export default function StudentDashboard() {
           {/* Weekly Activity */}
           <div>
             <div className="flex items-center gap-2 mb-4">
-              <Activity className="w-5 h-5 text-accent" />
+              <Activity className="w-5 h- text-accent" />
               <h2 className="text-2xl font-semibold text-foreground">Weekly Activity</h2>
             </div>
             <ActivityScatter activities={activities} />
@@ -225,7 +225,7 @@ export default function StudentDashboard() {
             </CardHeader>
             <CardContent>
               {activities.length > 0 ? (
-                <div className="space-y-3 max-h-64 overflow-y-auto">
+                <div className="space-y-3 max-h-70 overflow-y-auto">
                   {activities.slice(0, 10).map((activity, index) => (
                     <div key={activity.id + index} className="flex items-center justify-between p-3 bg-surface-elevated rounded-lg">
                       <div className="flex items-center gap-3">
