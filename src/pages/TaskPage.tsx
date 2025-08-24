@@ -372,7 +372,7 @@ const handleTaskCompleted = async () => {
             <Card>
             <CardHeader>
             <CardTitle>
-    <span className="text-4xl font-bold text-red-800">Scenario</span>
+    <span className="text-4xl font-bold text-white">Scenario</span>
   </CardTitle>
             </CardHeader>
 
@@ -385,7 +385,7 @@ const handleTaskCompleted = async () => {
               {task.resources?.pdfs?.length > 0 && (
                 <Card>
                   <CardHeader>
-                  <CardTitle className="!text-2xl !font-bold text-red-800">Reference Documents</CardTitle>
+                  <CardTitle className="!text-2xl !font-bold text-white">Reference Documents</CardTitle>
                     <p className="text-muted-foreground">Review these documents before proceeding with the task.</p>
                   </CardHeader>
                   <CardContent className="space-y-4">
@@ -409,7 +409,7 @@ const handleTaskCompleted = async () => {
                 <Card>
                   <CardHeader>
                     <CardTitle>
-                    <span className="text-2xl font-bold text-red-800">
+                    <span className="text-2xl font-bold text-white">
                       Fillable Documents
                       </span>
                       </CardTitle>
@@ -457,7 +457,7 @@ const handleTaskCompleted = async () => {
           <div className="space-y-6">
             <Card>
               <CardHeader>
-                <CardTitle className="flex items-center gap-2 !text-2xl !font-bold text-red-800">
+                <CardTitle className="flex items-center gap-2 !text-2xl !font-bold text-white">
                   <FileText className="w-5 h-5" /> Instructions for Completion
                 </CardTitle>
               </CardHeader>
@@ -490,7 +490,7 @@ const handleTaskCompleted = async () => {
             <Card>
               <CardHeader>
                 <CardTitle>
-                <span className="text-2xl font-bold text-red-800">
+                <span className="text-2xl font-bold text-white">
                 Task Progress
                 </span>
                 </CardTitle>
@@ -528,6 +528,8 @@ const handleTaskCompleted = async () => {
           </div>
         </div>
       </div>
+
+      
     </div>
   );
 }
