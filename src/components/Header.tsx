@@ -28,11 +28,11 @@ export default function Header({ className = "" }: HeaderProps) {
       <nav className="theme-container">
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
-          <Link to="/" className="flex items-center space-x-2 group">
+          
             <span className="font-heading font-semibold text-xl">
               ZANE <span style={{ color: "#ff0000" }}>ΩMEGA</span>
             </span>
-          </Link>
+          
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center space-x-8">

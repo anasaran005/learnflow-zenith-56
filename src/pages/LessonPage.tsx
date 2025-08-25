@@ -1,4 +1,3 @@
-
 import { useEffect, useState } from 'react';
 import { useParams, Link, useNavigate, useLocation } from 'react-router-dom';
 import Header from '@/components/Header';
@@ -144,25 +143,6 @@ const getCompletedTasks = (): string[] => {
       <Header />
       
       <div className="container mx-auto px-4 py-12">
-        {/* Breadcrumb */}
-        <nav className="mb-8">
-          <div className="flex items-center gap-2 text-sm text-muted-foreground">
-            <Link to="/courses" className="hover:text-foreground transition-colors">
-              Courses
-            </Link>
-            <ChevronRight className="w-4 h-4" />
-            <Link to={`/courses/${courseId}`} className="hover:text-foreground transition-colors">
-              {course.name}
-            </Link>
-            <ChevronRight className="w-4 h-4" />
-            <Link to={`/courses/${courseId}/chapters/${chapterId}`} className="hover:text-foreground transition-colors">
-              {chapter.name}
-            </Link>
-            <ChevronRight className="w-4 h-4" />
-            <span className="text-foreground">{lesson.name}</span>
-          </div>
-        </nav>
-
         {/* Lesson Header */}
         <div className="mb-12">
           <div className="flex items-start gap-6 mb-6">
