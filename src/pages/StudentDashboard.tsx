@@ -12,9 +12,13 @@ import ProgressPie from '@/components/dashboard/ProgressPie';
 import ProgressBars from '@/components/dashboard/ProgressBars';
 import ActivityScatter from '@/components/dashboard/ActivityScatter';
 import { getDashboardData, getSessionActivities, DashboardProgress } from '@/lib/dashboardData';
+import { useAuth } from '@/contexts/AuthContext';
+import { useToast } from '@/hooks/use-toast';
 import { BookOpen, Award, Target, TrendingUp, BarChart3, PieChart, Activity } from 'lucide-react';
 
 export default function StudentDashboard() {
+  const { user } = useAuth();
+  const { toast } = useToast();
   const [dashboardData, setDashboardData] = useState<DashboardProgress | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -47,9 +51,17 @@ export default function StudentDashboard() {
   }, []);
 
   const loadDashboardData = async () => {
+    if (!user?.uid) {
+      setError('User not authenticated');
+      setLoading(false);
+      return;
+    }
+
     try {
       setLoading(true);
-      const data = await getDashboardData();
+      setError(null);
+      
+      const data = await getDashboardData(user.uid);
       
       // Merge with session activities for real-time updates
       const sessionActivities = getSessionActivities();
@@ -60,8 +72,15 @@ export default function StudentDashboard() {
         activities: allActivities
       });
     } catch (err) {
-      setError(err instanceof Error ? err.message : 'Failed to load dashboard data');
+      const errorMessage = err instanceof Error ? err.message : 'Failed to load dashboard data';
+      setError(errorMessage);
       console.error('Error loading dashboard data:', err);
+      
+      toast({
+        title: "Dashboard Error",
+        description: "Failed to load progress data. Please try again.",
+        variant: "destructive"
+      });
     } finally {
       setLoading(false);
     }

@@ -110,31 +110,28 @@ export default function LearningPage() {
     }
   };
 
-  const handleTopicSelect = (topic: Topic) => {
+const handleTopicSelect = async (topic: Topic) => {
     setCurrentTopic(topic);
 
-    if (lessonId && topic.id) {
-      markTopicWatched(lessonId, topic.id);
-      
-      // Check if all topics are now watched
-      const updatedWatchedTopics = getWatchedTopics(lessonId);
-      if (updatedWatchedTopics.length === topics.length && topics.length > 0) {
-        // All topics watched - mark learning as completed
-        const learningDoneKey = `lesson_${lessonId}_learningDone`;
-        localStorage.setItem(learningDoneKey, "true");
-        
-        // Add to completed lessons list
-        if (courseId) {
-          const completedLessonsKey = `course_${courseId}_completed_lessons`;
-          const completedLessons = JSON.parse(localStorage.getItem(completedLessonsKey) || "[]") as string[];
-          if (!completedLessons.includes(lessonId)) {
-            completedLessons.push(lessonId);
-            localStorage.setItem(completedLessonsKey, JSON.stringify(completedLessons));
-          }
+    if (lessonId && topic.id && user?.uid) {
+      // Save watched topic to API
+      try {
+        const currentWatched = getWatchedTopics(lessonId);
+        if (!currentWatched.includes(topic.id)) {
+          const newWatched = [...currentWatched, topic.id];
+          await ProgressManager.saveProgress({
+            userId: user.uid,
+            courseId: courseId!,
+            lessonId,
+            type: 'watched_topics',
+            value: newWatched
+          });
         }
+      } catch (error) {
+        console.error('Failed to save watched topic:', error);
       }
       
-      window.dispatchEvent(new Event("progress:updated")); // 🔥 notify chapter
+      window.dispatchEvent(new Event("progress:updated"));
     }
 
     navigate(

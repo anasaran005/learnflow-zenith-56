@@ -5,11 +5,11 @@
 import { ScatterChart, Scatter, XAxis, YAxis, CartesianGrid, ResponsiveContainer, Tooltip, Cell } from 'recharts';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { ChartContainer } from '@/components/ui/chart';
-import { ActivityItem } from '@/lib/dashboardData';
+import { Activity } from '@/lib/dashboardData';
 import { format, subDays, startOfDay, differenceInDays } from 'date-fns';
 
 interface ActivityScatterProps {
-  activities: ActivityItem[];
+  activities: Activity[];
 }
 
 export default function ActivityScatter({ activities }: ActivityScatterProps) {
@@ -70,7 +70,7 @@ export default function ActivityScatter({ activities }: ActivityScatterProps) {
   const CustomTooltip = ({ active, payload }: any) => {
     if (active && payload && payload.length && payload[0].payload.activity) {
       const data = payload[0].payload;
-      const activity: ActivityItem = data.activity;
+      const activity: Activity = data.activity;
       return (
         <div className="bg-popover p-4 rounded-lg border border-border shadow-lg max-w-xs">
           <div className="space-y-2">
@@ -176,7 +176,7 @@ export default function ActivityScatter({ activities }: ActivityScatterProps) {
   );
 }
 
-function getActivityTypeValue(type: ActivityItem['type']): number {
+function getActivityTypeValue(type: Activity['type']): number {
   switch (type) {
     case 'lesson_started': return 1;
     case 'lesson_completed': return 2;
@@ -186,7 +186,7 @@ function getActivityTypeValue(type: ActivityItem['type']): number {
   }
 }
 
-function getActivityColor(type: ActivityItem['type']): string {
+function getActivityColor(type: Activity['type']): string {
   switch (type) {
     case 'lesson_started': return 'hsl(var(--secondary))';
     case 'lesson_completed': return 'hsl(var(--primary))';
@@ -196,7 +196,7 @@ function getActivityColor(type: ActivityItem['type']): string {
   }
 }
 
-function getActivityTypeLabel(type: ActivityItem['type']): string {
+function getActivityTypeLabel(type: Activity['type']): string {
   switch (type) {
     case 'lesson_started': return 'Lesson Started';
     case 'lesson_completed': return 'Lesson Completed';
