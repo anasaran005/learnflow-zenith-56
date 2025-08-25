@@ -181,20 +181,12 @@ const isChapterCompletedAsync = async (courseId: string, chapterId: string): Pro
 const handleTaskCompleted = async () => {
   if (!courseId || !taskId) return;
 
-  // 1) Save task as completed to Google Sheets
-  try {
-    const { user } = useAuth();
-    if (user?.uid) {
-      await ProgressManager.saveProgress({
-        userId: user.uid,
-        courseId,
-        taskId,
-        type: 'completed_tasks',
-        value: true
-      });
-    }
-  } catch (error) {
-    console.error('Failed to save task completion:', error);
+  // 1) Save task as completed
+  const completedKey = `course_${courseId}_completed_tasks`;
+  const completed = JSON.parse(localStorage.getItem(completedKey) || "[]") as string[];
+  if (!completed.includes(taskId)) {
+    completed.push(taskId);
+    localStorage.setItem(completedKey, JSON.stringify(completed));
   }
 
   // 2) Get all tasks for the lesson (fetch course structure and find the lesson)
