@@ -130,8 +130,8 @@ export default function StudentDashboard() {
           </div>
         </div>
 
-        {/* Quick Stats */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-8">
+        {/* Quick Stats - Removed Tasks */}
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
           <Card>
             <CardContent className="p-6">
               <div className="flex items-center justify-between">
@@ -164,20 +164,6 @@ export default function StudentDashboard() {
             <CardContent className="p-6">
               <div className="flex items-center justify-between">
                 <div>
-                  <p className="text-sm font-medium text-muted-foreground">Tasks Completed</p>
-                  <p className="text-2xl font-bold text-foreground">{overall.completedTasks}/{overall.totalTasks}</p>
-                </div>
-                <div className="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center">
-                  <TrendingUp className="w-5 h-5 text-red-800" />
-                </div>
-              </div>
-            </CardContent>
-          </Card>
-
-          <Card>
-            <CardContent className="p-6">
-              <div className="flex items-center justify-between">
-                <div>
                   <p className="text-sm font-medium text-muted-foreground">XP Earned</p>
                   <p className="text-2xl font-bold text-foreground">{overall.earnedXP}/{overall.totalXP}</p>
                 </div>
@@ -191,31 +177,33 @@ export default function StudentDashboard() {
 
         {/* Charts Grid */}
         <div className="space-y-8">
-          {/* Overall Progress Pie Charts */}
-          <div>
-            <div className="flex items-center gap-2 mb-4">
-              <PieChart className="w-5 h-5 text-primary" />
-              <h2 className="text-2xl font-semibold text-foreground">Overall Progress</h2>
-            </div>
-            <ProgressPie data={overall} />
-          </div>
+          {/* Lesson Progress & Weekly Activity Side by Side */}
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+            {/* Lesson Progress Pie Chart */}
+            <Card>
+              <CardHeader className="pb-3">
+                <CardTitle className="flex items-center gap-2">
+                  <PieChart className="w-5 h-5 text-primary" />
+                  Lesson Progress
+                </CardTitle>
+              </CardHeader>
+              <CardContent>
+                <ProgressPie data={overall} />
+              </CardContent>
+            </Card>
 
-          {/* Progress by Course/Chapter */}
-          <div>
-            <div className="flex items-center gap-2 mb-4">
-              <BarChart3 className="w-5 h-5 text-success" />
-              <h2 className="text-2xl font-semibold text-foreground">Progress by Course & Chapter</h2>
-            </div>
-            <ProgressBars courseData={byCourse} chapterData={byChapter} />
-          </div>
-
-          {/* Weekly Activity */}
-          <div>
-            <div className="flex items-center gap-2 mb-4">
-              <Activity className="w-5 h- text-accent" />
-              <h2 className="text-2xl font-semibold text-foreground">Weekly Activity</h2>
-            </div>
-            <ActivityScatter activities={activities} />
+            {/* Weekly Activity */}
+            <Card>
+              <CardHeader className="pb-3">
+                <CardTitle className="flex items-center gap-2">
+                  <Activity className="w-5 h-5 text-primary" />
+                  Weekly Activity
+                </CardTitle>
+              </CardHeader>
+              <CardContent>
+                <ActivityScatter activities={activities} />
+              </CardContent>
+            </Card>
           </div>
 
           {/* Recent Activities List */}
@@ -226,7 +214,7 @@ export default function StudentDashboard() {
             <CardContent>
               {activities.length > 0 ? (
                 <div className="space-y-3 max-h-70 overflow-y-auto">
-                  {activities.slice(0, 10).map((activity, index) => (
+                  {activities.slice(0, 3).map((activity, index) => (
                     <div key={activity.id + index} className="flex items-center justify-between p-3 bg-surface-elevated rounded-lg">
                       <div className="flex items-center gap-3">
                         <div className={`w-3 h-3 rounded-full ${
@@ -261,7 +249,7 @@ export default function StudentDashboard() {
                   <Activity className="w-12 h-12 text-muted-foreground mx-auto mb-4" />
                   <p className="text-muted-foreground">No activities recorded yet</p>
                   <p className="text-sm text-muted-foreground mt-2">
-                    Start completing lessons and tasks to see your progress here
+                    Start completing lessons to see your progress here
                   </p>
                 </div>
               )}

@@ -405,8 +405,7 @@ const hasLearning = lessonHasLearning[lesson.id] || learningDone;
                           <div className="flex items-center gap-2 mb-2">
                             <CardTitle className="text-xl">{lesson.name}</CardTitle>
                             {!lessonUnlocked && <Lock className="w-4 h-4 text-muted-foreground" />}
-                            {hasLearning && <span className="text-xs bg-blue-100 text-blue-800 px-2 py-1 rounded">📚 Learning</span>}
-                            {hasTasks && <span className="text-xs bg-green-100 text-green-800 px-2 py-1 rounded">⚙️ Tasks</span>}
+                            
                           </div>
                           
                           <p className="text-muted-foreground mb-4">

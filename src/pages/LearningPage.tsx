@@ -393,33 +393,33 @@ const handleNextQuestion = async () => {
           <div className="lg:col-span-3">
             {/* Video Player */}
             <Card>
-              <CardContent className="p-0">
-                {currentTopic?.youtubeId ? (
-                  <>
-                    <div className="aspect-video">
-                      <iframe
-                        width="100%"
-                        height="100%"
-                        src={`https://www.youtube.com/embed/${currentTopic.youtubeId}`}
-                        title={currentTopic.title}
-                        frameBorder="0"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                        allowFullScreen
-                        className="rounded-t-lg"
-                      />
-                    </div>
-                    <div className="p-6">
-                      <h2 className="text-xl font-semibold mb-2">{currentTopic.title}</h2>
-                      <p className="text-muted-foreground">{currentTopic.description}</p>
-                    </div>
-                  </>
-                ) : (
-                  <div className="aspect-video bg-muted flex items-center justify-center">
-                    <p className="text-muted-foreground">No video available</p>
-                  </div>
-                )}
-              </CardContent>
-            </Card>
+  <CardContent className="p-0">
+    {currentTopic?.youtubeId ? (
+      <>
+        <div className="aspect-video">
+          <iframe
+            width="100%"
+            height="100%"
+            src={`https://www.youtube.com/embed/${currentTopic.youtubeId}?modestbranding=1&controls=1&showinfo=0&rel=0&iv_load_policy=3&disablekb=1&end=${Math.floor(Math.random() * 1000) + 1}`}
+            title={currentTopic.title}
+            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+            className="rounded-t-lg"
+          />
+        </div>
+        <div className="p-6">
+          <h2 className="text-xl font-semibold mb-2">{currentTopic.title}</h2>
+          <p className="text-muted-foreground">{currentTopic.description}</p>
+        </div>
+      </>
+    ) : (
+      <div className="aspect-video bg-muted flex items-center justify-center">
+        <p className="text-muted-foreground">No video available</p>
+      </div>
+    )}
+  </CardContent>
+</Card> 
 
             {/* Quiz Results */}
             {quizCompleted && (

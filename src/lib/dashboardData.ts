@@ -1,6 +1,7 @@
 /**
  * Dashboard data extraction utilities for reading localStorage progress
  * Handles progress aggregation across courses, chapters, lessons, and tasks
+ * Now filters to show only unlocked courses
  */
 
 import { fetchTasks, organizeTasks, Course, Chapter, Lesson, Task } from './csv';
@@ -65,13 +66,45 @@ const CSV_URL = import.meta.env.VITE_CSV_URL ||
   'https://docs.google.com/spreadsheets/d/e/2PACX-1vRrzHdNL8FRSooYojNPyBU2f66Tgr-DgwA6xB_HAK-azRx_s8PvbKUwzO5OzjzVdPGw-qeNOl68Asx6/pub?output=csv';
 
 /**
+ * Check if a course is unlocked based on your business logic
+ * Currently matches the logic from CoursesIndex.tsx
+ */
+function isCourseUnlocked(course: Course): boolean {
+  return course.name.toLowerCase().includes('qa/qc'); // Only unlock QA/QC courses
+}
+
+/**
+ * Filter courses to only include unlocked ones
+ * Also filters out dummy/test courses like in CoursesIndex.tsx
+ */
+function getUnlockedCourses(courses: Course[]): Course[] {
+  return courses.filter(course => {
+    const isValidCourse = (
+      course.name && // Has a name
+      course.name.trim() !== '' && // Name is not empty
+      !course.name.toLowerCase().includes('dummy') && // Doesn't contain 'dummy'
+      !course.name.toLowerCase().includes('test') && // Doesn't contain 'test'
+      !course.name.toLowerCase().includes('sample') && // Doesn't contain 'sample'
+      course.id && course.id.trim() !== '' && // Has a valid ID
+      course.chapters && course.chapters.length > 0 // Has actual content
+    );
+    
+    return isValidCourse && isCourseUnlocked(course);
+  });
+}
+
+/**
  * Extract all progress data from localStorage and organize it for dashboard visualization
+ * Now only processes unlocked courses
  */
 export async function getDashboardData(): Promise<DashboardProgress> {
   try {
     // Load course structure
     const tasks = await fetchTasks(CSV_URL);
-    const courses = organizeTasks(tasks);
+    const allCourses = organizeTasks(tasks);
+    
+    // Filter to only unlocked courses
+    const courses = getUnlockedCourses(allCourses);
 
     const byCourse: CourseProgress[] = [];
     const byChapter: ChapterProgress[] = [];
@@ -180,7 +213,7 @@ export async function getDashboardData(): Promise<DashboardProgress> {
           }
         }
 
-        // Add chapter progress
+        // Add chapter progress (only for unlocked courses)
         byChapter.push({
           chapterId: chapter.id,
           chapterName: chapter.name,
@@ -197,7 +230,7 @@ export async function getDashboardData(): Promise<DashboardProgress> {
         });
       }
 
-      // Add course progress
+      // Add course progress (only for unlocked courses)
       byCourse.push({
         courseId: course.id,
         courseName: course.name,
