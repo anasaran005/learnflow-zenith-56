@@ -270,18 +270,6 @@ const handleTaskCompleted = async () => {
       <div className="min-h-screen bg-background">
         <Header />
         <div className="container mx-auto px-4 py-12">
-          <nav className="mb-8">
-            <div className="flex items-center gap-2 text-sm text-muted-foreground">
-              <Link to="/courses" className="hover:text-foreground transition-colors">Courses</Link>
-              <ChevronRight className="w-4 h-4" />
-              <Link to={`/courses/${courseId}`} className="hover:text-foreground transition-colors">Course</Link>
-              <ChevronRight className="w-4 h-4" />
-              <Link to={`/courses/${courseId}/chapters/${chapterId}`} className="hover:text-foreground transition-colors">Chapter</Link>
-              <ChevronRight className="w-4 h-4" />
-              <span className="text-foreground">{task.title}</span>
-            </div>
-          </nav>
-
           <Card className="max-w-2xl mx-auto text-center">
             <CardContent className="p-12">
               <div className="w-20 h-20 bg-amber-100 rounded-full flex items-center justify-center mx-auto mb-6">
@@ -332,18 +320,6 @@ const handleTaskCompleted = async () => {
     <div className="min-h-screen bg-background">
       <Header />
       <div className="container mx-auto px-4 py-12">
-        <nav className="mb-8">
-          <div className="flex items-center gap-2 text-sm text-muted-foreground">
-            <Link to="/courses" className="hover:text-foreground transition-colors">Courses</Link>
-            <ChevronRight className="w-4 h-4" />
-            <Link to={`/courses/${courseId}`} className="hover:text-foreground transition-colors">Course</Link>
-            <ChevronRight className="w-4 h-4" />
-            <Link to={`/courses/${courseId}/chapters/${chapterId}`} className="hover:text-foreground transition-colors">Chapter</Link>
-            <ChevronRight className="w-4 h-4" />
-            <span className="text-foreground">{task.title}</span>
-          </div>
-        </nav>
-
         <div className="mb-12">
           <div className="flex items-start gap-6 mb-6">
             <div className="w-16 h-16 bg-primary rounded-lg flex items-center justify-center">

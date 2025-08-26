@@ -281,28 +281,6 @@ const handleNextQuestion = async () => {
       <div className="min-h-screen bg-background">
         <Header />
         <div className="container mx-auto px-4 py-12">
-          <nav className="mb-8">
-            <div className="flex items-center gap-2 text-sm text-muted-foreground">
-              <Link to="/courses" className="hover:text-foreground transition-colors">
-                Courses
-              </Link>
-              <ChevronRight className="w-4 h-4" />
-              <Link to={`/courses/${courseId}`} className="hover:text-foreground transition-colors">
-                Course
-              </Link>
-              <ChevronRight className="w-4 h-4" />
-              <Link to={`/courses/${courseId}/chapters/${chapterId}`} className="hover:text-foreground transition-colors">
-                Chapter
-              </Link>
-              <ChevronRight className="w-4 h-4" />
-              <Link to={`/courses/${courseId}/chapters/${chapterId}/lessons/${lessonId}`} className="hover:text-foreground transition-colors">
-                {lessonName}
-              </Link>
-              <ChevronRight className="w-4 h-4" />
-              <span className="text-foreground">Quiz</span>
-            </div>
-          </nav>
-
           <div className="max-w-4xl mx-auto">
             <Card>
               <CardHeader>
@@ -366,60 +344,37 @@ const handleNextQuestion = async () => {
       <Header />
       
       <div className="container mx-auto px-4 py-12">
-        {/* Breadcrumb */}
-        <nav className="mb-8">
-          <div className="flex items-center gap-2 text-sm text-muted-foreground">
-            <Link to="/courses" className="hover:text-foreground transition-colors">
-              Courses
-            </Link>
-            <ChevronRight className="w-4 h-4" />
-            <Link to={`/courses/${courseId}`} className="hover:text-foreground transition-colors">
-              Course
-            </Link>
-            <ChevronRight className="w-4 h-4" />
-            <Link to={`/courses/${courseId}/chapters/${chapterId}`} className="hover:text-foreground transition-colors">
-              Chapter
-            </Link>
-            <ChevronRight className="w-4 h-4" />
-            <Link to={`/courses/${courseId}/chapters/${chapterId}/lessons/${lessonId}`} className="hover:text-foreground transition-colors">
-              {lessonName}
-            </Link>
-            <ChevronRight className="w-4 h-4" />
-            <span className="text-foreground">Learning</span>
-          </div>
-        </nav>
-
         <div className="grid grid-cols-1 lg:grid-cols-4 gap-6">
           <div className="lg:col-span-3">
             {/* Video Player */}
             <Card>
-              <CardContent className="p-0">
-                {currentTopic?.youtubeId ? (
-                  <>
-                    <div className="aspect-video">
-                      <iframe
-                        width="100%"
-                        height="100%"
-                        src={`https://www.youtube.com/embed/${currentTopic.youtubeId}`}
-                        title={currentTopic.title}
-                        frameBorder="0"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                        allowFullScreen
-                        className="rounded-t-lg"
-                      />
-                    </div>
-                    <div className="p-6">
-                      <h2 className="text-xl font-semibold mb-2">{currentTopic.title}</h2>
-                      <p className="text-muted-foreground">{currentTopic.description}</p>
-                    </div>
-                  </>
-                ) : (
-                  <div className="aspect-video bg-muted flex items-center justify-center">
-                    <p className="text-muted-foreground">No video available</p>
-                  </div>
-                )}
-              </CardContent>
-            </Card>
+  <CardContent className="p-0">
+    {currentTopic?.youtubeId ? (
+      <>
+        <div className="aspect-video">
+          <iframe
+            width="100%"
+            height="100%"
+            src={`https://www.youtube.com/embed/${currentTopic.youtubeId}?modestbranding=1&controls=1&showinfo=0&rel=0&iv_load_policy=3&disablekb=1&end=${Math.floor(Math.random() * 1000) + 1}`}
+            title={currentTopic.title}
+            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+            className="rounded-t-lg"
+          />
+        </div>
+        <div className="p-6">
+          <h2 className="text-xl font-semibold mb-2">{currentTopic.title}</h2>
+          <p className="text-muted-foreground">{currentTopic.description}</p>
+        </div>
+      </>
+    ) : (
+      <div className="aspect-video bg-muted flex items-center justify-center">
+        <p className="text-muted-foreground">No video available</p>
+      </div>
+    )}
+  </CardContent>
+</Card> 
 
             {/* Quiz Results */}
             {quizCompleted && (
