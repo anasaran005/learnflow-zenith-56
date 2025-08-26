@@ -28,7 +28,7 @@ import { fetchTasks, organizeTasks, findLesson } from "@/lib/csv";
 
 const CSV_URL =
   import.meta.env.VITE_CSV_URL ||
-  "https://docs.google.com/spreadsheets/d/e/2PACX-1vRrzHdNL8FRSooYojNPyBU2f66Tgr-DgwA6xB_HAK-azRx_s8PvbKUwzO5OzjzVdPGw-qeNOl68Asx6/pub?output=csv";
+  "https://raw.githubusercontent.com/anasaran005/learnflow-zenith-56/a0d9572f1d8cb6a75180cc62ebbace2f75153ec5/coursecsv/pro%20training%20tasks%20-%20Sheet1.csv";
 
 export default function LearningPage() {
   const { courseId, chapterId, lessonId, topicId } = useParams<{

@@ -58,9 +58,9 @@ const CACHE_DURATION = 30 * 60 * 1000; // 30 minutes
 
 // Default CSV URLs (fallback for development)
 const TOPICS_CSV_URL =
-  'https://docs.google.com/spreadsheets/d/e/2PACX-1vQY0i2Sx-BZjlA9e0jwY15h-4JT4Q3tvPFbTM2yqgqG2dTzRGqewryeZjRv-MCSvkD6Dx8JCuXj8ZxS/pub?output=csv';
+  'https://raw.githubusercontent.com/anasaran005/learnflow-zenith-56/a0d9572f1d8cb6a75180cc62ebbace2f75153ec5/coursecsv/pro-training-topics%20-%20Sheet1.csv';
 const QUIZ_CSV_URL =
-  'https://docs.google.com/spreadsheets/d/e/2PACX-1vQe58NeZ7swOYrjuXOfTNit7st2UaEjX6c1jHIJQMUGqt7-qQdhHRALvjCJzTI27fNRYAMzc3542eYa/pub?output=csv';
+  'https://raw.githubusercontent.com/anasaran005/learnflow-zenith-56/a0d9572f1d8cb6a75180cc62ebbace2f75153ec5/coursecsv/pro-training-Quiz%20Tab%20%20-%20Sheet1.csv';
 
 /**
  * Extract YouTube video ID from various YouTube URL formats
