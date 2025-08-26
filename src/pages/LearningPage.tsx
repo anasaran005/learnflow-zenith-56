@@ -301,16 +301,21 @@ const handleNextQuestion = async () => {
                       {quizQuestions[currentQuizQuestion]?.question}
                     </h3>
                     
-                    <div className="space-y-2">
+                    <div className="space-y-3">
                       {quizQuestions[currentQuizQuestion]?.options.map((option, index) => (
-                        <Button
+                        <div
                           key={index}
-                          variant={selectedAnswers[currentQuizQuestion] === index ? "default" : "outline"}
-                          className="w-full justify-start text-left h-auto p-4"
+                          className={`w-full p-4 rounded-md border cursor-pointer transition-colors min-h-[3rem] ${
+                            selectedAnswers[currentQuizQuestion] === index 
+                              ? 'bg-primary text-primary-foreground border-primary' 
+                              : 'bg-background border-border hover:bg-accent hover:text-accent-foreground'
+                          }`}
                           onClick={() => handleAnswerSelect(index)}
                         >
-                          {option}
-                        </Button>
+                          <div className="text-left break-words whitespace-normal leading-relaxed">
+                            {option}
+                          </div>
+                        </div>
                       ))}
                     </div>
                   </div>
