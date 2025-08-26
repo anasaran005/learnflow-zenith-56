@@ -189,7 +189,7 @@ const handleTaskCompleted = async () => {
     localStorage.setItem(completedKey, JSON.stringify(completed));
   }
 
-  // 2) Get all tasks for the lesson (fetch course structure and find the lesson)
+  // 2) Get all tasks for the lesson
   let allTasks: string[] = [];
   try {
     const tasksRows = await fetchTasks(CSV_URL);
@@ -200,7 +200,7 @@ const handleTaskCompleted = async () => {
 
     allTasks = foundLesson?.tasks?.map(t => t.id) || [];
   } catch (err) {
-    console.warn('Failed to load lesson tasks for completion check:', err);
+    console.warn("Failed to load lesson tasks for completion check:", err);
   }
 
   // 3) Check if all tasks in this lesson are done
@@ -210,22 +210,21 @@ const handleTaskCompleted = async () => {
     // mark lesson completed
     markLessonCompleted(courseId, task.lessonId);
 
-    // check entire chapter
-    const chapterDone = await isChapterCompletedAsync(courseId, chapterId!);
-
-    if (chapterDone) {
-      // all lessons in chapter done -> go to course page
-      navigate(`/courses/${courseId}`);
-      return;
-    }
-    // not all lessons done -> go to chapter page
-    navigate(`/courses/${courseId}/chapters/${chapterId}`);
+    // ✅ Instead of bouncing back to chapter/course, send them to celebration page
+    navigate("/lesson-complete", {
+      state: {
+        courseId,
+        chapterId,
+        lessonId: task.lessonId,
+      },
+    });
     return;
   }
 
-  // default fallback: go to chapter page
+  // Default fallback if not all tasks are complete yet
   navigate(`/courses/${courseId}/chapters/${chapterId}`);
 };
+
 
 
   if (loading) {

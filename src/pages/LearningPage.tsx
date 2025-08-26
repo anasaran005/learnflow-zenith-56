@@ -64,6 +64,7 @@ export default function LearningPage() {
 
     try {
       setLoading(true);
+      const startTime = Date.now(); // Track loading start time
 
       const [topicRows, quizRows, taskRows] = await Promise.all([
         fetchTopics(),
@@ -100,13 +101,27 @@ export default function LearningPage() {
         setQuizScoreState(existingScore);
         setQuizCompleted(true);
       }
+
+      // Calculate elapsed time and ensure minimum loading duration
+      const elapsedTime = Date.now() - startTime;
+      const minLoadingTime = 2000; // 2 seconds
+      const remainingTime = Math.max(0, minLoadingTime - elapsedTime);
+
+      // Wait for remaining time if needed
+      setTimeout(() => {
+        setLoading(false);
+      }, remainingTime);
+
     } catch (err) {
       setError(
         err instanceof Error ? err.message : "Failed to load learning data"
       );
       console.error("Error loading learning data:", err);
-    } finally {
-      setLoading(false);
+      
+      // Still respect minimum loading time even on error
+      setTimeout(() => {
+        setLoading(false);
+      }, 2000);
     }
   };
 
@@ -242,12 +257,40 @@ const handleNextQuestion = async () => {
 
   if (loading) {
     return (
-      <div className="min-h-screen bg-background">
+      <div className="min-h-screen flex flex-col bg-background relative overflow-hidden">
         <Header />
-        <div className="container mx-auto px-4 py-24">
-          <div className="text-center">
-            <div className="animate-spin w-8 h-8 border-2 border-primary border-t-transparent rounded-full mx-auto mb-4" />
-            <p className="text-muted-foreground">Loading learning content...</p>
+        
+        {/* Floating particles background */}
+        <div className="absolute inset-0 pointer-events-none">
+          <div className="absolute top-1/4 left-1/4 w-2 h-2 bg-blue-400 rounded-full animate-bounce opacity-60" style={{animationDelay: '0s', animationDuration: '3s'}}></div>
+          <div className="absolute top-1/3 right-1/4 w-1 h-1 bg-pink-400 rounded-full animate-bounce opacity-40" style={{animationDelay: '1s', animationDuration: '4s'}}></div>
+          <div className="absolute bottom-1/3 left-1/3 w-1.5 h-1.5 bg-purple-400 rounded-full animate-bounce opacity-50" style={{animationDelay: '2s', animationDuration: '3.5s'}}></div>
+          <div className="absolute bottom-1/4 right-1/3 w-1 h-1 bg-yellow-400 rounded-full animate-bounce opacity-45" style={{animationDelay: '0.5s', animationDuration: '2.8s'}}></div>
+          <div className="absolute top-1/2 left-1/6 w-1 h-1 bg-green-400 rounded-full animate-bounce opacity-50" style={{animationDelay: '1.5s', animationDuration: '2.5s'}}></div>
+          <div className="absolute bottom-1/2 right-1/6 w-1.5 h-1.5 bg-orange-400 rounded-full animate-bounce opacity-40" style={{animationDelay: '2.5s', animationDuration: '3.2s'}}></div>
+        </div>
+        
+        <div className="flex flex-1 items-center justify-center">
+          <div className="flex flex-col items-center gap-8">
+            {/* Large spinning ring with gradient effect */}
+            <div className="relative w-32 h-32">
+              <div className="absolute inset-0 rounded-full border-8 border-muted opacity-20"></div>
+              <div className="absolute inset-0 rounded-full border-8 border-transparent border-t-blue-500 border-r-pink-500 animate-spin"></div>
+              <div className="absolute inset-4 rounded-full border-6 border-transparent border-b-purple-500 border-l-yellow-500 animate-spin" style={{animationDirection: 'reverse', animationDuration: '1.5s'}}></div>
+              <div className="absolute inset-8 rounded-full border-4 border-transparent border-t-green-500 animate-spin" style={{animationDuration: '0.8s'}}></div>
+            </div>
+            
+            <div className="text-center">
+              <p className="text-xl font-bold text-foreground mb-2 animate-pulse">Loading learning content...</p>
+              <p className="text-sm text-muted-foreground animate-bounce">🎯 Preparing your educational journey!</p>
+              
+              {/* Loading progress dots */}
+              <div className="flex justify-center mt-4 space-x-1">
+                <div className="w-2 h-2 bg-primary rounded-full animate-bounce" style={{animationDelay: '0s'}}></div>
+                <div className="w-2 h-2 bg-primary rounded-full animate-bounce" style={{animationDelay: '0.2s'}}></div>
+                <div className="w-2 h-2 bg-primary rounded-full animate-bounce" style={{animationDelay: '0.4s'}}></div>
+              </div>
+            </div>
           </div>
         </div>
       </div>

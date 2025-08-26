@@ -3,7 +3,7 @@ import { Toaster as Sonner } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-
+import Lessoncomplete from "./pages/Lessoncomplete";
 import Index from "./pages/Index";
 import NotFound from "./pages/NotFound";
 import CoursesIndex from "./pages/CoursesIndex";
@@ -32,7 +32,7 @@ const App = () => (
             <Route path="/" element={<Index />} />
             <Route path="/auth" element={<AuthPage />} />
 
-            {/* Protected routes (everything else) */}
+            {/* Protected routes */}
             <Route
               path="/courses"
               element={
@@ -59,14 +59,15 @@ const App = () => (
             />
             <Route
               path="/courses/:courseId/chapters/:chapterId/lessons/:lessonId"
-              element={
-                <LessonPage />
-              }
+              element={<LessonPage />}
             />
             <Route
               path="/courses/:courseId/chapters/:chapterId/lessons/:lessonId/learning/:topicId?"
               element={<LearningPage />}
-              
+            />
+            <Route
+              path="/courses/:courseId/chapters/:chapterId/tasks/:taskId"
+              element={<TaskPage />}
             />
             <Route
               path="/dashboard"
@@ -77,8 +78,12 @@ const App = () => (
               }
             />
             <Route
- path="/courses/:courseId/chapters/:chapterId/tasks/:taskId"
- element={<TaskPage />}
+              path="/lesson-complete"
+              element={
+                <ProtectedRoute>
+                  <Lessoncomplete />
+                </ProtectedRoute>
+              }
             />
 
             {/* Catch-all */}
