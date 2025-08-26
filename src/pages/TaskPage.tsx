@@ -492,14 +492,6 @@ const handleTaskCompleted = async () => {
                 </div>
               </CardContent>
             </Card>
-
-            <Card>
-              <CardHeader><CardTitle>Navigation</CardTitle></CardHeader>
-              <CardContent className="space-y-3">
-                <Link to={`/courses/${courseId}`} className="block"><PrimaryButton className="w-full">Back to Course</PrimaryButton></Link>
-                <Link to={`/courses/${courseId}/chapters/${chapterId}/lessons/${task.lessonId}`} className="block"><PrimaryButton className="w-full">View Lesson</PrimaryButton></Link>
-              </CardContent>
-            </Card>
           </div>
         </div>
       </div>
