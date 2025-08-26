@@ -1,0 +1,403 @@
+courseId,chapterId,lessonId,topicId,questionId,question,options,correct
+course_1,101,les_1_1,topic_1_1_1,quiz_1_1_1_1,What are the four critical elements that a Quality Management System (QMS) coordinates in an organization?,"A) Planning, execution, monitoring, and reporting. |
+B) Quality standards, procedures, roles, and corrective actions. |
+C) Documentation, training, auditing, and compliance. |
+D) Policies, processes, people, and performance.",B
+course_1,101,les_1_1,topic_1_1_1,quiz_1_1_1_2,"In the hospital analogy, what does operating without QMS resemble?","A) A well-organized military unit | 
+B) A disciplined army with clear command structure | 
+C) A military unit without command structure | 
+D) A strategic command center",C
+course_1,101,les_1_1,topic_1_1_1,quiz_1_1_1_3,"What is the primary difference between SOPs (Standard Operating Procedures) and Work Instructions in a QMS framework?
+","A) SOPs are more important than Work Instructions |
+B) SOPs are manuals; Work Instructions are step-by-step guides |
+C) Work Instructions are strategic; SOPs are tactical |
+D) There is no difference between them.",B
+course_1,101,les_1_1,topic_1_1_1,quiz_1_1_1_4,What are the three systematic steps involved in SOP gap analysis?,"A) Plan, implement, and review |
+B) Identify, analyze, and document |
+C) Compare, find gaps, and update |
+D) Audit, correct, and prevent ",C
+course_1,101,les_1_1,topic_1_1_1,quiz_1_1_1_5,"According to the lesson, what question should quality professionals always ask themselves regarding documentation?","A) Is this documentation complete? | 
+B) Would my documentation protect this organization in regulatory scrutiny? | 
+C) Does this follow company policy? | 
+D) Is this the most efficient process?",B
+course_1,101,les_1_2,topic_1_2_1,quiz_1_2_1_1,what are the three critical outcomes guaranteed by a sophisticated document control system?,"A) Cost reduction, efficiency improvement, and staff training |
+B) Universal adherence to instructions, elimination of obsolete versions, and perpetual audit readiness |
+C) Document creation, approval processes, and storage management |
+D) Version tracking, change management, and regulatory compliance",B
+course_1,101,les_1_2,topic_1_2_1,quiz_1_2_1_2,What is the complete document lifecycle trajectory mentioned in the lesson?,"A) Create → Approve → Release → Archive |
+B) Plan → Write → Review → Distribute |
+C) Creation → Review → Approval → Release → Revision → Obsolescence |
+D) Draft → Edit → Validate → Implement → Update",C
+course_1,101,les_1_2,topic_1_2_1,quiz_1_2_1_3,"In the document numbering format QA-SOP-012 v2.0, what does each component represent?","A) QA=Quality Audit, SOP=Standard Process, 012=Date code, v2.0=Second draft |
+B) QA=Quality Assurance Department, SOP=Standard Operating Procedure, 012=Serial number, v2.0=Second major revision |
+C) QA=Quality Analysis, SOP=System Operating Protocol, 012=Priority level, v2.0=Version 2.0 |
+D) QA=Quick Access, SOP=Safety Operating Procedure, 012=Classification code, v2.0=Final version",B
+course_1,101,les_1_2,topic_1_2_1,quiz_1_2_1_4,What is the key difference between version changes and revision changes?,"A) Version changes are approved by management, revision changes are not |
+B) Version changes are major procedural alterations, revision changes are minor editorial corrections |
+C) Version changes cost more money than revision changes |
+D) There is no difference between version and revision changes",B
+course_1,101,les_1_2,topic_1_2_1,quiz_1_2_1_5,What was the consequence of the pharmaceutical company's document control failure mentioned in the real-world example?,"A) Loss of one employee and minor production delays |
+B) Equipment malfunction and temporary shutdown |
+C) Two million tablets recalled, FDA warning letter, and millions in losses |
+D) Customer complaints and quality audit failure",C
+course_1,101,les_1_3,topic_1_3_1,quiz_1_3_1_1,what is the definition of a deviation in quality assurance?,"A) A planned change to improve processes |
+B) Any unexpected event that causes a process, document, or product to drift from approved standards, SOPs, or regulations |
+C) A minor mistake that doesn't affect quality |
+D) An intentional modification approved by management",B
+course_1,101,les_1_3,topic_1_3_1,quiz_1_3_1_2,What are the four critical organizational functions served by deviation detection?,"A) Cost reduction, time management, staff training, and compliance |
+B) Documentation, investigation, reporting, and prevention |
+C) Protects product quality, maintains regulatory compliance, provides cost containment, and preserves stakeholder trust |
+D) Identification, classification, notification, and resolution",B
+course_1,101,les_1_3,topic_1_3_1,quiz_1_3_1_3,What is the correct sequence of the five-step rapid response protocol for deviation management?,"A) Notify,  Document evidence, Classify, Contain, Investigate |
+B) Record instantly, Classify severity, Notify QA immediately, Contain impact, Document evidence |
+C) Identify, Report, Analyze, Correct, Prevent |
+D) Observe, Classify severity,Record, Escalate, Investigate, Close",B
+course_1,101,les_1_3,topic_1_3_1,quiz_1_3_1_4,"In the pharmaceutical case study, what was the root cause of the tablet batch having lower active ingredient content?","A) Wrong raw materials were used |
+B) Temperature control failure |
+C) Miscalibrated weighing balance |
+D) Operator training deficiency",C
+course_1,101,les_1_3,topic_1_3_1,quiz_1_3_1_5,Which principle emphasizes that speed is more important than completeness in deviation reporting?,"A) ""If uncertain, report immediately"" |
+B) ""Speed beats perfection – A quick, incomplete report is better than a perfect one submitted late"" |
+C) ""Documentation is organizational protection"" |
+D) ""Prevention is better than correction""",B
+course_1,101,les_1_4,topic_1_4_1,quiz_1_4_1_1,What is the fundamental difference between Root Cause Analysis (RCA) and treating symptoms?,"A) RCA quickly and efficiently solves problems at their source. |
+B) RCA identifies and resolves the root cause, not just surface symptoms. |
+C) RCA reduces long-term costs by preventing repeat issues. |
+D) RCA uses fewer resources than ongoing symptom management.
+",B
+course_1,101,les_1_4,topic_1_4_1,quiz_1_4_1_2,"In the Five Whys technique example, what was identified as the root cause of the machine stoppage?","A) Fuse failure |
+B) Electrical overload |
+C) Motor maintenance issues |
+D) Absence of systematic maintenance scheduling",D
+course_1,101,les_1_4,topic_1_4_1,quiz_1_4_1_3,What are the six sequential phases of the CAPA workflow?,"A) Identify, Analyze, Plan, Implement, Monitor, Close |
+B) Identify problem, Investigate, Plan action, Implement, Verify, Document |
+C) Detect issue, Investigate, Correct, Prevent, Verify, Record |
+D) Define, Measure, Analyze, Improve, Control, Document",B
+course_1,101,les_1_4,topic_1_4_1,quiz_1_4_1_4,What is the key difference between Corrective Action and Preventive Action?,"A) Corrective Action is more expensive than Preventive Action |
+B) Corrective Action fixes current issues, Preventive Action stops future recurrence |
+C) Corrective Action is required, Preventive Action is optional |
+D) Corrective Action involves management, Preventive Action involves operators",B
+course_1,101,les_1_4,topic_1_4_1,quiz_1_4_1_5,"In the tablet dissolution testing case study, what were the corrective and preventive actions taken?","A) Corrective: Replace equipment; Preventive: Train more staff |
+B) Corrective: Operator retraining and monitoring; Preventive: Automated timers and alarms |
+C) Corrective: Change SOPs; Preventive: Hire new operators |
+D) Corrective: Stop production; Preventive: Buy new equipment",B
+course_1,101,les_1_5,topic_1_5_1,quiz_1_5_1_1,What are the three strategic functions served by internal audits?,"A) Identifying opportunities for cost reduction, improving operational efficiency, and evaluating staff performance effectiveness |
+B) Providing early warning systems for risks, verifying performance against objectives, and facilitating continuous improvement initiatives |
+C) Conducting detailed documentation reviews, observing processes for accuracy, and preparing structured reporting of findings |
+D) Checking compliance with standards, delivering relevant training when required, and supporting structured problem-solving efforts",B
+course_1,101,les_1_5,topic_1_5_1,quiz_1_5_1_2,What are the three distinct categories of internal audits?,"A) Routine, special, and regulatory audits |
+B) System audits, process audits, and product audits |
+C) Document, personnel, and equipment audits |
+D) Compliance, quality, and safety audits",B
+course_1,101,les_1_5,topic_1_5_1,quiz_1_5_1_3,"
+When discovering missing calibration logs for temperature-controlled equipment, what is the proper investigative approach according to the lesson?","A) Record that the logs are missing, acknowledge the gap, and then proceed without further checks |
+B) Check systematically: Was monitoring done, is integrity at risk, and who holds accountability? |
+C) Assume the equipment continues to function correctly, without additional verification or follow-up |
+D) Report the issue only in cases where other related problems are also identified ",B
+course_1,101,les_1_5,topic_1_5_1,quiz_1_5_1_4,What are the four critical areas of focus in document inspection?,"A) Content, format, distribution, and storage |
+B) Creation, review, approval, and implementation |
+C) Completeness, legibility, traceability, and version control |
+D) Accuracy, timeliness, accessibility, and security",C
+course_1,101,les_1_5,topic_1_5_1,quiz_1_5_1_5,"In the hospital laboratory case study, what three systematic responses were implemented after discovering the missing temperature logs?","A) Implementation of CAPA, retraining staff on deviation reporting, and installing a backup thermometer|
+B) Replacement of faulty equipment, revision of existing policies, and delivery of targeted staff training |
+C) Upgrading systems, adjusting work schedules, and performing vendor performance evaluations |
+D) Issuing written warnings, conducting process reviews, and formally notifying management",A
+course_1,101,les_1_6,topic_1_6_1,quiz_1_6_1_1,What is the definition of an Out-of-Specification (OOS) result?,"A) A test outcome that indicates an unusual or unexpected trend developing over time |
+B) An analytical result that falls outside the officially defined acceptance specifications or criteria |
+C) A reported value that demands immediate retesting to confirm its accuracy |
+D) A measurement that shows a noticeable difference compared with the prior result",B
+course_1,101,les_1_6,topic_1_6_1,quiz_1_6_1_2,How does an Out-of-Trend (OOT) result differ from an Out-of-Specification (OOS) result?,"A) OOT findings are considered more serious than OOS deviations |
+B) OOT stays within limits but shows unusual trend shifts, while OOS falls fully outside specification criteria |
+C) OOT must be acted on immediately, whereas OOS issues can be delayed |
+D) No meaningful difference exists between OOT and OOS outcomes",B
+course_1,101,les_1_6,topic_1_6_1,quiz_1_6_1_3,What are the six sequential steps of first-line investigation protocol?,"A) Analyze the issue, document findings, report deviations, investigate cause, apply corrections, and plan prevention |
+B) Quarantine material, verify data, check calibration, interview analyst, confirm reagent status, and review documentation |
+C) Identify the problem, isolate the source, investigate thoroughly, implement actions, verify outcomes, and close record |
+D) Stop the process, look for errors, listen to staff, analyze details, take action, and record results",B
+course_1,101,les_1_6,topic_1_6_1,quiz_1_6_1_4,"In the capsule dissolution testing case study, what was identified as the root cause of the failure?","A) Analyst error in following SOP |
+B) Instrument calibration problems |
+C) Omitted blending step during manufacturing |
+D) Contaminated reagents",C
+course_1,101,les_1_6,topic_1_6_1,quiz_1_6_1_5,"According to the lesson, what is the professional quality mindset approach to unusual analytical results?","A) Investigate only if the result is clearly wrong
+B) Wait to see if the pattern continues before acting
+C) Focus on whether the result meets specifications
+D) Treat every unusual result as a potential patient safety threat",D
+course_1,101,les_1_7,topic_1_7_1,quiz_1_7_1_1,"What does the acronym ALCOA stand for, and what is each component's meaning?","A) Accurate, Legal, Complete, Original, Available |
+B) Attributable, Legible, Contemporaneous, Original, Accurate |
+C) Accessible, Logical, Consistent, Objective, Authentic |
+D) Authorized, Listed, Controlled, Official, Auditable",B
+course_1,101,les_1_7,topic_1_7_1,quiz_1_7_1_2,What are the five critical areas of focus in systematic data integrity auditing?,"A) Planning activities, executing tasks, documenting results, reviewing findings, and granting approvals |
+B) Verifying metadata, matching source data, reviewing change controls, assessing security, and confirming archival integrity |
+C) Creating data, storing information, retrieving records, analyzing content, and disposing of materials |
+D) Managing input, handling processing, producing output, gathering feedback, and applying control measures",B
+course_1,101,les_1_7,topic_1_7_1,quiz_1_7_1_3,"What are the four additional pillars represented by the ""+"" in ALCOA+?","A) Protected, Permanent, Proven, Professional |
+B) Complete, Consistent, Enduring, Available |
+C) Controlled, Certified, Electronic, Archived |
+D) Validated, Verified, Visible, Valuable",B
+course_1,101,les_1_7,topic_1_7_1,quiz_1_7_1_4,"According to the lesson, what constitutes ""Contemporaneous"" data recording?","A) Data recorded within 24 hours of the activity |
+B) Data recorded at the end of each shift |
+C) Data recorded simultaneously with operational activities, not hours afterward |
+D) Data recorded whenever convenient for the analyst",C
+course_1,101,les_1_7,topic_1_7_1,quiz_1_7_1_5,"How is backdating of results typically detected during audits, and what are the consequences?","A) Identified by statistical analysis methods, leading mainly to regulatory warning letters |
+B) Revealed through employee self-reporting, leading to follow-up sessions and additional staff training |
+C) Spotted by trend or pattern recognition techniques, resulting primarily in process improvement steps |
+D) Detected through mismatched audit trail timestamps, causing data invalidation and mandatory retesting",D
+course_1,101,les_1_8,topic_1_8_1,quiz_1_8_1_1,"According to the lesson, what are the three critical outcomes ensured by the Deviation to CAPA lifecycle?","A) Identifying the true root cause, neutralizing risks immediately, and reinforcing systems to prevent recurrence |
+B) Achieving cost reduction, improving efficiency, and maintaining basic compliance standards |
+C) Completing documentation, delivering required training, and preparing for future audit readiness |
+D) Driving process improvement, allocating resources effectively, and measuring overall performance levels",A
+course_1,101,les_1_8,topic_1_8_1,quiz_1_8_1_2,What are the three risk stratification categories used in Stage Two (Initial Assessment)?,"A) Low, Medium, High
+B) Minor, Major, Critical
+C) Simple, Complex, Severe
+D) Internal, External, Regulatory",B
+course_1,101,les_1_8,topic_1_8_1,quiz_1_8_1_3,What is the key difference between containment actions and permanent solutions?,"A) Containment approaches usually cost more compared with permanent solutions |
+B) There is no difference between containment and solutions |
+C) Containment efforts need management approval, whereas permanent solutions can be applied directly |
+D) Containment actions are temporary steps to stabilize and prevent further harm, not lasting resolutions",D
+course_1,101,les_1_8,topic_1_8_1,quiz_1_8_1_4,What are the three characteristics that effective CAPA must demonstrate?,"A) Fast, cheap, and simple |
+B) Approved, documented, and monitored |
+C) Specificity, Measurability, and Time boundaries |
+D) Corrective, preventive, and verified",C
+course_1,101,les_1_8,topic_1_8_1,quiz_1_8_1_5,What is the fundamental principle regarding documentation in Stage One (Detection and Logging)?,"A) Documentation should be completed within 24 hours |
+B) Documentation is only required for major deviations |
+C) Undocumented events possess no regulatory existence |
+D) Documentation can be completed after the issue is resolved",C
+course_1,101,les_1_9,topic_1_9_1,quiz_1_9_1_1,what are the three critical competencies demanded by high-pressure crisis environments?,"A) Planning, execution, and monitoring |
+B) Speed, accuracy, and leadership |
+C) Documentation, investigation, and resolution |
+D) Communication, coordination, and control",B
+course_1,101,les_1_9,topic_1_9_1,quiz_1_9_1_2,What are the four primary trigger categories for comprehensive QA/QC crises?,"A) Failures involving equipment, personnel, documentation practices, or environmental conditions |
+B) Overlapping deviations, OOS findings during audits, compromised data integrity, and supplier breakdowns | 
+C) Issues arising internally, externally, through regulators, or from customer-related concerns |
+D) Events classified as minor, major, critical, or catastrophic in impact levels",B
+course_1,101,les_1_9,topic_1_9_1,quiz_1_9_1_3,What are the seven phases of the Integrated Response Framework (IRF)?,"A) Identify the event, assess potential impact, contain immediate risks, investigate thoroughly, document findings, implement resolution, and formally close the case |
+B) Triage situation, assemble crisis team, contain breach, assign investigation, document actions, plan recovery, and capture learning |
+C) Plan systematically, organize resources, assign and staff roles, direct critical activities, coordinate responses, generate detailed reports, and manage budgeting considerations |
+D) Detect early signals, analyze the event, respond with mitigation, recover operations, communicate to stakeholders, evaluate effectiveness, and apply continuous improvement",B
+course_1,101,les_1_9,topic_1_9_1,quiz_1_9_1_4,"In the 2018 Asian pharmaceutical manufacturing case study, what were the three simultaneous crises that occurred?","A) Equipment failure, power outage, and supplier delay |
+B) Product recall, audit failure, and system breakdown |
+C) Contamination, documentation error, and staff shortage |
+D) Sterility failure, missing training records, and unannounced FDA inspection",D
+course_1,101,les_1_9,topic_1_9_1,quiz_1_9_1_5,What are the three strategic mindset components required for integrated crisis management?,"A) Preparation, execution, and evaluation |
+B) Strategic thinking, systemic awareness, and narrative leadership |
+C) Technical expertise, communication skills, and decision-making ability |
+D) Risk assessment, resource allocation, and performance measurement",B
+,,,,,,,
+course_1,102,les_2_1,topic_2_1_1,quiz_2_1_1_1,What is the primary function of a hospital’s Quality Management System (QMS)?,"A) To schedule staff shifts and ward assignments |
+B) To document processes, responsibilities, and procedures for quality care and patient safety |
+C) To manage hospital finances and budgets |
+D) To market the hospital to new patients",B
+course_1,102,les_2_1,topic_2_1_2,quiz_2_1_1_2,Which of the following is a core pillar of a hospital QMS?,"A) Public relations campaigns |
+B) Social media engagement |
+C) Document Control |
+D) Patient transportation services ",C
+course_1,102,les_2_1,topic_2_1_3,quiz_2_1_1_3,What should a QA/QC officer do first when entering a ward to ensure compliance with accreditation standards?,"A) Conduct a staff meeting |
+B) Reorganize patient charts |
+C) Immediately correct staff errors |
+D) Check the latest NABH or JCI standards",D
+course_1,102,les_2_1,topic_2_1_4,quiz_2_1_1_4,Which of the following is a common fail point in hospital wards that a QA/QC officer should monitor?,"A) Too many patient satisfaction surveys |
+B) Outdated SOPs in use |
+C) Overstaffing during night shifts |
+D) Excessive use of hand sanitizers ",B
+course_1,102,les_2_1,topic_2_1_5,quiz_2_1_1_5,"During an NABH audit, a ward is flagged for poor compliance with infection control protocols due to inconsistent hand hygiene during night shifts. As a QA/QC officer, which of the following sequences best represents a comprehensive approach to address this issue, incorporating root cause analysis and corrective actions?","A) Change ward leadership, reduce hand hygiene checks, and focus on other compliance areas |
+B) Reprimand night shift staff, update SOPs without analysis, and conduct a single follow-up audit |
+C) Identify the issue, analyze root causes, implement automated hand sanitizer sensors linked to EMR, and monitor compliance improvements |
+D) Install new hand sanitizers, ignore night shift data, and retrain all staff annually",C
+course_1,102,les_2_2,topic_2_2_1,quiz_2_2_1_1,A hospital’s pharmacy fails an NABH audit due to unauthorized SOP edits by a staff member no longer in the QA role. What is the best corrective action to prevent recurrence?,"A) Train all staff on SOP editing |
+B) Allow photocopies of SOPs |
+C) Implement role-based access controls and audit access logs regularly |
+D) Delete all digital SOPs  and create a new SOPs",C
+course_1,102,les_2_2,topic_2_2_2,quiz_2_2_1_2,What triggers the initiation of a new SOP in a hospital?,"A) Routine staff promotions |
+B) An incident or new regulation |
+C) Patient feedback surveys |
+D) Annual budget reviews ",B
+course_1,102,les_2_2,topic_2_2_3,quiz_2_2_1_3,Who is typically responsible for approving a hospital SOP?,"A) Ward nurses |
+B) External consultants |
+C) QA Head or Medical Director |
+D) IT department",C
+course_1,102,les_2_2,topic_2_2_4,quiz_2_2_1_4,Why is an access log critical for SOP control?,"A) To track staff vacation days |
+B) To monitor who accessed SOPs and why |
+C) To record patient admissions |
+D) To schedule training sessions",B
+course_1,102,les_2_2,topic_2_2_5,quiz_2_2_1_5,What happens if a staff member’s role changes in a hospital?,"A) They retain all previous SOP access |
+B) Their access authority is automatically revoked |
+C) They gain override authority |
+D) Their access level adjusts to their new role ",D
+course_1,102,les_2_3,topic_2_3_1,quiz_2_3_1_1,What is the primary role of Patient Safety Indicators (PSIs) in a hospital?,"A) To track staff attendance |
+B) To monitor complications and adverse events |
+C) To manage hospital budgets |
+D) To schedule patient appointments ",B
+course_1,102,les_2_3,topic_2_3_2,quiz_2_3_1_2,Which of the following is a core PSI monitored in hospitals?,"A) Patient satisfaction scores |
+B) Central Line-Associated Bloodstream Infection (CLABSI) |
+C) Staff training hours |
+D) Equipment maintenance costs ",B
+course_1,102,les_2_3,topic_2_3_3,quiz_2_3_1_3,"A hospital’s ICU shows a spike in CAUTI cases due to inconsistent catheter care. As a QA/QC officer, which approach best addresses this issue using PSI monitoring and risk flagging?","A) Ignore the spike and focus on other PSIs |
+B) Retrain all staff without tracking compliance |
+C) Implement digital catheter care logs with nurse ID tracking and monitor PSI trends |
+D) Remove all catheters from ICU ",C
+course_1,102,les_2_3,topic_2_3_4,quiz_2_3_1_4,What should a QA/QC officer do if a PSI crosses a safety threshold?,"A) Ignore it until the next audit |
+B) Update patient charts |
+C) Trigger a Corrective and Preventive Action |
+D) Reorganize ward supplies ",C
+course_1,102,les_2_3,topic_2_3_5,quiz_2_3_1_5,What is a key method for risk flagging in a hospital ward?,"A) Scheduling staff meetings |
+B) Using bedside signs like “Fall Risk” tags |
+C) Updating hospital brochures |
+D) Tracking visitor logs ",B
+course_1,102,les_2_4,topic_2_4_1,quiz_2_4_1_1,What qualifies as an incident in a hospital QA/QC context?,"A) Routine staff scheduling |
+B) Unexpected events causing or risking harm |
+C) Patient feedback surveys |
+D) Planned equipment upgrades ",B
+course_1,102,les_2_4,topic_2_4_2,quiz_2_4_1_2,"A surgical ward reports a near-miss incident where a wrong medication was nearly administered due to a labeling error. As a QA/QC officer, which escalation and corrective action pathway best ensures compliance and prevention?","A) Escalate to department head, update SOPs, and retrain staff |
+B) Escalate to QA head, revise labeling protocol, and monitor compliance |
+C) Escalate to ward nurse, redesign medication labels, and audit logs |
+D) Escalate to Medical Director, implement digital alerts, and track recurrence",B
+course_1,102,les_2_4,topic_2_4_3,quiz_2_4_1_3,What is the first step in the incident reporting lifecycle?,"A) Conduct root cause analysis |
+B) Make the area safe and start documenting |
+C) File a closure report |
+D) Train staff on new SOPs ",B
+course_1,102,les_2_4,topic_2_4_4,quiz_2_4_1_4,Who should be contacted first for a low-severity incident?,"A) Hospital CEO |
+B) Ward nurse or department head |
+C) Legal team |
+D) External auditors",B
+course_1,102,les_2_4,topic_2_4_5,quiz_2_4_1_5,What is a common failure point in incident reporting?,"A) Excessive staff training |
+B) Delayed reporting  |
+C) Overuse of digital forms |
+D) frequent audits",B
+course_1,102,les_2_5,topic_2_5_1,quiz_2_5_1_1,What is a critical component of standard precautions for all patients?,"A) Following WHO 6 Moments for Hand Hygiene |
+B) Adhering to WHO 5 Moments for Hand Hygiene |
+C) Implementing WHO 4 Moments for Hand Hygiene |
+D) Using WHO 3 Moments for Hand Hygiene",B
+course_1,102,les_2_5,topic_2_5_2,quiz_2_5_1_2,Which precaution is used for multidrug-resistant organisms like MRSA?,"A) Droplet precautions with patient spacing |
+B) Airborne precautions with N95 masks |
+C) Contact precautions with gloves and gowns |
+D) Protective precautions with restricted access",C
+course_1,102,les_2_5,topic_2_5_3,quiz_2_5_1_3,What must a QA/QC officer verify in an isolation room setup?,"A) PPE station inside the room |
+B) Isolation signage and PPE station outside |
+C) Disinfectant logs inside the room |
+D) Dedicated equipment storage outside",B
+course_1,102,les_2_5,topic_2_5_4,quiz_2_5_1_4,What is a frequent infection control failure point in hospitals?,"A) Missing PPE usage logs |
+B) Incomplete waste segregation logs |
+C) Inconsistent hand hygiene logs |
+D) Unverified isolation room logs",B
+course_1,102,les_2_5,topic_2_5_5,quiz_2_5_1_5,"A ward reports a spike in MRSA infections due to improper PPE use during patient transfers. As a QA/QC officer, which approach best ensures infection control compliance and prevents recurrence?","A) Enforce double verification of PPE donning/doffing and audit compliance |
+B) Mandate PPE usage checks and monitor with weekly audits |
+C) Implement PPE training drills and verify compliance during transfers |
+D) Revise PPE protocols and track adherence with daily audits",A
+course_1,102,les_2_6,topic_2_6_1,quiz_2_6_1_1,What distinguishes an EMR from an EHR in a hospital?,"A) EMR is shared across facilities, EHR is internal only |
+B) EMR is a digital patient chart for one facility, EHR is shared across providers |
+C) EMR is for external providers, EHR is for internal use |
+D) EMR and EHR are identical in scope and access",B
+course_1,102,les_2_6,topic_2_6_2,quiz_2_6_1_2,Which ALCOA+ principle ensures data is recorded at the time of activity?,"A) Attributable, linking data to the recorder |
+B) Contemporaneous, ensuring real-time entry |
+C) Accurate, ensuring no errors |
+D) Original, ensuring unaltered records",B
+course_1,102,les_2_6,topic_2_6_3,quiz_2_6_1_3,"A hospital detects multiple unauthorized EMR accesses to a patient’s record by non-treating staff. As a QA/QC officer, which approach best ensures data integrity and prevents recurrence?","A) Implement weekly access log audits and enforce 2FA for all accounts |
+B) Conduct biweekly access log reviews and mandate 2FA compliance |
+C) Perform monthly access log audits and require 2FA for sensitive records |
+D) Audit access logs quarterly and enable 2FA for key users",A
+course_1,102,les_2_6,topic_2_6_4,quiz_2_6_1_4,What is a common threat to EMR/EHR data integrity?,"A) Staff using personal devices for access |
+B) Unauthorized access with another’s login |
+C) Sharing login credentials with patients |
+D) Using unverified external software",B
+course_1,102,les_2_6,topic_2_6_5,quiz_2_6_1_5,What is a key step in auditing EMR/EHR access logs?,"A) Checking patient treatment plans |
+B) Reviewing access by role to detect unauthorized use |
+C) Verifying staff training records |
+D) Flagging odd-hour access attempts",D
+course_1,102,les_2_7,topic_2_7_1,quiz_2_7_1_1,"During a compliance sweep, a ward is found with expired drugs in a crash cart and missing sterilization logs. As a QA/QC officer, which approach best addresses these issues to ensure compliance and patient safety?","A) Remove expired drugs, update sterilization SOPs, and audit logs regularly |
+B) Replace crash cart drugs, revise sterilization protocols, and monitor weekly |
+C) Discard expired drugs, train staff on sterilization, and check logs monthly |
+D) Eliminate expired drugs, implement sterilization log checks, and retrain staff",A
+course_1,102,les_2_7,topic_2_7_2,quiz_2_7_1_2,What defines a critical non-compliance issue in a ward?,"A) Direct risk to patient safety, like expired drugs in crash cart |
+B) Missing signage on doors |
+C) Incomplete staff training records |
+D) Uncalibrated non-critical equipment",A
+course_1,102,les_2_7,topic_2_7_3,quiz_2_7_1_3,How must biomedical waste be handled in a hospital?,"A) Transported in puncture-proof, closed containers without spillage |
+B) Disposed along with municipal/general waste after basic disinfection |
+C) Segregated at the point of generation into designated color-coded containers |
+D) Stored temporarily in utility rooms without proper labeling until collection",C
+course_1,102,les_2_7,topic_2_7_4,quiz_2_7_1_4,Which practice is essential for maintaining ward hygiene and preventing healthcare-associated infections?,"A) Routine use of non-sterile equipment if visibly clean |
+B) Disinfection of high-touch surfaces only during outbreak situations |
+C) Scheduled cleaning and disinfection of critical areas with strict adherence to PPE protocols |
+D) Skipping sterilization records provided disinfection is visibly adequate",C
+course_1,102,les_2_7,topic_2_7_5,quiz_2_7_1_5,What is the primary goal of a hospital compliance sweep?,"A) Check that wards and facilities meet hygiene and regulatory standards |
+B) Evaluate staff performance and appraisals |
+C) Revise patient care and treatment protocols |
+D) Review hospital budgeting and financial planning",A
+course_1,102,les_2_8,topic_2_8_1,quiz_2_8_1_1,What is QA/QC’s primary role within the first 3 minutes of a Code Blue emergency?,"A) Lead the medical team response |
+B) Document patient outcomes |
+C) Confirm emergency protocol initiation |
+D) Conduct root cause analysis",C
+course_1,102,les_2_8,topic_2_8_2,quiz_2_8_1_2,What must QA/QC verify before an emergency to ensure readiness?,"A) Patient admission records |
+B) Emergency cart and staff training compliance |
+C) Staff vacation schedules |
+D) Hospital marketing plans",B
+course_1,102,les_2_8,topic_2_8_3,quiz_2_8_1_3,Which action is part of the post-incident phase in an emergency response?,"A) Deploy initial response team |
+B) Conduct root cause analysis |
+C) Initiate alarm systems |
+D) Stabilize patient conditions",B
+course_1,102,les_2_8,topic_2_8_4,quiz_2_8_1_4,What is a key QA/QC practice for emergency preparedness?,"A) Train staff on non-emergency tasks |
+B) Monitor visitor logs weekly |
+C) Audit alarm systems monthly |
+D) Update patient charts daily",C
+course_1,102,les_2_8,topic_2_8_5,quiz_2_8_1_5,"During a biohazard spill, a hospital’s isolation measures fail due to improper PPE usage. As a QA/QC officer, which approach best ensures compliance and prevents recurrence?","A) Revise PPE protocols and audit compliance post-incident |
+B) Conduct PPE spot checks during drills and enforce compliance protocols |
+C) Implement PPE training sessions and monitor usage during emergencies |
+D) Mandate PPE checks and document adherence after each drill",B
+course_1,102,les_2_9,topic_2_9_1,quiz_2_9_1_1,What is a primary goal of QA/QC in multi-department coordination?,"A) Align departments to shared compliance goals |
+B) Focus only on high-risk departments |
+C) Ensure department-specific SOPs are independent |
+D) Limit inter-department communication",A
+course_1,102,les_2_9,topic_2_9_2,quiz_2_9_1_2,What is the first step in the multi-department QA/QC coordination process?,"A) Schedule department-specific audits |
+B) Conduct root cause analysis for incidents |
+C) Centralize all SOPs without mapping |
+D) Map departments and their QA focal points",D
+course_1,102,les_2_9,topic_2_9_3,quiz_2_9_1_3,Which tool supports effective multi-department QA/QC coordination?,"A) Non-standardized department reports |
+B) Manual incident logs without integration |
+C) Centralized QA/QC dashboard for data integration |
+D) Department-isolated audit checklists",C
+course_1,102,les_2_9,topic_2_9_4,quiz_2_9_1_4,What is a common pitfall in multi-department QA/QC coordination?,"A) Excessive inter-department shadowing |
+B) Overuse of cross-department audits |
+C) Departments hiding errors to avoid blame |
+D) Over-centralized SOP versions",C
+course_1,102,les_2_9,topic_2_9_5,quiz_2_9_1_5,"A pharmacy mislabeling error leads to a medication error in the ICU. As a QA/QC officer, which approach best ensures coordinated resolution and prevents recurrence across departments?","A) Perform RCA with pharmacy only, update SOPs, and track via department logs |
+B) Implement cross-department training, revise protocols, and monitor with weekly audits |
+C) Lead multi-team huddle with ICU and pharmacy, align SOPs, and audit compliance |
+D) Conduct joint RCA with pharmacy and ICU, revise SOPs, and monitor via QA dashboard",D
+course_1,102,les_2_10,topic_2_10_1,quiz_2_10_1_1,What is the primary purpose of a QA/QC Command Debrief?,"A) Review non-conformities, verify root causes, and redesign processes |
+B) Conduct informal staff meetings |
+C) Update patient records |
+D) Discuss hospital budgets",A
+course_1,102,les_2_10,topic_2_10_2,quiz_2_10_1_2,What is a key element of the findings review in a Command Debrief?,"A) Reviewing hospital marketing plans |
+B) Ignoring frontline staff feedback |
+C) Categorizing deviations and incidents |
+D) Accepting verbal reports without data",C
+course_1,102,les_2_10,topic_2_10_3,quiz_2_10_1_3,What is the first step in the strategy redesign process?,"A) Consolidate findings by category |
+B) Test new designs hospital-wide |
+C) Define KPIs without stakeholder input |
+D) Prioritize low-risk issues",A
+course_1,102,les_2_10,topic_2_10_4,quiz_2_10_1_4,Which tool helps track improvements after a Command Debrief?,"A) Patient satisfaction surveys  tracker |
+B) Staff training schedules  tracker |
+C) Corrective and preventive actions  tracker |
+D) General meeting minutes  tracker",C
+course_1,102,les_2_10,topic_2_10_5,quiz_2_10_1_5,"An ICU oxygen supply interruption occurs due to a faulty regulator. As a QA/QC officer, which redesign strategy best addresses this issue and ensures long-term prevention?","A) Update SOPs with daily regulator checks, install pressure alarms, and cross-train staff |
+B) Revise SOPs for weekly regulator checks, add alarms, and train only technicians |
+C) Implement daily regulator checks, use manual overrides, and train nursing staff |
+D) Install pressure alarms, update SOPs for monthly checks, and retrain all staff",A
+,,,,,,,
+course_1,102,,,,,,
+course_1,102,,,,,,
+course_1,102,,,,,,
+course_1,102,,,,,,
+course_1,102,,,,,,
+course_1,102,,,,,,
+course_1,102,,,,,,
+course_1,102,,,,,,
+course_1,102,,,,,,
+course_1,102,,,,,,
+course_1,102,,,,,,
+course_1,102,,,,,,
+course_1,102,,,,,,
+course_1,102,,,,,,
+course_1,102,,,,,,
+course_1,102,,,,,,
+course_1,102,,,,,,
