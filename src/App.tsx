@@ -79,11 +79,7 @@ const App = () => (
             />
             <Route
               path="/lesson-complete"
-              element={
-                <ProtectedRoute>
-                  <Lessoncomplete />
-                </ProtectedRoute>
-              }
+              element={<Lessoncomplete />}
             />
 
             {/* Catch-all */}
