@@ -2,7 +2,7 @@
 import type { NextApiRequest, NextApiResponse } from 'next';
 
 const TOPICS_CSV_URL =
-  'https://raw.githubusercontent.com/anasaran005/learnflow-zenith-56/a0d9572f1d8cb6a75180cc62ebbace2f75153ec5/coursecsv/pro-training-topics%20-%20Sheet1.csv';
+  'https://raw.githubusercontent.com/anasaran005/learnflow-zenith-56/refs/heads/main/coursecsv/pro-training-topics%20-%20Sheet1.csv';
 const QUIZ_CSV_URL =
   'https://raw.githubusercontent.com/anasaran005/learnflow-zenith-56/a0d9572f1d8cb6a75180cc62ebbace2f75153ec5/coursecsv/pro-training-Quiz%20Tab%20%20-%20Sheet1.csv';
 
