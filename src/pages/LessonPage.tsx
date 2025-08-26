@@ -8,7 +8,7 @@ import { fetchTasks, organizeTasks, Course, Chapter, Lesson, calculateProgress }
 import { fetchTopics, organizeTopics, getTopicsForLesson, getWatchedTopics, isQuizPassed } from '@/lib/learning';
 import { BookOpen, ChevronRight, Award, Clock, Play, Lock } from 'lucide-react';
 
-const CSV_URL = import.meta.env.VITE_CSV_URL || 'https://raw.githubusercontent.com/anasaran005/learnflow-zenith-56/refs/heads/main/coursecsv/pro%20training%20tasks%20-%20Sheet1.csv';
+const CSV_URL = import.meta.env.VITE_CSV_URL || 'https://raw.githubusercontent.com/anasaran005/learnflow-zenith-56/a0d9572f1d8cb6a75180cc62ebbace2f75153ec5/coursecsv/pro%20training%20tasks%20-%20Sheet1.csv';
 
 export default function LessonPage() {
   const { courseId, chapterId, lessonId } = useParams<{ courseId: string; chapterId: string; lessonId: string }>();

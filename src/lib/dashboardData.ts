@@ -63,7 +63,7 @@ export interface ActivityItem {
 }
 
 const CSV_URL = import.meta.env.VITE_CSV_URL || 
-  'https://raw.githubusercontent.com/anasaran005/learnflow-zenith-56/refs/heads/main/coursecsv/pro%20training%20tasks%20-%20Sheet1.csv';
+  'https://raw.githubusercontent.com/anasaran005/learnflow-zenith-56/a0d9572f1d8cb6a75180cc62ebbace2f75153ec5/coursecsv/pro%20training%20tasks%20-%20Sheet1.csv';
 
 /**
  * Check if a course is unlocked based on your business logic

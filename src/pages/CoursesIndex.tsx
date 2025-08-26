@@ -9,7 +9,7 @@ import { BookOpen, Clock, Award, Users, Lock, } from 'lucide-react';
 import Footer from "../components/Footer";
 
 // Use environment variable or fallback to sample data
-const CSV_URL = import.meta.env.VITE_CSV_URL || 'https://raw.githubusercontent.com/anasaran005/learnflow-zenith-56/refs/heads/main/coursecsv/pro%20training%20tasks%20-%20Sheet1.csv';
+const CSV_URL = import.meta.env.VITE_CSV_URL || 'https://raw.githubusercontent.com/anasaran005/learnflow-zenith-56/a0d9572f1d8cb6a75180cc62ebbace2f75153ec5/coursecsv/pro%20training%20tasks%20-%20Sheet1.csv';
 
 export default function CoursesIndex() {
   const [courses, setCourses] = useState<Course[]>([]);

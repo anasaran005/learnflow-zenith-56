@@ -12,7 +12,7 @@ import { BookOpen, ChevronRight, Award, CheckCircle, FileText, Lock, GraduationC
 
 
 const CSV_URL = import.meta.env.VITE_CSV_URL
-  || 'https://raw.githubusercontent.com/anasaran005/learnflow-zenith-56/refs/heads/main/coursecsv/pro%20training%20tasks%20-%20Sheet1.csv';
+  || 'https://raw.githubusercontent.com/anasaran005/learnflow-zenith-56/a0d9572f1d8cb6a75180cc62ebbace2f75153ec5/coursecsv/pro%20training%20tasks%20-%20Sheet1.csv';
 const WIX_RETURN_URL = import.meta.env.VITE_WIX_RETURN_URL || 'https://example.com/return';
 
 export default function TaskPage() {
