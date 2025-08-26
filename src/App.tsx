@@ -60,13 +60,26 @@ const App = () => (
             <Route
               path="/courses/:courseId/chapters/:chapterId/lessons/:lessonId"
               element={
-                <LessonPage />
+                <ProtectedRoute>
+                  <LessonPage />
+                </ProtectedRoute>
               }
             />
             <Route
               path="/courses/:courseId/chapters/:chapterId/lessons/:lessonId/learning/:topicId?"
-              element={<LearningPage />}
-              
+              element={
+                <ProtectedRoute>
+                  <LearningPage />
+                </ProtectedRoute>
+              }
+            />
+            <Route
+              path="/courses/:courseId/chapters/:chapterId/tasks/:taskId"
+              element={
+                <ProtectedRoute>
+                  <TaskPage />
+                </ProtectedRoute>
+              }
             />
             <Route
               path="/dashboard"
@@ -75,10 +88,6 @@ const App = () => (
                   <StudentDashboard />
                 </ProtectedRoute>
               }
-            />
-            <Route
- path="/courses/:courseId/chapters/:chapterId/tasks/:taskId"
- element={<TaskPage />}
             />
 
             {/* Catch-all */}
