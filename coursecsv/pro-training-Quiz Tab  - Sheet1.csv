@@ -120,7 +120,7 @@ C) Omitted blending step during manufacturing |
 D) Contaminated reagents",C
 course_1,101,les_1_6,topic_1_6_1,quiz_1_6_1_5,"According to the lesson, what is the professional quality mindset approach to unusual analytical results?","A) Investigate only if the result is clearly wrong |
 B) Wait to see if the pattern continues before acting |
-C) Focus on whether the result meets specifications|
+C) Focus on whether the result meets specifications |
 D) Treat every unusual result as a potential patient safety threat",D
 course_1,101,les_1_7,topic_1_7_1,quiz_1_7_1_1,"What does the acronym ALCOA stand for, and what is each component's meaning?","A) Accurate, Legal, Complete, Original, Available |
 B) Attributable, Legible, Contemporaneous, Original, Accurate |
@@ -146,9 +146,9 @@ course_1,101,les_1_8,topic_1_8_1,quiz_1_8_1_1,"According to the lesson, what are
 B) Achieving cost reduction, improving efficiency, and maintaining basic compliance standards |
 C) Completing documentation, delivering required training, and preparing for future audit readiness |
 D) Driving process improvement, allocating resources effectively, and measuring overall performance levels",A
-course_1,101,les_1_8,topic_1_8_1,quiz_1_8_1_2,What are the three risk stratification categories used in Stage Two (Initial Assessment)?,"A) Low, Medium, High
-B) Minor, Major, Critical
-C) Simple, Complex, Severe
+course_1,101,les_1_8,topic_1_8_1,quiz_1_8_1_2,What are the three risk stratification categories used in Stage Two (Initial Assessment)?,"A) Low, Medium, High |
+B) Minor, Major, Critical |
+C) Simple, Complex, Severe |
 D) Internal, External, Regulatory",B
 course_1,101,les_1_8,topic_1_8_1,quiz_1_8_1_3,What is the key difference between containment actions and permanent solutions?,"A) Containment approaches usually cost more compared with permanent solutions |
 B) There is no difference between containment and solutions |
@@ -400,5 +400,4 @@ course_1,102,,,,,,
 course_1,102,,,,,,
 course_1,102,,,,,,
 course_1,102,,,,,,
-
 course_1,102,,,,,,
