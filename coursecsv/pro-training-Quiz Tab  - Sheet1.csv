@@ -118,7 +118,7 @@ course_1,101,les_1_6,topic_1_6_1,quiz_1_6_1_4,"In the capsule dissolution testin
 B) Instrument calibration problems |
 C) Omitted blending step during manufacturing |
 D) Contaminated reagents",C
-course_1,101,les_1_6,topic_1_6_1,quiz_1_6_1_6,"Which of the following is the most appropriate first action when an Out-of-Specification (OOS) result is observed?","A) Immediately stop using the instrument | B) Ignore the result if the batch looks fine | C) Begin a structured investigation according to SOP | D) Release the product while waiting for trend analysis",C
+course_1,101,les_1_6,topic_1_6_1,quiz_1_6_1_5,"Which of the following is the most appropriate first action when an Out-of-Specification (OOS) result is observed?","A) Immediately stop using the instrument | B) Ignore the result if the batch looks fine | C) Begin a structured investigation according to SOP | D) Release the product while waiting for trend analysis",C
 course_1,101,les_1_7,topic_1_7_1,quiz_1_7_1_1,"What does the acronym ALCOA stand for, and what is each component's meaning?","A) Accurate, Legal, Complete, Original, Available |
 B) Attributable, Legible, Contemporaneous, Original, Accurate |
 C) Accessible, Logical, Consistent, Objective, Authentic |
@@ -179,7 +179,7 @@ course_1,101,les_1_9,topic_1_9_1,quiz_1_9_1_5,What are the three strategic minds
 B) Strategic thinking, systemic awareness, and narrative leadership |
 C) Technical expertise, communication skills, and decision-making ability |
 D) Risk assessment, resource allocation, and performance measurement",B
-,,,,,,,C
+,,,,,,,
 course_1,102,les_1_11,topic_1_11_1,quiz_1_11_1_1,What is the primary function of a hospital’s Quality Management System (QMS)?,"A) To schedule staff shifts and ward assignments |
 B) To document processes, responsibilities, and procedures for quality care and patient safety |
 C) To manage hospital finances and budgets |
@@ -1482,5 +1482,6 @@ course_2,212,les_2_120,topic_2_120_1,quiz_2_120_1_2,,,
 course_2,212,les_2_120,topic_2_120_1,quiz_2_120_1_3,,,
 course_2,212,les_2_120,topic_2_120_1,quiz_2_120_1_4,,,
 course_2,212,les_2_120,topic_2_120_1,quiz_2_120_1_5,,,
+
 
 
