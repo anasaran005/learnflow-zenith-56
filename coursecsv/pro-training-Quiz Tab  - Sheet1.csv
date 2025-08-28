@@ -183,203 +183,203 @@ B) Strategic thinking, systemic awareness, and narrative leadership |
 C) Technical expertise, communication skills, and decision-making ability |
 D) Risk assessment, resource allocation, and performance measurement",B
 ,,,,,,,
-course_1,102,les_2_1,topic_2_1_1,quiz_2_1_1_1,What is the primary function of a hospital’s Quality Management System (QMS)?,"A) To schedule staff shifts and ward assignments |
+course_1,102,les_1_11,topic_1_11_1,quiz_1_11_1_1,What is the primary function of a hospital’s Quality Management System (QMS)?,"A) To schedule staff shifts and ward assignments |
 B) To document processes, responsibilities, and procedures for quality care and patient safety |
 C) To manage hospital finances and budgets |
 D) To market the hospital to new patients",B
-course_1,102,les_2_1,topic_2_1_2,quiz_2_1_1_2,Which of the following is a core pillar of a hospital QMS?,"A) Public relations campaigns |
+course_1,102,les_1_11,topic_1_11_1,quiz_1_11_1_2,Which of the following is a core pillar of a hospital QMS?,"A) Public relations campaigns |
 B) Social media engagement |
 C) Document Control |
 D) Patient transportation services ",C
-course_1,102,les_2_1,topic_2_1_3,quiz_2_1_1_3,What should a QA/QC officer do first when entering a ward to ensure compliance with accreditation standards?,"A) Conduct a staff meeting |
+course_1,102,les_1_11,topic_1_11_1,quiz_1_11_1_3,What should a QA/QC officer do first when entering a ward to ensure compliance with accreditation standards?,"A) Conduct a staff meeting |
 B) Reorganize patient charts |
 C) Immediately correct staff errors |
 D) Check the latest NABH or JCI standards",D
-course_1,102,les_2_1,topic_2_1_4,quiz_2_1_1_4,Which of the following is a common fail point in hospital wards that a QA/QC officer should monitor?,"A) Too many patient satisfaction surveys |
+course_1,102,les_1_11,topic_1_11_1,quiz_1_11_1_4,Which of the following is a common fail point in hospital wards that a QA/QC officer should monitor?,"A) Too many patient satisfaction surveys |
 B) Outdated SOPs in use |
 C) Overstaffing during night shifts |
 D) Excessive use of hand sanitizers ",B
-course_1,102,les_2_1,topic_2_1_5,quiz_2_1_1_5,"During an NABH audit, a ward is flagged for poor compliance with infection control protocols due to inconsistent hand hygiene during night shifts. As a QA/QC officer, which of the following sequences best represents a comprehensive approach to address this issue, incorporating root cause analysis and corrective actions?","A) Change ward leadership, reduce hand hygiene checks, and focus on other compliance areas |
+course_1,102,les_1_11,topic_1_11_1,quiz_1_11_1_5,"During an NABH audit, a ward is flagged for poor compliance with infection control protocols due to inconsistent hand hygiene during night shifts. As a QA/QC officer, which of the following sequences best represents a comprehensive approach to address this issue, incorporating root cause analysis and corrective actions?","A) Change ward leadership, reduce hand hygiene checks, and focus on other compliance areas |
 B) Reprimand night shift staff, update SOPs without analysis, and conduct a single follow-up audit |
 C) Identify the issue, analyze root causes, implement automated hand sanitizer sensors linked to EMR, and monitor compliance improvements |
 D) Install new hand sanitizers, ignore night shift data, and retrain all staff annually",C
-course_1,102,les_2_2,topic_2_2_1,quiz_2_2_1_1,A hospital’s pharmacy fails an NABH audit due to unauthorized SOP edits by a staff member no longer in the QA role. What is the best corrective action to prevent recurrence?,"A) Train all staff on SOP editing |
+course_1,102,les_1_12,topic_1_12_1,quiz_1_12_1_1,A hospital’s pharmacy fails an NABH audit due to unauthorized SOP edits by a staff member no longer in the QA role. What is the best corrective action to prevent recurrence?,"A) Train all staff on SOP editing |
 B) Allow photocopies of SOPs |
 C) Implement role-based access controls and audit access logs regularly |
 D) Delete all digital SOPs  and create a new SOPs",C
-course_1,102,les_2_2,topic_2_2_2,quiz_2_2_1_2,What triggers the initiation of a new SOP in a hospital?,"A) Routine staff promotions |
+course_1,102,les_1_12,topic_1_12_1,quiz_1_12_1_2,What triggers the initiation of a new SOP in a hospital?,"A) Routine staff promotions |
 B) An incident or new regulation |
 C) Patient feedback surveys |
 D) Annual budget reviews ",B
-course_1,102,les_2_2,topic_2_2_3,quiz_2_2_1_3,Who is typically responsible for approving a hospital SOP?,"A) Ward nurses |
+course_1,102,les_1_12,topic_1_12_1,quiz_1_12_1_3,Who is typically responsible for approving a hospital SOP?,"A) Ward nurses |
 B) External consultants |
 C) QA Head or Medical Director |
 D) IT department",C
-course_1,102,les_2_2,topic_2_2_4,quiz_2_2_1_4,Why is an access log critical for SOP control?,"A) To track staff vacation days |
+course_1,102,les_1_12,topic_1_12_1,quiz_1_12_1_4,Why is an access log critical for SOP control?,"A) To track staff vacation days |
 B) To monitor who accessed SOPs and why |
 C) To record patient admissions |
 D) To schedule training sessions",B
-course_1,102,les_2_2,topic_2_2_5,quiz_2_2_1_5,What happens if a staff member’s role changes in a hospital?,"A) They retain all previous SOP access |
+course_1,102,les_1_12,topic_1_12_1,quiz_1_12_1_5,What happens if a staff member’s role changes in a hospital?,"A) They retain all previous SOP access |
 B) Their access authority is automatically revoked |
 C) They gain override authority |
 D) Their access level adjusts to their new role ",D
-course_1,102,les_2_3,topic_2_3_1,quiz_2_3_1_1,What is the primary role of Patient Safety Indicators (PSIs) in a hospital?,"A) To track staff attendance |
+course_1,102,les_1_13,topic_1_13_1,quiz_1_13_1_1,What is the primary role of Patient Safety Indicators (PSIs) in a hospital?,"A) To track staff attendance |
 B) To monitor complications and adverse events |
 C) To manage hospital budgets |
 D) To schedule patient appointments ",B
-course_1,102,les_2_3,topic_2_3_2,quiz_2_3_1_2,Which of the following is a core PSI monitored in hospitals?,"A) Patient satisfaction scores |
+course_1,102,les_1_13,topic_1_13_1,quiz_1_13_1_2,Which of the following is a core PSI monitored in hospitals?,"A) Patient satisfaction scores |
 B) Central Line-Associated Bloodstream Infection (CLABSI) |
 C) Staff training hours |
 D) Equipment maintenance costs ",B
-course_1,102,les_2_3,topic_2_3_3,quiz_2_3_1_3,"A hospital’s ICU shows a spike in CAUTI cases due to inconsistent catheter care. As a QA/QC officer, which approach best addresses this issue using PSI monitoring and risk flagging?","A) Ignore the spike and focus on other PSIs |
+course_1,102,les_1_13,topic_1_13_1,quiz_1_13_1_3,"A hospital’s ICU shows a spike in CAUTI cases due to inconsistent catheter care. As a QA/QC officer, which approach best addresses this issue using PSI monitoring and risk flagging?","A) Ignore the spike and focus on other PSIs |
 B) Retrain all staff without tracking compliance |
 C) Implement digital catheter care logs with nurse ID tracking and monitor PSI trends |
 D) Remove all catheters from ICU ",C
-course_1,102,les_2_3,topic_2_3_4,quiz_2_3_1_4,What should a QA/QC officer do if a PSI crosses a safety threshold?,"A) Ignore it until the next audit |
+course_1,102,les_1_13,topic_1_13_1,quiz_1_13_1_4,What should a QA/QC officer do if a PSI crosses a safety threshold?,"A) Ignore it until the next audit |
 B) Update patient charts |
 C) Trigger a Corrective and Preventive Action |
 D) Reorganize ward supplies ",C
-course_1,102,les_2_3,topic_2_3_5,quiz_2_3_1_5,What is a key method for risk flagging in a hospital ward?,"A) Scheduling staff meetings |
+course_1,102,les_1_13,topic_1_13_1,quiz_1_13_1_5,What is a key method for risk flagging in a hospital ward?,"A) Scheduling staff meetings |
 B) Using bedside signs like “Fall Risk” tags |
 C) Updating hospital brochures |
 D) Tracking visitor logs ",B
-course_1,102,les_2_4,topic_2_4_1,quiz_2_4_1_1,What qualifies as an incident in a hospital QA/QC context?,"A) Routine staff scheduling |
+course_1,102,les_1_14,topic_1_14_1,quiz_1_14_1_1,What qualifies as an incident in a hospital QA/QC context?,"A) Routine staff scheduling |
 B) Unexpected events causing or risking harm |
 C) Patient feedback surveys |
 D) Planned equipment upgrades ",B
-course_1,102,les_2_4,topic_2_4_2,quiz_2_4_1_2,"A surgical ward reports a near-miss incident where a wrong medication was nearly administered due to a labeling error. As a QA/QC officer, which escalation and corrective action pathway best ensures compliance and prevention?","A) Escalate to department head, update SOPs, and retrain staff |
+course_1,102,les_1_14,topic_1_14_1,quiz_1_14_1_2,"A surgical ward reports a near-miss incident where a wrong medication was nearly administered due to a labeling error. As a QA/QC officer, which escalation and corrective action pathway best ensures compliance and prevention?","A) Escalate to department head, update SOPs, and retrain staff |
 B) Escalate to QA head, revise labeling protocol, and monitor compliance |
 C) Escalate to ward nurse, redesign medication labels, and audit logs |
 D) Escalate to Medical Director, implement digital alerts, and track recurrence",B
-course_1,102,les_2_4,topic_2_4_3,quiz_2_4_1_3,What is the first step in the incident reporting lifecycle?,"A) Conduct root cause analysis |
+course_1,102,les_1_14,topic_1_14_1,quiz_1_14_1_3,What is the first step in the incident reporting lifecycle?,"A) Conduct root cause analysis |
 B) Make the area safe and start documenting |
 C) File a closure report |
 D) Train staff on new SOPs ",B
-course_1,102,les_2_4,topic_2_4_4,quiz_2_4_1_4,Who should be contacted first for a low-severity incident?,"A) Hospital CEO |
+course_1,102,les_1_14,topic_1_14_1,quiz_1_14_1_4,Who should be contacted first for a low-severity incident?,"A) Hospital CEO |
 B) Ward nurse or department head |
 C) Legal team |
 D) External auditors",B
-course_1,102,les_2_4,topic_2_4_5,quiz_2_4_1_5,What is a common failure point in incident reporting?,"A) Excessive staff training |
+course_1,102,les_1_14,topic_1_14_1,quiz_1_14_1_5,What is a common failure point in incident reporting?,"A) Excessive staff training |
 B) Delayed reporting  |
 C) Overuse of digital forms |
 D) frequent audits",B
-course_1,102,les_2_5,topic_2_5_1,quiz_2_5_1_1,What is a critical component of standard precautions for all patients?,"A) Following WHO 6 Moments for Hand Hygiene |
+course_1,102,les_1_15,topic_1_15_1,quiz_1_15_1_1,What is a critical component of standard precautions for all patients?,"A) Following WHO 6 Moments for Hand Hygiene |
 B) Adhering to WHO 5 Moments for Hand Hygiene |
 C) Implementing WHO 4 Moments for Hand Hygiene |
 D) Using WHO 3 Moments for Hand Hygiene",B
-course_1,102,les_2_5,topic_2_5_2,quiz_2_5_1_2,Which precaution is used for multidrug-resistant organisms like MRSA?,"A) Droplet precautions with patient spacing |
+course_1,102,les_1_15,topic_1_15_1,quiz_1_15_1_2,Which precaution is used for multidrug-resistant organisms like MRSA?,"A) Droplet precautions with patient spacing |
 B) Airborne precautions with N95 masks |
 C) Contact precautions with gloves and gowns |
 D) Protective precautions with restricted access",C
-course_1,102,les_2_5,topic_2_5_3,quiz_2_5_1_3,What must a QA/QC officer verify in an isolation room setup?,"A) PPE station inside the room |
+course_1,102,les_1_15,topic_1_15_1,quiz_1_15_1_3,What must a QA/QC officer verify in an isolation room setup?,"A) PPE station inside the room |
 B) Isolation signage and PPE station outside |
 C) Disinfectant logs inside the room |
 D) Dedicated equipment storage outside",B
-course_1,102,les_2_5,topic_2_5_4,quiz_2_5_1_4,What is a frequent infection control failure point in hospitals?,"A) Missing PPE usage logs |
+course_1,102,les_1_15,topic_1_15_1,quiz_1_15_1_4,What is a frequent infection control failure point in hospitals?,"A) Missing PPE usage logs |
 B) Incomplete waste segregation logs |
 C) Inconsistent hand hygiene logs |
 D) Unverified isolation room logs",B
-course_1,102,les_2_5,topic_2_5_5,quiz_2_5_1_5,"A ward reports a spike in MRSA infections due to improper PPE use during patient transfers. As a QA/QC officer, which approach best ensures infection control compliance and prevents recurrence?","A) Enforce double verification of PPE donning/doffing and audit compliance |
+course_1,102,les_1_15,topic_1_15_1,quiz_1_15_1_5,"A ward reports a spike in MRSA infections due to improper PPE use during patient transfers. As a QA/QC officer, which approach best ensures infection control compliance and prevents recurrence?","A) Enforce double verification of PPE donning/doffing and audit compliance |
 B) Mandate PPE usage checks and monitor with weekly audits |
 C) Implement PPE training drills and verify compliance during transfers |
 D) Revise PPE protocols and track adherence with daily audits",A
-course_1,102,les_2_6,topic_2_6_1,quiz_2_6_1_1,What distinguishes an EMR from an EHR in a hospital?,"A) EMR is shared across facilities, EHR is internal only |
+course_1,102,les_1_16,topic_1_16_1,quiz_1_16_1_1,What distinguishes an EMR from an EHR in a hospital?,"A) EMR is shared across facilities, EHR is internal only |
 B) EMR is a digital patient chart for one facility, EHR is shared across providers |
 C) EMR is for external providers, EHR is for internal use |
 D) EMR and EHR are identical in scope and access",B
-course_1,102,les_2_6,topic_2_6_2,quiz_2_6_1_2,Which ALCOA+ principle ensures data is recorded at the time of activity?,"A) Attributable, linking data to the recorder |
+course_1,102,les_1_16,topic_1_16_1,quiz_1_16_1_2,Which ALCOA+ principle ensures data is recorded at the time of activity?,"A) Attributable, linking data to the recorder |
 B) Contemporaneous, ensuring real-time entry |
 C) Accurate, ensuring no errors |
 D) Original, ensuring unaltered records",B
-course_1,102,les_2_6,topic_2_6_3,quiz_2_6_1_3,"A hospital detects multiple unauthorized EMR accesses to a patient’s record by non-treating staff. As a QA/QC officer, which approach best ensures data integrity and prevents recurrence?","A) Implement weekly access log audits and enforce 2FA for all accounts |
+course_1,102,les_1_16,topic_1_16_1,quiz_1_16_1_3,"A hospital detects multiple unauthorized EMR accesses to a patient’s record by non-treating staff. As a QA/QC officer, which approach best ensures data integrity and prevents recurrence?","A) Implement weekly access log audits and enforce 2FA for all accounts |
 B) Conduct biweekly access log reviews and mandate 2FA compliance |
 C) Perform monthly access log audits and require 2FA for sensitive records |
 D) Audit access logs quarterly and enable 2FA for key users",A
-course_1,102,les_2_6,topic_2_6_4,quiz_2_6_1_4,What is a common threat to EMR/EHR data integrity?,"A) Staff using personal devices for access |
+course_1,102,les_1_16,topic_1_16_1,quiz_1_16_1_4,What is a common threat to EMR/EHR data integrity?,"A) Staff using personal devices for access |
 B) Unauthorized access with another’s login |
 C) Sharing login credentials with patients |
 D) Using unverified external software",B
-course_1,102,les_2_6,topic_2_6_5,quiz_2_6_1_5,What is a key step in auditing EMR/EHR access logs?,"A) Checking patient treatment plans |
+course_1,102,les_2_6,topic_1_16_1,quiz_1_16_1_5,What is a key step in auditing EMR/EHR access logs?,"A) Checking patient treatment plans |
 B) Reviewing access by role to detect unauthorized use |
 C) Verifying staff training records |
 D) Flagging odd-hour access attempts",D
-course_1,102,les_2_7,topic_2_7_1,quiz_2_7_1_1,"During a compliance sweep, a ward is found with expired drugs in a crash cart and missing sterilization logs. As a QA/QC officer, which approach best addresses these issues to ensure compliance and patient safety?","A) Remove expired drugs, update sterilization SOPs, and audit logs regularly |
+course_1,102,les_1_17,topic_1_17_1,quiz_1_17_1_1,"During a compliance sweep, a ward is found with expired drugs in a crash cart and missing sterilization logs. As a QA/QC officer, which approach best addresses these issues to ensure compliance and patient safety?","A) Remove expired drugs, update sterilization SOPs, and audit logs regularly |
 B) Replace crash cart drugs, revise sterilization protocols, and monitor weekly |
 C) Discard expired drugs, train staff on sterilization, and check logs monthly |
 D) Eliminate expired drugs, implement sterilization log checks, and retrain staff",A
-course_1,102,les_2_7,topic_2_7_2,quiz_2_7_1_2,What defines a critical non-compliance issue in a ward?,"A) Direct risk to patient safety, like expired drugs in crash cart |
+course_1,102,les_1_17,topic_1_17_1,quiz_1_17_1_2,What defines a critical non-compliance issue in a ward?,"A) Direct risk to patient safety, like expired drugs in crash cart |
 B) Missing signage on doors |
 C) Incomplete staff training records |
 D) Uncalibrated non-critical equipment",A
-course_1,102,les_2_7,topic_2_7_3,quiz_2_7_1_3,How must biomedical waste be handled in a hospital?,"A) Transported in puncture-proof, closed containers without spillage |
+course_1,102,les_1_17,topic_1_17_1,quiz_1_17_1_3,How must biomedical waste be handled in a hospital?,"A) Transported in puncture-proof, closed containers without spillage |
 B) Disposed along with municipal/general waste after basic disinfection |
 C) Segregated at the point of generation into designated color-coded containers |
 D) Stored temporarily in utility rooms without proper labeling until collection",C
-course_1,102,les_2_7,topic_2_7_4,quiz_2_7_1_4,Which practice is essential for maintaining ward hygiene and preventing healthcare-associated infections?,"A) Routine use of non-sterile equipment if visibly clean |
+course_1,102,les_1_17,topic_1_17_1,quiz_1_17_1_4,Which practice is essential for maintaining ward hygiene and preventing healthcare-associated infections?,"A) Routine use of non-sterile equipment if visibly clean |
 B) Disinfection of high-touch surfaces only during outbreak situations |
 C) Scheduled cleaning and disinfection of critical areas with strict adherence to PPE protocols |
 D) Skipping sterilization records provided disinfection is visibly adequate",C
-course_1,102,les_2_7,topic_2_7_5,quiz_2_7_1_5,What is the primary goal of a hospital compliance sweep?,"A) Check that wards and facilities meet hygiene and regulatory standards |
+course_1,102,les_1_17,topic_1_17_1,quiz_1_17_1_5,What is the primary goal of a hospital compliance sweep?,"A) Check that wards and facilities meet hygiene and regulatory standards |
 B) Evaluate staff performance and appraisals |
 C) Revise patient care and treatment protocols |
 D) Review hospital budgeting and financial planning",A
-course_1,102,les_2_8,topic_2_8_1,quiz_2_8_1_1,What is QA/QC’s primary role within the first 3 minutes of a Code Blue emergency?,"A) Lead the medical team response |
+course_1,102,les_1_18,topic_1_18_1,quiz_1_18_1_1,What is QA/QC’s primary role within the first 3 minutes of a Code Blue emergency?,"A) Lead the medical team response |
 B) Document patient outcomes |
 C) Confirm emergency protocol initiation |
 D) Conduct root cause analysis",C
-course_1,102,les_2_8,topic_2_8_2,quiz_2_8_1_2,What must QA/QC verify before an emergency to ensure readiness?,"A) Patient admission records |
+course_1,102,les_1_18,topic_1_18_1,quiz_1_18_1_2,What must QA/QC verify before an emergency to ensure readiness?,"A) Patient admission records |
 B) Emergency cart and staff training compliance |
 C) Staff vacation schedules |
 D) Hospital marketing plans",B
-course_1,102,les_2_8,topic_2_8_3,quiz_2_8_1_3,Which action is part of the post-incident phase in an emergency response?,"A) Deploy initial response team |
+course_1,102,les_1_18,topic_1_18_1,quiz_1_18_1_3,Which action is part of the post-incident phase in an emergency response?,"A) Deploy initial response team |
 B) Conduct root cause analysis |
 C) Initiate alarm systems |
 D) Stabilize patient conditions",B
-course_1,102,les_2_8,topic_2_8_4,quiz_2_8_1_4,What is a key QA/QC practice for emergency preparedness?,"A) Train staff on non-emergency tasks |
+course_1,102,les_1_18,topic_1_18_1,quiz_1_18_1_4,What is a key QA/QC practice for emergency preparedness?,"A) Train staff on non-emergency tasks |
 B) Monitor visitor logs weekly |
 C) Audit alarm systems monthly |
 D) Update patient charts daily",C
-course_1,102,les_2_8,topic_2_8_5,quiz_2_8_1_5,"During a biohazard spill, a hospital’s isolation measures fail due to improper PPE usage. As a QA/QC officer, which approach best ensures compliance and prevents recurrence?","A) Revise PPE protocols and audit compliance post-incident |
+course_1,102,les_1_18,topic_1_18_1,quiz_1_18_1_5,"During a biohazard spill, a hospital’s isolation measures fail due to improper PPE usage. As a QA/QC officer, which approach best ensures compliance and prevents recurrence?","A) Revise PPE protocols and audit compliance post-incident |
 B) Conduct PPE spot checks during drills and enforce compliance protocols |
 C) Implement PPE training sessions and monitor usage during emergencies |
 D) Mandate PPE checks and document adherence after each drill",B
-course_1,102,les_2_9,topic_2_9_1,quiz_2_9_1_1,What is a primary goal of QA/QC in multi-department coordination?,"A) Align departments to shared compliance goals |
+course_1,102,les_1_19,topic_1_19_1,quiz_1_19_1_1,What is a primary goal of QA/QC in multi-department coordination?,"A) Align departments to shared compliance goals |
 B) Focus only on high-risk departments |
 C) Ensure department-specific SOPs are independent |
 D) Limit inter-department communication",A
-course_1,102,les_2_9,topic_2_9_2,quiz_2_9_1_2,What is the first step in the multi-department QA/QC coordination process?,"A) Schedule department-specific audits |
+course_1,102,les_1_19,topic_1_19_1,quiz_1_19_1_2,What is the first step in the multi-department QA/QC coordination process?,"A) Schedule department-specific audits |
 B) Conduct root cause analysis for incidents |
 C) Centralize all SOPs without mapping |
 D) Map departments and their QA focal points",D
-course_1,102,les_2_9,topic_2_9_3,quiz_2_9_1_3,Which tool supports effective multi-department QA/QC coordination?,"A) Non-standardized department reports |
+course_1,102,les_1_19,topic_1_19_1,quiz_1_19_1_3,Which tool supports effective multi-department QA/QC coordination?,"A) Non-standardized department reports |
 B) Manual incident logs without integration |
 C) Centralized QA/QC dashboard for data integration |
 D) Department-isolated audit checklists",C
-course_1,102,les_2_9,topic_2_9_4,quiz_2_9_1_4,What is a common pitfall in multi-department QA/QC coordination?,"A) Excessive inter-department shadowing |
+course_1,102,les_1_19,topic_1_19_1,quiz_1_19_1_4,What is a common pitfall in multi-department QA/QC coordination?,"A) Excessive inter-department shadowing |
 B) Overuse of cross-department audits |
 C) Departments hiding errors to avoid blame |
 D) Over-centralized SOP versions",C
-course_1,102,les_2_9,topic_2_9_5,quiz_2_9_1_5,"A pharmacy mislabeling error leads to a medication error in the ICU. As a QA/QC officer, which approach best ensures coordinated resolution and prevents recurrence across departments?","A) Perform RCA with pharmacy only, update SOPs, and track via department logs |
+course_1,102,les_1_19,topic_1_19_1,quiz_1_19_1_5,"A pharmacy mislabeling error leads to a medication error in the ICU. As a QA/QC officer, which approach best ensures coordinated resolution and prevents recurrence across departments?","A) Perform RCA with pharmacy only, update SOPs, and track via department logs |
 B) Implement cross-department training, revise protocols, and monitor with weekly audits |
 C) Lead multi-team huddle with ICU and pharmacy, align SOPs, and audit compliance |
 D) Conduct joint RCA with pharmacy and ICU, revise SOPs, and monitor via QA dashboard",D
-course_1,102,les_2_10,topic_2_10_1,quiz_2_10_1_1,What is the primary purpose of a QA/QC Command Debrief?,"A) Review non-conformities, verify root causes, and redesign processes |
+course_1,102,les_1_20,topic_1_20_1,quiz_1_20_1_1,What is the primary purpose of a QA/QC Command Debrief?,"A) Review non-conformities, verify root causes, and redesign processes |
 B) Conduct informal staff meetings |
 C) Update patient records |
 D) Discuss hospital budgets",A
-course_1,102,les_2_10,topic_2_10_2,quiz_2_10_1_2,What is a key element of the findings review in a Command Debrief?,"A) Reviewing hospital marketing plans |
+course_1,102,les_1_20,topic_1_20_1,quiz_1_20_1_2,What is a key element of the findings review in a Command Debrief?,"A) Reviewing hospital marketing plans |
 B) Ignoring frontline staff feedback |
 C) Categorizing deviations and incidents |
 D) Accepting verbal reports without data",C
-course_1,102,les_2_10,topic_2_10_3,quiz_2_10_1_3,What is the first step in the strategy redesign process?,"A) Consolidate findings by category |
+course_1,102,les_1_20,topic_1_20_1,quiz_1_20_1_3,What is the first step in the strategy redesign process?,"A) Consolidate findings by category |
 B) Test new designs hospital-wide |
 C) Define KPIs without stakeholder input |
 D) Prioritize low-risk issues",A
-course_1,102,les_2_10,topic_2_10_4,quiz_2_10_1_4,Which tool helps track improvements after a Command Debrief?,"A) Patient satisfaction surveys  tracker |
+course_1,102,les_1_20,topic_1_20_1,quiz_1_20_1_4,Which tool helps track improvements after a Command Debrief?,"A) Patient satisfaction surveys  tracker |
 B) Staff training schedules  tracker |
 C) Corrective and preventive actions  tracker |
 D) General meeting minutes  tracker",C
-course_1,102,les_2_10,topic_2_10_5,quiz_2_10_1_5,"An ICU oxygen supply interruption occurs due to a faulty regulator. As a QA/QC officer, which redesign strategy best addresses this issue and ensures long-term prevention?","A) Update SOPs with daily regulator checks, install pressure alarms, and cross-train staff |
+course_1,102,les_1_20,topic_1_20_1,quiz_1_20_1_5,"An ICU oxygen supply interruption occurs due to a faulty regulator. As a QA/QC officer, which redesign strategy best addresses this issue and ensures long-term prevention?","A) Update SOPs with daily regulator checks, install pressure alarms, and cross-train staff |
 B) Revise SOPs for weekly regulator checks, add alarms, and train only technicians |
 C) Implement daily regulator checks, use manual overrides, and train nursing staff |
 D) Install pressure alarms, update SOPs for monthly checks, and retrain all staff",A
