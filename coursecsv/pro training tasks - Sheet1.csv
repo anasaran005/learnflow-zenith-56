@@ -118,7 +118,7 @@ Submit via “Answer Portal”."
 course_1,,ch_1_02,,les_1_02_02,Code Control – SOP Command Chains & Access Authority,task_1_02_02_1,SOP Compliance and Access Authority Audit,"You are a Junior Quality Control Analyst at Zenith Hospital, reporting to Dr. Vikram Desai, QA Lead. During a routine ward audit in Ward 4 (Surgical Unit), you review the SOP Register (REG-2025-002) against SOP-QA-011 (Surgical Instrument Sterilization Protocol). You find that 3 out of 5 SOP copies in use are version 1.0 (expired 01/06/2025), while the current version is 2.0, violating NABH Standard MOM.2 (Management of Medication). Dr. Desai instructs you to document the non-compliance and recommend improvements using the Compliance Verification Form to prepare for an upcoming NABH audit.
 
 Deliverable: 
-Completed Compliance Verification Form (100–150 words total across REMARKS, Deviation Details, Suggested Improvements) documenting the SOP compliance audit findings and proposed improvements for NABH adherence.",https://drive.google.com/file/d/1RcJ_GoLC__evWJNRrXejtBKxIo_Si5MJ/view?usp=sharing,https://tally.so/r/m6Bzeohttps://tally.so/r/m6Bzeo,https://drive.google.com/file/d/1yAlj2pOBvxfmbH5COv1L3ZCHi_pJ1-Jd/view?usp=sharing,10,"Click “Reference Documents” to review SOP-QA-011 and SOP Register.
+Completed Compliance Verification Form (100–150 words total across REMARKS, Deviation Details, Suggested Improvements) documenting the SOP compliance audit findings and proposed improvements for NABH adherence.",https://drive.google.com/file/d/1RcJ_GoLC__evWJNRrXejtBKxIo_Si5MJ/view?usp=sharing,https://tally.so/r/m6Bzeo,https://drive.google.com/file/d/1yAlj2pOBvxfmbH5COv1L3ZCHi_pJ1-Jd/view?usp=sharing,10,"Click “Reference Documents” to review SOP-QA-011 and SOP Register.
 Compare SOP-QA-011 (version 2.0, effective 01/07/2025) to REG-2025-002 (outdated version 1.0 in use).
 Open “Fillable Document” (Compliance Verification Form).
 Fill the form: Check criteria (e.g., SOP followed as per latest revision: B - FAIL), provide REMARKS (e.g., outdated SOPs), detail deviation, and suggest improvements (e.g., recall old versions, implement digital SOP library).
@@ -982,3 +982,4 @@ course_6,,ch_6_12,,les_6_12_07,,task_6_12_07_1,,,,,,,
 course_6,,ch_6_12,,les_6_12_08,,task_6_12_08_1,,,,,,,
 course_6,,ch_6_12,,les_6_12_09,,task_6_12_09_1,,,,,,,
 course_6,,ch_6_12,,les_6_12_10,,task_6_12_10_1,,,,,,,
+
