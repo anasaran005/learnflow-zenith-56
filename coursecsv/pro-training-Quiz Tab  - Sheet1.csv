@@ -383,207 +383,771 @@ course_1,ch_1_02,les_1_02_10,topic_1_02_10_01,quiz_1_02_10_5,"An ICU oxygen supp
 B) Revise SOPs for weekly regulator checks, add alarms, and train only technicians |
 C) Implement daily regulator checks, use manual overrides, and train nursing staff |
 D) Install pressure alarms, update SOPs for monthly checks, and retrain all staff",A
-,,,,,,,
-course_1,ch_1_03,les_1_03_01,topic_1_03_01_01,quiz_1_03_01_1,,,
-course_1,ch_1_03,les_1_03_01,topic_1_03_01_01,quiz_1_03_01_2,,,
-course_1,ch_1_03,les_1_03_01,topic_1_03_01_01,quiz_1_03_01_3,,,
-course_1,ch_1_03,les_1_03_01,topic_1_03_01_01,quiz_1_03_01_4,,,
-course_1,ch_1_03,les_1_03_01,topic_1_03_01_01,quiz_1_03_01_5,,,
-course_1,ch_1_03,les_1_03_02,topic_1_03_02_01,quiz_1_03_02_1,,,
-course_1,ch_1_03,les_1_03_02,topic_1_03_02_01,quiz_1_03_02_2,,,
-course_1,ch_1_03,les_1_03_02,topic_1_03_02_01,quiz_1_03_02_3,,,
-course_1,ch_1_03,les_1_03_02,topic_1_03_02_01,quiz_1_03_02_4,,,
-course_1,ch_1_03,les_1_03_02,topic_1_03_02_01,quiz_1_03_02_5,,,
-course_1,ch_1_03,les_1_03_03,topic_1_03_03_01,quiz_1_03_03_1,,,
-course_1,ch_1_03,les_1_03_03,topic_1_03_03_01,quiz_1_03_03_2,,,
-course_1,ch_1_03,les_1_03_03,topic_1_03_03_01,quiz_1_03_03_3,,,
-course_1,ch_1_03,les_1_03_03,topic_1_03_03_01,quiz_1_03_03_4,,,
-course_1,ch_1_03,les_1_03_03,topic_1_03_03_01,quiz_1_03_03_5,,,
-course_1,ch_1_03,les_1_03_04,topic_1_03_04_01,quiz_1_03_04_1,,,
-course_1,ch_1_03,les_1_03_04,topic_1_03_04_01,quiz_1_03_04_2,,,
-course_1,ch_1_03,les_1_03_04,topic_1_03_04_01,quiz_1_03_04_3,,,
-course_1,ch_1_03,les_1_03_04,topic_1_03_04_01,quiz_1_03_04_4,,,
-course_1,ch_1_03,les_1_03_04,topic_1_03_04_01,quiz_1_03_04_5,,,
-course_1,ch_1_03,les_1_03_05,topic_1_03_05_01,quiz_1_03_05_1,,,
-course_1,ch_1_03,les_1_03_05,topic_1_03_05_01,quiz_1_03_05_2,,,
-course_1,ch_1_03,les_1_03_05,topic_1_03_05_01,quiz_1_03_05_3,,,
-course_1,ch_1_03,les_1_03_05,topic_1_03_05_01,quiz_1_03_05_4,,,
-course_1,ch_1_03,les_1_03_05,topic_1_03_05_01,quiz_1_03_05_5,,,
-course_1,ch_1_03,les_1_03_06,topic_1_03_06_01,quiz_1_03_06_1,,,
-course_1,ch_1_03,les_1_03_06,topic_1_03_06_01,quiz_1_03_06_2,,,
-course_1,ch_1_03,les_1_03_06,topic_1_03_06_01,quiz_1_03_06_3,,,
-course_1,ch_1_03,les_1_03_06,topic_1_03_06_01,quiz_1_03_06_4,,,
-course_1,ch_1_03,les_1_03_06,topic_1_03_06_01,quiz_1_03_06_5,,,
-course_1,ch_1_03,les_1_03_07,topic_1_03_07_01,quiz_1_03_07_1,,,
-course_1,ch_1_03,les_1_03_07,topic_1_03_07_01,quiz_1_03_07_2,,,
-course_1,ch_1_03,les_1_03_07,topic_1_03_07_01,quiz_1_03_07_3,,,
-course_1,ch_1_03,les_1_03_07,topic_1_03_07_01,quiz_1_03_07_4,,,
-course_1,ch_1_03,les_1_03_07,topic_1_03_07_01,quiz_1_03_07_5,,,
-course_1,ch_1_03,les_1_03_08,topic_1_03_08_01,quiz_1_03_08_1,,,
-course_1,ch_1_03,les_1_03_08,topic_1_03_08_01,quiz_1_03_08_2,,,
-course_1,ch_1_03,les_1_03_08,topic_1_03_08_01,quiz_1_03_08_3,,,
-course_1,ch_1_03,les_1_03_08,topic_1_03_08_01,quiz_1_03_08_4,,,
-course_1,ch_1_03,les_1_03_08,topic_1_03_08_01,quiz_1_03_08_5,,,
-course_1,ch_1_03,les_1_03_09,topic_1_03_09_01,quiz_1_03_09_1,,,
-course_1,ch_1_03,les_1_03_09,topic_1_03_09_01,quiz_1_03_09_2,,,
-course_1,ch_1_03,les_1_03_09,topic_1_03_09_01,quiz_1_03_09_3,,,
-course_1,ch_1_03,les_1_03_09,topic_1_03_09_01,quiz_1_03_09_4,,,
-course_1,ch_1_03,les_1_03_09,topic_1_03_09_01,quiz_1_03_09_5,,,
-course_1,ch_1_03,les_1_03_10,topic_1_03_10_01,quiz_1_03_10_1,,,
-course_1,ch_1_03,les_1_03_10,topic_1_03_10_01,quiz_1_03_10_2,,,
-course_1,ch_1_03,les_1_03_10,topic_1_03_10_01,quiz_1_03_10_3,,,
-course_1,ch_1_03,les_1_03_10,topic_1_03_10_01,quiz_1_03_10_4,,,
-course_1,ch_1_03,les_1_03_10,topic_1_03_10_01,quiz_1_03_10_5,,,
-course_1,ch_1_04,les_1_04_01,topic_1_04_01_01,quiz_1_04_01_1,,,
-course_1,ch_1_04,les_1_04_01,topic_1_04_01_01,quiz_1_04_01_2,,,
-course_1,ch_1_04,les_1_04_01,topic_1_04_01_01,quiz_1_04_01_3,,,
-course_1,ch_1_04,les_1_04_01,topic_1_04_01_01,quiz_1_04_01_4,,,
-course_1,ch_1_04,les_1_04_01,topic_1_04_01_01,quiz_1_04_01_5,,,
-course_1,ch_1_04,les_1_04_02,topic_1_04_02_01,quiz_1_04_02_1,,,
-course_1,ch_1_04,les_1_04_02,topic_1_04_02_01,quiz_1_04_02_2,,,
-course_1,ch_1_04,les_1_04_02,topic_1_04_02_01,quiz_1_04_02_3,,,
-course_1,ch_1_04,les_1_04_02,topic_1_04_02_01,quiz_1_04_02_4,,,
-course_1,ch_1_04,les_1_04_02,topic_1_04_02_01,quiz_1_04_02_5,,,
-course_1,ch_1_04,les_1_04_03,topic_1_04_03_01,quiz_1_04_03_1,,,
-course_1,ch_1_04,les_1_04_03,topic_1_04_03_01,quiz_1_04_03_2,,,
-course_1,ch_1_04,les_1_04_03,topic_1_04_03_01,quiz_1_04_03_3,,,
-course_1,ch_1_04,les_1_04_03,topic_1_04_03_01,quiz_1_04_03_4,,,
-course_1,ch_1_04,les_1_04_03,topic_1_04_03_01,quiz_1_04_03_5,,,
-course_1,ch_1_04,les_1_04_04,topic_1_04_04_01,quiz_1_04_04_1,,,
-course_1,ch_1_04,les_1_04_04,topic_1_04_04_01,quiz_1_04_04_2,,,
-course_1,ch_1_04,les_1_04_04,topic_1_04_04_01,quiz_1_04_04_3,,,
-course_1,ch_1_04,les_1_04_04,topic_1_04_04_01,quiz_1_04_04_4,,,
-course_1,ch_1_04,les_1_04_04,topic_1_04_04_01,quiz_1_04_04_5,,,
-course_1,ch_1_04,les_1_04_05,topic_1_04_05_01,quiz_1_04_05_1,,,
-course_1,ch_1_04,les_1_04_05,topic_1_04_05_01,quiz_1_04_05_2,,,
-course_1,ch_1_04,les_1_04_05,topic_1_04_05_01,quiz_1_04_05_3,,,
-course_1,ch_1_04,les_1_04_05,topic_1_04_05_01,quiz_1_04_05_4,,,
-course_1,ch_1_04,les_1_04_05,topic_1_04_05_01,quiz_1_04_05_5,,,
-course_1,ch_1_04,les_1_04_06,topic_1_04_06_01,quiz_1_04_06_1,,,
-course_1,ch_1_04,les_1_04_06,topic_1_04_06_01,quiz_1_04_06_2,,,
-course_1,ch_1_04,les_1_04_06,topic_1_04_06_01,quiz_1_04_06_3,,,
-course_1,ch_1_04,les_1_04_06,topic_1_04_06_01,quiz_1_04_06_4,,,
-course_1,ch_1_04,les_1_04_06,topic_1_04_06_01,quiz_1_04_06_5,,,
-course_1,ch_1_04,les_1_04_07,topic_1_04_07_01,quiz_1_04_07_1,,,
-course_1,ch_1_04,les_1_04_07,topic_1_04_07_01,quiz_1_04_07_2,,,
-course_1,ch_1_04,les_1_04_07,topic_1_04_07_01,quiz_1_04_07_3,,,
-course_1,ch_1_04,les_1_04_07,topic_1_04_07_01,quiz_1_04_07_4,,,
-course_1,ch_1_04,les_1_04_07,topic_1_04_07_01,quiz_1_04_07_5,,,
-course_1,ch_1_04,les_1_04_08,topic_1_04_08_01,quiz_1_04_08_1,,,
-course_1,ch_1_04,les_1_04_08,topic_1_04_08_01,quiz_1_04_08_2,,,
-course_1,ch_1_04,les_1_04_08,topic_1_04_08_01,quiz_1_04_08_3,,,
-course_1,ch_1_04,les_1_04_08,topic_1_04_08_01,quiz_1_04_08_4,,,
-course_1,ch_1_04,les_1_04_08,topic_1_04_08_01,quiz_1_04_08_5,,,
-course_1,ch_1_04,les_1_04_09,topic_1_04_09_01,quiz_1_04_09_1,,,
-course_1,ch_1_04,les_1_04_09,topic_1_04_09_01,quiz_1_04_09_2,,,
-course_1,ch_1_04,les_1_04_09,topic_1_04_09_01,quiz_1_04_09_3,,,
-course_1,ch_1_04,les_1_04_09,topic_1_04_09_01,quiz_1_04_09_4,,,
-course_1,ch_1_04,les_1_04_09,topic_1_04_09_01,quiz_1_04_09_5,,,
-course_1,ch_1_04,les_1_04_10,topic_1_04_10_01,quiz_1_04_10_1,,,
-course_1,ch_1_04,les_1_04_10,topic_1_04_10_01,quiz_1_04_10_2,,,
-course_1,ch_1_04,les_1_04_10,topic_1_04_10_01,quiz_1_04_10_3,,,
-course_1,ch_1_04,les_1_04_10,topic_1_04_10_01,quiz_1_04_10_4,,,
-course_1,ch_1_04,les_1_04_10,topic_1_04_10_01,quiz_1_04_10_5,,,
-course_1,ch_1_05,les_1_05_01,topic_1_05_01_01,quiz_1_05_01_1,,,
-course_1,ch_1_05,les_1_05_01,topic_1_05_01_01,quiz_1_05_01_2,,,
-course_1,ch_1_05,les_1_05_01,topic_1_05_01_01,quiz_1_05_01_3,,,
-course_1,ch_1_05,les_1_05_01,topic_1_05_01_01,quiz_1_05_01_4,,,
-course_1,ch_1_05,les_1_05_01,topic_1_05_01_01,quiz_1_05_01_5,,,
-course_1,ch_1_05,les_1_05_02,topic_1_05_02_01,quiz_1_05_02_1,,,
-course_1,ch_1_05,les_1_05_02,topic_1_05_02_01,quiz_1_05_02_2,,,
-course_1,ch_1_05,les_1_05_02,topic_1_05_02_01,quiz_1_05_02_3,,,
-course_1,ch_1_05,les_1_05_02,topic_1_05_02_01,quiz_1_05_02_4,,,
-course_1,ch_1_05,les_1_05_02,topic_1_05_02_01,quiz_1_05_02_5,,,
-course_1,ch_1_05,les_1_05_03,topic_1_05_03_01,quiz_1_05_03_1,,,
-course_1,ch_1_05,les_1_05_03,topic_1_05_03_01,quiz_1_05_03_2,,,
-course_1,ch_1_05,les_1_05_03,topic_1_05_03_01,quiz_1_05_03_3,,,
-course_1,ch_1_05,les_1_05_03,topic_1_05_03_01,quiz_1_05_03_4,,,
-course_1,ch_1_05,les_1_05_03,topic_1_05_03_01,quiz_1_05_03_5,,,
-course_1,ch_1_05,les_1_05_04,topic_1_05_04_01,quiz_1_05_04_1,,,
-course_1,ch_1_05,les_1_05_04,topic_1_05_04_01,quiz_1_05_04_2,,,
-course_1,ch_1_05,les_1_05_04,topic_1_05_04_01,quiz_1_05_04_3,,,
-course_1,ch_1_05,les_1_05_04,topic_1_05_04_01,quiz_1_05_04_4,,,
-course_1,ch_1_05,les_1_05_04,topic_1_05_04_01,quiz_1_05_04_5,,,
-course_1,ch_1_05,les_1_05_05,topic_1_05_05_01,quiz_1_05_05_1,,,
-course_1,ch_1_05,les_1_05_05,topic_1_05_05_01,quiz_1_05_05_2,,,
-course_1,ch_1_05,les_1_05_05,topic_1_05_05_01,quiz_1_05_05_3,,,
-course_1,ch_1_05,les_1_05_05,topic_1_05_05_01,quiz_1_05_05_4,,,
-course_1,ch_1_05,les_1_05_05,topic_1_05_05_01,quiz_1_05_05_5,,,
-course_1,ch_1_05,les_1_05_06,topic_1_05_06_01,quiz_1_05_06_1,,,
-course_1,ch_1_05,les_1_05_06,topic_1_05_06_01,quiz_1_05_06_2,,,
-course_1,ch_1_05,les_1_05_06,topic_1_05_06_01,quiz_1_05_06_3,,,
-course_1,ch_1_05,les_1_05_06,topic_1_05_06_01,quiz_1_05_06_4,,,
-course_1,ch_1_05,les_1_05_06,topic_1_05_06_01,quiz_1_05_06_5,,,
-course_1,ch_1_05,les_1_05_07,topic_1_05_07_01,quiz_1_05_07_1,,,
-course_1,ch_1_05,les_1_05_07,topic_1_05_07_01,quiz_1_05_07_2,,,
-course_1,ch_1_05,les_1_05_07,topic_1_05_07_01,quiz_1_05_07_3,,,
-course_1,ch_1_05,les_1_05_07,topic_1_05_07_01,quiz_1_05_07_4,,,
-course_1,ch_1_05,les_1_05_07,topic_1_05_07_01,quiz_1_05_07_5,,,
-course_1,ch_1_05,les_1_05_08,topic_1_05_08_01,quiz_1_05_08_1,,,
-course_1,ch_1_05,les_1_05_08,topic_1_05_08_01,quiz_1_05_08_2,,,
-course_1,ch_1_05,les_1_05_08,topic_1_05_08_01,quiz_1_05_08_3,,,
-course_1,ch_1_05,les_1_05_08,topic_1_05_08_01,quiz_1_05_08_4,,,
-course_1,ch_1_05,les_1_05_08,topic_1_05_08_01,quiz_1_05_08_5,,,
-course_1,ch_1_05,les_1_05_09,topic_1_05_09_01,quiz_1_05_09_1,,,
-course_1,ch_1_05,les_1_05_09,topic_1_05_09_01,quiz_1_05_09_2,,,
-course_1,ch_1_05,les_1_05_09,topic_1_05_09_01,quiz_1_05_09_3,,,
-course_1,ch_1_05,les_1_05_09,topic_1_05_09_01,quiz_1_05_09_4,,,
-course_1,ch_1_05,les_1_05_09,topic_1_05_09_01,quiz_1_05_09_5,,,
-course_1,ch_1_05,les_1_05_10,topic_1_05_10_01,quiz_1_05_10_1,,,
-course_1,ch_1_05,les_1_05_10,topic_1_05_10_01,quiz_1_05_10_2,,,
-course_1,ch_1_05,les_1_05_10,topic_1_05_10_01,quiz_1_05_10_3,,,
-course_1,ch_1_05,les_1_05_10,topic_1_05_10_01,quiz_1_05_10_4,,,
-course_1,ch_1_05,les_1_05_10,topic_1_05_10_01,quiz_1_05_10_5,,,
-course_1,ch_1_06,les_1_06_01,topic_1_06_01_01,quiz_1_06_01_1,,,
-course_1,ch_1_06,les_1_06_01,topic_1_06_01_01,quiz_1_06_01_2,,,
-course_1,ch_1_06,les_1_06_01,topic_1_06_01_01,quiz_1_06_01_3,,,
-course_1,ch_1_06,les_1_06_01,topic_1_06_01_01,quiz_1_06_01_4,,,
-course_1,ch_1_06,les_1_06_01,topic_1_06_01_01,quiz_1_06_01_5,,,
-course_1,ch_1_06,les_1_06_02,topic_1_06_02_01,quiz_1_06_02_1,,,
-course_1,ch_1_06,les_1_06_02,topic_1_06_02_01,quiz_1_06_02_2,,,
-course_1,ch_1_06,les_1_06_02,topic_1_06_02_01,quiz_1_06_02_3,,,
-course_1,ch_1_06,les_1_06_02,topic_1_06_02_01,quiz_1_06_02_4,,,
-course_1,ch_1_06,les_1_06_02,topic_1_06_02_01,quiz_1_06_02_5,,,
-course_1,ch_1_06,les_1_06_03,topic_1_06_03_01,quiz_1_06_03_1,,,
-course_1,ch_1_06,les_1_06_03,topic_1_06_03_01,quiz_1_06_03_2,,,
-course_1,ch_1_06,les_1_06_03,topic_1_06_03_01,quiz_1_06_03_3,,,
-course_1,ch_1_06,les_1_06_03,topic_1_06_03_01,quiz_1_06_03_4,,,
-course_1,ch_1_06,les_1_06_03,topic_1_06_03_01,quiz_1_06_03_5,,,
-course_1,ch_1_06,les_1_06_04,topic_1_06_04_01,quiz_1_06_04_1,,,
-course_1,ch_1_06,les_1_06_04,topic_1_06_04_01,quiz_1_06_04_2,,,
-course_1,ch_1_06,les_1_06_04,topic_1_06_04_01,quiz_1_06_04_3,,,
-course_1,ch_1_06,les_1_06_04,topic_1_06_04_01,quiz_1_06_04_4,,,
-course_1,ch_1_06,les_1_06_04,topic_1_06_04_01,quiz_1_06_04_5,,,
-course_1,ch_1_06,les_1_06_05,topic_1_06_05_01,quiz_1_06_05_1,,,
-course_1,ch_1_06,les_1_06_05,topic_1_06_05_01,quiz_1_06_05_2,,,
-course_1,ch_1_06,les_1_06_05,topic_1_06_05_01,quiz_1_06_05_3,,,
-course_1,ch_1_06,les_1_06_05,topic_1_06_05_01,quiz_1_06_05_4,,,
-course_1,ch_1_06,les_1_06_05,topic_1_06_05_01,quiz_1_06_05_5,,,
-course_1,ch_1_06,les_1_06_06,topic_1_06_06_01,quiz_1_06_06_1,,,
-course_1,ch_1_06,les_1_06_06,topic_1_06_06_01,quiz_1_06_06_2,,,
-course_1,ch_1_06,les_1_06_06,topic_1_06_06_01,quiz_1_06_06_3,,,
-course_1,ch_1_06,les_1_06_06,topic_1_06_06_01,quiz_1_06_06_4,,,
-course_1,ch_1_06,les_1_06_06,topic_1_06_06_01,quiz_1_06_06_5,,,
-course_1,ch_1_06,les_1_06_07,topic_1_06_07_01,quiz_1_06_07_1,,,
-course_1,ch_1_06,les_1_06_07,topic_1_06_07_01,quiz_1_06_07_2,,,
-course_1,ch_1_06,les_1_06_07,topic_1_06_07_01,quiz_1_06_07_3,,,
-course_1,ch_1_06,les_1_06_07,topic_1_06_07_01,quiz_1_06_07_4,,,
-course_1,ch_1_06,les_1_06_07,topic_1_06_07_01,quiz_1_06_07_5,,,
-course_1,ch_1_06,les_1_06_08,topic_1_06_08_01,quiz_1_06_08_1,,,
-course_1,ch_1_06,les_1_06_08,topic_1_06_08_01,quiz_1_06_08_2,,,
-course_1,ch_1_06,les_1_06_08,topic_1_06_08_01,quiz_1_06_08_3,,,
-course_1,ch_1_06,les_1_06_08,topic_1_06_08_01,quiz_1_06_08_4,,,
-course_1,ch_1_06,les_1_06_08,topic_1_06_08_01,quiz_1_06_08_5,,,
-course_1,ch_1_06,les_1_06_09,topic_1_06_09_01,quiz_1_06_09_1,,,
-course_1,ch_1_06,les_1_06_09,topic_1_06_09_01,quiz_1_06_09_2,,,
-course_1,ch_1_06,les_1_06_09,topic_1_06_09_01,quiz_1_06_09_3,,,
-course_1,ch_1_06,les_1_06_09,topic_1_06_09_01,quiz_1_06_09_4,,,
-course_1,ch_1_06,les_1_06_09,topic_1_06_09_01,quiz_1_06_09_5,,,
-course_1,ch_1_06,les_1_06_10,topic_1_06_10_01,quiz_1_06_10_1,,,
-course_1,ch_1_06,les_1_06_10,topic_1_06_10_01,quiz_1_06_10_2,,,
-course_1,ch_1_06,les_1_06_10,topic_1_06_10_01,quiz_1_06_10_3,,,
-course_1,ch_1_06,les_1_06_10,topic_1_06_10_01,quiz_1_06_10_4,,,
-course_1,ch_1_06,les_1_06_10,topic_1_06_10_01,quiz_1_06_10_5,,,
+course_1,ch_1_03,les_1_03_01,topic_1_03_01_01,quiz_1_03_01_1,What is the primary purpose of Good Manufacturing Practices (GMP) in pharmaceutical production?,"A) To reduce production costs by streamlining processes |
+B) To ensure products are safe, pure, and effective |
+C) To speed up the manufacturing process for faster delivery |
+D) To allow flexibility in production without regulatory oversight",B
+course_1,ch_1_03,les_1_03_01,topic_1_03_01_01,quiz_1_03_01_2,Which historical event significantly influenced the development of GMP regulations?,"A) The introduction of biologics in the 1980s |
+B) The 1938 sulfathiazole disaster |
+C) The 1963 WHO global health initiative |
+D) The establishment of the USFDA in 1906",B
+course_1,ch_1_03,les_1_03_01,topic_1_03_01_01,quiz_1_03_01_3,Which of the following is NOT one of the five pillars of GMP?,"A) Procedures |
+B) Premises |
+C) Profits |
+D) People",C
+course_1,ch_1_03,les_1_03_01,topic_1_03_01_01,quiz_1_03_01_4,What is a key requirement of GMP to prevent contamination in manufacturing?,"A) Reducing the number of staff in the facility |
+B) Environmental monitoring and equipment validation |
+C) Using unvalidated processes for flexibility |
+D) Limiting documentation to simplify audits",B
+course_1,ch_1_03,les_1_03_01,topic_1_03_01_01,quiz_1_03_01_5,Why is documentation critical in GMP compliance?,"A) It reduces the need for staff training |
+B) It ensures processes are auditable and traceable |
+C) It allows manufacturers to skip quality control |
+D) It is only required for non-regulated products",B
+course_1,ch_1_03,les_1_03_02,topic_1_03_02_01,quiz_1_03_02_1,What is the primary function of a cleanroom in pharmaceutical manufacturing?,"A) To speed up production processes |
+B) To maintain low levels of contaminants like dust and microbes |
+C) To store raw materials for easy access |
+D) To reduce the need for quality control testing",B
+course_1,ch_1_03,les_1_03_02,topic_1_03_02_01,quiz_1_03_02_2,Which ISO cleanroom classification is typically used for sterile processes like injectable drug production?,"A) ISO 8 |
+B) ISO 7 |
+C) ISO 5 |
+D) ISO 9",C
+course_1,ch_1_03,les_1_03_02,topic_1_03_02_01,quiz_1_03_02_3,What role do HEPA filters play in cleanroom environmental controls?,"A) They regulate temperature to prevent microbial growth |
+B) They remove 99.97% of particles ≥0.3 μm from the air |
+C) They create negative pressure to pull in clean air |
+D) They monitor particle counts in real-time",B
+course_1,ch_1_03,les_1_03_02,topic_1_03_02_01,quiz_1_03_02_4,Why might a cleanroom fail a GMP audit?,"A) Using laminar airflow to sweep contaminants away |
+B) Maintaining positive pressure in cleaner areas |
+C) Exceeding particle count limits due to a clogged HEPA filter |
+D) Keeping humidity levels between 40-60%",C
+course_1,ch_1_03,les_1_03_02,topic_1_03_02_01,quiz_1_03_02_5,What is the purpose of positive pressure differentials in a cleanroom?,"A) To increase humidity for better product stability |
+B) To prevent dirty air from entering cleaner areas |
+C) To reduce the need for regular maintenance |
+D) To allow higher particle counts in sterile zones",B
+course_1,ch_1_03,les_1_03_03,topic_1_03_03_01,quiz_1_03_03_1,What is the primary role of personnel in ensuring GMP compliance?,"A) To operate machinery without training to speed up production |
+B) To follow strict protocols to prevent human-borne contamination |
+C) To handle raw materials without hygiene checks |
+D) To reduce documentation for faster audits",B
+course_1,ch_1_03,les_1_03_03,topic_1_03_03_01,quiz_1_03_03_2,"In an ISO 5 cleanroom, why are sterile gloves donned last in the gowning sequence?","A) To allow workers to touch non-sterile surfaces |
+B) To simplify the gowning process for speed |
+C) To avoid contamination from touching non-sterile surfaces |
+D) To reduce the need for handwashing",C
+course_1,ch_1_03,les_1_03_03,topic_1_03_03_01,quiz_1_03_03_3,Which hygiene practice is explicitly prohibited in GMP production areas to minimize contamination?,"A) Wearing sterile gloves during production |
+B) Using specific soaps for handwashing |
+C) Conducting regular health screenings |
+D) Wearing cosmetics or nail polish",D
+course_1,ch_1_03,les_1_03_03,topic_1_03_03_01,quiz_1_03_03_4,How do physical barriers help prevent cross-contamination in pharmaceutical manufacturing?,"A) They allow shared equipment between batches |
+B) They separate products using dedicated cleanrooms or airlocks |
+C) They reduce the need for personnel training |
+D) They permit mixing of raw materials for efficiency",B
+course_1,ch_1_03,les_1_03_03,topic_1_03_03_01,quiz_1_03_03_5,What is a common consequence of improper gowning in a cleanroom?,"A) Improved product quality due to flexibility |
+B) Faster production cycles |
+C) Introduction of contaminants like microbes or skin cells |
+D) Reduced need for airlock systems",C
+course_1,ch_1_03,les_1_03_04,topic_1_03_04_01,quiz_1_03_04_1,What is the main purpose of controlled documentation in GMP compliance?,"A) To reduce the need for quality control testing |
+B) To ensure traceability and verify manufacturing processes |
+C) To allow flexibility in production without oversight |
+D) To simplify audits by minimizing record-keeping",B
+course_1,ch_1_03,les_1_03_04,topic_1_03_04_01,quiz_1_03_04_2,What must be done when correcting an error in a batch record?,"A) Erase the mistake completely to maintain clarity |
+B) Ignore the error to avoid audit complications |
+C) Use a single line-through, initial, and date the correction |
+D) Rewrite the entire record to ensure accuracy",C
+course_1,ch_1_03,les_1_03_04,topic_1_03_04_01,quiz_1_03_04_3,What is the role of logbooks in a GMP-compliant facility?,"A) To reduce documentation for faster production |
+B) To store raw materials securely |
+C) To track equipment use, cleaning, and environmental conditions |
+D) To replace batch records during audits",C
+course_1,ch_1_03,les_1_03_04,topic_1_03_04_01,quiz_1_03_04_4,Why might a pharma company fail an audit due to document control issues?,"A) Using real-time documentation for batch records |
+B) Archiving obsolete SOP versions properly |
+C) Maintaining secure electronic document systems |
+D) Using an outdated SOP leading to incorrect processing",D
+course_1,ch_1_03,les_1_03_04,topic_1_03_04_01,quiz_1_03_04_5,What is a key feature of batch records to ensure GMP compliance?,"A) They are completed after production to save time |
+B) They document every step of a product batch in real-time |
+C) They exclude quality control test results |
+D) They allow unsigned entries for flexibility",B
+course_1,ch_1_03,les_1_03_05,topic_1_03_05_01,quiz_1_03_05_1,Why is raw material gatekeeping critical in GMP-compliant pharmaceutical production?,"A) To reduce production costs by using untested materials |
+B) To ensure raw materials meet quality standards for safe drugs |
+C) To speed up manufacturing by skipping supplier audits |
+D) To allow storage without controlled conditions",B
+course_1,ch_1_03,les_1_03_05,topic_1_03_05_01,quiz_1_03_05_2,What is a key requirement for sampling raw materials under GMP standards?,"A) Testing all containers in a shipment for accuracy |
+B) Using non-sterile tools to simplify the process |
+C) Following statistically valid sampling plans like square root of N+1 |
+D) Conducting sampling outside cleanrooms to save time",C
+course_1,ch_1_03,les_1_03_05,topic_1_03_05_01,quiz_1_03_05_3,What is the purpose of storing raw materials in quarantine before approval?,"A) To mix them with approved materials for efficiency |
+B) To allow degradation testing under uncontrolled conditions |
+C) To prevent use until quality is verified |
+D) To reduce the need for supplier qualification",C
+course_1,ch_1_03,les_1_03_05,topic_1_03_05_01,quiz_1_03_05_4,Why might a supplier be rejected during qualification for GMP compliance?,"A) Providing materials with clear labeling |
+B) Maintaining detailed quality agreements |
+C) Having reliable third-party certifications |
+D) Poor documentation found during an audit",D
+course_1,ch_1_03,les_1_03_05,topic_1_03_05_01,quiz_1_03_05_5,"What can happen if raw materials are stored improperly, such as above specified temperatures?","A) Improved material stability for longer shelf life |
+B) Degradation leading to formulation failures |
+C) Reduced need for environmental monitoring |
+D) Faster approval during GMP audits",B
+course_1,ch_1_03,les_1_03_06,topic_1_03_06_01,quiz_1_03_06_1,What is the purpose of equipment validation in GMP-compliant pharmaceutical production?,"A) To reduce equipment costs by skipping maintenance |
+B) To prove machines consistently deliver expected results |
+C) To allow uncalibrated equipment for faster production |
+D) To simplify audits by minimizing documentation",B
+course_1,ch_1_03,les_1_03_06,topic_1_03_06_01,quiz_1_03_06_2,Which step of equipment validation confirms that a machine operates as intended?,"A) Performance Qualification (PQ) |
+B) Cleaning Validation |
+C) Installation Qualification (IQ) |
+D) Operational Qualification (OQ)",D
+course_1,ch_1_03,les_1_03_06,topic_1_03_06_01,quiz_1_03_06_3,What is the primary goal of cleaning validation for pharmaceutical equipment?,"A) To reduce cleaning frequency between batches |
+B) To confirm no residues remain after cleaning |
+C) To allow shared equipment without SOPs |
+D) To replace preventive maintenance cycles",B
+course_1,ch_1_03,les_1_03_06,topic_1_03_06_01,quiz_1_03_06_4,Why might a facility fail a GMP audit related to equipment management?,"A) Maintaining smooth, non-reactive equipment surfaces |
+B) Logging all cleaning and maintenance activities |
+C) Completing IQ, OQ, and PQ for new equipment |
+D) Using a rusted machine part that contaminates a batch",D
+course_1,ch_1_03,les_1_03_06,topic_1_03_06_01,quiz_1_03_06_5,How does regular calibration of equipment contribute to GMP compliance?,"A) It reduces the need for cleaning validation |
+B) It ensures accurate measurements like temperature or pressure |
+C) It allows unlogged repairs for flexibility |
+D) It eliminates the need for preventive maintenance",B
+course_1,ch_1_03,les_1_03_07,topic_1_03_07_01,quiz_1_03_07_1,What is the primary goal of process validation in GMP-compliant manufacturing?,"A) To reduce production time by simplifying processes |
+B) To ensure processes consistently produce quality products |
+C) To eliminate the need for change control systems |
+D) To allow untested processes for flexibility",B
+course_1,ch_1_03,les_1_03_07,topic_1_03_07_01,quiz_1_03_07_2,Which stage of process validation involves testing the process under real production conditions?,"A) Continued Process Verification |
+B) Process Design |
+C) Process Qualification |
+D) Change Control",C
+course_1,ch_1_03,les_1_03_07,topic_1_03_07_01,quiz_1_03_07_3,What is a key requirement of a GMP-compliant change control system?,"A) Allowing changes without documentation for efficiency |
+B) Conducting risk assessments and documenting all changes |
+C) Bypassing validation for minor process tweaks |
+D) Avoiding audits to speed up production",B
+course_1,ch_1_03,les_1_03_07,topic_1_03_07_01,quiz_1_03_07_4,Why might a pharmaceutical company face a product recall due to process changes?,"A) Implementing a validated process change |
+B) Maintaining detailed change control logs |
+C) Conducting thorough risk assessments |
+D) Making an unapproved process change",D
+course_1,ch_1_03,les_1_03_07,topic_1_03_07_01,quiz_1_03_07_5,What is the purpose of Continued Process Verification in process validation?,"A) To develop the initial process design |
+B) To monitor ongoing production for consistency |
+C) To replace change control systems |
+D) To skip process qualification for efficiency",B
+course_1,ch_1_03,les_1_03_08,topic_1_03_08_01,quiz_1_03_08_1,What is the primary purpose of in-process controls in pharmaceutical manufacturing?,"A) To reduce production time by skipping quality checks |
+B) To monitor critical quality parameters during production |
+C) To replace batch release protocols |
+D) To allow deviations without investigation",B
+course_1,ch_1_03,les_1_03_08,topic_1_03_08_01,quiz_1_03_08_2,Which type of in-process control is used to verify the correct dose in a vaccine filling line?,"A) Environmental monitoring |
+B) Chemical assay |
+C) Physical check |
+D) Packaging inspection",C
+course_1,ch_1_03,les_1_03_08,topic_1_03_08_01,quiz_1_03_08_3,What is a key requirement for batch release under GMP standards?,"A) Skipping final product testing for faster release |
+B) Reviewing complete batch records and test results |
+C) Releasing batches without QP approval |
+D) Ignoring out-of-specification results",B
+course_1,ch_1_03,les_1_03_08,topic_1_03_08_01,quiz_1_03_08_4,Why might a batch of injectables be rejected during the batch release process?,"A) Complete documentation and passing sterility tests |
+B) Thorough QP review and approval |
+C) Meeting all critical quality attributes |
+D) Incomplete documentation found by the QP",D
+course_1,ch_1_03,les_1_03_08,topic_1_03_08_01,quiz_1_03_08_5,What happens if out-of-specification (OOS) results are ignored during in-process controls?,"A) Improved batch consistency |
+B) Potential release of defective products |
+C) Reduced need for batch release checks |
+D) Faster audit approvals",B
+course_1,ch_1_03,les_1_03_09,topic_1_03_09_01,quiz_1_03_09_1,"What is the primary purpose of GMP codes across WHO, USFDA, EU, and Indian regulations?","A) To reduce manufacturing costs for faster production |
+B) To ensure pharmaceutical products are safe and effective |
+C) To eliminate the need for regulatory audits |
+D) To allow flexibility without documentation",B
+course_1,ch_1_03,les_1_03_09,topic_1_03_09_01,quiz_1_03_09_2,Which GMP standard is specifically designed as a global baseline for developing countries?,"A) EU GMP (EudraLex Vol. 4) |
+B) USFDA GMP (21 CFR Part 211) |
+C) Indian GMP (Schedule M) |
+D) WHO GMP",D
+course_1,ch_1_03,les_1_03_09,topic_1_03_09_01,quiz_1_03_09_3,What is a key focus of USFDA GMP (21 CFR Part 211) compared to other GMP codes?,"A) Flexible cleanroom standards |
+B) Data integrity and detailed documentation |
+C) Local manufacturing adaptations |
+D) Minimal regulatory inspections",B
+course_1,ch_1_03,les_1_03_09,topic_1_03_09_01,quiz_1_03_09_4,Why might a company exporting to the EU face compliance issues if only following Indian GMP?,"A) Indian GMP has stricter cleanroom standards |
+B) EU GMP requires less documentation |
+C) EU GMP demands stricter requirements like QP oversight |
+D) Indian GMP bans exports to the EU",C
+course_1,ch_1_03,les_1_03_09,topic_1_03_09_01,quiz_1_03_09_5,What is a common reason for penalties during a USFDA GMP audit?,"A) Using WHO-aligned cleanroom standards |
+B) Poor data integrity in documentation |
+C) Implementing risk-based approaches |
+D) Conducting frequent inspections",B
+course_1,ch_1_03,les_1_03_10,topic_1_03_10_01,quiz_1_03_10_1,What is the primary goal of a GMP compliance simulation in a production floor setting?,"A) To reduce production costs by skipping validation |
+B) To test adherence to GMP principles across all stages |
+C) To eliminate the need for regulatory audits |
+D) To simplify documentation for faster batch release",B
+course_1,ch_1_03,les_1_03_10,topic_1_03_10_01,quiz_1_03_10_2,Which GMP element from Module 3 ensures that raw materials are verified before use in the simulation?,"A) Batch release protocols |
+B) Equipment maintenance cycles |
+C) Process validation |
+D) Raw material sampling and storage",D
+course_1,ch_1_03,les_1_03_10,topic_1_03_10_01,quiz_1_03_10_3,"How should a deviation, such as an incomplete batch record, be handled during a GMP war game?","A) Ignore it to maintain production speed |
+B) Perform a root cause analysis and implement CAPA |
+C) Skip documentation to avoid audit scrutiny |
+D) Retrain staff without investigating the issue",B
+course_1,ch_1_03,les_1_03_10,topic_1_03_10_01,quiz_1_03_10_4,Why might a facility fail a mock EU GMP audit in the simulation?,"A) Maintaining ISO 5 cleanroom standards |
+B) Completing all in-process controls accurately |
+C) Following proper gowning protocols |
+D) Missing records in the change control log",D
+course_1,ch_1_03,les_1_03_10,topic_1_03_10_01,quiz_1_03_10_5,What is a key factor for success in a GMP compliance simulation?,"A) Focusing only on batch release to save time |
+B) Coordinating across departments to integrate all GMP elements |
+C) Avoiding deviations by skipping in-process controls |
+D) Using unvalidated equipment for flexibility",B
+course_1,ch_1_04,les_1_04_01,topic_1_04_01_01,quiz_1_04_01_1,What is the primary purpose of Standard Operating Procedures (SOPs) in GMP compliance?,"A) To allow flexibility in manufacturing processes |
+B) To standardize processes for consistency and quality |
+C) To reduce the need for regulatory audits |
+D) To simplify documentation by omitting details",B
+course_1,ch_1_04,les_1_04_01,topic_1_04_01_01,quiz_1_04_01_2,Which section of an SOP defines what the procedure covers and excludes?,"A) Procedure |
+B) References |
+C) Scope |
+D) Title",C
+course_1,ch_1_04,les_1_04_01,topic_1_04_01_01,quiz_1_04_01_3,Why might a facility face penalties during a USFDA audit related to SOPs?,"A) Using clear, approved SOPs for all processes |
+B) Missing an SOP for a critical process like change control |
+C) Training staff on SOP implementation |
+D) Maintaining version-controlled SOPs",B
+course_1,ch_1_04,les_1_04_01,topic_1_04_01_01,quiz_1_04_01_4,What is a key regulatory mandate for SOPs under GMP standards?,"A) SOPs can be informal to allow operator flexibility |
+B) SOPs must be approved, version-controlled, and accessible |
+C) SOPs are optional for non-critical processes |
+D) SOPs should avoid detailed procedures for simplicity",B
+course_1,ch_1_04,les_1_04_01,topic_1_04_01_01,quiz_1_04_01_5,What is a common risk of poorly designed SOPs in a GMP environment?,"A) Improved process consistency across batches |
+B) Inconsistent processes leading to audit failures |
+C) Reduced need for staff training |
+D) Faster regulatory approvals",B
+course_1,ch_1_04,les_1_04_02,topic_1_04_02_01,quiz_1_04_02_1,Why is clarity critical in writing SOPs for GMP compliance?,"A) To allow operators to interpret steps freely |
+B) To ensure all personnel can follow instructions without confusion |
+C) To reduce the need for detailed documentation |
+D) To simplify audits by using vague language",B
+course_1,ch_1_04,les_1_04_02,topic_1_04_02_01,quiz_1_04_02_2,What does precision in SOP writing involve?,"A) Using vague terms like “some” for flexibility |
+B) Providing exact details like measurements and times |
+C) Avoiding active voice to simplify instructions |
+D) Omitting decision points for brevity",B
+course_1,ch_1_04,les_1_04_02,topic_1_04_02_01,quiz_1_04_02_3,How do zero-ambiguity rules help prevent errors in SOP execution?,"A) By allowing vague terms like “adequate” |
+B) By using complex sentences for detail |
+C) By defining terms and including decision points |
+D) By excluding step-by-step instructions",C
+course_1,ch_1_04,les_1_04_02,topic_1_04_02_01,quiz_1_04_02_4,Why might an SOP lead to an EU GMP audit failure?,"A) Including clear cleaning validation steps |
+B) Lacking clear instructions for critical processes |
+C) Using numbered steps for clarity |
+D) Being approved by quality assurance",B
+course_1,ch_1_04,les_1_04_02,topic_1_04_02_01,quiz_1_04_02_5,What is a recommended practice to ensure an SOP is clear and effective?,"A) Use jargon to keep instructions concise |
+B) Test the SOP with a new employee for clarity |
+C) Avoid visuals like diagrams to save space |
+D) Use vague terms to allow flexibility",B
+course_1,ch_1_04,les_1_04_03,topic_1_04_03_01,quiz_1_04_03_1,What is the primary purpose of version control in managing SOPs for GMP compliance?,"A) To allow multiple SOP versions to be used simultaneously |
+B) To ensure only the latest, approved SOP version is used |
+C) To reduce the need for change logs |
+D) To simplify audits by skipping approvals",B
+course_1,ch_1_04,les_1_04_03,topic_1_04_03_01,quiz_1_04_03_2,When are SOP review cycles typically conducted to maintain GMP compliance?,"A) Only when a new regulation is introduced |
+B) After every batch production |
+C) Annually or after process changes |
+D) During equipment maintenance",C
+course_1,ch_1_04,les_1_04_03,topic_1_04_03_01,quiz_1_04_03_3,What is a key function of a change log in SOP management?,"A) To replace the need for version control |
+B) To document all SOP revisions for traceability |
+C) To allow unapproved changes for flexibility |
+D) To archive current SOP versions",B
+course_1,ch_1_04,les_1_04_03,topic_1_04_03_01,quiz_1_04_03_4,Why might a facility face a citation during a GMP audit related to SOP management?,"A) Archiving obsolete SOP versions properly |
+B) Using an unapproved SOP version |
+C) Maintaining detailed change logs |
+D) Conducting regular review cycles",B
+course_1,ch_1_04,les_1_04_03,topic_1_04_03_01,quiz_1_04_03_5,What is a recommended practice to ensure audit-readiness for SOPs?,"A) Skip minor changes in the change log |
+B) Include all changes, even minor ones, in the change log |
+C) Avoid archiving old SOP versions |
+D) Use unapproved SOPs for minor processes",B
+course_1,ch_1_04,les_1_04_04,topic_1_04_04_01,quiz_1_04_04_1,What is the primary purpose of system validation in GMP-compliant pharmaceutical production?,"A) To reduce equipment maintenance costs |
+B) To confirm equipment consistently meets quality standards |
+C) To allow untested systems for faster production |
+D) To simplify audits by skipping documentation",B
+course_1,ch_1_04,les_1_04_04,topic_1_04_04_01,quiz_1_04_04_2,Which validation stage verifies that equipment is installed according to specifications?,"A) Performance Qualification (PQ) |
+B) Operational Qualification (OQ) |
+C) Installation Qualification (IQ) |
+D) System Monitoring",C
+course_1,ch_1_04,les_1_04_04,topic_1_04_04_01,quiz_1_04_04_3,What does Operational Qualification (OQ) focus on during equipment validation?,"A) Testing equipment under real-world production conditions |
+B) Confirming equipment operates within specified conditions |
+C) Verifying installation matches manufacturer guidelines |
+D) Ensuring long-term maintenance schedules",B
+course_1,ch_1_04,les_1_04_04,topic_1_04_04_01,quiz_1_04_04_4,Why might a facility fail an EU GMP audit related to equipment validation?,"A) Completing detailed IQ, OQ, and PQ reports |
+B) Lacking a PQ report for a new autoclave |
+C) Conducting real-time validation documentation |
+D) Using validated equipment for production",B
+course_1,ch_1_04,les_1_04_04,topic_1_04_04_01,quiz_1_04_04_5,What is a key practice to ensure successful Performance Qualification (PQ)?,"A) Skipping OQ to speed up validation |
+B) Using production-like conditions to mimic real-world challenges |
+C) Avoiding detailed documentation for flexibility |
+D) Testing equipment without production materials",B
+course_1,ch_1_04,les_1_04_05,topic_1_04_05_01,quiz_1_04_05_1,What is the main objective of cleaning SOPs in GMP-compliant manufacturing?,"A) To reduce cleaning frequency for efficiency |
+B) To eliminate residues and prevent cross-contamination |
+C) To simplify equipment operation procedures |
+D) To bypass validation for faster production",B
+course_1,ch_1_04,les_1_04_05,topic_1_04_05_01,quiz_1_04_05_2,What does an equipment SOP typically specify to ensure consistent performance?,"A) Optional calibration schedules for flexibility |
+B) Operating parameters and maintenance schedules |
+C) Unvalidated startup procedures |
+D) Skipping preventive maintenance checks",B
+course_1,ch_1_04,les_1_04_05,topic_1_04_05_01,quiz_1_04_05_3,How do safety SOPs contribute to GMP compliance?,"A) By allowing optional PPE use for hazardous materials |
+B) By providing protocols for handling hazards and emergencies |
+C) By reducing the need for staff training |
+D) By ignoring occupational safety regulations",B
+course_1,ch_1_04,les_1_04_05,topic_1_04_05_01,quiz_1_04_05_4,Why might a facility face a WHO GMP audit failure related to cleaning SOPs?,"A) Using validated swab testing for residues |
+B) Following detailed cleaning procedures |
+C) Maintaining auditable cleaning records |
+D) Having an incomplete cleaning SOP",D
+course_1,ch_1_04,les_1_04_05,topic_1_04_05_01,quiz_1_04_05_5,What is a recommended practice to ensure effective equipment SOPs?,"A) Using complex instructions for detailed execution |
+B) Breaking operations into numbered steps for clarity |
+C) Avoiding calibration to save time |
+D) Skipping validation for non-critical equipment",B
+course_1,ch_1_04,les_1_04_06,topic_1_04_06_01,quiz_1_04_06_1,"According to the study material, what is a primary risk associated with untrained staff or poor compliance tracking in a GMP environment?","A) Improved product quality | B) Reduced regulatory penalties | C) Errors, deviations, or audit failures | D) Faster production speeds",C
+course_1,ch_1_04,les_1_04_06,topic_1_04_06_01,quiz_1_04_06_2,"In the context of competency records, what specific details must be included to provide audit-ready proof of an employee's capability?","A) Only the employee's hire date | B) Training dates, topics, trainers, and assessment results | C) Just the list of SOPs executed | D) Annual salary reviews",B
+course_1,ch_1_04,les_1_04_06,topic_1_04_06_01,quiz_1_04_06_3,What does the example in the material illustrate about compliance tracking?,A) Hiring new operators without checks | B) A supervisor verifying batch record SOP adherence via logbooks to catch missed steps | C) Updating records only during audits | D) Skipping refresher sessions for experienced staff,B
+course_1,ch_1_04,les_1_04_06,topic_1_04_06_01,quiz_1_04_06_4,"Based on GMP regulations mentioned, such as USFDA 21 CFR Part 211, what consequence is highlighted for non-compliance like using untrained staff?",A) Automatic approval in inspections | B) Risks of audit failures or product recalls | C) Decreased need for documentation | D) Simplified training requirements,B
+course_1,ch_1_04,les_1_04_06,topic_1_04_06_01,quiz_1_04_06_5,The training flowchart in the visual aid starts with hiring an employee and ends with which step to maintain a GMP-compliant workforce?,A) Documenting initial assessment only | B) Conducting one-time SOP sessions | C) Ongoing refresher training followed by updating records | D) Monitoring deviations without corrections,C
+course_1,ch_1_04,les_1_04_07,topic_1_04_07_01,quiz_1_04_07_1,What characterizes an SOP deviation as per the study material?,"A) A routine update to GMP protocols |
+B) Any departure from an SOP risking product quality |
+C) An intentional change to improve efficiency |
+D) A minor correction with no GMP impact ",B
+course_1,ch_1_04,les_1_04_07,topic_1_04_07_01,quiz_1_04_07_2,What is a critical step in the deviation handling process after spotting a deviation?,"A) Halt production immediately for all issues |
+B) Conduct root cause analysis to identify causes |
+C) Skip documentation to speed up resolution |
+D) Retrain entire staff for every deviation",B
+course_1,ch_1_04,les_1_04_07,topic_1_04_07_01,quiz_1_04_07_3,How are major deviations managed according to the escalation models?,"A) Handled solely by operators without escalation |
+B) Reported to QA for thorough investigation |
+C) Ignored if product quality remains unaffected |
+D) Logged only after an audit identifies them",B
+course_1,ch_1_04,les_1_04_07,topic_1_04_07_01,quiz_1_04_07_4,What risk of poor deviation management is emphasized in the material?,"A) Enhanced batch quality and consistency |
+B) Potential for product recalls or penalties |
+C) Reduced need for detailed CAPA records |
+D) Streamlined audit preparation processes",B
+course_1,ch_1_04,les_1_04_07,topic_1_04_07_01,quiz_1_04_07_5,Which tool is suggested for effective root cause analysis in deviation handling?,"A) The “5 Whys” method to find root causes |
+B) Yearly performance evaluations for staff |
+C) Random checks of SOP compliance logs |
+D) Simplified checklists for quick updates",A
+course_1,ch_1_04,les_1_04_08,topic_1_04_08_01,quiz_1_04_08_1,What is the primary function of eSOP systems as described in the study material?,"A) Replace paper-based SOPs with digital management |
+B) Automate product manufacturing processes |
+C) Conduct employee performance reviews |
+D) Generate audit reports without user input",A
+course_1,ch_1_04,les_1_04_08,topic_1_04_08_01,quiz_1_04_08_2,What role in the access hierarchy is restricted to read-only access to eSOPs?,"A) Editor for updating SOP content |
+B) Viewer for accessing SOPs for tasks |
+C) Approver for authorizing SOP revisions |
+D) Administrator for system maintenance",B
+course_1,ch_1_04,les_1_04_08,topic_1_04_08_01,quiz_1_04_08_3,What is a key requirement of 21 CFR Part 11 for eSOP systems?,"A) Allow unrestricted access to all users |
+B) Ensure electronic records are secure and traceable |
+C) Eliminate the need for paper backups |
+D) Simplify SOP content for faster approvals",B
+course_1,ch_1_04,les_1_04_08,topic_1_04_08_01,quiz_1_04_08_4,What risk is highlighted in the material for an eSOP system lacking proper access controls?,"A) Improved audit efficiency and compliance |
+B) Potential for unauthorized SOP changes |
+C) Reduced need for version control systems |
+D) Faster distribution of SOPs to users",B
+course_1,ch_1_04,les_1_04_08,topic_1_04_08_01,quiz_1_04_08_5,"According to the pro tips, what should be used to enhance eSOP system security?","A) Basic passwords without additional checks |
+B) Strong passwords with multi-factor authentication |
+C) Single-user access for all system roles |
+D) Manual logs instead of digital audit trails",B
+course_1,ch_1_04,les_1_04_09,topic_1_04_09_01,quiz_1_04_09_1,What is a primary focus of auditors when reviewing SOPs during a GMP audit?,"A) Checking employee attendance records |
+B) Verifying SOP clarity, version control, and adherence |
+C) Evaluating the facility’s production speed |
+D) Reviewing staff vacation schedules",B
+course_1,ch_1_04,les_1_04_09,topic_1_04_09_01,quiz_1_04_09_2,What is a critical step in preparing SOPs for a regulatory audit?,"A) Limiting SOP access to senior management only |
+B) Ensuring SOPs are approved and version-controlled |
+C) Reducing the number of SOPs to simplify audits |
+D) Storing SOPs off-site to protect confidentiality",B
+course_1,ch_1_04,les_1_04_09,topic_1_04_09_01,quiz_1_04_09_3,How should staff handle auditor questions about a deviation in a batch record?,"A) Provide vague answers to avoid scrutiny |
+B) Show the CAPA log to prove resolution per SOP |
+C) Deny the deviation occurred to avoid findings |
+D) Refer auditors to unrelated SOPs for clarity",B
+course_1,ch_1_04,les_1_04_09,topic_1_04_09_01,quiz_1_04_09_4,What consequence of non-compliant SOPs is highlighted in the study material?,"A) Faster audit approvals and certifications |
+B) Risks of recalls, market bans, or sanctions |
+C) Simplified staff training requirements |
+D) Reduced need for deviation documentation",B
+course_1,ch_1_04,les_1_04_09,topic_1_04_09_01,quiz_1_04_09_5,"According to the pro tips, what practice helps identify SOP gaps before a regulatory audit?","A) Conducting mock audits internally |
+B) Updating SOPs only after audit findings |
+C) Limiting staff training to new hires |
+D) Storing records in multiple locations",A
+course_1,ch_1_04,les_1_04_10,topic_1_04_10_01,quiz_1_04_10_1,What is the purpose of the Validation Gauntlet drill as described in the study material?,"A) To automate SOP drafting processes |
+B) To simulate SOP creation, implementation, and compliance |
+C) To reduce the need for staff training |
+D) To replace GMP regulations with simpler rules",B
+course_1,ch_1_04,les_1_04_10,topic_1_04_10_01,quiz_1_04_10_2,What is a critical requirement when creating effective SOPs for GMP compliance?,"A) Using vague language to allow flexibility |
+B) Writing clear, precise, and validated procedures |
+C) Limiting SOPs to non-critical processes |
+D) Avoiding version control for simplicity",B
+course_1,ch_1_04,les_1_04_10,topic_1_04_10_01,quiz_1_04_10_3,How is SOP enforcement primarily achieved according to the material?,"A) By limiting SOP access to auditors only |
+B) Through training, compliance tracking, and CAPA |
+C) By skipping deviation handling processes |
+D) Using paper-based systems without eSOPs",B
+course_1,ch_1_04,les_1_04_10,topic_1_04_10_01,quiz_1_04_10_4,What does the Gauntlet Flow include as its final step to ensure GMP compliance?,"A) Drafting an initial SOP without validation |
+B) Facing a mock audit to test preparedness |
+C) Ignoring deviations to speed up enforcement |
+D) Reducing staff training to save time",B
+course_1,ch_1_04,les_1_04_10,topic_1_04_10_01,quiz_1_04_10_5,"According to the pro tips, what should be included in the drill to mimic real-world GMP challenges?","A) Simplified SOPs with minimal steps |
+B) Audit pressure and deviation scenarios |
+C) Exclusion of eSOP system integration |
+D) Avoidance of CAPA practice sessions",B
+course_1,ch_1_05,les_1_05_01,topic_1_05_01_01,quiz_1_05_01_1,How is a deviation defined in the context of GMP processes?,"A) A routine update to manufacturing SOPs |
+B) A departure from approved GMP processes or SOPs |
+C) An improvement to product quality standards |
+D) A minor change without documentation needs",B
+course_1,ch_1_05,les_1_05_01,topic_1_05_01_01,quiz_1_05_01_2,Which type of deviation has a direct threat to product safety or compliance?,"A) Minor deviation, like a missing log signature |
+B) Major deviation, like an incorrect material batch |
+C) Critical deviation, like a sterility failure |
+D) Routine deviation, like a planned SOP revision",C
+course_1,ch_1_05,les_1_05_01,topic_1_05_01_01,quiz_1_05_01_3,What is the first step in the first-response protocol when a deviation is spotted?,"A) Notify regulators before documenting |
+B) Identify the deviation through checks |
+C) Continue production to avoid delays |
+D) Retrain staff without containment",B
+course_1,ch_1_05,les_1_05_01,topic_1_05_01_01,quiz_1_05_01_4,What risk is highlighted for untreated deviations in the study material?,"A) Streamlined audit processes |
+B) Potential product recalls or penalties |
+C) Reduced need for staff training |
+D) Faster batch release approvals",B
+course_1,ch_1_05,les_1_05_01,topic_1_05_01_01,quiz_1_05_01_5,"According to the pro tips, what ensures audit-readiness in deviation reports?","A) Logging only major deviation details |
+B) Including who, what, when, and where |
+C) Avoiding documentation for minor issues |
+D) Delaying reports until audit requests",B
+course_1,ch_1_05,les_1_05_02,topic_1_05_02_01,quiz_1_05_02_1,What is the primary goal of immediate containment in response to a GMP deviation?,"A) To accelerate production to meet deadlines |
+B) To isolate the deviation and limit its impact |
+C) To bypass documentation for quick fixes |
+D) To retrain staff without stopping processes",B
+course_1,ch_1_05,les_1_05_02,topic_1_05_02_01,quiz_1_05_02_2,Which containment strategy involves isolating affected materials in a designated area?,"A) Process stoppage to halt production |
+B) Segregation of approved batches |
+C) Quarantine of affected materials |
+D) Immediate batch release approval",C
+course_1,ch_1_05,les_1_05_02,topic_1_05_02_01,quiz_1_05_02_3,What does an impact assessment evaluate to guide further actions?,"A) The cost of production downtime |
+B) The deviation’s effect on quality and safety |
+C) The number of staff trained on SOPs |
+D) The speed of audit preparation",B
+course_1,ch_1_05,les_1_05_02,topic_1_05_02_01,quiz_1_05_02_4,What consequence is highlighted for failing to properly contain or assess deviations?,"A) Faster regulatory approvals |
+B) Risks of recalls or regulatory penalties |
+C) Simplified compliance documentation |
+D) Reduced need for quarantine measures",B
+course_1,ch_1_05,les_1_05_02,topic_1_05_02_01,quiz_1_05_02_5,"According to the pro tips, what ensures thorough evaluation during an impact assessment?","A) Using a standardized checklist |
+B) Delaying documentation until audits |
+C) Ignoring minor deviation details |
+D) Relying on verbal reports only",A
+course_1,ch_1_05,les_1_05_03,topic_1_05_03_01,quiz_1_05_03_1,What is the primary purpose of deviation registers and logs in a GMP environment?,"A) To summarize production output data |
+B) To provide a traceable history of deviations |
+C) To replace SOPs with simpler guidelines |
+D) To track employee performance metrics",B
+course_1,ch_1_05,les_1_05_03,topic_1_05_03_01,quiz_1_05_03_2,What key information must a deviation log include for GMP compliance?,"A) Only the date and process involved |
+B) Who, what, when, and corrective actions |
+C) General notes without specific details |
+D) Production costs and downtime duration",B
+course_1,ch_1_05,les_1_05_03,topic_1_05_03_01,quiz_1_05_03_3,What does trending analysis help achieve in deviation management?,"A) Reducing the need for deviation logs |
+B) Identifying patterns to prevent recurrence |
+C) Simplifying audit preparation processes |
+D) Eliminating the need for CAPA actions",B
+course_1,ch_1_05,les_1_05_03,topic_1_05_03_01,quiz_1_05_03_4,"What risk is associated with incomplete deviation logs, as per the study material?","A) Faster audit approvals and certifications |
+B) Audit failures due to missing details |
+C) Reduced need for trending analysis |
+D) Simplified regulatory documentation",B
+course_1,ch_1_05,les_1_05_03,topic_1_05_03_01,quiz_1_05_03_5,"According to the pro tips, what tool is recommended to spot patterns quickly in trending analysis?","A) Written summaries of deviations |
+B) Charts like bar graphs for visualization |
+C) Verbal reports during team meetings |
+D) Random sampling of log entries",B
+course_1,ch_1_05,les_1_05_04,topic_1_05_04_01,quiz_1_05_04_1,What is the primary purpose of root cause analysis (RCA) in GMP deviation management?,"A) To simplify SOP documentation |
+B) To identify the true cause of deviations |
+C) To bypass audit requirements |
+D) To reduce staff training needs",B
+course_1,ch_1_05,les_1_05_04,topic_1_05_04_01,quiz_1_05_04_2,"Which tool organizes potential deviation causes into categories like People, Process, and Equipment?","A) 5 Whys Technique |
+B) Fault Tree Analysis (FTA) |
+C) Fishbone Diagram (Ishikawa) |
+D) CAPA Documentation",C
+course_1,ch_1_05,les_1_05_04,topic_1_05_04_01,quiz_1_05_04_3,How does the 5 Whys technique help in RCA?,"A) Maps complex causes with logic gates |
+B) Asks iterative questions to find the root cause |
+C) Categorizes issues into GMP standards |
+D) Replaces deviation logs for audits",B
+course_1,ch_1_05,les_1_05_04,topic_1_05_04_01,quiz_1_05_04_4,"What is a key requirement of GMP regulations for RCA, as per the material?","A) Avoiding documentation to speed up analysis |
+B) Documenting RCA with clear CAPA in reports |
+C) Limiting RCA to simple deviations only |
+D) Conducting RCA without team involvement",B
+course_1,ch_1_05,les_1_05_04,topic_1_05_04_01,quiz_1_05_04_5,"What pitfall should be avoided when using RCA tools like 5 Whys, according to the watch out section?","A) Involving multiple teams in analysis |
+B) Stopping at symptoms like “human error” |
+C) Combining tools for deeper insights |
+D) Documenting findings for audits",B
+course_1,ch_1_05,les_1_05_05,topic_1_05_05_01,quiz_1_05_05_1,What is the key difference between a symptom and a root cause in GMP deviation analysis?,"A) Symptoms are underlying issues; root causes are visible effects |
+B) Symptoms are observable effects; root causes are underlying reasons |
+C) Symptoms require CAPA; root causes do not need investigation |
+D) Symptoms are audit findings; root causes are SOP updates",B
+course_1,ch_1_05,les_1_05_05,topic_1_05_05_01,quiz_1_05_05_2,Which step is part of the systematic RCA process to identify a deviation’s true origin?,"A) Implement CAPA without data collection |
+B) Validate the root cause with evidence |
+C) Ignore logs to speed up investigations |
+D) Focus only on operator performance",B
+course_1,ch_1_05,les_1_05_05,topic_1_05_05_01,quiz_1_05_05_3,Which investigation technique involves asking “Why?” multiple times to uncover a root cause?,"A) Fishbone Diagram |
+B) Fault Tree Analysis |
+C) 5 Whys Technique |
+D) Data Log Review",C
+course_1,ch_1_05,les_1_05_05,topic_1_05_05_01,quiz_1_05_05_4,"What risk is highlighted for ineffective RCA, according to the study material?","A) Simplified audit preparation processes |
+B) Recurring deviations and regulatory penalties |
+C) Reduced need for deviation documentation |
+D) Faster product batch release approvals",B
+course_1,ch_1_05,les_1_05_05,topic_1_05_05_01,quiz_1_05_05_5,"According to the pro tips, what should be done to ensure accurate RCA findings?","A) Accept “human error” as the final cause |
+B) Confirm root causes with data like logs |
+C) Limit analysis to a single RCA tool |
+D) Skip validation to expedite CAPA",B
+course_1,ch_1_05,les_1_05_06,topic_1_05_06_01,quiz_1_05_06_1,What is the key difference between human error and systemic failure in GMP deviations?,"A) Human error is a process flaw; systemic failure is an individual mistake |
+B) Human error is an individual mistake; systemic failure is a process flaw |
+C) Both are caused by outdated equipment |
+D) Both require the same CAPA approach",B
+course_1,ch_1_05,les_1_05_06,topic_1_05_06_01,quiz_1_05_06_2,"How can human error typically be addressed, according to the study material?","A) By replacing all equipment involved |
+B) Through retraining or improved supervision |
+C) By simplifying GMP regulations |
+D) By ignoring minor deviations",B
+course_1,ch_1_05,les_1_05_06,topic_1_05_06_01,quiz_1_05_06_3,Which tool helps distinguish human error from systemic failure by asking questions like “Was the SOP clear?”,"A) CAPA Documentation |
+B) Decision Tree Analysis |
+C) Batch Production Log |
+D) Employee Performance Review",B
+course_1,ch_1_05,les_1_05_06,topic_1_05_06_01,quiz_1_05_06_4,"What risk is associated with misidentifying a deviation’s cause, as per the material?","A) Faster audit approvals |
+B) Ineffective solutions and recurring issues |
+C) Reduced need for RCA tools |
+D) Simplified deviation documentation",B
+course_1,ch_1_05,les_1_05_06,topic_1_05_06_01,quiz_1_05_06_5,"According to the pro tips, what should be avoided to ensure accurate cause distinction?","A) Using RCA tools like Fishbone or 5 Whys |
+B) Defaulting to human error as the cause |
+C) Documenting findings for audit scrutiny |
+D) Cross-checking training records",B
+course_1,ch_1_05,les_1_05_07,topic_1_05_07_01,quiz_1_05_07_1,What is the primary role of evidence in GMP deviation management?,"A) To simplify SOP creation processes |
+B) To provide a verifiable record of deviation resolution |
+C) To replace the need for root cause analysis |
+D) To track employee performance metrics",B
+course_1,ch_1_05,les_1_05_07,topic_1_05_07_01,quiz_1_05_07_2,What must a deviation report include to ensure GMP compliance?,"A) Only the deviation ID and date |
+B) Deviation description, impact, and CAPA |
+C) General notes without specific actions |
+D) Production costs and staff schedules",B
+course_1,ch_1_05,les_1_05_07,topic_1_05_07_01,quiz_1_05_07_3,What is the purpose of a witness report in deviation investigations?,"A) To summarize audit findings for regulators |
+B) To provide a firsthand account of the deviation |
+C) To replace deviation logs with verbal statements |
+D) To document unrelated process improvements",B
+course_1,ch_1_05,les_1_05_07,topic_1_05_07_01,quiz_1_05_07_4,What consequence is highlighted for missing witness reports in a deviation investigation?,"A) Faster audit approvals and certifications |
+B) Undermined investigation credibility and audit failure |
+C) Reduced need for proof trail documentation |
+D) Simplified CAPA implementation processes",B
+course_1,ch_1_05,les_1_05_07,topic_1_05_07_01,quiz_1_05_07_5,"According to the pro tips, what ensures accuracy in deviation documentation?","A) Delaying reports until after audits |
+B) Logging deviations in real-time |
+C) Limiting details to avoid confusion |
+D) Relying on verbal witness accounts",B
+course_1,ch_1_05,les_1_05_08,topic_1_05_08_01,quiz_1_05_08_1,What is the purpose of the escalation ladder in GMP deviation management?,"A) To simplify SOP creation processes |
+B) To route deviations to appropriate authority levels |
+C) To eliminate the need for deviation logs |
+D) To reduce staff training requirements",B
+course_1,ch_1_05,les_1_05_08,topic_1_05_08_01,quiz_1_05_08_2,"How are minor deviations typically handled, according to the study material?","A) Escalated to senior management immediately |
+B) Resolved locally by operators or supervisors |
+C) Ignored to avoid audit complications |
+D) Reported to regulators without investigation",B
+course_1,ch_1_05,les_1_05_08,topic_1_05_08_01,quiz_1_05_08_3,What action is required for a critical deviation like a sterility failure?,"A) Correct locally without documentation |
+B) Escalate to management and regulatory teams |
+C) Log as a minor issue for supervisor review |
+D) Continue production to assess impact later",B
+course_1,ch_1_05,les_1_05_08,topic_1_05_08_01,quiz_1_05_08_4,"What risk is associated with under-escalating major or critical deviations, as per the material?","A) Simplified audit preparation processes |
+B) Unresolved issues and potential audit findings |
+C) Reduced need for CAPA documentation |
+D) Faster regulatory approval timelines",B
+course_1,ch_1_05,les_1_05_08,topic_1_05_08_01,quiz_1_05_08_5,"According to the pro tips, what ensures swift and accurate deviation handling?","A) Using clear criteria to classify deviations |
+B) Delaying escalation until audit requests |
+C) Limiting documentation to major issues |
+D) Avoiding staff training on escalation",A
+course_1,ch_1_05,les_1_05_09,topic_1_05_09_01,quiz_1_05_09_1,What is the primary purpose of a deviation case battle simulation in GMP environments?,"A) To simplify SOP creation processes |
+B) To test end-to-end deviation management skills |
+C) To reduce the need for deviation logs |
+D) To replace real audits with simulations",B
+course_1,ch_1_05,les_1_05_09,topic_1_05_09_01,quiz_1_05_09_2,Which Module 5 skill involves using Fishbone or 5 Whys to identify the root cause of a deviation?,"A) Containment and quarantine strategies |
+B) Root cause analysis (RCA) application |
+C) Logging deviations in registers |
+D) Compiling witness reports only",B
+course_1,ch_1_05,les_1_05_09,topic_1_05_09_01,quiz_1_05_09_3,What is a critical step in running a deviation case battle simulation?,"A) Ignoring minor deviations to save time |
+B) Responding to mock auditor questions with proof trails |
+C) Skipping RCA to focus on containment |
+D) Limiting documentation to verbal reports",B
+course_1,ch_1_05,les_1_05_09,topic_1_05_09_01,quiz_1_05_09_4,What risk is highlighted for skipping steps like containment or RCA in a simulation?,"A) Faster resolution of deviations |
+B) Incomplete resolution and audit failures |
+C) Reduced need for proof trail evidence |
+D) Simplified regulatory compliance checks",B
+course_1,ch_1_05,les_1_05_09,topic_1_05_09_01,quiz_1_05_09_5,"According to the pro tips, what should be included in the simulation to mimic real-world stress?","A) Time constraints and mock auditors |
+B) Simplified deviation scenarios only |
+C) Exclusion of escalation processes |
+D) Minimal documentation practice",A
+course_1,ch_1_06,les_1_06_01,topic_1_06_01_01,quiz_1_06_01_1,What is the primary purpose of CAPA in GMP deviation management?,"A) To simplify SOP documentation processes |
+B) To address deviations and prevent recurrence |
+C) To reduce the need for deviation logs |
+D) To replace root cause analysis tools",B
+course_1,ch_1_06,les_1_06_01,topic_1_06_01_01,quiz_1_06_01_2,What is a key component of a corrective action in a CAPA system?,"A) Preventing future deviations |
+B) Fixing an existing deviation or issue |
+C) Simplifying audit requirements |
+D) Updating employee performance records",B
+course_1,ch_1_06,les_1_06_01,topic_1_06_01_01,quiz_1_06_01_3,What do GMP regulations require for CAPA systems to ensure audit-readiness?,"A) Evidence of root cause resolution and preventive measures |
+B) Minimal documentation to speed up processes |
+C) Exclusion of escalation paths for minor issues |
+D) Avoidance of effectiveness checks for CAPA",A
+course_1,ch_1_06,les_1_06_01,topic_1_06_01_01,quiz_1_06_01_4,"What risk is highlighted for weak CAPA documentation, according to the material?","A) Faster regulatory approvals |
+B) Audit failures or production halts |
+C) Reduced need for proof trails |
+D) Simplified deviation investigations",B
+course_1,ch_1_06,les_1_06_01,topic_1_06_01_01,quiz_1_06_01_5,"According to the pro tips, what ensures CAPA prevents deviation recurrence?","A) Skipping follow-up effectiveness checks |
+B) Conducting follow-up checks to verify CAPA |
+C) Focusing only on corrective actions |
+D) Delaying CAPA implementation timelines",B
+course_1,ch_1_06,les_1_06_02,topic_1_06_02_01,quiz_1_06_02_1,What is the primary purpose of the CAPA lifecycle in GMP environments?,"A) To simplify deviation documentation processes |
+B) To address and prevent quality issues systematically |
+C) To reduce the need for audit preparation |
+D) To replace root cause analysis with quick fixes",B
+course_1,ch_1_06,les_1_06_02,topic_1_06_02_01,quiz_1_06_02_2,What is a key activity during the Identification and Evaluation stage of the CAPA lifecycle?,"A) Implementing corrective actions immediately |
+B) Assessing the severity and impact of deviations |
+C) Closing the CAPA without verification |
+D) Skipping RCA for minor deviations",B
+course_1,ch_1_06,les_1_06_02,topic_1_06_02_01,quiz_1_06_02_3,Which tool is used in the Investigation stage to pinpoint the root cause of a deviation?,"A) Deviation log summaries |
+B) 5 Whys or Ishikawa diagrams |
+C) Employee performance reviews |
+D) Production schedule updates",B
+course_1,ch_1_06,les_1_06_02,topic_1_06_02_01,quiz_1_06_02_4,"What risk is associated with poor CAPA documentation, as per the study material?","A) Faster regulatory approvals |
+B) Failure in WHO or EU GMP inspections |
+C) Reduced need for proof trails |
+D) Simplified deviation resolution",B
+course_1,ch_1_06,les_1_06_02,topic_1_06_02_01,quiz_1_06_02_5,"According to the pro tips, what helps streamline CAPA tracking and reporting?","A) Relying on manual paper records only |
+B) Using Quality Management System software |
+C) Limiting CAPA to minor deviations |
+D) Avoiding cross-functional team involvement",B
+course_1,ch_1_06,les_1_06_03,topic_1_06_03_01,quiz_1_06_03_1,What is the primary benefit of using machine learning for deviation detection in GMP environments?,"A) Simplifying SOP documentation |
+B) Faster identification of patterns and trends |
+C) Replacing manual CAPA processes |
+D) Reducing the need for audit trails",B
+course_1,ch_1_06,les_1_06_03,topic_1_06_03_01,quiz_1_06_03_2,Which type of ML model is best suited for detecting unknown anomaly patterns in GMP data?,"A) Supervised Learning |
+B) Reinforcement Learning |
+C) Unsupervised Learning |
+D) Manual Data Analysis",C
+course_1,ch_1_06,les_1_06_03,topic_1_06_03_01,quiz_1_06_03_3,What is a critical data requirement for effective ML deviation detection in GMP settings?,"A) Incomplete or unstructured data |
+B) Accurate and GMP-compliant data |
+C) Data limited to employee records |
+D) Non-validated data sources",B
+course_1,ch_1_06,les_1_06_03,topic_1_06_03_01,quiz_1_06_03_4,What regulatory risk is associated with using unvalidated ML models for deviation detection?,"A) Faster FDA audit approvals |
+B) Triggering FDA 483 observations |
+C) Eliminating audit trail requirements |
+D) Simplifying GMP compliance checks",B
+course_1,ch_1_06,les_1_06_03,topic_1_06_03_01,quiz_1_06_03_5,"According to the pro tips, what should be done to ensure ML models meet regulatory standards?","A) Use unvalidated models for quick results |
+B) Validate models per GAMP 5 guidelines |
+C) Exclude ML outputs from QMS integration |
+D) Rely solely on AI without human review",B
+course_1,ch_1_06,les_1_06_04,topic_1_06_04_01,quiz_1_06_04_1,What is the primary function of automated alerts in GMP environments?,"A) To replace manual CAPA documentation |
+B) To notify teams of deviations in real time |
+C) To simplify audit preparation processes |
+D) To reduce the need for risk prioritization",B
+course_1,ch_1_06,les_1_06_04,topic_1_06_04_01,quiz_1_06_04_2,What is a key benefit of using dashboards for CAPA oversight?,"A) Eliminating the need for QMS integration |
+B) Providing real-time visibility into CAPA metrics |
+C) Limiting data to non-critical deviations |
+D) Replacing RCA with automated analysis",B
+course_1,ch_1_06,les_1_06_04,topic_1_06_04_01,quiz_1_06_04_3,How does risk prioritization support CAPA processes in GMP settings?,"A) By ignoring low-risk deviations entirely |
+B) By ranking deviations based on severity and impact |
+C) By delaying CAPA for high-risk issues |
+D) By reducing documentation requirements",B
+course_1,ch_1_06,les_1_06_04,topic_1_06_04_01,quiz_1_06_04_4,"What risk is associated with poor system integration in smart trigger tools, according to the material?","A) Faster regulatory approvals |
+B) Incomplete CAPA data and audit failures |
+C) Reduced need for validated systems |
+D) Simplified deviation tracking processes",B
+course_1,ch_1_06,les_1_06_04,topic_1_06_04_01,quiz_1_06_04_5,"According to the pro tips, what ensures alert and dashboard tools meet FDA inspection standards?","A) Using unvalidated software for quick setup |
+B) Validating systems per GAMP 5 guidelines |
+C) Avoiding integration with QMS tools |
+D) Setting vague alert thresholds",B
+course_1,ch_1_06,les_1_06_05,topic_1_06_05_01,quiz_1_06_05_1,What is the primary difference between local and global CAPA processes in GMP environments?,"A) Local CAPAs address systemic issues; global CAPAs are site-specific |
+B) Local CAPAs are site-specific; global CAPAs address multi-site issues |
+C) Local CAPAs require no documentation; global CAPAs need QMS |
+D) Local CAPAs involve regulators; global CAPAs are internal",B
+course_1,ch_1_06,les_1_06_05,topic_1_06_05_01,quiz_1_06_05_2,What triggers the escalation of a deviation from local to global CAPA?,"A) Low-risk, single-site deviations |
+B) High-risk or multi-site deviation impact |
+C) Routine SOP updates without issues |
+D) Minor documentation errors",B
+course_1,ch_1_06,les_1_06_05,topic_1_06_05_01,quiz_1_06_05_3,What is a key requirement for GMP-compliant CAPA documentation in escalation pathways?,"A) Recording only local CAPA decisions |
+B) Documenting escalation in QMS per 21 CFR Part 11 |
+C) Avoiding audit trails for faster processing |
+D) Limiting records to verbal agreements",B
+course_1,ch_1_06,les_1_06_05,topic_1_06_05_01,quiz_1_06_05_4,"What risk is associated with delayed escalation of high-risk deviations, according to the material?","A) Simplified audit preparation processes |
+B) Regulatory violations or product recalls |
+C) Reduced need for QMS integration |
+D) Faster CAPA implementation timelines",B
+course_1,ch_1_06,les_1_06_05,topic_1_06_05_01,quiz_1_06_05_5,"According to the pro tips, what ensures consistency in escalation decisions across sites?","A) Using standardized communication templates |
+B) Limiting escalation to minor deviations |
+C) Avoiding risk assessment tools like FMEA |
+D) Relying on informal team discussions",A
+course_1,ch_1_06,les_1_06_06,topic_1_06_06_01,quiz_1_06_06_1,"According to the pro tips, what drives precise corrective and preventive strategies?","A) Avoiding deviation logs entirely |
+B) Thorough RCA and trend analysis |
+C) Focusing only on corrective fixes |
+D) Limiting documentation to audits",B
+course_1,ch_1_06,les_1_06_06,topic_1_06_06_01,quiz_1_06_06_2,What risk is associated with misclassifying corrective and preventive actions?,"A) Faster regulatory approvals |
+B) Confused auditors and weaker CAPA |
+C) Reduced need for trend analysis |
+D) Simplified QMS documentation",B
+course_1,ch_1_06,les_1_06_06,topic_1_06_06_01,quiz_1_06_06_3,What is a key regulatory requirement for CAPA actions to ensure GMP compliance?,"A) Avoiding documentation for quick fixes |
+B) Recording actions in QMS with evidence |
+C) Limiting actions to corrective measures |
+D) Excluding preventive actions from audits",B
+course_1,ch_1_06,les_1_06_06,topic_1_06_06_01,quiz_1_06_06_4,"How does a preventive action differ from a corrective action, according to the material?","A) It addresses existing non-conformances |
+B) It proactively mitigates future risks |
+C) It eliminates the need for RCA |
+D) It focuses on employee performance",B
+course_1,ch_1_06,les_1_06_06,topic_1_06_06_01,quiz_1_06_06_5,What is the primary focus of a corrective action in a GMP CAPA system?,"A) Preventing potential deviations |
+B) Fixing existing deviations or issues |
+C) Simplifying audit documentation |
+D) Reducing staff training requirements",B
+course_1,ch_1_06,les_1_06_07,topic_1_06_07_01,quiz_1_06_07_1,What is the primary role of AI in root cause analysis (RCA) for GMP deviations?,"A) Simplifying SOP documentation processes |
+B) Analyzing data to verify true causes of deviations |
+C) Replacing manual CAPA investigations entirely |
+D) Reducing the need for audit trail records",B
+course_1,ch_1_06,les_1_06_07,topic_1_06_07_01,quiz_1_06_07_2,Which AI tool is best suited for identifying complex patterns in GMP deviation data?,"A) Statistical Models |
+B) Machine Learning |
+C) Manual Log Reviews |
+D) Employee Surveys",B
+course_1,ch_1_06,les_1_06_07,topic_1_06_07_01,quiz_1_06_07_3,What is a critical requirement for AI-driven RCA to meet GMP regulatory standards?,"A) Using incomplete or unverified data |
+B) Ensuring data integrity per EU GMP Annex 11 |
+C) Avoiding integration with QMS or LIMS |
+D) Limiting data to single-source inputs",B
+course_1,ch_1_06,les_1_06_07,topic_1_06_07_01,quiz_1_06_07_4,"What risk is associated with using unvalidated AI tools for RCA, according to the material?","A) Faster FDA audit approvals |
+B) Triggering FDA 483 observations |
+C) Eliminating documentation needs |
+D) Simplifying CAPA verification",B
+course_1,ch_1_06,les_1_06_07,topic_1_06_07_01,quiz_1_06_07_5,"According to the pro tips, what enhances the comprehensiveness of AI-driven RCA verification?","A) Relying solely on AI without human review |
+B) Combining QMS, LIMS, and ERP data |
+C) Limiting data to batch records only |
+D) Skipping GAMP 5 validation steps",B
+course_1,ch_1_06,les_1_06_08,topic_1_06_08_01,quiz_1_06_08_1,What is the primary role of QMS in CAPA integration for GMP compliance?,"A) Replacing laboratory test data |
+B) Managing CAPA workflows and documentation |
+C) Simplifying clinical trial protocols |
+D) Reducing the need for audit trails",B
+course_1,ch_1_06,les_1_06_08,topic_1_06_08_01,quiz_1_06_08_2,How does LIMS integration support CAPA processes in GMP environments?,"A) By storing regulatory submission documents |
+B) By providing lab data for deviation analysis |
+C) By eliminating the need for RCA tools |
+D) By managing employee training records",B
+course_1,ch_1_06,les_1_06_08,topic_1_06_08_01,quiz_1_06_08_3,What is a key benefit of integrating CAPA with eTMF systems?,"A) Enhancing document control for regulatory audits |
+B) Automating batch production processes |
+C) Reducing the need for data integrity checks |
+D) Simplifying equipment maintenance logs",A
+course_1,ch_1_06,les_1_06_08,topic_1_06_08_01,quiz_1_06_08_4,"According to the pro tips, what reduces manual errors in CAPA integration?","A) Avoiding data sharing between systems |
+B) Setting up real-time data flow automation |
+C) Using inconsistent CAPA workflows |
+D) Limiting integration to one system",B
+course_1,ch_1_06,les_1_06_08,topic_1_06_08_01,quiz_1_06_08_5,"What risk is associated with using unvalidated QMS, LIMS, or eTMF systems for CAPA?","A) Faster FDA audit approvals |
+B) Triggering FDA 483 observations |
+C) Eliminating documentation requirements |
+D) Simplifying CAPA workflow processes",B
+course_1,ch_1_06,les_1_06_09,topic_1_06_09_01,quiz_1_06_09_1,"What is a key focus of FDA inspections regarding CAPA processes, per the study material?","A) Simplifying deviation documentation |
+B) Evaluating RCA quality and audit trails |
+C) Reducing the need for preventive actions |
+D) Reviewing employee training schedules",B
+course_1,ch_1_06,les_1_06_09,topic_1_06_09_01,quiz_1_06_09_2,What does WHO emphasize in CAPA processes during inspections?,"A) Risk-based prioritization and global consistency |
+B) Eliminating the need for audit trails |
+C) Focusing only on corrective actions |
+D) Simplifying SOP revision processes",A
+course_1,ch_1_06,les_1_06_09,topic_1_06_09_01,quiz_1_06_09_3,What characterizes a successful CAPA in an audit scenario?,"A) Addressing symptoms without RCA |
+B) Resolving issues with thorough documentation |
+C) Ignoring minor deviations for efficiency |
+D) Delaying closure until audit completion",B
+course_1,ch_1_06,les_1_06_09,topic_1_06_09_01,quiz_1_06_09_4,What risk is associated with incomplete CAPA documentation during audits?,"A) Faster regulatory approvals |
+B) Triggering FDA 483 or WHO findings |
+C) Reduced need for QMS integration |
+D) Simplified CAPA verification processes",B
+course_1,ch_1_06,les_1_06_09,topic_1_06_09_01,quiz_1_06_09_5,"According to the pro tips, what helps test CAPA robustness before real audits?","A) Avoiding documentation of RCA steps |
+B) Conducting mock FDA/WHO inspections |
+C) Limiting CAPA to corrective actions |
+D) Skipping verification of CAPA effectiveness",B
+course_1,ch_1_06,les_1_06_10,topic_1_06_10_01,quiz_1_06_10_1,What is the primary purpose of the CAPA War Room in GMP environments?,"A) To simplify SOP creation processes |
+B) To train teams in deviation response and CAPA execution |
+C) To replace real audits with simulations |
+D) To reduce the need for QMS documentation",B
+course_1,ch_1_06,les_1_06_10,topic_1_06_10_01,quiz_1_06_10_2,How do AI-simulated escalation drills support CAPA processes?,"A) By eliminating the need for root cause analysis |
+B) By testing escalation pathways with realistic scenarios |
+C) By limiting CAPA to local site issues only |
+D) By automating all CAPA closure steps",B
+course_1,ch_1_06,les_1_06_10,topic_1_06_10_01,quiz_1_06_10_3,What is a key focus of full CAPA closure drills in the War Room?,"A) Skipping verification to speed up processes |
+B) Ensuring timely, audit-ready closure with QMS records |
+C) Avoiding cross-functional team involvement |
+D) Focusing only on minor deviations",B
+course_1,ch_1_06,les_1_06_10,topic_1_06_10_01,quiz_1_06_10_4,"What risk is associated with incomplete documentation in War Room drills, according to the material?","A) Faster FDA audit approvals |
+B) Weakened performance in real audits |
+C) Reduced need for AI simulations |
+D) Simplified CAPA workflow processes",B
+course_1,ch_1_06,les_1_06_10,topic_1_06_10_01,quiz_1_06_10_5,"According to the pro tips, what improves the realism of War Room scenarios?","A) Using generic scenarios without data |
+B) Feeding historical deviation data into AI |
+C) Excluding production team input |
+D) Limiting drills to closure steps only",B
 course_1,ch_1_07,les_1_07_01,topic_1_07_01_01,quiz_1_07_01_1,,,
 course_1,ch_1_07,les_1_07_01,topic_1_07_01_01,quiz_1_07_01_2,,,
 course_1,ch_1_07,les_1_07_01,topic_1_07_01_01,quiz_1_07_01_3,,,
@@ -884,7 +1448,6 @@ course_1,ch_1_12,les_1_12_10,topic_1_12_10_01,quiz_1_12_10_2,,,
 course_1,ch_1_12,les_1_12_10,topic_1_12_10_01,quiz_1_12_10_3,,,
 course_1,ch_1_12,les_1_12_10,topic_1_12_10_01,quiz_1_12_10_4,,,
 course_1,ch_1_12,les_1_12_10,topic_1_12_10_01,quiz_1_12_10_5,,,
-,,,,,,,
 course_2,ch_2_01,les_2_01_01,topic_2_01_01_01,quiz_2_01_01_1,,,
 course_2,ch_2_01,les_2_01_01,topic_2_01_01_01,quiz_2_01_01_2,,,
 course_2,ch_2_01,les_2_01_01,topic_2_01_01_01,quiz_2_01_01_3,,,
@@ -1485,9 +2048,6 @@ course_2,ch_2_12,les_2_12_10,topic_2_12_10_01,quiz_2_12_10_2,,,
 course_2,ch_2_12,les_2_12_10,topic_2_12_10_01,quiz_2_12_10_3,,,
 course_2,ch_2_12,les_2_12_10,topic_2_12_10_01,quiz_2_12_10_4,,,
 course_2,ch_2_12,les_2_12_10,topic_2_12_10_01,quiz_2_12_10_5,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
 course_3,ch_3_01,les_3_01_01,topic_3_01_01_01,quiz_3_01_01_1,,,
 course_3,ch_3_01,les_3_01_01,topic_3_01_01_01,quiz_3_01_01_2,,,
 course_3,ch_3_01,les_3_01_01,topic_3_01_01_01,quiz_3_01_01_3,,,
@@ -2088,10 +2648,6 @@ course_3,ch_3_12,les_3_12_10,topic_3_12_10_01,quiz_3_12_10_2,,,
 course_3,ch_3_12,les_3_12_10,topic_3_12_10_01,quiz_3_12_10_3,,,
 course_3,ch_3_12,les_3_12_10,topic_3_12_10_01,quiz_3_12_10_4,,,
 course_3,ch_3_12,les_3_12_10,topic_3_12_10_01,quiz_3_12_10_5,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
 course_4,ch_4_01,les_4_01_01,topic_4_01_01_01,quiz_4_01_01_1,,,
 course_4,ch_4_01,les_4_01_01,topic_4_01_01_01,quiz_4_01_01_2,,,
 course_4,ch_4_01,les_4_01_01,topic_4_01_01_01,quiz_4_01_01_3,,,
