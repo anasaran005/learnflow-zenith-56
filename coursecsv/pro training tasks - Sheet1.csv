@@ -1,10 +1,8 @@
 courseId,courseName,chapterId,chapterName,lessonId,lessonName,taskId,taskTitle,scenario,pdfUrls,tallyUrls,answerKeyUrl,xp,instructions
 course_1,QA/QC,ch_1_01,Foundations of Quality Warfare,les_1_01_01,Entering the Battlefield – QMS Basics & SOP Gap Review,task_1_01_01_1,QMS Compliance Check,"Welcome to your first mission as a Junior Quality Control Analyst at Zenith Pharma Labs!
-
 Your supervisor, Ms. Rhea Patel, Quality Assurance Supervisor, needs you to ensure the lab’s Quality Management System (QMS) is on point. You’ve been tasked with checking if the lab’s batch record-keeping follows the QMS rules outlined in the SOP. Your job is to review the SOP, compare it to a lab observation, and fill out a Compliance Verification Form to confirm if the process is compliant or flag any issues. This keeps the lab’s operations safe and reliable, like a well-coordinated army following its playbook.
 
 CheckList:
-
 1. Review the SOP for batch record-keeping.
 2. Compare it to a lab observation to check compliance.
 3. Complete the Compliance Verification Form (100–150 words) to report your findings.
@@ -24,7 +22,6 @@ course_1,QA/QC,ch_1_01,Foundations of Quality Warfare,les_1_01_02,Control the Ar
 During a routine document audit, you notice that the SOP for sample storage (SOP-QC-002, v1.0) requires samples to be stored at 2–8°C, but the lab’s refrigerator log shows temperatures occasionally reaching 10°C due to a missing maintenance check step. Mr. Desai asks you to propose an update to the SOP using a Document Change Request (DCR) Form to add a daily maintenance check.
 
 Deliverable
-
 Completed Document Change Request (DCR) Form (100–150 words) identifying the SOP gap and proposing the addition of a daily refrigerator maintenance check.",https://drive.google.com/file/d/1y6RVPyWpTB_SD0sskQDxt5S8GbQxM4U4/view?usp=sharing,https://tally.so/r/wbJPeo,https://drive.google.com/file/d/1kt87iFAUiZUiOGBjjk6pkzhtk98MHi2k/view?usp=sharing,10,"Click “Reference Documents” to review SOP-QC-002 and the refrigerator log.
 Compare SOP (requires 2–8°C storage, no maintenance step) to the log (shows temperature deviations).
 Open “Fillable Document” (DCR Form).
@@ -33,7 +30,6 @@ Submit via “Answer Portal.”"
 course_1,QA/QC,ch_1_01,Foundations of Quality Warfare,les_1_01_03,Spot the Breach – Deviation Detection & Rapid Reporting,task_1_01_03_1,Detecting and Classifying a Deviation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Ms. Priya Sharma, Quality Assurance Supervisor. During a routine in-process check (IPC) of a tablet batch (Batch No. TAB-2025-047), you notice that the tablet weight recorded by the automated weighing machine is 495 mg, below the SOP-QC-003 requirement of 500 ± 5 mg. After checking, you find the weighing machine was not calibrated before the shift, causing the deviation. Ms. Sharma instructs you to document this using the Deviation and Incident Report Form and propose immediate containment actions.
 
 Deliverable
-
 Completed Deviation and Incident Report Form (100–150 words total across fields) documenting the weight deviation, its cause, and containment actions.",https://drive.google.com/file/d/11Pqhs4bKzotVdEmLs_kL3RpEshaiO4HP/view?usp=sharing,https://tally.so/r/3jVqb9,https://drive.google.com/file/d/1E7UVvyWtPSCLChXVtLDwIOFv95C4h3cj/view?usp=sharing,10,"Click “Reference Documents” to review SOP-QC-003 and IPC Log.
 Compare SOP (tablet weight 500 ± 5 mg) to IPC Log (weight 495 mg).
 Open “Fillable Document” (Deviation and Incident Report Form).
@@ -41,7 +37,8 @@ Fill the form: Describe the deviation (low weight), identify cause (uncalibrated
 Submit via “Answer Portal.”"
 course_1,QA/QC,ch_1_01,Foundations of Quality Warfare,les_1_01_04,Strike Back – Root Cause Analysis & CAPA Drafting,task_1_01_04_1,The Mystery of the Failing Cold Room,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Mr. Anil Gupta, Quality Assurance Manager. During a routine dissolution test for tablet batch TAB-2025-049, 3 out of 20 tablets failed to meet the SOP-QC-004 dissolution specification (≥80% dissolution in 30 minutes). Initial investigation points to inconsistent granulation time. Mr. Gupta instructs you to perform a root cause analysis (RCA) using the 5 Whys method and document corrective and preventive actions using the CAPA Command Template.
 
-Deliverable: Completed CAPA Command Template (100–150 words total across descriptive fields) documenting the root cause of the dissolution failure and proposing corrective and preventive actions.",https://drive.google.com/file/d/1lS8dLuDj7nq_pBJ-gJuvkEM6uKwkAt10/view?usp=sharing,https://tally.so/r/mDGOYl,https://drive.google.com/file/d/1XuYqWUXV9iFj_VOmxN5zzPxP-k-wiEBb/view?usp=sharing,10,"Click “Reference Documents” to review SOP-QC-004 and Dissolution Test Log.
+Deliverable: 
+Completed CAPA Command Template (100–150 words total across descriptive fields) documenting the root cause of the dissolution failure and proposing corrective and preventive actions.",https://drive.google.com/file/d/1lS8dLuDj7nq_pBJ-gJuvkEM6uKwkAt10/view?usp=sharing,https://tally.so/r/mDGOYl,https://drive.google.com/file/d/1XuYqWUXV9iFj_VOmxN5zzPxP-k-wiEBb/view?usp=sharing,10,"Click “Reference Documents” to review SOP-QC-004 and Dissolution Test Log.
 Use the 5 Whys method to identify the root cause (start with: tablets failed dissolution test).
 Open “Fillable Document” (CAPA Command Template).
 Fill the form: Describe the issue, document RCA findings, propose corrective actions (e.g., retrain operators), and preventive actions (e.g., update equipment settings), assign responsibilities, and set deadlines.
@@ -56,7 +53,8 @@ Fill the form: Check relevant criteria (e.g., Documentation complete and accurat
 Submit via “Answer Portal.”"
 course_1,QA/QC,ch_1_01,Foundations of Quality Warfare,les_1_01_06,Defend the Lab – OOS/OOT Identification & First-line Investigation,task_1_01_06_1,OOS Identification and First-line Investigation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Ms. Priya Sharma, Quality Assurance Supervisor. During a routine purity test for raw material batch RM-2025-105, the HPLC test result shows a purity of 98.5%, below the SOP-QC-006 specification of ≥99.5%. Initial checks suggest a possible lab error in sample preparation. Ms. Sharma instructs you to document the OOS result and perform a first-line investigation using the Deviation and Incident Report Form, noting immediate actions and initial findings.
 
-Deliverable: Completed Deviation and Incident Report Form (100–150 words total across Incident Description, Immediate Action Taken, Root Cause Analysis, CAPA Details) documenting the OOS result, immediate actions, and initial investigation findings.",https://drive.google.com/file/d/1wTls81wwbIgvuyF200uR2wvTn1RrQ3BB/view?usp=sharing,https://tally.so/r/3jVqb9,https://drive.google.com/file/d/11FmFmPckN-p-Fi83L-9PlpaknjLjnwqC/view?usp=sharing,10,"Click “Reference Documents” to review SOP-QC-006 and HPLC Test Log.
+Deliverable: 
+Completed Deviation and Incident Report Form (100–150 words total across Incident Description, Immediate Action Taken, Root Cause Analysis, CAPA Details) documenting the OOS result, immediate actions, and initial investigation findings.",https://drive.google.com/file/d/1wTls81wwbIgvuyF200uR2wvTn1RrQ3BB/view?usp=sharing,https://tally.so/r/3jVqb9,https://drive.google.com/file/d/11FmFmPckN-p-Fi83L-9PlpaknjLjnwqC/view?usp=sharing,10,"Click “Reference Documents” to review SOP-QC-006 and HPLC Test Log.
 Compare SOP-QC-006 (purity ≥99.5%) to HPLC Test Log (98.5% purity).
 Open “Fillable Document” (Deviation and Incident Report Form).
 Fill the form: Describe the OOS result, note immediate actions (e.g., quarantine batch, recheck data), provide initial RCA (e.g., possible sample preparation error), propose corrective/preventive actions, and assign responsibilities.
@@ -71,7 +69,8 @@ Fill the form: Check criteria (e.g., Documentation complete and accurate: B - FA
 Submit via “Answer Portal.”"
 course_1,QA/QC,ch_1_01,Foundations of Quality Warfare,les_1_01_08,Full-Scale Operation – Deviation to CAPA Lifecycle Simulation,task_1_01_08_1,Deviation to CAPA Lifecycle Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Ms. Rhea Patel, QA Manager. During a routine hardness test for tablet batch TAB-2025-055, the result is 3.5 kg, below the SOP-QC-008 specification of 4–6 kg (deviation detected). 
 
-Initial assessment shows major impact on product quality, and RCA reveals a machine malfunction due to overdue maintenance. Ms. Patel instructs you to simulate the full Deviation to CAPA lifecycle using two forms: 
+Initial assessment shows major impact on product quality, and RCA reveals a machine malfunction due to overdue maintenance. 
+Ms. Patel instructs you to simulate the full Deviation to CAPA lifecycle using two forms: 
 
 1. Deviation and Incident Report Form for detection, logging, assessment, containment, and RCA.
 2. CAPA Command Template for drafting corrective/preventive actions, implementation, verification, and closure. 
@@ -982,4 +981,3 @@ course_6,,ch_6_12,,les_6_12_07,,task_6_12_07_1,,,,,,,
 course_6,,ch_6_12,,les_6_12_08,,task_6_12_08_1,,,,,,,
 course_6,,ch_6_12,,les_6_12_09,,task_6_12_09_1,,,,,,,
 course_6,,ch_6_12,,les_6_12_10,,task_6_12_10_1,,,,,,,
-
