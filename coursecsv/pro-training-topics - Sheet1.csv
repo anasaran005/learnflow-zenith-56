@@ -1,5 +1,5 @@
 courseId,chapterId,lessonId,topicId,topicTitle,videoUrl,description,order
-course_1,ch_1_01,les_1_01_01,topic_1_01_01_1,Entering the Battlefield – QMS Basics & SOP Gap Review,https://www.youtube.com/watch?v=rAfeJBhGwYQ,"Unlock the essentials of Quality Management Systems (QMS) and discover how to identify and fix SOP gaps. This video provides quick, practical insights to boost your organization’s quality and compliance. Perfect for beginners and quality professionals!",1
+course_1,ch_1_01,les_1_01_01,topic_1_01_01_1,Entering the Battlefield – QMS Basics & SOP Gap Review,https://www.youtube.com/watch?v=rAfeJBhGwYQ | https://www.youtube.com/watch?v=KlE-3sIrI_k ,"Unlock the essentials of Quality Management Systems (QMS) and discover how to identify and fix SOP gaps. This video provides quick, practical insights to boost your organization’s quality and compliance. Perfect for beginners and quality professionals!",1
 course_1,ch_1_01,les_1_01_02,topic_1_01_02_1,Control the Arsenal – Document Versioning & Register Mastery,https://www.youtube.com/watch?v=-WWk8gdnqCc,"Master the art of document control with this guide on versioning and register management. Learn how to keep your records accurate, up-to-date, and audit-ready, ensuring your organization stays compliant and efficient. Perfect for anyone managing quality or regulatory documents!",1
 course_1,ch_1_01,les_1_01_03,topic_1_01_03_1,Spot the Breach – Deviation Detection & Rapid Reporting,https://www.youtube.com/watch?v=JvIG72rXh6Y,"Quickly identify deviations and learn rapid reporting techniques to protect your organization’s quality standards. This video covers practical methods to spot breaches early and streamline incident reporting, helping you maintain compliance and prevent bigger issues. Ideal for quality teams and process owners!",1
 course_1,ch_1_01,les_1_01_04,topic_1_01_04_1,Strike Back – Root Cause Analysis & CAPA Drafting,https://www.youtube.com/watch?v=f_-7oeQJJi0,"Learn how to tackle problems head-on with effective Root Cause Analysis and CAPA drafting. This video shows you how to uncover the real issues behind deviations and create strong corrective and preventive action plans, keeping your quality system robust and proactive. Perfect for professionals aiming to drive continual improvement",1
@@ -8,7 +8,6 @@ course_1,ch_1_01,les_1_01_06,topic_1_01_06_1,Defend the Lab – OOS/OOT Identifi
 course_1,ch_1_01,les_1_01_07,topic_1_01_07_1,Guard the Data – ALCOA+ & Data Integrity Auditing,https://www.youtube.com/watch?v=oBztDkHzpWY,"Learn how to protect your organization’s data with ALCOA+ principles and data integrity auditing. This video explains the pillars of data integrity—Attributable, Legible, Contemporaneous, Original, Accurate, plus additional criteria—and provides practical tips for effective audits. Essential viewing for lab professionals and quality managers!",1
 course_1,ch_1_01,les_1_01_08,topic_1_01_08_1,Full-Scale Operation – Deviation to CAPA Lifecycle Simulation,https://www.youtube.com/watch?v=jIEbLMx4QIE,"Experience a full-scale quality operation with this simulation of the entire lifecycle from deviation detection to CAPA implementation. This video walks you through each step—identifying a deviation, investigating the root cause, drafting CAPA, and ensuring follow-up—offering practical insights for managing quality events efficiently. Ideal for quality assurance professionals and teams!",1
 course_1,ch_1_01,les_1_01_09,topic_1_01_09_1,The War Game – Integrated QA/QC Crisis Assignment,https://www.youtube.com/watch?v=qBimzO6lthA,"Step into “The War Game” with an integrated QA/QC crisis assignment simulation. This video challenges you to handle real-world quality assurance and quality control emergencies, coordinating rapid responses, investigations, and solutions. Build teamwork, sharpen decision-making, and prepare for any QA/QC crisis!",1
-,,,,,,,
 course_1,ch_1_02,les_1_02_01,topic_1_02_01_1,Entering the Ward Zone – Hospital QMS Framework & Accreditation Codes,https://www.youtube.com/watch?v=KQ0IWnrakRQ,"Introduces the hospital QMS framework and accreditation standards to ensure consistent, high-quality care delivery. Strengthens compliance, quality assurance, and drives continuous improvement across all clinical operations.",1
 course_1,ch_1_02,les_1_02_02,topic_1_02_02_1,Code Control – SOP Command Chains & Access Authority,https://www.youtube.com/watch?v=L2NNbN50B9Y,"Defines structured SOP chains and access authority to maintain operational discipline. Ensures accountability, compliance, and secure execution of critical healthcare protocols.",1
 course_1,ch_1_02,les_1_02_03,topic_1_02_03_1,Vitals Check – Patient Safety Indicators & Risk Flagging,https://www.youtube.com/watch?v=5OxvXhI69Wo,Enables real-time monitoring of key health parameters with early warning alerts. Supports timely interventions to improve patient safety and clinical outcomes.,1
@@ -19,7 +18,6 @@ course_1,ch_1_02,les_1_02_07,topic_1_02_07_1,First Hospital Drill – Ward & Fac
 course_1,ch_1_02,les_1_02_08,topic_1_02_08_1,Emergency Response Simulation – From Alarm to Action,https://www.youtube.com/watch?v=_zeRsyp-8s8,"Prepares teams for real-world emergencies with rapid response training. Enhances coordination, confidence, and effectiveness in critical situations.",1
 course_1,ch_1_02,les_1_02_09,topic_1_02_09_1,The Grand Ward Game – Multi-Department QA/QC Coordination Challenge,https://www.youtube.com/watch?v=dJEf1Vgr9No,Promotes interdepartmental collaboration through a dynamic QA/QC challenge. Encourages teamwork while driving compliance and improving quality performance.,1
 course_1,ch_1_02,les_1_02_10,topic_1_02_10_1,Command Debrief – Findings Review & Strategy Redesign,https://www.youtube.com/watch?v=vi1twOsoZJ0,Delivers a data-driven review of audit and simulation outcomes. Provides actionable insights to optimize processes and elevate operational efficiency.,1
-,,,,,,,
 course_1,ch_1_03,les_1_03_01,topic_1_03_01_1,"Blueprint of GMP – Principles, History & Core Requirements",,,
 course_1,ch_1_03,les_1_03_02,topic_1_03_02_1,Facility Fortress – Cleanroom Classifications & Environmental Controls,,,
 course_1,ch_1_03,les_1_03_03,topic_1_03_03_1,"Personnel in Command – Gowning, Hygiene & Cross-Contamination Barriers",,,
@@ -30,7 +28,6 @@ course_1,ch_1_03,les_1_03_07,topic_1_03_07_1,The Critical Path – Process Valid
 course_1,ch_1_03,les_1_03_08,topic_1_03_08_1,Quality on the Floor – In-Process Controls & Batch Release Protocols,,,
 course_1,ch_1_03,les_1_03_09,topic_1_03_09_1,"Regulatory Battlefield – WHO, USFDA, EU vs Indian GMP Codes",,,
 course_1,ch_1_03,les_1_03_10,topic_1_03_10_1,GMP War Game – Full-Scale Production Floor Compliance Simulation,,,
-,,,,,,,
 course_1,ch_1_04,les_1_04_01,topic_1_04_01_1,"The SOP Arsenal – Structure, Scope & Regulatory Mandates",,,
 course_1,ch_1_04,les_1_04_02,topic_1_04_02_1,"Writing That Commands – Clarity, Precision & Zero-Ambiguity Rules",,,
 course_1,ch_1_04,les_1_04_03,topic_1_04_03_1,"Controlled Evolution – Version Control, Review Cycles & Change Logs",,,
@@ -41,7 +38,6 @@ course_1,ch_1_04,les_1_04_07,topic_1_04_07_1,Gaps & Breaches – SOP Deviation H
 course_1,ch_1_04,les_1_04_08,topic_1_04_08_1,"Digital Command – eSOP Systems, Access Hierarchies & 21 CFR Part 11",,,
 course_1,ch_1_04,les_1_04_09,topic_1_04_09_1,Audit Crossfire – SOP Review Under Regulatory Inspection Pressure,,,
 course_1,ch_1_04,les_1_04_10,topic_1_04_10_1,The Validation Gauntlet – Full-Scale SOP Creation & Enforcement Drill,,,
-,,,,,,,
 course_1,ch_1_05,les_1_05_01,topic_1_05_01_1,Breach Point – Types of Deviations & First-Response Protocols,,,
 course_1,ch_1_05,les_1_05_02,topic_1_05_02_1,Rapid Fire – Immediate Containment & Impact Assessment Tactics,,,
 course_1,ch_1_05,les_1_05_03,topic_1_05_03_1,"Data Drill – Deviation Registers, Logs & Trending Analysis",,,
@@ -52,7 +48,6 @@ course_1,ch_1_05,les_1_05_07,topic_1_05_07_1,"Evidence Arsenal – Documentation
 course_1,ch_1_05,les_1_05_08,topic_1_05_08_1,"The Escalation Ladder – Minor, Major, Critical Deviation Handling",,,
 course_1,ch_1_05,les_1_05_09,topic_1_05_09_1,Simulation Siege – End-to-End Deviation Case Battle,,,
 course_1,ch_1_05,les_1_05_10,topic_1_05_10_1,Mentor Command – Root Cause Defense & Live Feedback (Mentorship),,,
-,,,,,,,
 course_1,ch_1_06,les_1_06_01,topic_1_06_01_1,CAPA Command – Core Concepts & Regulatory Expectations,,,
 course_1,ch_1_06,les_1_06_02,topic_1_06_02_1,From Firefight to Framework – CAPA Lifecycle Stages Explained,,,
 course_1,ch_1_06,les_1_06_03,topic_1_06_03_1,AI at the Frontline – Machine Learning for Deviation Pattern Detection,,,
@@ -63,7 +58,6 @@ course_1,ch_1_06,les_1_06_07,topic_1_06_07_1,Evidence Intelligence – AI-Suppor
 course_1,ch_1_06,les_1_06_08,topic_1_06_08_1,"System Defense – Integrating CAPA with QMS, LIMS & eTMF Platforms",,,
 course_1,ch_1_06,les_1_06_09,topic_1_06_09_1,Audit Heat – CAPA Case Studies Under FDA/WHO Inspection Pressure,,,
 course_1,ch_1_06,les_1_06_10,topic_1_06_10_1,The CAPA War Room – AI-Simulated Escalation & Full CAPA Closure Drill,,,
-,,,,,,,
 course_1,ch_1_07,les_1_07_01,topic_1_07_01_1,The QC Arsenal – Core Instruments & Lab Infrastructure Mastery,,,
 course_1,ch_1_07,les_1_07_02,topic_1_07_02_1,"Calibration Warfare – Principles, Schedules & Tolerance Limits",,,
 course_1,ch_1_07,les_1_07_03,topic_1_07_03_1,"Weapons Check – Balances, pH Meters & Pipette Accuracy Control",,,
@@ -74,7 +68,6 @@ course_1,ch_1_07,les_1_07_07,topic_1_07_07_1,"Wet Lab Combat – Titrations, Dis
 course_1,ch_1_07,les_1_07_08,topic_1_07_08_1,Break the System – Handling Out-of-Calibration & OOT Data,,,
 course_1,ch_1_07,les_1_07_09,topic_1_07_09_1,"The QC Audit Zone – Equipment Logs, Calibration Certificates & Compliance",,,
 course_1,ch_1_07,les_1_07_10,topic_1_07_10_1,The Ultimate Lab Drill – Full-Scale QC Instrumentation & Wet Lab Simulation,,,
-,,,,,,,
 course_1,ch_1_08,les_1_08_01,topic_1_08_01_1,"Digital Battlefield – eQMS, eTMF & LIMS Foundations",,,
 course_1,ch_1_08,les_1_08_02,topic_1_08_02_1,Data Armor – ALCOA+ in Digital Records & Part 11 Compliance,,,
 course_1,ch_1_08,les_1_08_03,topic_1_08_03_1,"Chain of Truth – Metadata, Audit Trails & System Logs",,,
@@ -85,7 +78,6 @@ course_1,ch_1_08,les_1_08_07,topic_1_08_07_1,"Audit Shockwaves – Regulatory Ex
 course_1,ch_1_08,les_1_08_08,topic_1_08_08_1,Inspection Readiness – Mock Digital Audits & Surprise Drill Tactics,,,
 course_1,ch_1_08,les_1_08_09,topic_1_08_09_1,The Paperless War Game – Transitioning from Paper to Digital QA/QC,,,
 course_1,ch_1_08,les_1_08_10,topic_1_08_10_1,Digital Siege Simulation – Full-Scale Audit in a Virtual QMS Environment,,,
-,,,,,,,
 course_1,ch_1_09,les_1_09_01,topic_1_09_01_1,Regulatory Battlefield – Global vs Local Quality Standards Overview,,,
 course_1,ch_1_09,les_1_09_02,topic_1_09_02_1,"FDA Frontline – 21 CFR Parts 210, 211 & Inspection Focus Points",,,
 course_1,ch_1_09,les_1_09_03,topic_1_09_03_1,"WHO Watchtower – GMP, GCP & Global Pre-qualification Standards",,,
@@ -96,7 +88,6 @@ course_1,ch_1_09,les_1_09_07,topic_1_09_07_1,Survival Drills – Mock FDA Audit 
 course_1,ch_1_09,les_1_09_08,topic_1_09_08_1,Hospital Heat – NABH Inspection Simulation & Corrective Actions,,,
 course_1,ch_1_09,les_1_09_09,topic_1_09_09_1,Multi-Front Combat – Parallel Audit Simulation (FDA + NABH + ISO),,,
 course_1,ch_1_09,les_1_09_10,topic_1_09_10_1,"Mentor War Council – Oral Defense, Regulatory Simulation Feedback (Mentorship)",,,
-,,,,,,,
 course_1,ch_1_10,les_1_10_01,topic_1_10_01_1,Audit Arsenal – Internal Audit Mastery & SOP Playbook,,,
 course_1,ch_1_10,les_1_10_02,topic_1_10_02_1,Audit Triggers – Risk-Based Planning & Pre-Audit Prep,,,
 course_1,ch_1_10,les_1_10_03,topic_1_10_03_1,"Audit Evidence – Document Tracing, Data Integrity & Records Mastery",,,
@@ -107,7 +98,6 @@ course_1,ch_1_10,les_1_10_07,topic_1_10_07_1,"Digital Audits – eTMF, CTMS & Au
 course_1,ch_1_10,les_1_10_08,topic_1_10_08_1,Simulation 2 – Surprise Hospital Internal Audit with Red Flag Detection,,,
 course_1,ch_1_10,les_1_10_09,topic_1_10_09_1,Survival Drill – Crisis Management During a Failing Audit Scenario,,,
 course_1,ch_1_10,les_1_10_10,topic_1_10_10_1,"Mentor Tribunal – Full Audit Review, Feedback & Re-Audit Defense",,,
-,,,,,,,
 course_1,ch_1_11,les_1_11_01,topic_1_11_01_1,CAPA Command – Foundations of Corrective & Preventive Action,,,
 course_1,ch_1_11,les_1_11_02,topic_1_11_02_1,"Root Cause Warfare – Fishbone, 5 Whys & Advanced RCA Tools",,,
 course_1,ch_1_11,les_1_11_03,topic_1_11_03_1,CAPA Documentation – Industry-Grade Templates & Compliance Writing,,,
@@ -118,7 +108,6 @@ course_1,ch_1_11,les_1_11_07,topic_1_11_07_1,"CAPA Systems – Digital CAPA, Tra
 course_1,ch_1_11,les_1_11_08,topic_1_11_08_1,Simulation 2 – End-to-End CAPA Lifecycle Execution (Pharma + Hospital),,,
 course_1,ch_1_11,les_1_11_09,topic_1_11_09_1,Audit-Ready CAPA – How Inspectors Grill CAPA & Risk Logs,,,
 course_1,ch_1_11,les_1_11_10,topic_1_11_10_1,"Mentor Tribunal – CAPA Review, Feedback & Risk Defense Drill",,,
-,,,,,,,
 course_1,ch_1_12,les_1_12_01,topic_1_12_01_1,"Global QA/QC Landscape – FDA, EMA, WHO, NABH, ISO & Beyond",,,
 course_1,ch_1_12,les_1_12_02,topic_1_12_02_1,"Pharma Regulatory Codes – GMP, GLP, GCP Deep Dive",,,
 course_1,ch_1_12,les_1_12_03,topic_1_12_03_1,"Hospital Accreditation Standards – NABH, JCI & Global Best Practices",,,
@@ -130,8 +119,6 @@ course_1,ch_1_12,les_1_12_08,topic_1_12_08_1,"Future of QA/QC – Predictive Com
 course_1,ch_1_12,les_1_12_09,topic_1_12_09_1,Final Audit Simulation – Pharma + Hospital Integrated Compliance War Game,,,
 course_1,ch_1_12,les_1_12_10,topic_1_12_10_1,"Capstone Mentorship – Career Readiness, Interview Defense & QA/QC Leadership",,,
 ,,,,,,,
-,,,,,,,
-,,,,,,,
 course_2,ch_2_01,les_2_01_01,topic_2_01_01_1,,,,
 course_2,ch_2_01,les_2_01_02,topic_2_01_02_1,,,,
 course_2,ch_2_01,les_2_01_03,topic_2_01_03_1,,,,
@@ -141,7 +128,6 @@ course_2,ch_2_01,les_2_01_06,topic_2_01_06_1,,,,
 course_2,ch_2_01,les_2_01_07,topic_2_01_07_1,,,,
 course_2,ch_2_01,les_2_01_08,topic_2_01_08_1,,,,
 course_2,ch_2_01,les_2_01_09,topic_2_01_09_1,,,,
-,,,,,,,
 course_2,ch_2_02,les_2_02_01,topic_2_02_01_1,,,,
 course_2,ch_2_02,les_2_02_02,topic_2_02_02_1,,,,
 course_2,ch_2_02,les_2_02_03,topic_2_02_03_1,,,,
@@ -218,7 +204,6 @@ course_2,ch_2_08,les_2_08_07,topic_2_08_07_1,,,,
 course_2,ch_2_08,les_2_08_08,topic_2_08_08_1,,,,
 course_2,ch_2_08,les_2_08_09,topic_2_08_09_1,,,,
 course_2,ch_2_08,les_2_08_10,topic_2_08_10_1,,,,
-,,,,,,,
 course_2,ch_2_09,les_2_09_01,topic_2_09_01_1,,,,
 course_2,ch_2_09,les_2_09_02,topic_2_09_02_1,,,,
 course_2,ch_2_09,les_2_09_03,topic_2_09_03_1,,,,
@@ -742,7 +727,6 @@ course_6,ch_6_08,les_6_08_07,topic_6_08_07_1,,,,
 course_6,ch_6_08,les_6_08_08,topic_6_08_08_1,,,,
 course_6,ch_6_08,les_6_08_09,topic_6_08_09_1,,,,
 course_6,ch_6_08,les_6_08_10,topic_6_08_10_1,,,,
-,,,,,,,
 course_6,ch_6_09,les_6_09_01,topic_6_09_01_1,,,,
 course_6,ch_6_09,les_6_09_02,topic_6_09_02_1,,,,
 course_6,ch_6_09,les_6_09_03,topic_6_09_03_1,,,,
@@ -753,7 +737,6 @@ course_6,ch_6_09,les_6_09_07,topic_6_09_07_1,,,,
 course_6,ch_6_09,les_6_09_08,topic_6_09_08_1,,,,
 course_6,ch_6_09,les_6_09_09,topic_6_09_09_1,,,,
 course_6,ch_6_09,les_6_09_10,topic_6_09_10_1,,,,
-,,,,,,,
 course_6,ch_6_10,les_6_10_01,topic_6_10_01_1,,,,
 course_6,ch_6_10,les_6_10_02,topic_6_10_02_1,,,,
 course_6,ch_6_10,les_6_10_03,topic_6_10_03_1,,,,
@@ -764,7 +747,6 @@ course_6,ch_6_10,les_6_10_07,topic_6_10_07_1,,,,
 course_6,ch_6_10,les_6_10_08,topic_6_10_08_1,,,,
 course_6,ch_6_10,les_6_10_09,topic_6_10_09_1,,,,
 course_6,ch_6_10,les_6_10_10,topic_6_10_10_1,,,,
-,,,,,,,
 course_6,ch_6_11,les_6_11_01,topic_6_11_01_1,,,,
 course_6,ch_6_11,les_6_11_02,topic_6_11_02_1,,,,
 course_6,ch_6_11,les_6_11_03,topic_6_11_03_1,,,,
@@ -775,7 +757,6 @@ course_6,ch_6_11,les_6_11_07,topic_6_11_07_1,,,,
 course_6,ch_6_11,les_6_11_08,topic_6_11_08_1,,,,
 course_6,ch_6_11,les_6_11_09,topic_6_11_09_1,,,,
 course_6,ch_6_11,les_6_11_10,topic_6_11_10_1,,,,
-,,,,,,,
 course_6,ch_6_12,les_6_12_01,topic_6_12_01_1,,,,
 course_6,ch_6_12,les_6_12_02,topic_6_12_02_1,,,,
 course_6,ch_6_12,les_6_12_03,topic_6_12_03_1,,,,
@@ -786,3 +767,14 @@ course_6,ch_6_12,les_6_12_07,topic_6_12_07_1,,,,
 course_6,ch_6_12,les_6_12_08,topic_6_12_08_1,,,,
 course_6,ch_6_12,les_6_12_09,topic_6_12_09_1,,,,
 course_6,ch_6_12,les_6_12_10,topic_6_12_10_1,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+course_7,ch_7_01,les_7_01_01,topic_7_01_01_1,Source Documents,https://www.youtube.com/watch?v=KlE-3sIrI_k ,"These are the original records where study data is first captured—like hospital charts, lab reports, or patient diaries. They serve as the backbone for trial data verification.",1
+course_7,ch_7_01,les_7_01_01,topic_7_01_01_2,What are Source Documents?,https://www.youtube.com/watch?v=bJ878_QMaXc,"They’re the “proof” that the study data is real and reliable. If it wasn’t written, it wasn’t done. Regulators and monitors rely on these documents to confirm authenticity.",2
+course_7,ch_7_01,les_7_01_01,topic_7_01_01_3,Examples of Source Documents,https://www.youtube.com/watch?v=Z9rME1x_5DA,"Typical examples include medical records, hospital charts, laboratory test results, imaging reports, prescriptions, and even patient diaries. Anything that directly records subject data at the time of its creation counts as a source document.",3
+course_7,ch_7_01,les_7_01_01,topic_7_01_01_4,What is a CRF/eCRF?,https://www.youtube.com/watch?v=y-m3bhhrpR0 ,"A Case Report Form (CRF) is the structured document where trial data from source documents is transcribed. When used in digital format, it becomes an electronic CRF (eCRF), usually within an electronic data capture (EDC) system, making monitoring, auditing, and data cleaning much more efficient.",4
+course_7,ch_7_01,les_7_01_01,topic_7_01_01_5,Key Principles,https://www.youtube.com/watch?v=SuW_yNFJP2E ,"The integrity of documentation is built on the ALCOA+ principles: data must be attributable, legible, contemporaneous, original, and accurate, while also being complete, consistent, enduring, and available whenever required. These principles guide how clinical trial data is created and maintained.",5
+course_7,ch_7_01,les_7_01_01,topic_7_01_01_6,Real Role of CRC/CRA in Documentation,https://www.youtube.com/watch?v=9ZoUF0ud0Qs ,"The Clinical Research Coordinator (CRC) ensures that all trial data is accurately captured from source documents into the CRF, while also maintaining study files. The Clinical Research Associate (CRA), on the other hand, monitors the site, checks CRFs against source data, and ensures that Good Clinical Practice (GCP) standards are consistently followed.",6
+course_7,ch_7_01,les_7_01_01,topic_7_01_01_7,Handling Corrections & Errors,https://www.youtube.com/watch?v=gMo6O1Sisek ,"Errors in documentation should never be erased or hidden. Instead, the correct approach is to draw a single line through the incorrect entry, record the correction nearby, and include initials, date, and reason if necessary. In an eCRF, the audit trail system automatically tracks changes, ensuring full transparency.",7
+course_7,ch_7_01,les_7_01_01,topic_7_01_01_8,Common Mistakes to Avoid,https://www.youtube.com/watch?v=LixrLMLmDVg ,"Frequent errors include late or backdated entries, missing investigator signatures, transcription mistakes when transferring data from source to CRF, and inconsistencies between different documents. These mistakes can compromise data integrity and delay regulatory approvals.",8
