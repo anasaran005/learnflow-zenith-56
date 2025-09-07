@@ -985,15 +985,21 @@ course_6,,ch_6_12,,les_6_12_10,,task_6_12_10_1,,,,,,,
 ,,,,,,,,,,,,,
 ,,,,,,,,,,,,,
 ,,,,,,,,,,,,,
-course_7,Clinical Research Demo,ch_7_01,Demo Chapter,les_7_01_01,Source Documents & CRF/eCRF Handling.,task_7_01_01_1,EMR/EHR Data Integrity and Access Log Audit,"You are a Junior Quality Control Analyst at Zenith Hospital, reporting to Dr. Priya Sharma, QA Supervisor. During a routine EMR audit in Ward 8 (Cardiology Unit), you review the EMR Access Log (LOG-2025-032) against SOP-QA-015 (EMR Data Management Protocol). 
+course_7,Clinical Research Free Trial,ch_7_01,Demo Chapter,les_7_01_01,Source Documents & CRF/eCRF Handling.,task_7_01_01_1,Fixing a Data Error at Star Trials,"You’re a Clinical Research Coordinator (CRC) at Star Trials, working on a study for a new allergy drug, ClearNose. You’re at Site 3, handling data for Patient ID# CN-0301, a 35-year-old woman, Ms. Priya Sharma. You have two source documents from her 2nd visit namely, a clinic vital signs record and a patient diary. Your job is to enter this data into the electronic Case Report Form (eCRF) by the end of the day, following clinical trial rules.
 
-You find that 4 out of 10 patient record entries have delayed timestamps (entered 2–3 hours after patient interaction), violating SOP-QA-015’s ALCOA+ Contemporaneous principle and NABH Standard HIC.2 (Hospital Infection Control). 
+You spot an error in the eCRF draft—the pulse rate is wrong (75 bpm instead of 70). A Clinical Research Associate (CRA) will check your work in three days to ensure data matches the sources. Fix the pulse error, log it, and make sure all data is accurate, complete, and follows ALCOA+ rules (Accurate, Legible, Contemporaneous, Original, Attributable). Avoid mistakes like unlogged changes or blank fields, which can cause audit issues.
 
-Dr. Sharma instructs you to document the findings and recommend improvements using the Compliance Verification Form to prepare for an upcoming NABH audit.
+Your Task: 
+Use the source documents to fill the eCRF, correct the pulse rate, log the fix, and answer two questions about source documents, CRFs, and roles.
 
-Deliverable :
-Completed Compliance Verification Form (100–150 words total across REMARKS, Deviation Details, Suggested Improvements) documenting the EMR data integrity audit findings and proposed improvements for NABH compliance.",https://drive.google.com/file/d/1xwt6RMBks6RCIJbPsmYwZKHeuCN1kqAI/view?usp=sharing,https://tally.so/r/m6Bzeo,https://drive.google.com/file/d/1s5xvidtTV_fTxU2C1-uarMw_HHQv0J5B/view?usp=sharing,10,"Click “Reference Documents” to review SOP-QA-015 and EMR Access Log.
-Compare SOP-QA-015 (requires contemporaneous EMR entries) to LOG-2025-032 (delayed timestamps).
-Open “Fillable Document” (Compliance Verification Form).
-Fill the form: Check criteria (e.g., Documentation complete and accurate: B - FAIL), provide REMARKS (e.g., delayed timestamps), detail deviation, and suggest improvements (e.g., retrain staff, implement real-time alerts).
-Submit via “Answer Portal”."
+Deliverables
+Submit these via the Tally.so form:
+1. Completed eCRF (fill the template; mark fixes in **bold italics** in the Query/Notes column).
+2. Correction Log (table listing the pulse error, fix, reason, and date—use the template below or a spreadsheet).
+3. Short Answers (1-2 sentences each, typed in the form):
+    - What are source documents and CRFs/eCRFs? Give examples from this task.
+    - Name one common mistake in eCRF handling, one ALCOA+ principle you used, and how CRC/CRA roles prevent errors.",https://drive.google.com/file/d/1HkA3smTp7xLDEX5CFXHBizmVsCoG1tBd/view?usp=sharing ,https://tally.so/r/wvRGg4 ,https://drive.google.com/file/d/1JitzOgdaOjRPGZnTzOxR3OmtrnRqjlw-/view?usp=sharing ,10,"Check Source Documents (5 minutes): Open the Reference Documents (Vital Signs Record and Patient Diary). Note all details: Patient ID (CN-0301), age (35), height (160 cm), weight (62 kg), blood pressure (116/76 mmHg), pulse (70 bpm), respiratory rate (14 breaths/min), and no adverse events. The eCRF draft has a pulse error (75 instead of 70).
+
+Fill the eCRF (8 minutes): Enter all data from sources into the eCRF. Fix the pulse to 70 and note in bold italics in Query/Notes (e.g., ""Fixed from 75 to 70 per source; typo. Date: 09/07/2025""). Fill every field. Save as PDF or DOC.
+
+Complete Correction Log (3 minutes): List the pulse error: original (75), corrected (70), reason (matches source for ALCOA+ 'Accurate'), date/time (September 07, 2025, 4:00 PM), and your initials (e.g., S.K.). SUBMIT IT."
