@@ -985,4 +985,15 @@ course_6,,ch_6_12,,les_6_12_10,,task_6_12_10_1,,,,,,,
 ,,,,,,,,,,,,,
 ,,,,,,,,,,,,,
 ,,,,,,,,,,,,,
-course_7,Clinical Research Demo,ch_7_01,Demo Chapter,les_7_01_01,Source Documents & CRF/eCRF Handling.,task_7_01_01_1,dad,dada,d,d,d,10,caa
+course_7,Clinical Research Demo,ch_7_01,Demo Chapter,les_7_01_01,Source Documents & CRF/eCRF Handling.,task_7_01_01_1,EMR/EHR Data Integrity and Access Log Audit,"You are a Junior Quality Control Analyst at Zenith Hospital, reporting to Dr. Priya Sharma, QA Supervisor. During a routine EMR audit in Ward 8 (Cardiology Unit), you review the EMR Access Log (LOG-2025-032) against SOP-QA-015 (EMR Data Management Protocol). 
+
+You find that 4 out of 10 patient record entries have delayed timestamps (entered 2–3 hours after patient interaction), violating SOP-QA-015’s ALCOA+ Contemporaneous principle and NABH Standard HIC.2 (Hospital Infection Control). 
+
+Dr. Sharma instructs you to document the findings and recommend improvements using the Compliance Verification Form to prepare for an upcoming NABH audit.
+
+Deliverable :
+Completed Compliance Verification Form (100–150 words total across REMARKS, Deviation Details, Suggested Improvements) documenting the EMR data integrity audit findings and proposed improvements for NABH compliance.",https://drive.google.com/file/d/1xwt6RMBks6RCIJbPsmYwZKHeuCN1kqAI/view?usp=sharing,https://tally.so/r/m6Bzeo,https://drive.google.com/file/d/1s5xvidtTV_fTxU2C1-uarMw_HHQv0J5B/view?usp=sharing,10,"Click “Reference Documents” to review SOP-QA-015 and EMR Access Log.
+Compare SOP-QA-015 (requires contemporaneous EMR entries) to LOG-2025-032 (delayed timestamps).
+Open “Fillable Document” (Compliance Verification Form).
+Fill the form: Check criteria (e.g., Documentation complete and accurate: B - FAIL), provide REMARKS (e.g., delayed timestamps), detail deviation, and suggest improvements (e.g., retrain staff, implement real-time alerts).
+Submit via “Answer Portal”."
