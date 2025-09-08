@@ -993,12 +993,8 @@ Your Task:
 Use the source documents to fill the eCRF, correct the pulse rate, log the fix, and answer two questions about source documents, CRFs, and roles.
 
 Deliverables
-Submit these via the Tally.so form:
 1. Completed eCRF (fill the template; mark fixes in **bold italics** in the Query/Notes column).
-2. Correction Log (table listing the pulse error, fix, reason, and date—use the template below or a spreadsheet).
-3. Short Answers (1-2 sentences each, typed in the form):
-    - What are source documents and CRFs/eCRFs? Give examples from this task.
-    - Name one common mistake in eCRF handling, one ALCOA+ principle you used, and how CRC/CRA roles prevent errors.",https://drive.google.com/file/d/1HkA3smTp7xLDEX5CFXHBizmVsCoG1tBd/view?usp=sharing ,https://tally.so/r/wvRGg4 ,https://drive.google.com/file/d/1JitzOgdaOjRPGZnTzOxR3OmtrnRqjlw-/view?usp=sharing ,10,"Check Source Documents (5 minutes): Open the Reference Documents (Vital Signs Record and Patient Diary). Note all details: Patient ID (CN-0301), age (35), height (160 cm), weight (62 kg), blood pressure (116/76 mmHg), pulse (70 bpm), respiratory rate (14 breaths/min), and no adverse events. The eCRF draft has a pulse error (75 instead of 70).
+2. Correction Log (table listing the pulse error, fix, reason, and date—use the template below or a spreadsheet).",https://drive.google.com/file/d/1HkA3smTp7xLDEX5CFXHBizmVsCoG1tBd/view?usp=sharing ,https://tally.so/r/wvRGg4 ,https://drive.google.com/file/d/1JitzOgdaOjRPGZnTzOxR3OmtrnRqjlw-/view?usp=sharing ,10,"Check Source Documents (5 minutes): Open the Reference Documents (Vital Signs Record and Patient Diary). Note all details: Patient ID (CN-0301), age (35), height (160 cm), weight (62 kg), blood pressure (116/76 mmHg), pulse (70 bpm), respiratory rate (14 breaths/min), and no adverse events. The eCRF draft has a pulse error (75 instead of 70).
 
 Fill the eCRF (8 minutes): Enter all data from sources into the eCRF. Fix the pulse to 70 and note in bold italics in Query/Notes (e.g., ""Fixed from 75 to 70 per source; typo. Date: 09/07/2025""). Fill every field. Save as PDF or DOC.
 
@@ -1083,3 +1079,4 @@ Ensure the response is compliant: accurate, evidence-based, clear, and ALCOA+.",
 Fill the eCRF (8 minutes): Enter all data from sources into the eCRF. Fix the pulse to 70 and note in bold italics in Query/Notes (e.g., ""Fixed from 75 to 70 per source; typo. Date: 09/07/2025""). Fill every field. Save as PDF or DOC.
 
 Complete Correction Log (3 minutes): List the pulse error: original (75), corrected (70), reason (matches source for ALCOA+ 'Accurate'), date/time (September 07, 2025, 4:00 PM), and your initials (e.g., S.K.). SUBMIT IT."
+
