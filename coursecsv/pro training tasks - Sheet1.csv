@@ -985,7 +985,7 @@ course_6,,ch_6_12,,les_6_12_10,,task_6_12_10_1,,,,,,,
 ,,,,,,,,,,,,,
 ,,,,,,,,,,,,,
 ,,,,,,,,,,,,,
-course_7,Clinical Research Free Trial,ch_7_01,Demo Chapter,les_7_01_01,Source Documents & CRF/eCRF Handling.,task_7_01_01_1,Fixing a Data Error at Star Trials,"You’re a Clinical Research Coordinator (CRC) at Star Trials, working on a study for a new allergy drug, ClearNose. You’re at Site 3, handling data for Patient ID# CN-0301, a 35-year-old woman, Ms. Priya Sharma. You have two source documents from her 2nd visit namely, a clinic vital signs record and a patient diary. Your job is to enter this data into the electronic Case Report Form (eCRF) by the end of the day, following clinical trial rules.
+course_7,Clinical Research Free Trial,ch_7_01,Trial Chapter,les_7_01_01,Source Documents & CRF/eCRF Handling.,task_7_01_01_1,Fixing a Data Error at Star Trials,"You’re a Clinical Research Coordinator (CRC) at Star Trials, working on a study for a new allergy drug, ClearNose. You’re at Site 3, handling data for Patient ID# CN-0301, a 35-year-old woman, Ms. Priya Sharma. You have two source documents from her 2nd visit namely, a clinic vital signs record and a patient diary. Your job is to enter this data into the electronic Case Report Form (eCRF) by the end of the day, following clinical trial rules.
 
 You spot an error in the eCRF draft—the pulse rate is wrong (75 bpm instead of 70). A Clinical Research Associate (CRA) will check your work in three days to ensure data matches the sources. Fix the pulse error, log it, and make sure all data is accurate, complete, and follows ALCOA+ rules (Accurate, Legible, Contemporaneous, Original, Attributable). Avoid mistakes like unlogged changes or blank fields, which can cause audit issues.
 
@@ -999,6 +999,86 @@ Submit these via the Tally.so form:
 3. Short Answers (1-2 sentences each, typed in the form):
     - What are source documents and CRFs/eCRFs? Give examples from this task.
     - Name one common mistake in eCRF handling, one ALCOA+ principle you used, and how CRC/CRA roles prevent errors.",https://drive.google.com/file/d/1HkA3smTp7xLDEX5CFXHBizmVsCoG1tBd/view?usp=sharing ,https://tally.so/r/wvRGg4 ,https://drive.google.com/file/d/1JitzOgdaOjRPGZnTzOxR3OmtrnRqjlw-/view?usp=sharing ,10,"Check Source Documents (5 minutes): Open the Reference Documents (Vital Signs Record and Patient Diary). Note all details: Patient ID (CN-0301), age (35), height (160 cm), weight (62 kg), blood pressure (116/76 mmHg), pulse (70 bpm), respiratory rate (14 breaths/min), and no adverse events. The eCRF draft has a pulse error (75 instead of 70).
+
+Fill the eCRF (8 minutes): Enter all data from sources into the eCRF. Fix the pulse to 70 and note in bold italics in Query/Notes (e.g., ""Fixed from 75 to 70 per source; typo. Date: 09/07/2025""). Fill every field. Save as PDF or DOC.
+
+Complete Correction Log (3 minutes): List the pulse error: original (75), corrected (70), reason (matches source for ALCOA+ 'Accurate'), date/time (September 07, 2025, 4:00 PM), and your initials (e.g., S.K.). SUBMIT IT."
+course_8,QA/QC Free Trial,ch_8_01,Trial Chapter,les_8_01_01,QA vs QC in Clinical Research,task_8_01_01_1,Identifying a QA vs QC Issue at Bright Trials,"You are a Quality Control (QC) Associate at Bright Trials, reviewing documents from Site 5 for a diabetes drug trial, GlucoFree. During routine QC of Informed Consent Forms (ICFs) and monitoring visit reports, you notice:
+
+One ICF is missing the witness signature for Patient ID# GF-0504, a 62-year-old man, Mr. Arjun Verma.
+
+A monitoring visit report has a date inconsistency: it says “Visit Conducted: 15/08/2025” but the site log shows “16/08/2025.”
+
+Your role is to log these findings, notify the Clinical Research Coordinator (CRC) for correction, and prepare a short QA/QC summary for your manager. The Quality Assurance (QA) team will later audit the site to verify that issues were corrected according to SOPs.
+
+Follow QA/QC principles: QC = checking accuracy during the process, QA = ensuring compliance and prevention through audits/system checks.",https://drive.google.com/file/d/1HkA3smTp7xLDEX5CFXHBizmVsCoG1tBd/view?usp=sharing ,https://tally.so/r/wvRGg4 ,https://drive.google.com/file/d/1JitzOgdaOjRPGZnTzOxR3OmtrnRqjlw-/view?usp=sharing ,10,"Check Source Documents (5 minutes): Open the Reference Documents (Vital Signs Record and Patient Diary). Note all details: Patient ID (CN-0301), age (35), height (160 cm), weight (62 kg), blood pressure (116/76 mmHg), pulse (70 bpm), respiratory rate (14 breaths/min), and no adverse events. The eCRF draft has a pulse error (75 instead of 70).
+
+Fill the eCRF (8 minutes): Enter all data from sources into the eCRF. Fix the pulse to 70 and note in bold italics in Query/Notes (e.g., ""Fixed from 75 to 70 per source; typo. Date: 09/07/2025""). Fill every field. Save as PDF or DOC.
+
+Complete Correction Log (3 minutes): List the pulse error: original (75), corrected (70), reason (matches source for ALCOA+ 'Accurate'), date/time (September 07, 2025, 4:00 PM), and your initials (e.g., S.K.). SUBMIT IT."
+course_9,Pharmacovigilance Free Trial,ch_9_01,Trial Chapter,les_9_01_01,Adverse Event (AE) Reporting Basics,task_9_01_01_1,Processing an Adverse Event Report at MedCare,"You are a Drug Safety Associate (DSA) at MedCare Pharma, monitoring safety data for a migraine drug under trial, NeuroCalm. At Site 2, Patient ID# NC-0207, a 42-year-old woman, Ms. Kavita Rao, reports in her patient diary that she experienced mild nausea for 2 days after her second dose.
+
+You receive two documents from the site:
+Patient Diary (Source Document) → Notes nausea, severity: mild, duration: 2 days, no hospitalization.
+Investigator Report → Confirms event is “Adverse Event (AE)”, not serious, related to study drug, resolved without medication.
+
+Your role:
+Enter the AE into the Safety Database/eCRF, following pharmacovigilance rules.
+Ensure the event is classified correctly (AE vs SAE).
+Document it in the AE Log.
+Answer two short questions about AE reporting and roles.
+Follow ALCOA+ principles and Good Pharmacovigilance Practices (GVP).",https://drive.google.com/file/d/1HkA3smTp7xLDEX5CFXHBizmVsCoG1tBd/view?usp=sharing ,https://tally.so/r/wvRGg4 ,https://drive.google.com/file/d/1JitzOgdaOjRPGZnTzOxR3OmtrnRqjlw-/view?usp=sharing ,10,"Check Source Documents (5 minutes): Open the Reference Documents (Vital Signs Record and Patient Diary). Note all details: Patient ID (CN-0301), age (35), height (160 cm), weight (62 kg), blood pressure (116/76 mmHg), pulse (70 bpm), respiratory rate (14 breaths/min), and no adverse events. The eCRF draft has a pulse error (75 instead of 70).
+
+Fill the eCRF (8 minutes): Enter all data from sources into the eCRF. Fix the pulse to 70 and note in bold italics in Query/Notes (e.g., ""Fixed from 75 to 70 per source; typo. Date: 09/07/2025""). Fill every field. Save as PDF or DOC.
+
+Complete Correction Log (3 minutes): List the pulse error: original (75), corrected (70), reason (matches source for ALCOA+ 'Accurate'), date/time (September 07, 2025, 4:00 PM), and your initials (e.g., S.K.). SUBMIT IT."
+course_10,CDM Free Trial,ch_10_01,Trial Chapter,les_10_01_01,Data Cleaning & Query Management Basics,task_10_01_01_1,Resolving a Data Discrepancy at DataCure,"You are a Clinical Data Management (CDM) Associate at DataCure, handling data from a clinical trial for a hypertension drug, CardioRelief.
+
+At Site 6, Patient ID# CR-0603, a 45-year-old woman, Ms. Sunita Mehta, attended Visit 2. You receive:
+Source: Vital Signs Record — Blood Pressure: 128/82 mmHg; Pulse: 72 bpm.
+Lab Report: Fasting Blood Glucose = 92 mg/dL.
+Draft eCRF: Blood Pressure entered as 182/82 mmHg (transcription error).
+
+Your job:
+Identify the discrepancy (128 vs 182).
+Issue and resolve a Data Query.
+Correct the value in the eCRF (with audit trail note).
+Ensure compliance with ALCOA+ and CDM principles.",https://drive.google.com/file/d/1HkA3smTp7xLDEX5CFXHBizmVsCoG1tBd/view?usp=sharing ,https://tally.so/r/wvRGg4 ,https://drive.google.com/file/d/1JitzOgdaOjRPGZnTzOxR3OmtrnRqjlw-/view?usp=sharing ,10,"Check Source Documents (5 minutes): Open the Reference Documents (Vital Signs Record and Patient Diary). Note all details: Patient ID (CN-0301), age (35), height (160 cm), weight (62 kg), blood pressure (116/76 mmHg), pulse (70 bpm), respiratory rate (14 breaths/min), and no adverse events. The eCRF draft has a pulse error (75 instead of 70).
+
+Fill the eCRF (8 minutes): Enter all data from sources into the eCRF. Fix the pulse to 70 and note in bold italics in Query/Notes (e.g., ""Fixed from 75 to 70 per source; typo. Date: 09/07/2025""). Fill every field. Save as PDF or DOC.
+
+Complete Correction Log (3 minutes): List the pulse error: original (75), corrected (70), reason (matches source for ALCOA+ 'Accurate'), date/time (September 07, 2025, 4:00 PM), and your initials (e.g., S.K.). SUBMIT IT."
+course_11,Regulatory Affairs Free Trial,ch_11_01,Trial Chapter,les_11_01_01,Regulatory Submissions & Compliance Basics,task_11_01_01_1,Preparing a Submission Package at RegSure,"You are a Regulatory Affairs (RA) Associate at RegSure Pharma, working on a submission to the DCGI (India) for a Phase II cancer drug, OncoShield.
+
+The site has provided:
+Investigator’s Brochure (IB) — Correct version = v3.0 (dated June 2025).
+Informed Consent Form (ICF) — Signed and dated correctly by Patient ID# OS-0208.
+Draft Submission Checklist — Lists IB as v2.0 instead of v3.0 (outdated).
+
+Your job:
+Identify and correct the IB version error.
+Update the submission checklist.
+Document the correction in a Submission Log.
+Ensure compliance with regulatory principles: accuracy, traceability, and ALCOA+.",https://drive.google.com/file/d/1HkA3smTp7xLDEX5CFXHBizmVsCoG1tBd/view?usp=sharing ,https://tally.so/r/wvRGg4 ,https://drive.google.com/file/d/1JitzOgdaOjRPGZnTzOxR3OmtrnRqjlw-/view?usp=sharing ,10,"Check Source Documents (5 minutes): Open the Reference Documents (Vital Signs Record and Patient Diary). Note all details: Patient ID (CN-0301), age (35), height (160 cm), weight (62 kg), blood pressure (116/76 mmHg), pulse (70 bpm), respiratory rate (14 breaths/min), and no adverse events. The eCRF draft has a pulse error (75 instead of 70).
+
+Fill the eCRF (8 minutes): Enter all data from sources into the eCRF. Fix the pulse to 70 and note in bold italics in Query/Notes (e.g., ""Fixed from 75 to 70 per source; typo. Date: 09/07/2025""). Fill every field. Save as PDF or DOC.
+
+Complete Correction Log (3 minutes): List the pulse error: original (75), corrected (70), reason (matches source for ALCOA+ 'Accurate'), date/time (September 07, 2025, 4:00 PM), and your initials (e.g., S.K.). SUBMIT IT."
+course_12,Medical Affairs Free Trial,ch_12_01,Trial Chapter,les_12_01_01,Medical Information & Scientific Communication Basics,task_12_01_01_1,Responding to a Physician Query at MedConnect,"You are a Medical Affairs Associate at MedConnect Pharma, supporting a Phase III clinical trial for an arthritis drug, JointEase.
+
+A physician from Site 7, Dr. Anita Desai, emails a medical information query:
+“What is the most common side effect of JointEase reported so far in trials?”
+
+You check the latest Investigator’s Brochure (IB, v4.0, July 2025) and find:
+Most common side effect: mild stomach upset (seen in 18% of patients).
+No serious safety concerns reported.
+The draft response letter accidentally states:
+“Most common side effect is headache” (incorrect).
+
+Your job:
+Correct the draft response.
+Document the correction in a Medical Information Log.
+Ensure the response is compliant: accurate, evidence-based, clear, and ALCOA+.",https://drive.google.com/file/d/1HkA3smTp7xLDEX5CFXHBizmVsCoG1tBd/view?usp=sharing ,https://tally.so/r/wvRGg4 ,https://drive.google.com/file/d/1JitzOgdaOjRPGZnTzOxR3OmtrnRqjlw-/view?usp=sharing ,10,"Check Source Documents (5 minutes): Open the Reference Documents (Vital Signs Record and Patient Diary). Note all details: Patient ID (CN-0301), age (35), height (160 cm), weight (62 kg), blood pressure (116/76 mmHg), pulse (70 bpm), respiratory rate (14 breaths/min), and no adverse events. The eCRF draft has a pulse error (75 instead of 70).
 
 Fill the eCRF (8 minutes): Enter all data from sources into the eCRF. Fix the pulse to 70 and note in bold italics in Query/Notes (e.g., ""Fixed from 75 to 70 per source; typo. Date: 09/07/2025""). Fill every field. Save as PDF or DOC.
 
