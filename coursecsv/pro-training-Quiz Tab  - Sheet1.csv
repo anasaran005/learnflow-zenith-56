@@ -1400,7 +1400,7 @@ course_1,ch_1_11,les_1_11_10,topic_1_11_10_01,quiz_1_11_10_4,,,
 course_1,ch_1_11,les_1_11_10,topic_1_11_10_01,quiz_1_11_10_5,,,
 course_1,ch_1_12,les_1_12_01,topic_1_12_01_01,quiz_1_12_01_1,,,
 course_1,ch_1_12,les_1_12_01,topic_1_12_01_01,quiz_1_12_01_2,,,
-course_1,ch_1_12,les_1_12_01,topic_1_12_01_01,quiz_1_12_01_3,,,
+course_1,ch_1_12,les_1_12_01,topic_1_12_01_01,quiz_1_12_01_3,, ,
 course_1,ch_1_12,les_1_12_01,topic_1_12_01_01,quiz_1_12_01_4,,,
 course_1,ch_1_12,les_1_12_01,topic_1_12_01_01,quiz_1_12_01_5,,,
 course_1,ch_1_12,les_1_12_02,topic_1_12_02_01,quiz_1_12_02_1,,,
@@ -1448,306 +1448,437 @@ course_1,ch_1_12,les_1_12_10,topic_1_12_10_01,quiz_1_12_10_2,,,
 course_1,ch_1_12,les_1_12_10,topic_1_12_10_01,quiz_1_12_10_3,,,
 course_1,ch_1_12,les_1_12_10,topic_1_12_10_01,quiz_1_12_10_4,,,
 course_1,ch_1_12,les_1_12_10,topic_1_12_10_01,quiz_1_12_10_5,,,
-course_2,ch_2_01,les_2_01_01,topic_2_01_01_01,quiz_2_01_01_1,,,
-course_2,ch_2_01,les_2_01_01,topic_2_01_01_01,quiz_2_01_01_2,,,
-course_2,ch_2_01,les_2_01_01,topic_2_01_01_01,quiz_2_01_01_3,,,
-course_2,ch_2_01,les_2_01_01,topic_2_01_01_01,quiz_2_01_01_4,,,
-course_2,ch_2_01,les_2_01_01,topic_2_01_01_01,quiz_2_01_01_5,,,
-course_2,ch_2_01,les_2_01_02,topic_2_01_02_01,quiz_2_01_02_1,,,
-course_2,ch_2_01,les_2_01_02,topic_2_01_02_01,quiz_2_01_02_2,,,
-course_2,ch_2_01,les_2_01_02,topic_2_01_02_01,quiz_2_01_02_3,,,
-course_2,ch_2_01,les_2_01_02,topic_2_01_02_01,quiz_2_01_02_4,,,
-course_2,ch_2_01,les_2_01_02,topic_2_01_02_01,quiz_2_01_02_5,,,
-course_2,ch_2_01,les_2_01_03,topic_2_01_03_01,quiz_2_01_03_1,,,
-course_2,ch_2_01,les_2_01_03,topic_2_01_03_01,quiz_2_01_03_2,,,
-course_2,ch_2_01,les_2_01_03,topic_2_01_03_01,quiz_2_01_03_3,,,
-course_2,ch_2_01,les_2_01_03,topic_2_01_03_01,quiz_2_01_03_4,,,
-course_2,ch_2_01,les_2_01_03,topic_2_01_03_01,quiz_2_01_03_5,,,
-course_2,ch_2_01,les_2_01_04,topic_2_01_04_01,quiz_2_01_04_1,,,
-course_2,ch_2_01,les_2_01_04,topic_2_01_04_01,quiz_2_01_04_2,,,
-course_2,ch_2_01,les_2_01_04,topic_2_01_04_01,quiz_2_01_04_3,,,
-course_2,ch_2_01,les_2_01_04,topic_2_01_04_01,quiz_2_01_04_4,,,
-course_2,ch_2_01,les_2_01_04,topic_2_01_04_01,quiz_2_01_04_5,,,
-course_2,ch_2_01,les_2_01_05,topic_2_01_05_01,quiz_2_01_05_1,,,
-course_2,ch_2_01,les_2_01_05,topic_2_01_05_01,quiz_2_01_05_2,,,
-course_2,ch_2_01,les_2_01_05,topic_2_01_05_01,quiz_2_01_05_3,,,
-course_2,ch_2_01,les_2_01_05,topic_2_01_05_01,quiz_2_01_05_4,,,
-course_2,ch_2_01,les_2_01_05,topic_2_01_05_01,quiz_2_01_05_5,,,
-course_2,ch_2_01,les_2_01_06,topic_2_01_06_01,quiz_2_01_06_1,,,
-course_2,ch_2_01,les_2_01_06,topic_2_01_06_01,quiz_2_01_06_2,,,
-course_2,ch_2_01,les_2_01_06,topic_2_01_06_01,quiz_2_01_06_3,,,
-course_2,ch_2_01,les_2_01_06,topic_2_01_06_01,quiz_2_01_06_4,,,
-course_2,ch_2_01,les_2_01_06,topic_2_01_06_01,quiz_2_01_06_5,,,
-course_2,ch_2_01,les_2_01_07,topic_2_01_07_01,quiz_2_01_07_1,,,
-course_2,ch_2_01,les_2_01_07,topic_2_01_07_01,quiz_2_01_07_2,,,
-course_2,ch_2_01,les_2_01_07,topic_2_01_07_01,quiz_2_01_07_3,,,
-course_2,ch_2_01,les_2_01_07,topic_2_01_07_01,quiz_2_01_07_4,,,
-course_2,ch_2_01,les_2_01_07,topic_2_01_07_01,quiz_2_01_07_5,,,
-course_2,ch_2_01,les_2_01_08,topic_2_01_08_01,quiz_2_01_08_1,,,
-course_2,ch_2_01,les_2_01_08,topic_2_01_08_01,quiz_2_01_08_2,,,
-course_2,ch_2_01,les_2_01_08,topic_2_01_08_01,quiz_2_01_08_3,,,
-course_2,ch_2_01,les_2_01_08,topic_2_01_08_01,quiz_2_01_08_4,,,
-course_2,ch_2_01,les_2_01_08,topic_2_01_08_01,quiz_2_01_08_5,,,
-course_2,ch_2_01,les_2_01_09,topic_2_01_09_01,quiz_2_01_09_1,,,
-course_2,ch_2_01,les_2_01_09,topic_2_01_09_01,quiz_2_01_09_2,,,
-course_2,ch_2_01,les_2_01_09,topic_2_01_09_01,quiz_2_01_09_3,,,
-course_2,ch_2_01,les_2_01_09,topic_2_01_09_01,quiz_2_01_09_4,,,
-course_2,ch_2_01,les_2_01_09,topic_2_01_09_01,quiz_2_01_09_5,,,
-course_2,ch_2_01,les_2_01_10,topic_2_01_10_01,quiz_2_01_10_1,,,
-course_2,ch_2_01,les_2_01_10,topic_2_01_10_01,quiz_2_01_10_2,,,
-course_2,ch_2_01,les_2_01_10,topic_2_01_10_01,quiz_2_01_10_3,,,
-course_2,ch_2_01,les_2_01_10,topic_2_01_10_01,quiz_2_01_10_4,,,
-course_2,ch_2_01,les_2_01_10,topic_2_01_10_01,quiz_2_01_10_5,,,
-course_2,ch_2_02,les_2_02_01,topic_2_02_01_01,quiz_2_02_01_1,,,
-course_2,ch_2_02,les_2_02_01,topic_2_02_01_01,quiz_2_02_01_2,,,
-course_2,ch_2_02,les_2_02_01,topic_2_02_01_01,quiz_2_02_01_3,,,
-course_2,ch_2_02,les_2_02_01,topic_2_02_01_01,quiz_2_02_01_4,,,
-course_2,ch_2_02,les_2_02_01,topic_2_02_01_01,quiz_2_02_01_5,,,
-course_2,ch_2_02,les_2_02_02,topic_2_02_02_01,quiz_2_02_02_1,,,
-course_2,ch_2_02,les_2_02_02,topic_2_02_02_01,quiz_2_02_02_2,,,
-course_2,ch_2_02,les_2_02_02,topic_2_02_02_01,quiz_2_02_02_3,,,
-course_2,ch_2_02,les_2_02_02,topic_2_02_02_01,quiz_2_02_02_4,,,
-course_2,ch_2_02,les_2_02_02,topic_2_02_02_01,quiz_2_02_02_5,,,
-course_2,ch_2_02,les_2_02_03,topic_2_02_03_01,quiz_2_02_03_1,,,
-course_2,ch_2_02,les_2_02_03,topic_2_02_03_01,quiz_2_02_03_2,,,
-course_2,ch_2_02,les_2_02_03,topic_2_02_03_01,quiz_2_02_03_3,,,
-course_2,ch_2_02,les_2_02_03,topic_2_02_03_01,quiz_2_02_03_4,,,
-course_2,ch_2_02,les_2_02_03,topic_2_02_03_01,quiz_2_02_03_5,,,
-course_2,ch_2_02,les_2_02_04,topic_2_02_04_01,quiz_2_02_04_1,,,
-course_2,ch_2_02,les_2_02_04,topic_2_02_04_01,quiz_2_02_04_2,,,
-course_2,ch_2_02,les_2_02_04,topic_2_02_04_01,quiz_2_02_04_3,,,
-course_2,ch_2_02,les_2_02_04,topic_2_02_04_01,quiz_2_02_04_4,,,
-course_2,ch_2_02,les_2_02_04,topic_2_02_04_01,quiz_2_02_04_5,,,
-course_2,ch_2_02,les_2_02_05,topic_2_02_05_01,quiz_2_02_05_1,,,
-course_2,ch_2_02,les_2_02_05,topic_2_02_05_01,quiz_2_02_05_2,,,
-course_2,ch_2_02,les_2_02_05,topic_2_02_05_01,quiz_2_02_05_3,,,
-course_2,ch_2_02,les_2_02_05,topic_2_02_05_01,quiz_2_02_05_4,,,
-course_2,ch_2_02,les_2_02_05,topic_2_02_05_01,quiz_2_02_05_5,,,
-course_2,ch_2_02,les_2_02_06,topic_2_02_06_01,quiz_2_02_06_1,,,
-course_2,ch_2_02,les_2_02_06,topic_2_02_06_01,quiz_2_02_06_2,,,
-course_2,ch_2_02,les_2_02_06,topic_2_02_06_01,quiz_2_02_06_3,,,
-course_2,ch_2_02,les_2_02_06,topic_2_02_06_01,quiz_2_02_06_4,,,
-course_2,ch_2_02,les_2_02_06,topic_2_02_06_01,quiz_2_02_06_5,,,
-course_2,ch_2_02,les_2_02_07,topic_2_02_07_01,quiz_2_02_07_1,,,
-course_2,ch_2_02,les_2_02_07,topic_2_02_07_01,quiz_2_02_07_2,,,
-course_2,ch_2_02,les_2_02_07,topic_2_02_07_01,quiz_2_02_07_3,,,
-course_2,ch_2_02,les_2_02_07,topic_2_02_07_01,quiz_2_02_07_4,,,
-course_2,ch_2_02,les_2_02_07,topic_2_02_07_01,quiz_2_02_07_5,,,
-course_2,ch_2_02,les_2_02_08,topic_2_02_08_01,quiz_2_02_08_1,,,
-course_2,ch_2_02,les_2_02_08,topic_2_02_08_01,quiz_2_02_08_2,,,
-course_2,ch_2_02,les_2_02_08,topic_2_02_08_01,quiz_2_02_08_3,,,
-course_2,ch_2_02,les_2_02_08,topic_2_02_08_01,quiz_2_02_08_4,,,
-course_2,ch_2_02,les_2_02_08,topic_2_02_08_01,quiz_2_02_08_5,,,
-course_2,ch_2_02,les_2_02_09,topic_2_02_09_01,quiz_2_02_09_1,,,
-course_2,ch_2_02,les_2_02_09,topic_2_02_09_01,quiz_2_02_09_2,,,
-course_2,ch_2_02,les_2_02_09,topic_2_02_09_01,quiz_2_02_09_3,,,
-course_2,ch_2_02,les_2_02_09,topic_2_02_09_01,quiz_2_02_09_4,,,
-course_2,ch_2_02,les_2_02_09,topic_2_02_09_01,quiz_2_02_09_5,,,
-course_2,ch_2_02,les_2_02_10,topic_2_02_10_01,quiz_2_02_10_1,,,
-course_2,ch_2_02,les_2_02_10,topic_2_02_10_01,quiz_2_02_10_2,,,
-course_2,ch_2_02,les_2_02_10,topic_2_02_10_01,quiz_2_02_10_3,,,
-course_2,ch_2_02,les_2_02_10,topic_2_02_10_01,quiz_2_02_10_4,,,
-course_2,ch_2_02,les_2_02_10,topic_2_02_10_01,quiz_2_02_10_5,,,
-course_2,ch_2_03,les_2_03_01,topic_2_03_01_01,quiz_2_03_01_1,,,
-course_2,ch_2_03,les_2_03_01,topic_2_03_01_01,quiz_2_03_01_2,,,
-course_2,ch_2_03,les_2_03_01,topic_2_03_01_01,quiz_2_03_01_3,,,
-course_2,ch_2_03,les_2_03_01,topic_2_03_01_01,quiz_2_03_01_4,,,
-course_2,ch_2_03,les_2_03_01,topic_2_03_01_01,quiz_2_03_01_5,,,
-course_2,ch_2_03,les_2_03_02,topic_2_03_02_01,quiz_2_03_02_1,,,
-course_2,ch_2_03,les_2_03_02,topic_2_03_02_01,quiz_2_03_02_2,,,
-course_2,ch_2_03,les_2_03_02,topic_2_03_02_01,quiz_2_03_02_3,,,
-course_2,ch_2_03,les_2_03_02,topic_2_03_02_01,quiz_2_03_02_4,,,
-course_2,ch_2_03,les_2_03_02,topic_2_03_02_01,quiz_2_03_02_5,,,
-course_2,ch_2_03,les_2_03_03,topic_2_03_03_01,quiz_2_03_03_1,,,
-course_2,ch_2_03,les_2_03_03,topic_2_03_03_01,quiz_2_03_03_2,,,
-course_2,ch_2_03,les_2_03_03,topic_2_03_03_01,quiz_2_03_03_3,,,
-course_2,ch_2_03,les_2_03_03,topic_2_03_03_01,quiz_2_03_03_4,,,
-course_2,ch_2_03,les_2_03_03,topic_2_03_03_01,quiz_2_03_03_5,,,
-course_2,ch_2_03,les_2_03_04,topic_2_03_04_01,quiz_2_03_04_1,,,
-course_2,ch_2_03,les_2_03_04,topic_2_03_04_01,quiz_2_03_04_2,,,
-course_2,ch_2_03,les_2_03_04,topic_2_03_04_01,quiz_2_03_04_3,,,
-course_2,ch_2_03,les_2_03_04,topic_2_03_04_01,quiz_2_03_04_4,,,
-course_2,ch_2_03,les_2_03_04,topic_2_03_04_01,quiz_2_03_04_5,,,
-course_2,ch_2_03,les_2_03_05,topic_2_03_05_01,quiz_2_03_05_1,,,
-course_2,ch_2_03,les_2_03_05,topic_2_03_05_01,quiz_2_03_05_2,,,
-course_2,ch_2_03,les_2_03_05,topic_2_03_05_01,quiz_2_03_05_3,,,
-course_2,ch_2_03,les_2_03_05,topic_2_03_05_01,quiz_2_03_05_4,,,
-course_2,ch_2_03,les_2_03_05,topic_2_03_05_01,quiz_2_03_05_5,,,
-course_2,ch_2_03,les_2_03_06,topic_2_03_06_01,quiz_2_03_06_1,,,
-course_2,ch_2_03,les_2_03_06,topic_2_03_06_01,quiz_2_03_06_2,,,
-course_2,ch_2_03,les_2_03_06,topic_2_03_06_01,quiz_2_03_06_3,,,
-course_2,ch_2_03,les_2_03_06,topic_2_03_06_01,quiz_2_03_06_4,,,
-course_2,ch_2_03,les_2_03_06,topic_2_03_06_01,quiz_2_03_06_5,,,
-course_2,ch_2_03,les_2_03_07,topic_2_03_07_01,quiz_2_03_07_1,,,
-course_2,ch_2_03,les_2_03_07,topic_2_03_07_01,quiz_2_03_07_2,,,
-course_2,ch_2_03,les_2_03_07,topic_2_03_07_01,quiz_2_03_07_3,,,
-course_2,ch_2_03,les_2_03_07,topic_2_03_07_01,quiz_2_03_07_4,,,
-course_2,ch_2_03,les_2_03_07,topic_2_03_07_01,quiz_2_03_07_5,,,
-course_2,ch_2_03,les_2_03_08,topic_2_03_08_01,quiz_2_03_08_1,,,
-course_2,ch_2_03,les_2_03_08,topic_2_03_08_01,quiz_2_03_08_2,,,
-course_2,ch_2_03,les_2_03_08,topic_2_03_08_01,quiz_2_03_08_3,,,
-course_2,ch_2_03,les_2_03_08,topic_2_03_08_01,quiz_2_03_08_4,,,
-course_2,ch_2_03,les_2_03_08,topic_2_03_08_01,quiz_2_03_08_5,,,
-course_2,ch_2_03,les_2_03_09,topic_2_03_09_01,quiz_2_03_09_1,,,
-course_2,ch_2_03,les_2_03_09,topic_2_03_09_01,quiz_2_03_09_2,,,
-course_2,ch_2_03,les_2_03_09,topic_2_03_09_01,quiz_2_03_09_3,,,
-course_2,ch_2_03,les_2_03_09,topic_2_03_09_01,quiz_2_03_09_4,,,
-course_2,ch_2_03,les_2_03_09,topic_2_03_09_01,quiz_2_03_09_5,,,
-course_2,ch_2_03,les_2_03_10,topic_2_03_10_01,quiz_2_03_10_1,,,
-course_2,ch_2_03,les_2_03_10,topic_2_03_10_01,quiz_2_03_10_2,,,
-course_2,ch_2_03,les_2_03_10,topic_2_03_10_01,quiz_2_03_10_3,,,
-course_2,ch_2_03,les_2_03_10,topic_2_03_10_01,quiz_2_03_10_4,,,
-course_2,ch_2_03,les_2_03_10,topic_2_03_10_01,quiz_2_03_10_5,,,
-course_2,ch_2_04,les_2_04_01,topic_2_04_01_01,quiz_2_04_01_1,,,
-course_2,ch_2_04,les_2_04_01,topic_2_04_01_01,quiz_2_04_01_2,,,
-course_2,ch_2_04,les_2_04_01,topic_2_04_01_01,quiz_2_04_01_3,,,
-course_2,ch_2_04,les_2_04_01,topic_2_04_01_01,quiz_2_04_01_4,,,
-course_2,ch_2_04,les_2_04_01,topic_2_04_01_01,quiz_2_04_01_5,,,
-course_2,ch_2_04,les_2_04_02,topic_2_04_02_01,quiz_2_04_02_1,,,
-course_2,ch_2_04,les_2_04_02,topic_2_04_02_01,quiz_2_04_02_2,,,
-course_2,ch_2_04,les_2_04_02,topic_2_04_02_01,quiz_2_04_02_3,,,
-course_2,ch_2_04,les_2_04_02,topic_2_04_02_01,quiz_2_04_02_4,,,
-course_2,ch_2_04,les_2_04_02,topic_2_04_02_01,quiz_2_04_02_5,,,
-course_2,ch_2_04,les_2_04_03,topic_2_04_03_01,quiz_2_04_03_1,,,
-course_2,ch_2_04,les_2_04_03,topic_2_04_03_01,quiz_2_04_03_2,,,
-course_2,ch_2_04,les_2_04_03,topic_2_04_03_01,quiz_2_04_03_3,,,
-course_2,ch_2_04,les_2_04_03,topic_2_04_03_01,quiz_2_04_03_4,,,
-course_2,ch_2_04,les_2_04_03,topic_2_04_03_01,quiz_2_04_03_5,,,
-course_2,ch_2_04,les_2_04_04,topic_2_04_04_01,quiz_2_04_04_1,,,
-course_2,ch_2_04,les_2_04_04,topic_2_04_04_01,quiz_2_04_04_2,,,
-course_2,ch_2_04,les_2_04_04,topic_2_04_04_01,quiz_2_04_04_3,,,
-course_2,ch_2_04,les_2_04_04,topic_2_04_04_01,quiz_2_04_04_4,,,
-course_2,ch_2_04,les_2_04_04,topic_2_04_04_01,quiz_2_04_04_5,,,
-course_2,ch_2_04,les_2_04_05,topic_2_04_05_01,quiz_2_04_05_1,,,
-course_2,ch_2_04,les_2_04_05,topic_2_04_05_01,quiz_2_04_05_2,,,
-course_2,ch_2_04,les_2_04_05,topic_2_04_05_01,quiz_2_04_05_3,,,
-course_2,ch_2_04,les_2_04_05,topic_2_04_05_01,quiz_2_04_05_4,,,
-course_2,ch_2_04,les_2_04_05,topic_2_04_05_01,quiz_2_04_05_5,,,
-course_2,ch_2_04,les_2_04_06,topic_2_04_06_01,quiz_2_04_06_1,,,
-course_2,ch_2_04,les_2_04_06,topic_2_04_06_01,quiz_2_04_06_2,,,
-course_2,ch_2_04,les_2_04_06,topic_2_04_06_01,quiz_2_04_06_3,,,
-course_2,ch_2_04,les_2_04_06,topic_2_04_06_01,quiz_2_04_06_4,,,
-course_2,ch_2_04,les_2_04_06,topic_2_04_06_01,quiz_2_04_06_5,,,
-course_2,ch_2_04,les_2_04_07,topic_2_04_07_01,quiz_2_04_07_1,,,
-course_2,ch_2_04,les_2_04_07,topic_2_04_07_01,quiz_2_04_07_2,,,
-course_2,ch_2_04,les_2_04_07,topic_2_04_07_01,quiz_2_04_07_3,,,
-course_2,ch_2_04,les_2_04_07,topic_2_04_07_01,quiz_2_04_07_4,,,
-course_2,ch_2_04,les_2_04_07,topic_2_04_07_01,quiz_2_04_07_5,,,
-course_2,ch_2_04,les_2_04_08,topic_2_04_08_01,quiz_2_04_08_1,,,
-course_2,ch_2_04,les_2_04_08,topic_2_04_08_01,quiz_2_04_08_2,,,
-course_2,ch_2_04,les_2_04_08,topic_2_04_08_01,quiz_2_04_08_3,,,
-course_2,ch_2_04,les_2_04_08,topic_2_04_08_01,quiz_2_04_08_4,,,
-course_2,ch_2_04,les_2_04_08,topic_2_04_08_01,quiz_2_04_08_5,,,
-course_2,ch_2_04,les_2_04_09,topic_2_04_09_01,quiz_2_04_09_1,,,
-course_2,ch_2_04,les_2_04_09,topic_2_04_09_01,quiz_2_04_09_2,,,
-course_2,ch_2_04,les_2_04_09,topic_2_04_09_01,quiz_2_04_09_3,,,
-course_2,ch_2_04,les_2_04_09,topic_2_04_09_01,quiz_2_04_09_4,,,
-course_2,ch_2_04,les_2_04_09,topic_2_04_09_01,quiz_2_04_09_5,,,
-course_2,ch_2_04,les_2_04_10,topic_2_04_10_01,quiz_2_04_10_1,,,
-course_2,ch_2_04,les_2_04_10,topic_2_04_10_01,quiz_2_04_10_2,,,
-course_2,ch_2_04,les_2_04_10,topic_2_04_10_01,quiz_2_04_10_3,,,
-course_2,ch_2_04,les_2_04_10,topic_2_04_10_01,quiz_2_04_10_4,,,
-course_2,ch_2_04,les_2_04_10,topic_2_04_10_01,quiz_2_04_10_5,,,
-course_2,ch_2_05,les_2_05_01,topic_2_05_01_01,quiz_2_05_01_1,,,
-course_2,ch_2_05,les_2_05_01,topic_2_05_01_01,quiz_2_05_01_2,,,
-course_2,ch_2_05,les_2_05_01,topic_2_05_01_01,quiz_2_05_01_3,,,
-course_2,ch_2_05,les_2_05_01,topic_2_05_01_01,quiz_2_05_01_4,,,
-course_2,ch_2_05,les_2_05_01,topic_2_05_01_01,quiz_2_05_01_5,,,
-course_2,ch_2_05,les_2_05_02,topic_2_05_02_01,quiz_2_05_02_1,,,
-course_2,ch_2_05,les_2_05_02,topic_2_05_02_01,quiz_2_05_02_2,,,
-course_2,ch_2_05,les_2_05_02,topic_2_05_02_01,quiz_2_05_02_3,,,
-course_2,ch_2_05,les_2_05_02,topic_2_05_02_01,quiz_2_05_02_4,,,
-course_2,ch_2_05,les_2_05_02,topic_2_05_02_01,quiz_2_05_02_5,,,
-course_2,ch_2_05,les_2_05_03,topic_2_05_03_01,quiz_2_05_03_1,,,
-course_2,ch_2_05,les_2_05_03,topic_2_05_03_01,quiz_2_05_03_2,,,
-course_2,ch_2_05,les_2_05_03,topic_2_05_03_01,quiz_2_05_03_3,,,
-course_2,ch_2_05,les_2_05_03,topic_2_05_03_01,quiz_2_05_03_4,,,
-course_2,ch_2_05,les_2_05_03,topic_2_05_03_01,quiz_2_05_03_5,,,
-course_2,ch_2_05,les_2_05_04,topic_2_05_04_01,quiz_2_05_04_1,,,
-course_2,ch_2_05,les_2_05_04,topic_2_05_04_01,quiz_2_05_04_2,,,
-course_2,ch_2_05,les_2_05_04,topic_2_05_04_01,quiz_2_05_04_3,,,
-course_2,ch_2_05,les_2_05_04,topic_2_05_04_01,quiz_2_05_04_4,,,
-course_2,ch_2_05,les_2_05_04,topic_2_05_04_01,quiz_2_05_04_5,,,
-course_2,ch_2_05,les_2_05_05,topic_2_05_05_01,quiz_2_05_05_1,,,
-course_2,ch_2_05,les_2_05_05,topic_2_05_05_01,quiz_2_05_05_2,,,
-course_2,ch_2_05,les_2_05_05,topic_2_05_05_01,quiz_2_05_05_3,,,
-course_2,ch_2_05,les_2_05_05,topic_2_05_05_01,quiz_2_05_05_4,,,
-course_2,ch_2_05,les_2_05_05,topic_2_05_05_01,quiz_2_05_05_5,,,
-course_2,ch_2_05,les_2_05_06,topic_2_05_06_01,quiz_2_05_06_1,,,
-course_2,ch_2_05,les_2_05_06,topic_2_05_06_01,quiz_2_05_06_2,,,
-course_2,ch_2_05,les_2_05_06,topic_2_05_06_01,quiz_2_05_06_3,,,
-course_2,ch_2_05,les_2_05_06,topic_2_05_06_01,quiz_2_05_06_4,,,
-course_2,ch_2_05,les_2_05_06,topic_2_05_06_01,quiz_2_05_06_5,,,
-course_2,ch_2_05,les_2_05_07,topic_2_05_07_01,quiz_2_05_07_1,,,
-course_2,ch_2_05,les_2_05_07,topic_2_05_07_01,quiz_2_05_07_2,,,
-course_2,ch_2_05,les_2_05_07,topic_2_05_07_01,quiz_2_05_07_3,,,
-course_2,ch_2_05,les_2_05_07,topic_2_05_07_01,quiz_2_05_07_4,,,
-course_2,ch_2_05,les_2_05_07,topic_2_05_07_01,quiz_2_05_07_5,,,
-course_2,ch_2_05,les_2_05_08,topic_2_05_08_01,quiz_2_05_08_1,,,
-course_2,ch_2_05,les_2_05_08,topic_2_05_08_01,quiz_2_05_08_2,,,
-course_2,ch_2_05,les_2_05_08,topic_2_05_08_01,quiz_2_05_08_3,,,
-course_2,ch_2_05,les_2_05_08,topic_2_05_08_01,quiz_2_05_08_4,,,
-course_2,ch_2_05,les_2_05_08,topic_2_05_08_01,quiz_2_05_08_5,,,
-course_2,ch_2_05,les_2_05_09,topic_2_05_09_01,quiz_2_05_09_1,,,
-course_2,ch_2_05,les_2_05_09,topic_2_05_09_01,quiz_2_05_09_2,,,
-course_2,ch_2_05,les_2_05_09,topic_2_05_09_01,quiz_2_05_09_3,,,
-course_2,ch_2_05,les_2_05_09,topic_2_05_09_01,quiz_2_05_09_4,,,
-course_2,ch_2_05,les_2_05_09,topic_2_05_09_01,quiz_2_05_09_5,,,
-course_2,ch_2_05,les_2_05_10,topic_2_05_10_01,quiz_2_05_10_1,,,
-course_2,ch_2_05,les_2_05_10,topic_2_05_10_01,quiz_2_05_10_2,,,
-course_2,ch_2_05,les_2_05_10,topic_2_05_10_01,quiz_2_05_10_3,,,
-course_2,ch_2_05,les_2_05_10,topic_2_05_10_01,quiz_2_05_10_4,,,
-course_2,ch_2_05,les_2_05_10,topic_2_05_10_01,quiz_2_05_10_5,,,
-course_2,ch_2_06,les_2_06_01,topic_2_06_01_01,quiz_2_06_01_1,,,
-course_2,ch_2_06,les_2_06_01,topic_2_06_01_01,quiz_2_06_01_2,,,
-course_2,ch_2_06,les_2_06_01,topic_2_06_01_01,quiz_2_06_01_3,,,
-course_2,ch_2_06,les_2_06_01,topic_2_06_01_01,quiz_2_06_01_4,,,
-course_2,ch_2_06,les_2_06_01,topic_2_06_01_01,quiz_2_06_01_5,,,
-course_2,ch_2_06,les_2_06_02,topic_2_06_02_01,quiz_2_06_02_1,,,
-course_2,ch_2_06,les_2_06_02,topic_2_06_02_01,quiz_2_06_02_2,,,
-course_2,ch_2_06,les_2_06_02,topic_2_06_02_01,quiz_2_06_02_3,,,
-course_2,ch_2_06,les_2_06_02,topic_2_06_02_01,quiz_2_06_02_4,,,
-course_2,ch_2_06,les_2_06_02,topic_2_06_02_01,quiz_2_06_02_5,,,
-course_2,ch_2_06,les_2_06_03,topic_2_06_03_01,quiz_2_06_03_1,,,
-course_2,ch_2_06,les_2_06_03,topic_2_06_03_01,quiz_2_06_03_2,,,
-course_2,ch_2_06,les_2_06_03,topic_2_06_03_01,quiz_2_06_03_3,,,
-course_2,ch_2_06,les_2_06_03,topic_2_06_03_01,quiz_2_06_03_4,,,
-course_2,ch_2_06,les_2_06_03,topic_2_06_03_01,quiz_2_06_03_5,,,
-course_2,ch_2_06,les_2_06_04,topic_2_06_04_01,quiz_2_06_04_1,,,
-course_2,ch_2_06,les_2_06_04,topic_2_06_04_01,quiz_2_06_04_2,,,
-course_2,ch_2_06,les_2_06_04,topic_2_06_04_01,quiz_2_06_04_3,,,
-course_2,ch_2_06,les_2_06_04,topic_2_06_04_01,quiz_2_06_04_4,,,
-course_2,ch_2_06,les_2_06_04,topic_2_06_04_01,quiz_2_06_04_5,,,
-course_2,ch_2_06,les_2_06_05,topic_2_06_05_01,quiz_2_06_05_1,,,
-course_2,ch_2_06,les_2_06_05,topic_2_06_05_01,quiz_2_06_05_2,,,
-course_2,ch_2_06,les_2_06_05,topic_2_06_05_01,quiz_2_06_05_3,,,
-course_2,ch_2_06,les_2_06_05,topic_2_06_05_01,quiz_2_06_05_4,,,
-course_2,ch_2_06,les_2_06_05,topic_2_06_05_01,quiz_2_06_05_5,,,
-course_2,ch_2_06,les_2_06_06,topic_2_06_06_01,quiz_2_06_06_1,,,
-course_2,ch_2_06,les_2_06_06,topic_2_06_06_01,quiz_2_06_06_2,,,
-course_2,ch_2_06,les_2_06_06,topic_2_06_06_01,quiz_2_06_06_3,,,
-course_2,ch_2_06,les_2_06_06,topic_2_06_06_01,quiz_2_06_06_4,,,
-course_2,ch_2_06,les_2_06_06,topic_2_06_06_01,quiz_2_06_06_5,,,
-course_2,ch_2_06,les_2_06_07,topic_2_06_07_01,quiz_2_06_07_1,,,
-course_2,ch_2_06,les_2_06_07,topic_2_06_07_01,quiz_2_06_07_2,,,
-course_2,ch_2_06,les_2_06_07,topic_2_06_07_01,quiz_2_06_07_3,,,
-course_2,ch_2_06,les_2_06_07,topic_2_06_07_01,quiz_2_06_07_4,,,
-course_2,ch_2_06,les_2_06_07,topic_2_06_07_01,quiz_2_06_07_5,,,
-course_2,ch_2_06,les_2_06_08,topic_2_06_08_01,quiz_2_06_08_1,,,
-course_2,ch_2_06,les_2_06_08,topic_2_06_08_01,quiz_2_06_08_2,,,
-course_2,ch_2_06,les_2_06_08,topic_2_06_08_01,quiz_2_06_08_3,,,
-course_2,ch_2_06,les_2_06_08,topic_2_06_08_01,quiz_2_06_08_4,,,
-course_2,ch_2_06,les_2_06_08,topic_2_06_08_01,quiz_2_06_08_5,,,
-course_2,ch_2_06,les_2_06_09,topic_2_06_09_01,quiz_2_06_09_1,,,
-course_2,ch_2_06,les_2_06_09,topic_2_06_09_01,quiz_2_06_09_2,,,
-course_2,ch_2_06,les_2_06_09,topic_2_06_09_01,quiz_2_06_09_3,,,
-course_2,ch_2_06,les_2_06_09,topic_2_06_09_01,quiz_2_06_09_4,,,
-course_2,ch_2_06,les_2_06_09,topic_2_06_09_01,quiz_2_06_09_5,,,
-course_2,ch_2_06,les_2_06_10,topic_2_06_10_01,quiz_2_06_10_1,,,
-course_2,ch_2_06,les_2_06_10,topic_2_06_10_01,quiz_2_06_10_2,,,
-course_2,ch_2_06,les_2_06_10,topic_2_06_10_01,quiz_2_06_10_3,,,
-course_2,ch_2_06,les_2_06_10,topic_2_06_10_01,quiz_2_06_10_4,,,
-course_2,ch_2_06,les_2_06_10,topic_2_06_10_01,quiz_2_06_10_5,,,
+course_2,ch_2_01,les_2_01_01,topic_2_01_01_01,quiz_2_01_01_1,Which statement best describes the main goal of Pharmacovigilance (PV)?,"A) To study the chemical structure of new drugs | B) To detect, assess, and prevent adverse drug effects | C) To promote drug sales globally | D) To monitor drug manufacturing quality",B
+course_2,ch_2_01,les_2_01_01,topic_2_01_01_01,quiz_2_01_01_2,Which event directly led to the creation of modern global drug regulations?,A) 1937 Sulfanilamide tragedy | B) 1848 chloroform death | C) 1978 launch of WHO’s VigiBase | D) 1995 establishment of EMA,A
+course_2,ch_2_01,les_2_01_01,topic_2_01_01_01,quiz_2_01_01_3,What is the primary limitation of spontaneous reporting in Pharmacovigilance?,A) It is too expensive to maintain | B) Less than 10% of adverse reactions are reported | C) It focuses only on clinical trials | D) It cannot be accessed by patients,B
+course_2,ch_2_01,les_2_01_01,topic_2_01_01_01,quiz_2_01_01_4,Which organization manages EudraVigilance and oversees drug safety in the EU?,A) WHO | B) CIOMS | C) EMA | D) FDA,C
+course_2,ch_2_01,les_2_01_01,topic_2_01_01_01,quiz_2_01_01_5,What future trend is expected to improve signal detection in Pharmacovigilance?,A) Paper-based record keeping | B) Increased manual data entry | C) Artificial intelligence and real-world data | D) Reduced international collaboration,C
+course_2,ch_2_01,les_2_01_02,topic_2_01_02_01,quiz_2_01_02_1,"Which incident led directly to the passage of the Federal Food, Drug, and Cosmetic Act (1938)?",A) The Vioxx withdrawal | B) Thalidomide birth defects | C) The Sulfanilamide Elixir Tragedy | D) Hannah Greener’s chloroform death,C
+course_2,ch_2_01,les_2_01_02,topic_2_01_02_01,quiz_2_01_02_2,What was the main outcome of the thalidomide crisis in the 1960s?,A) Creation of WHO’s VigiBase | B) Stricter global drug safety regulations and new monitoring systems | C) Ban on sedatives worldwide | D) Establishment of the ICH,B
+course_2,ch_2_01,les_2_01_02,topic_2_01_02_01,quiz_2_01_02_3,What was the purpose of establishing the Uppsala Monitoring Centre (UMC) in 1978?,"A) To manage WHO’s global ADR database, VigiBase | B) To regulate European clinical trials | C) To monitor the safety of herbal medicines | D) To certify pharmaceutical manufacturers",A
+course_2,ch_2_01,les_2_01_02,topic_2_01_02_01,quiz_2_01_02_4,Which of the following developments introduced standardized global drug regulations across major regions?,A) EMA formation in 1995 | B) ICH establishment in 1990 | C) FDA’s ADRRS in the 1970s | D) WHO PIDM in 1968,B
+course_2,ch_2_01,les_2_01_02,topic_2_01_02_01,quiz_2_01_02_5,What major advancement characterized Pharmacovigilance in the 2010s–2020s?,A) Manual ADR reporting through postal systems | B) AI-driven signal detection and use of big data analytics | C) Exclusive focus on clinical trial data | D) Reduction in international PV collaborations,B
+course_2,ch_2_01,les_2_01_03,topic_2_01_03_01,quiz_2_01_03_1,What is the primary function of the World Health Organization (WHO) in Pharmacovigilance?,A) Conducting preclinical drug trials | B) Coordinating global drug marketing | C) Promoting safety monitoring through international collaboration | D) Approving new drug patents,C
+course_2,ch_2_01,les_2_01_03,topic_2_01_03_01,quiz_2_01_03_2,Which system serves as the FDA’s central repository for Individual Case Safety Reports (ICSRs)?,A) FAERS | B) EudraVigilance | C) VigiBase | D) DSUR,A
+course_2,ch_2_01,les_2_01_03,topic_2_01_03_01,quiz_2_01_03_3,What is the main role of the International Council for Harmonisation (ICH) in Pharmacovigilance?,A) Managing global safety databases | B) Developing harmonized technical PV guidelines across jurisdictions | C) Investigating local drug safety incidents | D) Conducting inspections of manufacturing sites,B
+course_2,ch_2_01,les_2_01_03,topic_2_01_03_01,quiz_2_01_03_4,Which national regulatory authority oversees AE collection and PV implementation in India?,A) MHRA | B) PvPI | C) PMDA | D) TGA,B
+course_2,ch_2_01,les_2_01_03,topic_2_01_03_01,quiz_2_01_03_5,What technological advancement is increasingly integrated into PV workflows under regulatory supervision?,A) Blockchain-based marketing approval | B) Manual report transcription | C) AI-assisted signal detection and electronic E2B(R3) reporting | D) Paper-based ADR submissions,C
+course_2,ch_2_01,les_2_01_04,topic_2_01_04_01,quiz_2_01_04_1,Which statement best defines an Adverse Event (AE)?,"A) Any harmful effect proven to be caused by a drug | B) Any unintended medical occurrence in a patient given a medicinal product, regardless of causality | C) Only life-threatening reactions due to overdose | D) A temporary side effect unrelated to treatment",B
+course_2,ch_2_01,les_2_01_04,topic_2_01_04_01,quiz_2_01_04_2,How does an Adverse Drug Reaction (ADR) differ from an Adverse Event (AE)?,"A) ADRs include only psychological effects | B) ADRs imply a causal relationship with the drug, while AEs do not necessarily | C) AEs are limited to post-marketing cases | D) ADRs are not reported to regulatory authorities",B
+course_2,ch_2_01,les_2_01_04,topic_2_01_04_01,quiz_2_01_04_3,Which of the following qualifies as a Serious Adverse Event (SAE)?,A) Mild drowsiness after antihistamine use | B) Temporary nausea resolving without treatment | C) Hospitalization following an anaphylactic reaction | D) Dry mouth after antibiotic use,C
+course_2,ch_2_01,les_2_01_04,topic_2_01_04_01,quiz_2_01_04_4,Which of the following is NOT part of the EU’s expanded scope of Pharmacovigilance since 2010?,A) Medication errors and misuse | B) Drug exposure during pregnancy | C) Occupational exposure | D) Preclinical animal testing errors,D
+course_2,ch_2_01,les_2_01_04,topic_2_01_04_01,quiz_2_01_04_5,What is the main purpose of analyzing Adverse Event data in Pharmacovigilance?,A) To promote drug marketing campaigns | B) To detect safety signals and identify potential causal links between drugs and events | C) To determine drug pricing strategies | D) To eliminate mild side effects from labeling,B
+course_2,ch_2_01,les_2_01_05,topic_2_01_05_01,quiz_2_01_05_1,What is the primary purpose of Good Pharmacovigilance Practices (GVP)?,A) To regulate pre-marketing drug approval procedures | B) To ensure post-authorization drug safety through structured monitoring and compliance | C) To evaluate manufacturing efficiency | D) To replace ICH guidelines for all EU drug reviews,B
+course_2,ch_2_01,les_2_01_05,topic_2_01_05_01,quiz_2_01_05_2,"Which GVP module focuses on Risk Management Systems, including Risk Management Plans (RMPs) and minimization measures?",A) Module II | B) Module V | C) Module VIII | D) Module IX,B
+course_2,ch_2_01,les_2_01_05,topic_2_01_05_01,quiz_2_01_05_3,How long must safety records be retained after product withdrawal under GVP requirements?,A) 5 years | B) 7 years | C) 10 years or more | D) Indefinitely,C
+course_2,ch_2_01,les_2_01_05,topic_2_01_05_01,quiz_2_01_05_4,Which regulation formally established GVP within the European Union?,A) Regulation (EU) No 1235/2010 and Directive 2010/84/EU | B) ICH E2C(R2) | C) FDA 21 CFR Part 314 | D) CIOMS VIII Guidelines,A
+course_2,ch_2_01,les_2_01_05,topic_2_01_05_01,quiz_2_01_05_5,What is the key purpose of Module VII in the GVP framework?,A) Describing Pharmacovigilance Inspections | B) Managing Periodic Benefit–Risk Evaluation Reports (PBRERs) | C) Conducting Post-Authorisation Safety Studies (PASS) | D) Implementing Safety Communications,B
+course_2,ch_2_01,les_2_01_06,topic_2_01_06_01,quiz_2_01_06_1,Which AI technology in pharmacovigilance is specifically used to extract insights from unstructured text like clinical notes or social media posts?,A) Deep Learning | B) Robotic Process Automation | C) Natural Language Processing | D) Bayesian Models,C
+course_2,ch_2_01,les_2_01_06,topic_2_01_06_01,quiz_2_01_06_2,What is a key benefit of integrating AI into pharmacovigilance workflows?,A) Consistent and objective causality evaluations | B) Manual reporting speed | C) Reduced patient data | D) Limited data sources,A
+course_2,ch_2_01,les_2_01_06,topic_2_01_06_01,quiz_2_01_06_3,Which challenge is associated with using AI in pharmacovigilance?,A) Regulation and Ethics | B) Increased subjectivity | C) Slower signal detection | D) Inability to handle structured data,A
+course_2,ch_2_01,les_2_01_06,topic_2_01_06_01,quiz_2_01_06_4,Which AI application helps in forecasting patient populations at risk of adverse events?,A) Case Processing Automation | B) Predictive Analytics | C) Real-Time Monitoring | D) Signal Detection and Triage,B
+course_2,ch_2_01,les_2_01_06,topic_2_01_06_01,quiz_2_01_06_5,Future directions of AI in pharmacovigilance include:,A) Multimodal data fusion | B) Eliminating human oversight completely | C) Restricting AI to only structured datasets | D) Reducing patient safety measures,A
+course_2,ch_2_01,les_2_01_07,topic_2_01_07_01,quiz_2_01_07_1,"Which PV role is primarily responsible for logging, screening, and categorizing adverse event cases?",A) PV Scientist / Drug Safety Associate | B) PV Officer / PV Associate | C) Signal Detection Specialist | D) Medical Reviewer / PV Physician,B
+course_2,ch_2_01,les_2_01_07,topic_2_01_07_01,quiz_2_01_07_2,Who in a pharmacovigilance team evaluates the medical plausibility of adverse events and provides expert input for causality assessment?,A) Regulatory Affairs Specialist | B) PV Manager / Lead | C) Medical Reviewer / PV Physician | D) PV Officer / Associate,C
+course_2,ch_2_01,les_2_01_07,topic_2_01_07_01,quiz_2_01_07_3,Which responsibility is specific to a Signal Detection Specialist?,A) Trend analysis of AE data | B) Data entry and case processing | C) Preparing PSURs and DSURs | D) Conducting internal audits,A
+course_2,ch_2_01,les_2_01_07,topic_2_01_07_01,quiz_2_01_07_4,Which guideline or standard ensures consistency in adverse event terminology in PV?,A) GVP Guidelines | B) MedDRA Coding Standards | C) ICH E2B(R3) | D) Local Regulatory Guidelines,B
+course_2,ch_2_01,les_2_01_07,topic_2_01_07_01,quiz_2_01_07_5,A common mitigation strategy for delayed case reporting in PV is:,A) Cross-functional review | B) Automated alerts and dashboards | C) Regular audits | D) AI-assisted signal detection,B
+course_2,ch_2_01,les_2_01_08,topic_2_01_08_01,quiz_2_01_08_1,What is the primary purpose of MedDRA?,A) Facilitate international regulatory compliance | B) Provide standardized medical terminology | C) Replace clinical trial protocols | D) Monitor patient adherence,B
+course_2,ch_2_01,les_2_01_08,topic_2_01_08_01,quiz_2_01_08_2,"Which MedDRA level represents the most specific terms, including synonyms or colloquial expressions?",A) High-Level Term | B) Lowest Level Term | C) Preferred Term | D) System Organ Class,B
+course_2,ch_2_01,les_2_01_08,topic_2_01_08_01,quiz_2_01_08_3,How does MedDRA support signal detection in pharmacovigilance?,A) By coding AEs uniformly across databases | B) By limiting AE reports to local systems | C) By replacing laboratory data | D) By controlling clinical trial recruitment,A
+course_2,ch_2_01,les_2_01_08,topic_2_01_08_01,quiz_2_01_08_4,Which organization maintains MedDRA and provides biannual updates?,A) WHO | B) MSSO | C) FDA | D) ICH,B
+course_2,ch_2_01,les_2_01_08,topic_2_01_08_01,quiz_2_01_08_5,What is a key challenge when implementing MedDRA in small organizations?,A) Multilingual translations | B) High complexity and training needs | C) Excessive signal detection | D) Regulatory approval delays,B
+course_2,ch_2_01,les_2_01_09,topic_2_01_09_01,quiz_2_01_09_1,Which document serves as the central reference for a company’s pharmacovigilance operations and regulatory inspections?,A) Risk Management Plan (RMP) | B) Pharmacovigilance System Master File (PSMF) | C) Periodic Safety Update Report (PSUR) | D) Individual Case Safety Report (ICSR),B
+course_2,ch_2_01,les_2_01_09,topic_2_01_09_01,quiz_2_01_09_2,The Risk Management Plan (RMP) is primarily designed to:,A) Collect individual adverse event data for signal detection | B) Manage identified and potential risks to maintain a favorable benefit-risk balance | C) Summarize aggregate safety and efficacy data for periodic review | D) Serve as the organizational blueprint for pharmacovigilance systems,B
+course_2,ch_2_01,les_2_01_09,topic_2_01_09_01,quiz_2_01_09_3,"According to GVP Module VI, a serious adverse reaction must be reported to authorities within:",A) 7 days | B) 15 days | C) 30 days | D) 90 days,B
+course_2,ch_2_01,les_2_01_09,topic_2_01_09_01,quiz_2_01_09_4,Which report evaluates a product’s benefit-risk profile by analyzing cumulative safety data collected over time?,A) Individual Case Safety Report (ICSR) | B) Post-Authorization Safety Study (PASS) Report | C) Periodic Safety Update Report (PSUR) / PBRER | D) Risk Management Plan (RMP),C
+course_2,ch_2_01,les_2_01_09,topic_2_01_09_01,quiz_2_01_09_5,Safety Communication Documents such as DHPCs are issued primarily to:,A) Inform healthcare professionals and the public about new risks or safety measures | B) Update the internal audit trail of the MAH | C) Report aggregate data from clinical trials | D) Replace outdated versions of the PSMF,A
+course_2,ch_2_02,les_2_02_01,topic_2_02_01_01,quiz_2_02_01_1,What is the primary purpose of an Individual Case Safety Report (ICSR) in pharmacovigilance?,A) To summarize aggregate clinical trial data | B) To document and report individual adverse events for signal detection and regulatory review | C) To describe company-wide risk management procedures | D) To manage periodic benefit-risk assessments,B
+course_2,ch_2_02,les_2_02_01,topic_2_02_01_01,quiz_2_02_01_2,Which guideline defines the electronic transmission format for ICSRs used globally?,A) ICH E2B(R3) | B) GVP Module V | C) WHO-UMC Causality Scale | D) ICH E6(R2),A
+course_2,ch_2_02,les_2_02_01,topic_2_02_01_01,quiz_2_02_01_3,"In an ICSR, which section includes details like drug name, dosage, indication, and administration dates?",A) Patient Information | B) Adverse Event Information | C) Medicinal Product Information | D) Administrative Information,C
+course_2,ch_2_02,les_2_02_01,topic_2_02_01_01,quiz_2_02_01_4,What is the regulatory timeline for submitting a serious adverse event (SAE) according to GVP Module VI?,A) 30 calendar days | B) 7 calendar days | C) 90 calendar days | D) 15 calendar days,D
+course_2,ch_2_02,les_2_02_01,topic_2_02_01_01,quiz_2_02_01_5,Which of the following is a key challenge in ICSR management?,A) Over-reporting of adverse events | B) Inconsistent coding using MedDRA terminology | C) Overuse of electronic submission systems | D) Delayed signal detection due to too many reports,B
+course_2,ch_2_02,les_2_02_02,topic_2_02_02_01,quiz_2_02_02_1,Which of the following represents the minimum required information to create a valid AE case during intake?,"A) Patient details, suspected drug, event description, and reporter information | B) Reporter name and qualification only | C) Patient history and hospitalization outcome | D) Drug dosage and batch number only",A
+course_2,ch_2_02,les_2_02_02,topic_2_02_02_01,quiz_2_02_02_2,What is the main purpose of triage in the AE Case Intake process?,A) To confirm the reporter’s identity for legal documentation | B) To classify cases by seriousness and priority for processing | C) To collect MedDRA terms for coding | D) To finalize causality assessment of the case,B
+course_2,ch_2_02,les_2_02_02,topic_2_02_02_01,quiz_2_02_02_3,"During AE intake, which coding systems are primarily used for adverse events and drug names respectively?",A) ICD-10 and WHO-DD | B) MedDRA and WHO Drug Dictionary | C) ICH E2A and GVP Module VI | D) MeSH and MedDRA,B
+course_2,ch_2_02,les_2_02_02,topic_2_02_02_01,quiz_2_02_02_4,Which of the following best describes the case logging step in AE intake?,A) Assigning a unique identification number and entering initial details into the safety database | B) Verifying seriousness classification and submitting to regulators | C) Conducting a causality assessment and labeling updates | D) Performing quality review and audit verification,A
+course_2,ch_2_02,les_2_02_02,topic_2_02_02_01,quiz_2_02_02_5,Which strategy best helps mitigate the risk of duplicate AE reports in a safety database?,A) Conducting annual audits of case processors | B) Using automated duplicate detection and cross-checking identifiers | C) Delaying submission until follow-up data is received | D) Reviewing MedDRA hierarchy for every case manually,B
+course_2,ch_2_02,les_2_02_03,topic_2_02_03_01,quiz_2_02_03_1,Which of the following scenarios best meets the ICH E2D minimum criteria for generating an ICSR during source document review?,"A) A patient reports mild dizziness after a generic supplement, but no suspect drug is identified. |
+B) A nurse reports a patient rash following administration of Drug X, with treatment duration and outcome provided. |
+C) A consumer email mentions fatigue but doesn’t specify any medication. |
+D) A journal abstract discusses Drug Y’s pharmacokinetics in healthy volunteers.",B
+course_2,ch_2_02,les_2_02_03,topic_2_02_03_01,quiz_2_02_03_2,"During SDR, a reviewer receives multiple hospital discharge summaries showing the same AE, patient initials, and treatment dates. What’s the most appropriate next step?","A) Discard duplicates and keep only the first received report. |
+B) Combine all reports into a single ICSR without verification. |
+C) Perform duplicate check using the safety database and link reports if validated. |
+D) Enter each report separately since they came from different hospitals.",C
+course_2,ch_2_02,les_2_02_03,topic_2_02_03_01,quiz_2_02_03_3,A document received from a medical journal includes a serious adverse reaction but lacks patient age and contact details. What should the reviewer do according to ICH E2D guidance?,"A) File the document as non-reportable due to missing data. |
+B) Generate an ICSR immediately since the event is serious. |
+C) Follow up with the publisher for missing information before confirming case validity. |
+D) Disregard the document since literature cases aren’t considered valid.",C
+course_2,ch_2_02,les_2_02_03,topic_2_02_03_01,quiz_2_02_03_4,Which combination correctly aligns with SDR workflow and regulatory compliance principles?,"A) Step 1: Extract data → Step 2: Triage → Step 3: Timestamp document. |
+B) Step 1: Document receipt → Step 2: Preliminary triage → Step 3: Extraction → Step 4: Validity assessment → Step 5: Case generation. |
+C) Step 1: Case generation → Step 2: AI validation → Step 3: Filing. |
+D) Step 1: Regulatory submission → Step 2: Quality review → Step 3: Archiving.",B
+course_2,ch_2_02,les_2_02_03,topic_2_02_03_01,quiz_2_02_03_5,"An SDR reviewer using an AI-based triage tool notices it flagged a patient email as “non-serious.” However, manual review reveals hospitalization details attached. What’s the correct response?","A) Accept AI output — the system prioritizes accuracy. |
+B) Override AI decision, reclassify as “serious,” and document rationale in audit trail. |
+C) Delete the record to avoid conflicting classifications. |
+D) Re-run AI model to confirm its confidence score.",B
+course_2,ch_2_02,les_2_02_04,topic_2_02_04_01,quiz_2_02_04_1,Which statement best captures the key difference between narrative writing and technical writing?,"A) Narrative writing uses precise facts and numerical data to inform readers. |
+B) Narrative writing recreates experiences through emotion, imagery, and structure. |
+C) Technical writing always includes a story arc and character dialogue. |
+D) Technical writing avoids structure and focuses only on creativity.",B
+course_2,ch_2_02,les_2_02_04,topic_2_02_04_01,quiz_2_02_04_2,"In a well-structured narrative, which part typically contains the highest tension or turning point of the story?","A) Exposition |
+B) Climax |
+C) Falling action |
+D) Resolution",B
+course_2,ch_2_02,les_2_02_04,topic_2_02_04_01,quiz_2_02_04_3,"A sentence reads: “She clenched the letter so tightly that her knuckles turned white.”
+This sentence is an example of what key narrative writing technique?","A) Telling |
+B) Showing |
+C) Foreshadowing |
+D) Flashback",B
+course_2,ch_2_02,les_2_02_04,topic_2_02_04_01,quiz_2_02_04_4,A writer begins a story in first-person but halfway switches to third-person without reason. Which core narrative issue does this reflect?,"A) Inconsistent point of view |
+B) Weak theme |
+C) Overuse of dialogue |
+D) Poor pacing",A
+course_2,ch_2_02,les_2_02_04,topic_2_02_04_01,quiz_2_02_04_5,Why might a case report in healthcare benefit from narrative writing principles?,"A) It ensures compliance with ICH regulations. |
+B) It transforms clinical data into an engaging, human-centered account of a patient’s journey. |
+C) It replaces objective details with emotional interpretation. |
+D) It eliminates the need for structured sections like “Findings” or “Discussion.”",B
+course_2,ch_2_02,les_2_02_05,topic_2_02_05_01,quiz_2_02_05_1,What is the main goal of implementing AI in the ICSR triage process?,"A) To replace human reviewers entirely and automate regulatory submissions. |
+B) To accelerate and standardize the prioritization of safety reports while reducing manual workload. |
+C) To eliminate the need for database validation and audit trails. |
+D) To classify only non-serious adverse events for quicker closure.",B
+course_2,ch_2_02,les_2_02_05,topic_2_02_05_01,quiz_2_02_05_2,"In pharmacovigilance, which AI technology helps extract structured data from unstructured narrative text such as scanned PDFs or handwritten notes?","A) Predictive modeling |
+B) Neural clustering |
+C) Natural Language Processing (NLP) |
+D) Deep text reconstruction",C
+course_2,ch_2_02,les_2_02_05,topic_2_02_05_01,quiz_2_02_05_3,"A case flagged by AI as “non-serious” later turns out to involve hospitalization. According to best practices, what should the pharmacovigilance team do?","A) Trust the algorithm since it’s pre-validated. |
+B) Reclassify the case manually, document the correction, and investigate why the AI misclassified it. |
+C) Delete the AI output and re-run the system. |
+D) Keep both classifications for record-keeping without changes.",B
+course_2,ch_2_02,les_2_02_05,topic_2_02_05_01,quiz_2_02_05_4,Which statement best defines the “human-in-the-loop” approach in AI-based ICSR triage?,"A) Humans review only failed AI outputs and ignore all other cases. |
+B) AI performs initial triage, but humans validate, correct, and finalize classifications. |
+C) AI generates final decisions that are auto-submitted to regulators. |
+D) Humans manually enter cases before AI takes over.",B
+course_2,ch_2_02,les_2_02_05,topic_2_02_05_01,quiz_2_02_05_5,Why is regulatory validation critical when adopting AI tools in pharmacovigilance?,"A) Because agencies require proof of algorithm performance, version control, and compliance with GCP/ICH standards. |
+B) Because validation increases the speed of triage by 60%. |
+C) Because unvalidated models are faster but less expensive. |
+D) Because it allows companies to skip human oversight in serious cases.",A
+course_2,ch_2_02,les_2_02_06,topic_2_02_06_01,quiz_2_02_06_1,What is the primary goal of causality assessment in pharmacovigilance?,"A) To determine whether an adverse event is caused by the drug or coincidental. |
+B) To calculate drug dosage adjustments based on patient age. |
+C) To identify all possible side effects regardless of clinical evidence. |
+D) To replace clinical judgment with algorithmic prediction.",A
+course_2,ch_2_02,les_2_02_06,topic_2_02_06_01,quiz_2_02_06_2,"Which category best describes a case where an event disappears after drug withdrawal and reappears upon re-administration, with no other explanation?","A) Probable |
+B) Certain |
+C) Possible |
+D) Unlikely",B
+course_2,ch_2_02,les_2_02_06,topic_2_02_06_01,quiz_2_02_06_3,The Naranjo Algorithm determines causality primarily by:,"A) Using a point-based questionnaire evaluating timing, dechallenge, rechallenge, and alternative causes. |
+B) Comparing patient events against population-level AI models. |
+C) Reviewing narrative summaries and assigning causality through consensus voting. |
+D) Predicting drug interactions through literature scanning only.",A
+course_2,ch_2_02,les_2_02_06,topic_2_02_06_01,quiz_2_02_06_4,Which of the following factors is least likely to be used when performing a causality assessment?,"A) Dechallenge and rechallenge outcomes |
+B) Patient demographics like age and sex |
+C) Known pharmacology and prior literature reports |
+D) Sales data of the suspect drug",D
+course_2,ch_2_02,les_2_02_06,topic_2_02_06_01,quiz_2_02_06_5,Why is clear documentation of causality assessment essential in an ICSR?,"A) It ensures transparency, supports audits, and provides evidence for regulatory decisions. |
+B) It helps shorten narrative writing by summarizing only results. |
+C) It eliminates the need for medical peer review. |
+D) It allows automation tools to finalize regulatory submissions.",A
+course_2,ch_2_02,les_2_02_07,topic_2_02_07_01,quiz_2_02_07_1,What is the primary reason MedDRA coding is used in pharmacovigilance?,"A) To standardize medical terms for accurate global safety data analysis. |
+B) To reduce the number of adverse events reported to regulators. |
+C) To automatically infer causality between drug and event. |
+D) To translate case reports into local languages.",A
+course_2,ch_2_02,les_2_02_07,topic_2_02_07_01,quiz_2_02_07_2,Which MedDRA hierarchy level represents the most specific medical concept that directly reflects the reporter’s verbatim term?,"A) System Organ Class (S.O.C.) |
+B) High Level Group Term (H.L.G.T.) |
+C) Lowest Level Term (L.L.T.) |
+D) Preferred Term (P.T.)",C
+course_2,ch_2_02,les_2_02_07,topic_2_02_07_01,quiz_2_02_07_3,"During MedDRA coding, what should a coder avoid doing to maintain data accuracy?","A) Inferring causality or severity when selecting terms. |
+B) Mapping multiple symptoms separately. |
+C) Following company SOPs for borderline terms. |
+D) Using the latest MedDRA version during updates.",A
+course_2,ch_2_02,les_2_02_07,topic_2_02_07_01,quiz_2_02_07_4,"In the coding process, once the coder selects a Lowest Level Term (L.L.T.), what happens next?","A) It automatically maps to its corresponding Preferred Term (P.T.). |
+B) It must be manually categorized under a System Organ Class. |
+C) It is sent to regulatory authorities for confirmation. |
+D) It gets linked to the adverse event narrative directly.",A
+course_2,ch_2_02,les_2_02_07,topic_2_02_07_01,quiz_2_02_07_5,Which of the following best describes a common pitfall in MedDRA coding?,"A) Choosing a broad, nonspecific term instead of the most accurate one. |
+B) Documenting rationale for each selected code. |
+C) Separating and coding each symptom individually. |
+D) Verifying term alignment with MedDRA hierarchy.",A
+course_2,ch_2_02,les_2_02_08,topic_2_02_08_01,quiz_2_02_08_1,Why are quality checks considered critical in the I.C.S.R. process?,"A) To ensure reports are accurate, complete, and regulatory-compliant. |
+B) To reduce the number of adverse events submitted to regulators. |
+C) To automatically classify adverse events as serious or non-serious. |
+D) To replace human review in pharmacovigilance.",A
+course_2,ch_2_02,les_2_02_08,topic_2_02_08_01,quiz_2_02_08_2,"During the initial review step of I.C.S.R. quality checks, which of the following would be flagged for follow-up?","A) An adverse event occurring before drug administration. |
+B) Correct MedDRA coding already applied. |
+C) Fully completed mandatory fields. |
+D) Accurate reporter contact information.",A
+course_2,ch_2_02,les_2_02_08,topic_2_02_08_01,quiz_2_02_08_3,Which activity is a key part of source document verification?,"A) Comparing adverse event and drug details against original clinical records. |
+B) Automatically assigning seriousness to the adverse event. |
+C) Updating MedDRA coding without consulting source documents. |
+D) Submitting the I.C.S.R. to regulators before validation.",A
+course_2,ch_2_02,les_2_02_08,topic_2_02_08_01,quiz_2_02_08_4,Why is coding verification important in I.C.S.R. quality checks?,"A) It ensures meaningful aggregation of safety data and regulatory compliance. |
+B) It allows inferring causality directly from adverse event descriptions. |
+C) It eliminates the need for human review. |
+D) It automatically prioritizes serious cases for submission.",A
+course_2,ch_2_02,les_2_02_08,topic_2_02_08_01,quiz_2_02_08_5,Which of the following best describes a best practice for I.C.S.R. quality checks?,"A) Use checklists or templates and document all follow-up actions. |
+B) Skip peer review for high-priority cases to save time. |
+C) Rely solely on automated tools without human interpretation. |
+D) Correct errors in the I.C.S.R. without contacting the reporter.",A
+course_2,ch_2_02,les_2_02_09,topic_2_02_09_01,quiz_2_02_09_1,What is the usual regulatory submission timeline for serious and unexpected adverse events?,A) Within 30 calendar days | B) Within 15 calendar days | C) Within 45 calendar days | D) Within 7 business days,B
+course_2,ch_2_02,les_2_02_09,topic_2_02_09_01,quiz_2_02_09_2,Which of the following is an example of a high-priority case for submission?,A) Non-serious and expected events | B) Serious but expected events | C) Fatal or life-threatening events | D) Periodic safety update reports,C
+course_2,ch_2_02,les_2_02_09,topic_2_02_09_01,quiz_2_02_09_3,What information is mandatory to include in an Individual Case Safety Report (ICSR)?,"A) Patient demographics, drug details, event description | B) Company revenue data and market share | C) Investigator CV and credentials | D) Product advertising material",A
+course_2,ch_2_02,les_2_02_09,topic_2_02_09_01,quiz_2_02_09_4,In which system are adverse event reports electronically submitted in the European Union?,A) EudraVigilance | B) MedWatch | C) VigiBase | D) DrugTrack,A
+course_2,ch_2_02,les_2_02_09,topic_2_02_09_01,quiz_2_02_09_5,Which of the following best describes follow-up reporting?,A) Submitting marketing data for a product | B) Submitting additional or corrected case information promptly | C) Delaying report submission due to incomplete data | D) Resubmitting all reports every quarter,B
+course_2,ch_2_02,les_2_02_10,topic_2_02_10_01,quiz_2_02_10_1,Which of the following conditions must be met before an ICSR can be closed?,A) Only seriousness assessment completed | B) All required case data collected and verified | C) Partial follow-up received | D) Regulatory reporting pending,B
+course_2,ch_2_02,les_2_02_10,topic_2_02_10_01,quiz_2_02_10_2,What is the final action in the ICSR case closure workflow?,A) Database update and case lock | B) Follow-up verification | C) Quality control review | D) Causality assessment,A
+course_2,ch_2_02,les_2_02_10,topic_2_02_10_01,quiz_2_02_10_3,Who is primarily responsible for confirming causality and clinical significance during case closure?,A) PV Associate | B) Regulatory Affairs Officer | C) PV Physician / Medical Reviewer | D) PV QA Specialist,C
+course_2,ch_2_02,les_2_02_10,topic_2_02_10_01,quiz_2_02_10_4,Which tool is commonly used for coding adverse event terms during case closure?,A) WHO Drug Dictionary | B) MedDRA | C) Argus Safety Database | D) Veeva Vault,B
+course_2,ch_2_02,les_2_02_10,topic_2_02_10_01,quiz_2_02_10_5,What is a key strategy to prevent premature closure of cases?,A) Skip the medical review step | B) Rely solely on automated systems | C) Implement checklist-based closure SOPs | D) Close all cases within 24 hours,C
+course_2,ch_2_03,les_2_03_01,topic_2_03_01_01,quiz_2_03_01_1,Which global pharmacovigilance database is managed by the Uppsala Monitoring Centre (UMC) under the World Health Organization (WHO)?,A) EudraVigilance | B) VigiBase | C) FAERS | D) JADER,B
+course_2,ch_2_03,les_2_03_01,topic_2_03_01_01,quiz_2_03_01_2,The EudraVigilance database primarily collects and manages safety data for which region?,A) Canada | B) United States | C) European Union | D) Japan,C
+course_2,ch_2_03,les_2_03_01,topic_2_03_01_01,quiz_2_03_01_3,Which of the following statements best describes the purpose of MedDRA coding in PV databases?,A) It classifies medical devices for approval | B) It standardizes adverse event terminology | C) It tracks manufacturing sites | D) It verifies patient consent forms,B
+course_2,ch_2_03,les_2_03_01,topic_2_03_01_01,quiz_2_03_01_4,The FDA FAERS database is designed to monitor adverse events related to:,A) Herbal products | B) Food supplements | C) Drugs and biologics | D) Medical devices only,C
+course_2,ch_2_03,les_2_03_01,topic_2_03_01_01,quiz_2_03_01_5,"What is one of the major challenges faced by global PV databases, and how is it mitigated?",A) Excessive follow-ups – by ignoring duplicates | B) Data duplication – by using reconciliation algorithms | C) Limited global access – by reducing submissions | D) Incomplete reports – by closing cases early,B
+course_2,ch_2_03,les_2_03_02,topic_2_03_02_01,quiz_2_03_02_1,What is the primary purpose of the E2B(R3) standard in pharmacovigilance?,A) To track global drug prices | B) To standardize electronic ICSR data exchange | C) To manage clinical site logistics | D) To record patient consent information,B
+course_2,ch_2_03,les_2_03_02,topic_2_03_02_01,quiz_2_03_02_2,Which file format is used for transmitting E2B(R3) ICSR data?,A) CSV | B) JSON | C) XML | D) TXT,C
+course_2,ch_2_03,les_2_03_02,topic_2_03_02_01,quiz_2_03_02_3,Which of the following is a major improvement introduced in E2B(R3) compared to E2B(R2)?,A) Manual data entry only | B) Limited MedDRA coding | C) Support for linked and follow-up cases | D) Removal of XML formatting,C
+course_2,ch_2_03,les_2_03_02,topic_2_03_02_01,quiz_2_03_02_4,Which coding dictionaries are used to standardize terms in E2B(R3) case submissions?,A) ICD and SNOMED | B) MedDRA and WHO Drug Dictionary | C) DSM and ATC | D) UMLS and RxNorm,B
+course_2,ch_2_03,les_2_03_02,topic_2_03_02_01,quiz_2_03_02_5,What is a key mitigation strategy for avoiding missing mandatory fields during E2B(R3) submissions?,A) Skip validation checks | B) Implement case intake checklists and validation rules | C) Submit cases before review | D) Use manual entry for faster reporting,B
+course_2,ch_2_03,les_2_03_03,topic_2_03_03_01,quiz_2_03_03_1,What is the primary purpose of VigiBase in pharmacovigilance?,"A) Managing clinical trial data |
+B) Detecting and monitoring drug safety signals |
+C) Storing manufacturing quality records |
+D) Tracking drug distribution globally",B
+course_2,ch_2_03,les_2_03_03,topic_2_03_03_01,quiz_2_03_03_2,Which organization manages and maintains VigiBase?,"A) U.S. Food and Drug Administration (FDA) |
+B) International Council for Harmonisation (ICH) |
+C) WHO Uppsala Monitoring Centre (UMC) |
+D) European Medicines Agency (EMA)",C
+course_2,ch_2_03,les_2_03_03,topic_2_03_03_01,quiz_2_03_03_3,"In VigiBase, adverse events are standardized using which terminology system?","A) ATC Classification |
+B) WHO-DD Dictionary |
+C) MedDRA Coding |
+D) SNOMED CT",C
+course_2,ch_2_03,les_2_03_03,topic_2_03_03_01,quiz_2_03_03_4,"Which component of VigiBase allows users to narrow searches by seriousness, age group, or country?","A) Case Details Viewer |
+B) Search & Query Module |
+C) Filters & Facets |
+D) Signal Detection Reports",C
+course_2,ch_2_03,les_2_03_03,topic_2_03_03_01,quiz_2_03_03_5,What is a best practice before executing a query in VigiBase?,"A) Using all filters at once to cover every possible case |
+B) Skipping MedDRA coding to save time |
+C) Defining clear objectives to avoid unnecessary data overload |
+D) Deleting previous query logs to start fresh",C
+course_2,ch_2_03,les_2_03_04,topic_2_03_04_01,quiz_2_03_04_1,What is the main purpose of data reconciliation in FAERS?,"A) To enhance product marketing strategies |
+B) To ensure accuracy and consistency between internal ICSRs and FAERS submissions |
+C) To reduce the number of adverse events reported |
+D) To merge data from global PV databases",B
+course_2,ch_2_03,les_2_03_04,topic_2_03_04_01,quiz_2_03_04_2,Which type of FAERS data involves multiple submissions for the same case that must be linked or merged?,"A) Aggregate Reports |
+B) Follow-up Reports |
+C) Duplicate Reports |
+D) Regulatory Submission Metadata",C
+course_2,ch_2_03,les_2_03_04,topic_2_03_04_01,quiz_2_03_04_3,What is the correct first step in the FAERS reconciliation workflow?,"A) Resolve discrepancies in internal systems |
+B) Identify FAERS submission cohort and extract internally submitted cases |
+C) Document reconciliation actions |
+D) Implement continuous monitoring",B
+course_2,ch_2_03,les_2_03_04,topic_2_03_04_01,quiz_2_03_04_4,Which coding standards are typically used during FAERS data reconciliation?,"A) ICD-10 and CPT |
+B) MedDRA and WHO Drug Dictionary |
+C) SNOMED CT and RxNorm |
+D) ATC and LOINC",B
+course_2,ch_2_03,les_2_03_04,topic_2_03_04_01,quiz_2_03_04_5,What is a best practice to prevent duplicate reporting during FAERS reconciliation?,"A) Submitting all reports twice for confirmation |
+B) Deleting earlier reports once new data is added |
+C) Using unique identifiers and linking cases in internal systems |
+D) Relying only on automated FAERS dashboards",C
+course_2,ch_2_03,les_2_03_05,topic_2_03_05_01,quiz_2_03_05_1,What is the primary purpose of using AI in pharmacovigilance database queries?,"A) To fully replace manual case assessments |
+B) To enhance accuracy, efficiency, and data insight |
+C) To eliminate the need for MedDRA coding |
+D) To avoid regulatory reporting steps",B
+course_2,ch_2_03,les_2_03_05,topic_2_03_05_01,quiz_2_03_05_2,Which AI technique enables users to ask database queries in plain language?,"A) Predictive Analytics |
+B) Machine Learning Models |
+C) Natural Language Processing (NLP) |
+D) Semantic Mapping",C
+course_2,ch_2_03,les_2_03_05,topic_2_03_05_01,quiz_2_03_05_3,"In the AI-assisted querying workflow, which step ensures data is standardized and ready for analysis?","A) Query Definition |
+B) Data Preprocessing |
+C) Integration & Reporting |
+D) Validation & Quality Check",B
+course_2,ch_2_03,les_2_03_05,topic_2_03_05_01,quiz_2_03_05_4,How should PV professionals mitigate the risk of over-reliance on AI-generated results?,"A) Ignore validation checks to save time |
+B) Validate results manually and cross-check coding |
+C) Allow AI to self-correct errors automatically |
+D) Depend entirely on NLP outputs",B
+course_2,ch_2_03,les_2_03_05,topic_2_03_05_01,quiz_2_03_05_5,"According to best practices, how should AI outputs be used in pharmacovigilance workflows?","A) As replacements for expert decision-making |
+B) To enhance expert judgment and streamline data retrieval |
+C) As the sole basis for regulatory reporting |
+D) Only for data visualization purposes",B
+course_2,ch_2_03,les_2_03_06,topic_2_03_06_01,quiz_2_03_06_1,What is the primary purpose of the Argus Safety system in pharmacovigilance?,A) Conduct clinical trials | B) Centralized capture and management of ICSRs | C) Manufacturing of drugs | D) Marketing of pharmaceuticals,B
+course_2,ch_2_03,les_2_03_06,topic_2_03_06_01,quiz_2_03_06_2,Which coding standards are used in Argus for adverse events and drugs?,A) ICD-10 and ATC | B) SNOMED CT and RxNorm | C) MedDRA and WHO Drug Dictionary | D) LOINC and UMLS,C
+course_2,ch_2_03,les_2_03_06,topic_2_03_06_01,quiz_2_03_06_3,"During the Argus case workflow, which step involves requesting additional information from reporters?",A) Case Intake | B) Triage / Assignment | C) Follow-Up Management | D) Regulatory Submission,C
+course_2,ch_2_03,les_2_03_06,topic_2_03_06_01,quiz_2_03_06_4,Which regulatory standard ensures electronic ICSR submissions from Argus are compliant?,A) HIPAA | B) ICH E2B(R3) | C) ISO 9001 | D) GxP,B
+course_2,ch_2_03,les_2_03_06,topic_2_03_06_01,quiz_2_03_06_5,What is a key feature of Argus dashboards and reporting tools?,"A) Predicting market trends | B) Monitoring open cases, follow-ups, and compliance metrics | C) Creating marketing campaigns | D) Managing supply chain logistics",B
+course_2,ch_2_03,les_2_03_07,topic_2_03_07_01,quiz_2_03_07_1,Which of the following best describes the primary purpose of ARISg in pharmacovigilance?,"A) Conduct preclinical drug testing | B) Centralized capture, management, and regulatory reporting of ICSRs | C) Marketing strategy analysis | D) Manufacturing quality control",B
+course_2,ch_2_03,les_2_03_07,topic_2_03_07_01,quiz_2_03_07_2,"In ARISg, which coding standards are used for adverse events and medicinal products?",A) ICD-11 and RxNorm | B) MedDRA and WHO Drug Dictionary | C) SNOMED CT and ATC | D) LOINC and NDC,B
+course_2,ch_2_03,les_2_03_07,topic_2_03_07_01,quiz_2_03_07_3,"During the ARISg workflow, what is the main purpose of the medical assessment step?","A) Assign cases to PV personnel | B) Validate XML for submission | C) Assess causality, seriousness, expectedness, and code AEs/drugs | D) Export dashboards for management review",C
+course_2,ch_2_03,les_2_03_07,topic_2_03_07_01,quiz_2_03_07_4,Which ARISg feature ensures regulatory inspection readiness?,A) Audit trails that log user actions and case modifications | B) Signal detection dashboards | C) Natural language queries | D) Predictive AI analysis for trends,A
+course_2,ch_2_03,les_2_03_07,topic_2_03_07_01,quiz_2_03_07_5,What is the role of follow-up management in ARISg?,"A) Collect AE reports from multiple sources | B) Track additional information, update case records, and maintain status logs | C) Generate marketing reports | D) Assign case priority based on workload",B
+course_2,ch_2_03,les_2_03_08,topic_2_03_08_01,quiz_2_03_08_1,Which of the following is a key principle of GDPR relevant to pharmacovigilance?,A) Data ownership by healthcare provider | B) Purpose limitation and data minimization | C) Mandatory use of cloud storage | D) Full public access to patient data,B
+course_2,ch_2_03,les_2_03_08,topic_2_03_08_01,quiz_2_03_08_2,"Under HIPAA, which rule defines safeguards for electronic protected health information (ePHI)?",A) Privacy Rule | B) Breach Notification Rule | C) Security Rule | D) Enforcement Rule,C
+course_2,ch_2_03,les_2_03_08,topic_2_03_08_01,quiz_2_03_08_3,"In PV workflows, what is the primary purpose of pseudonymization?",A) Encrypt all data at rest | B) Replace direct identifiers with codes while keeping mapping separate | C) Remove all adverse event details | D) Allow public access to de-identified data,B
+course_2,ch_2_03,les_2_03_08,topic_2_03_08_01,quiz_2_03_08_4,Which mechanism ensures GDPR-compliant data transfer outside the EU?,A) Sending unencrypted files via email | B) Using Standard Contractual Clauses or approved transfer agreements | C) Uploading to any cloud without consent | D) Publishing patient identifiers in public dashboards,B
+course_2,ch_2_03,les_2_03_08,topic_2_03_08_01,quiz_2_03_08_5,What is a practical tip for maintaining data privacy in pharmacovigilance systems?,A) Capture all patient information to ensure completeness | B) Implement “privacy by design” and apply data minimization | C) Avoid encryption to reduce system load | D) Disable audit logging for faster processing,B
+course_2,ch_2_03,les_2_03_09,topic_2_03_09_01,quiz_2_03_09_1,Which of the following is considered a validation error in a PV database?,A) Duplicate case entered twice | B) Missing adverse event date | C) Timeout during bulk upload | D) Unauthorized user editing a case,B
+course_2,ch_2_03,les_2_03_09,topic_2_03_09_01,quiz_2_03_09_2,What is the primary purpose of automated monitoring in PV database error handling?,"A) To encrypt patient identifiers | B) To configure alerts for failed uploads, duplicates, or missing data | C) To submit ICSRs to regulatory authorities | D) To anonymize patient records",B
+course_2,ch_2_03,les_2_03_09,topic_2_03_09_01,quiz_2_03_09_3,Which action is part of preventive measures for database errors in PV?,A) Rectifying invalid data | B) Updating SOPs and providing staff training | C) Manually merging duplicate ICSRs | D) Sending acknowledgment numbers to authorities,B
+course_2,ch_2_03,les_2_03_09,topic_2_03_09_01,quiz_2_03_09_4,A data integration error in a PV system might occur due to:,A) System downtime | B) Mismatch during migration causing missing concomitant drug information | C) Invalid MedDRA coding at entry | D) Duplicate submission of ICSRs,B
+course_2,ch_2_03,les_2_03_09,topic_2_03_09_01,quiz_2_03_09_5,Which tool helps track user edits and system changes for error investigation in PV databases?,A) Automated validation rules | B) Duplicate detection algorithms | C) Audit trails | D) ETL data reconciliation scripts,C
+course_2,ch_2_03,les_2_03_10,topic_2_03_10_01,quiz_2_03_10_1,What is the primary goal of PV system integration?,"A) Reduce the number of PV personnel | B) Enable automated, accurate, and compliant data exchange across PV systems | C) Replace manual audits entirely | D) Eliminate the need for MedDRA coding",B
+course_2,ch_2_03,les_2_03_10,topic_2_03_10_01,quiz_2_03_10_2,Which standard coding dictionaries are commonly aligned across integrated PV systems?,A) ICD-10 and SNOMED CT | B) MedDRA and WHO Drug Dictionary | C) LOINC and CPT | D) HL7 and FHIR,B
+course_2,ch_2_03,les_2_03_10,topic_2_03_10_01,quiz_2_03_10_3,"During PV system integration, which method is used for real-time data exchange between systems?",A) CSV file downloads once per year | B) APIs / Web Services | C) Manual transcription | D) Paper-based reporting,B
+course_2,ch_2_03,les_2_03_10,topic_2_03_10_01,quiz_2_03_10_4,What is a recommended mitigation strategy for handling data duplication or mismatch between integrated PV systems?,A) Ignoring discrepancies | B) Implement reconciliation scripts and automated deduplication | C) Manually rewriting all ICSRs | D) Submitting only one system’s data to regulators,B
+course_2,ch_2_03,les_2_03_10,topic_2_03_10_01,quiz_2_03_10_5,Which practice ensures audit readiness during PV system integration?,A) Encrypting and tracking all data transfers with logs | B) Removing system logs periodically | C) Allowing unrestricted user access | D) Using unstructured templates for data mapping,A
+course_2,ch_2_04,les_2_04_01,topic_2_04_01_01,quiz_2_04_01_1,What is the primary objective of signal detection in pharmacovigilance?,A) Replace regulatory reporting with automated alerts | B) Identify new or unknown risks or changes in known adverse effects | C) Only track drug sales trends | D) Reduce the need for medical review,B
+course_2,ch_2_04,les_2_04_01,topic_2_04_01_01,quiz_2_04_01_2,Which of the following is a quantitative method used for signal generation?,A) PRR (Proportional Reporting Ratio) | B) WHO-UMC causality assessment | C) Literature case review | D) Patient consent verification,A
+course_2,ch_2_04,les_2_04_01,topic_2_04_01_01,quiz_2_04_01_3,What is a key mitigation strategy for underreporting of adverse events?,A) Ignore missing reports | B) Encourage reporting and integrate multiple data sources | C) Only rely on clinical trial data | D) Delete duplicates automatically,B
+course_2,ch_2_04,les_2_04_01,topic_2_04_01_01,quiz_2_04_01_4,Which regulatory guidance specifically addresses signal management in the EU?,A) FDA CFR Title 21 | B) EMA GVP Module IX | C) ICH E2B(R2) | D) HIPAA Privacy Rule,B
+course_2,ch_2_04,les_2_04_01,topic_2_04_01_01,quiz_2_04_01_5,Why is multi-source data integration important in signal detection?,A) To reduce the workload of PV personnel | B) To improve signal sensitivity and detect emerging safety concerns | C) To avoid using MedDRA coding | D) To bypass statistical analysis,B
+course_2,ch_2_04,les_2_04_02,topic_2_04_02_01,quiz_2_04_02_1,What is the main purpose of quantitative signal detection in pharmacovigilance?,A) Replace qualitative clinical review entirely | B) Early detection of potential safety issues using statistical methods | C) Track only patient demographics | D) Automate drug approval decisions,B
+course_2,ch_2_04,les_2_04_02,topic_2_04_02_01,quiz_2_04_02_2,Which metric uses a Bayesian approach to compare observed versus expected AE reporting?,A) Proportional Reporting Ratio (PRR) | B) Reporting Odds Ratio (ROR) | C) Information Component (IC) | D) Case Narrative Score,C
+course_2,ch_2_04,les_2_04_02,topic_2_04_02_01,quiz_2_04_02_3,Which of the following thresholds is commonly used to indicate a potential signal for PRR?,A) PRR ≥ 2 with χ² ≥ 4 | B) PRR ≤ 0.5 | C) PRR = 1 | D) PRR ≥ 10,A
+course_2,ch_2_04,les_2_04_02,topic_2_04_02_01,quiz_2_04_02_4,How can false positives or noisy signals be mitigated in quantitative signal detection?,A) Ignore all low-frequency events | B) Combine quantitative metrics with qualitative clinical review | C) Only use PRR for detection | D) Avoid Bayesian methods,B
+course_2,ch_2_04,les_2_04_02,topic_2_04_02_01,quiz_2_04_02_5,Why is integration with qualitative review important in quantitative signal detection?,A) To verify clinical plausibility and confirm true safety signals | B) To speed up data entry | C) To bypass regulatory documentation | D) To reduce the need for coding standards,A
+course_2,ch_2_04,les_2_04_03,topic_2_04_03_01,quiz_2_04_03_1,What is the primary purpose of qualitative signal detection in PV?,"A) Identify new, rare, or serious ADRs through clinical review | B) Replace quantitative analysis entirely | C) Automate case entry in PV systems | D) Monitor system performance",A
+course_2,ch_2_04,les_2_04_03,topic_2_04_03_01,quiz_2_04_03_2,Which tool is commonly used for causality assessment in qualitative signal detection?,A) Naranjo Algorithm | B) Proportional Reporting Ratio (PRR) | C) Information Component (IC) | D) EBGM,A
+course_2,ch_2_04,les_2_04_03,topic_2_04_03_01,quiz_2_04_03_3,Why is integration with quantitative analysis important in qualitative signal detection?,A) To validate or prioritize signals identified through statistical methods | B) To eliminate the need for expert review | C) To speed up data entry in PV databases | D) To bypass regulatory documentation requirements,A
+course_2,ch_2_04,les_2_04_03,topic_2_04_03_01,quiz_2_04_03_4,What is a common challenge in qualitative signal detection and its mitigation?,A) Subjectivity in assessment – use standardized causality scales and expert cross-review | B) System downtime – ignore reports | C) Data duplication – avoid follow-up | D) Low reporting frequency – reduce case intake,A
+course_2,ch_2_04,les_2_04_03,topic_2_04_03_01,quiz_2_04_03_5,Which data source is typically used for qualitative signal review?,A) Clinical trial case narratives | B) Statistical disproportionality tables only | C) PV system error logs | D) Server performance dashboards,A
+course_2,ch_2_04,les_2_04_04,topic_2_04_04_01,quiz_2_04_04_1,What is the main purpose of applying AI in signal noise reduction in PV?,"A) Reduce duplicates, filter low-quality reports, and prioritize meaningful signals | B) Replace qualitative medical review entirely | C) Automatically submit ICSRs to regulators | D) Increase the number of statistical outliers",A
+course_2,ch_2_04,les_2_04_04,topic_2_04_04_01,quiz_2_04_04_2,Which AI/ML technique is primarily used to extract structured information from free-text case narratives?,A) Natural Language Processing (NLP) | B) Clustering & Pattern Recognition | C) Anomaly Detection Models | D) Supervised Machine Learning,A
+course_2,ch_2_04,les_2_04_04,topic_2_04_04_01,quiz_2_04_04_3,Why is a hybrid approach recommended when using AI for noise reduction?,A) Combines AI outputs with expert review to avoid false negatives | B) Eliminates the need for data standardization | C) Reduces the number of ICSRs captured | D) Automatically generates regulatory submissions,A
+course_2,ch_2_04,les_2_04_04,topic_2_04_04_01,quiz_2_04_04_4,Which challenge in AI-assisted PV can be mitigated by validating models with historical datasets?,A) AI bias and false negatives | B) Over-reliance on quantitative disproportionality | C) Duplicate MedDRA coding | D) Regulatory submission delays,A
+course_2,ch_2_04,les_2_04_04,topic_2_04_04_01,quiz_2_04_04_5,What is a key best practice for AI-assisted signal noise reduction?,A) Maintain transparent workflows and document model parameters for audit readiness | B) Ignore low-quality ICSRs entirely | C) Avoid using NLP for free-text reports | D) Replace expert review with automated AI decisions,A
+course_2,ch_2_04,les_2_04_05,topic_2_04_05_01,quiz_2_04_05_1,What is the primary purpose of a Risk Management Plan (RMP) in PV?,A) Replace routine PV activities entirely | B) Protect patient safety and support regulatory compliance | C) Generate spontaneous AE reports automatically | D) Increase marketing approvals,B
+course_2,ch_2_04,les_2_04_05,topic_2_04_05_01,quiz_2_04_05_2,Which component of an RMP details both known and potential risks and missing safety information?,A) Pharmacovigilance Plan | B) Summary Table | C) Safety Specification | D) Risk Minimization Measures,C
+course_2,ch_2_04,les_2_04_05,topic_2_04_05_01,quiz_2_04_05_3,What is considered an additional risk minimization measure in an RMP?,A) Standard product labeling | B) Collecting ICSRs | C) Educational programs and restricted prescribing | D) Routine AE reporting,C
+course_2,ch_2_04,les_2_04_05,topic_2_04_05_01,quiz_2_04_05_4,Which workflow step evaluates whether risk minimization measures are working as intended?,A) Risk Identification | B) Regulatory Submission | C) Effectiveness Evaluation | D) Pharmacovigilance Planning,C
+course_2,ch_2_04,les_2_04_05,topic_2_04_05_01,quiz_2_04_05_5,Which guideline provides the framework for RMP development in the EU?,A) MedDRA Coding Guide | B) ICH E2B(R3) | C) EMA GVP Module V | D) FDA REMS Guidance,C
+course_2,ch_2_04,les_2_04_06,topic_2_04_06_01,quiz_2_04_06_1,What is the main objective of signal validation in PV?,A) Confirm credibility and relevance of detected signals | B) Generate spontaneous AE reports automatically | C) Replace qualitative review | D) Increase statistical noise,A
+course_2,ch_2_04,les_2_04_06,topic_2_04_06_01,quiz_2_04_06_2,Which data source is commonly used for signal validation?,A) Social media forums only | B) Clinical trial reports | C) Marketing approval documents | D) Product labeling templates,B
+course_2,ch_2_04,les_2_04_06,topic_2_04_06_01,quiz_2_04_06_3,Which tool is typically used to assess causality during signal validation?,A) WHO-UMC causality scale | B) PRR alone | C) Duplicate detection algorithm | D) Signal dashboard only,A
+course_2,ch_2_04,les_2_04_06,topic_2_04_06_01,quiz_2_04_06_4,What is the purpose of data triangulation in signal validation?,A) Cross-check signals across multiple data sources for consistency | B) Reduce data entry errors | C) Generate ICSRs automatically | D) Replace expert review,A
+course_2,ch_2_04,les_2_04_06,topic_2_04_06_01,quiz_2_04_06_5,"Which step ensures a signal is classified as credible, needs monitoring, or is noise?",A) Signal classification | B) Preliminary assessment | C) Data extraction | D) Regulatory submission,A
+course_2,ch_2_04,les_2_04_07,topic_2_04_07_01,quiz_2_04_07_1,Why is integration with qualitative review important?,A) To validate statistical signals with case narratives and expert clinical assessment | B) To calculate PRR | C) To replace causality assessment | D) To update MedDRA coding automatically,A
+course_2,ch_2_04,les_2_04_07,topic_2_04_07_01,quiz_2_04_07_2,What is the main purpose of disproportionality analysis in PV?,A) Detect unexpected safety signals | B) Replace qualitative review completely | C) Generate marketing reports | D) Standardize labeling,A
+course_2,ch_2_04,les_2_04_07,topic_2_04_07_01,quiz_2_04_07_3,Which metric uses a Bayesian approach to compare observed vs. expected AE reporting?,A) Proportional Reporting Ratio (PRR) | B) Reporting Odds Ratio (ROR) | C) Information Component (IC) | D) Duplicate Detection Index,C
+course_2,ch_2_04,les_2_04_07,topic_2_04_07_01,quiz_2_04_07_4,What does EBGM help address in disproportionality analysis?,A) Low-frequency events using Bayesian shrinkage | B) Duplicate reports | C) Literature case reviews | D) Regulatory submissions,A
+course_2,ch_2_04,les_2_04_07,topic_2_04_07_01,quiz_2_04_07_5,Which workflow step ensures drug names and AEs are standardized?,A) Data Cleaning | B) Signal Prioritization | C) Metric Calculation | D) Regulatory Documentation,A
+course_2,ch_2_04,les_2_04_08,topic_2_04_08_01,quiz_2_04_08_1,Which guideline defines the standardized electronic format for individual case safety report submission globally?,A) CIOMS IX Recommendations | B) ICH E2B(R3) | C) FDA Guidance | D) EMA GVP Module IX,B
+course_2,ch_2_04,les_2_04_08,topic_2_04_08_01,quiz_2_04_08_2,What is the primary purpose of signal reporting standards in PV?,A) Ensure patient safety and regulatory compliance | B) Reduce clinical trial costs | C) Improve marketing strategies | D) Replace qualitative case review,A
+course_2,ch_2_04,les_2_04_08,topic_2_04_08_01,quiz_2_04_08_3,What is a typical regulatory expectation for submitting a validated signal report after detection?,A) Within 7–30 days depending on seriousness and local regulations | B) Only annually in a periodic safety update report | C) After product launch only | D) Within 1–2 hours automatically,A
+course_2,ch_2_04,les_2_04_08,topic_2_04_08_01,quiz_2_04_08_4,Which of the following is a best practice for maintaining audit readiness in signal reporting?,A) Maintain version-controlled signal reports with evidence logs | B) Send reports via email without internal record | C) Avoid documenting causality assessment | D) Only report quantitative data,A
+course_2,ch_2_04,les_2_04_08,topic_2_04_08_01,quiz_2_04_08_5,"Which authority provides guidance for signal detection, validation, and reporting specifically for the EU?",A) EMA GVP Module IX | B) WHO Safety Monitoring | C) ICH E2B(R3) | D) FDA Guidance,A
+course_2,ch_2_04,les_2_04_09,topic_2_04_09_01,quiz_2_04_09_1,Which of the following is an example of an additional risk minimization measure (aRMM)?,A) Labeling precautions | B) Package insert warnings | C) Standard contraindications | D) Educational materials for healthcare professionals,D
+course_2,ch_2_04,les_2_04_09,topic_2_04_09_01,quiz_2_04_09_2,What is the main objective of risk minimization strategies in pharmacovigilance?,A) Protect patient safety and optimize the benefit-risk profile | B) Increase market share | C) Accelerate clinical trial recruitment | D) Reduce reporting workload for PV teams,A
+course_2,ch_2_04,les_2_04_09,topic_2_04_09_01,quiz_2_04_09_3,"During which stage should preventive strategies, such as pre-screening patients, ideally be applied?",A) Pre-authorization / clinical development | B) Post-marketing only | C) After signal validation only | D) During regulatory inspection,A
+course_2,ch_2_04,les_2_04_09,topic_2_04_09_01,quiz_2_04_09_4,Which tool is commonly used to monitor compliance with risk minimization measures and track adverse event trends?,A) Safety Dashboards | B) Literature search engines | C) Social media monitoring | D) Marketing analytics software,A
+course_2,ch_2_04,les_2_04_09,topic_2_04_09_01,quiz_2_04_09_5,Which regulatory guidance specifically outlines risk evaluation and mitigation strategies in the US?,A) WHO Safety Monitoring | B) EMA GVP Module V | C) ICH E2B(R3) | D) FDA REMS Guidance,D
+course_2,ch_2_04,les_2_04_10,topic_2_04_10_01,quiz_2_04_10_1,What is the primary purpose of a signal dashboard in pharmacovigilance?,A) Automate marketing strategies | B) Enhance signal detection efficiency and support regulatory reporting | C) Reduce clinical trial costs | D) Track employee performance,B
+course_2,ch_2_04,les_2_04_10,topic_2_04_10_01,quiz_2_04_10_2,Which of the following is a key component that allows users to drill down into case-level data?,A) Alerts & notifications | B) Signal summary table | C) Filters and drill-down options | D) Disproportionality metrics,C
+course_2,ch_2_04,les_2_04_10,topic_2_04_10_01,quiz_2_04_10_3,How do dashboards help mitigate information overload for PV teams?,"A) By excluding serious adverse events | B) By manually reviewing each ICSR | C) By using filters, thresholds, and prioritization rules | D) By limiting data sources to one database",C
+course_2,ch_2_04,les_2_04_10,topic_2_04_10_01,quiz_2_04_10_4,Which visualization tool can be integrated with PV dashboards to track trends and metrics effectively?,A) SPSS | B) Tableau | C) Microsoft Word | D) Google Docs,B
+course_2,ch_2_04,les_2_04_10,topic_2_04_10_01,quiz_2_04_10_5,What is essential for maintaining regulatory compliance when using signal dashboards?,A) Only updating dashboards quarterly | B) Ignoring duplicate ICSRs | C) Maintaining audit trails and documentation logs | D) Allowing unrestricted user edits,C
+course_2,ch_2_05,les_2_05_01,topic_2_05_01_01,quiz_2_05_01_1,What is the primary purpose of a Periodic Safety Update Report (PSUR)?,A) To summarize marketing strategies | B) To provide regulators with updated safety information and support risk-benefit evaluation | C) To track sales performance | D) To audit clinical trial sites,B
+course_2,ch_2_05,les_2_05_01,topic_2_05_01_01,quiz_2_05_01_2,Which section of a PSUR integrates efficacy and safety data to assess the overall benefit-risk profile?,A) Executive Summary | B) Product Information | C) Benefit-Risk Evaluation | D) Appendices,C
+course_2,ch_2_05,les_2_05_01,topic_2_05_01_01,quiz_2_05_01_3,Which regulatory guideline provides a harmonized template for PSUR content and global consistency?,A) EMA GVP Module IX | B) FDA REMS Guidance | C) ICH E2C(R2) | D) CIOMS IX Recommendations,C
+course_2,ch_2_05,les_2_05_01,topic_2_05_01_01,quiz_2_05_01_4,What is a common challenge in PSUR preparation and its mitigation?,A) Lack of funding; mitigate by hiring more staff | B) Large volume of data; mitigate with automated aggregation and analytics tools | C) Low patient adherence; mitigate with patient reminders | D) Limited clinical sites; mitigate by expanding trials,B
+course_2,ch_2_05,les_2_05_01,topic_2_05_01_01,quiz_2_05_01_5,Which data sources are essential for compiling a PSUR?,"A) Sales and marketing reports | B) HR records and training logs | C) ICSRs, clinical trials, literature, real-world evidence | D) Stockholder meeting minutes",C
+course_2,ch_2_05,les_2_05_02,topic_2_05_02_01,quiz_2_05_02_1,What is the main purpose of a Development Safety Update Report (DSUR)?,A) To track marketing approval timelines | B) To provide a cumulative annual review of safety data for an investigational medicinal product | C) To summarize manufacturing changes | D) To assess cost-effectiveness of trials,B
+course_2,ch_2_05,les_2_05_02,topic_2_05_02_01,quiz_2_05_02_2,Which regulatory guideline provides the standard harmonized framework for DSUR preparation?,A) EMA GVP Module IX | B) FDA REMS Guidance | C) ICH E2F | D) CIOMS IX Recommendations,C
+course_2,ch_2_05,les_2_05_02,topic_2_05_02_01,quiz_2_05_02_3,What is the typical submission timeline for a DSUR after the data lock point?,A) 30 days | B) 90 days | C) 60 days | D) 120 days,C
+course_2,ch_2_05,les_2_05_02,topic_2_05_02_01,quiz_2_05_02_4,Which section of a DSUR summarizes emerging safety issues and trends detected during clinical trials?,A) Benefit-Risk Assessment | B) Title Page and Table of Contents | C) Summary of Important Risks | D) Appendices,C
+course_2,ch_2_05,les_2_05_02,topic_2_05_02_01,quiz_2_05_02_5,Which tool is commonly used for aggregating clinical trial safety data for DSUR preparation?,A) HR Management System | B) Financial reporting software | C) CTMS (Clinical Trial Management System) | D) CRM software,C
+course_2,ch_2_05,les_2_05_03,topic_2_05_03_01,quiz_2_05_03_1,What is the primary purpose of data aggregation in pharmacovigilance?,A) To manage clinical trial budgets | B) To combine safety data from multiple sources into a structured dataset for reporting and analysis | C) To design new clinical trials | D) To track marketing approvals,B
+course_2,ch_2_05,les_2_05_03,topic_2_05_03_01,quiz_2_05_03_2,Which coding standards are typically applied during PV data standardization?,A) ICD-10 and CPT | B) LOINC and SNOMED CT | C) MedDRA for adverse events and WHO Drug Dictionary for drugs | D) HL7 V2 and FHIR,C
+course_2,ch_2_05,les_2_05_03,topic_2_05_03_01,quiz_2_05_03_3,Which workflow step involves removing duplicates and checking for missing critical fields?,A) Data Collection | B) Data Integration | C) Data Cleaning | D) Preliminary Analysis,C
+course_2,ch_2_05,les_2_05_03,topic_2_05_03_01,quiz_2_05_03_4,Which tool or technique is commonly used to visualize aggregated PV data trends?,A) Google Analytics | B) Salesforce | C) Tableau or Power BI dashboards | D) QuickBooks,C
+course_2,ch_2_05,les_2_05_03,topic_2_05_03_01,quiz_2_05_03_5,"What is a key challenge in PV data aggregation, and its mitigation?",A) Small sample sizes → Ignore them | B) Slow internet → Use offline spreadsheets | C) Duplicates across multiple sources → Apply automated deduplication and cross-checking algorithms | D) Staff turnover → Hire more personnel,C
+course_2,ch_2_05,les_2_05_04,topic_2_05_04_01,quiz_2_05_04_1,What is the primary role of AI in PSUR drafting?,"A) To replace human PV experts entirely | B) To file regulatory submissions automatically | C) To perform clinical trials | D) To assist in data aggregation, narrative generation, and visualization for faster and accurate PSUR preparation",D
+course_2,ch_2_05,les_2_05_04,topic_2_05_04_01,quiz_2_05_04_2,Which AI task helps identify overlapping or duplicate cases across multiple safety data sources?,A) Signal Detection | B) Visualization | C) Narrative Summarization | D) Duplicate Detection,D
+course_2,ch_2_05,les_2_05_04,topic_2_05_04_01,quiz_2_05_04_3,"In the AI-enhanced PSUR workflow, what is the purpose of narrative generation?",A) To detect statistical disproportionality | B) To validate AE coding | C) To create automated dashboards | D) To draft case summaries and section narratives using NLP for consistency and compliance,D
+course_2,ch_2_05,les_2_05_04,topic_2_05_04_01,quiz_2_05_04_4,What is a critical best practice when using AI in PSUR drafting?,A) Validate all AI-generated content for clinical accuracy and regulatory compliance | B) Fully automate PSUR submission without human review | C) Use AI only for non-safety-related tasks | D) Ignore integration with PV systems,A
+course_2,ch_2_05,les_2_05_04,topic_2_05_04_01,quiz_2_05_04_5,Which challenge of AI in PSUR drafting is mitigated by using de-identified datasets and secure AI pipelines?,A) AI output not clinically accurate | B) Over-reliance on AI | C) Integration with legacy PV systems | D) Data privacy concerns,D
+course_2,ch_2_05,les_2_05_05,topic_2_05_05_01,quiz_2_05_05_1,What is the main purpose of line listings in pharmacovigilance?,"A) To summarize aggregated AE trends for reports | B) To provide predictive analytics for drug development | C) To replace narrative summaries in PSURs | D) To present individual case-level AE data with patient, drug, and event details",D
+course_2,ch_2_05,les_2_05_05,topic_2_05_05_01,quiz_2_05_05_2,Which element is essential in a line listing for each case?,A) Graphical trend visualization | B) Regulatory authority approval date | C) Predicted AE occurrence | D) Case ID / ICSR number and patient demographics,D
+course_2,ch_2_05,les_2_05_05,topic_2_05_05_01,quiz_2_05_05_3,Summary tabulations are primarily used to:,"A) Replace line listings in regulatory submissions | B) Provide raw narrative data | C) Aggregate AE data for quantitative analysis, trend detection, and signal evaluation | D) Conduct clinical trial randomization",C
+course_2,ch_2_05,les_2_05_05,topic_2_05_05_01,quiz_2_05_05_4,"In constructing summary tabulations, which of the following practices ensures clarity and regulatory compliance?","A) Aggregating data without standard coding | B) Ignoring denominator consistency | C) Including only serious AE cases | D) Applying consistent denominators, highlighting trends, and including clarifications for unusual data",D
+course_2,ch_2_05,les_2_05_05,topic_2_05_05_01,quiz_2_05_05_5,A common challenge when generating line listings and summary tabulations is duplicate or incomplete cases. Which mitigation is recommended?,A) Ignoring duplicates if minor | B) Using only manual cross-checks | C) Aggregating without validation | D) Applying deduplication algorithms and validation checks,D
+course_2,ch_2_05,les_2_05_06,topic_2_05_06_01,quiz_2_05_06_1,What is the primary purpose of PSUR quality checks in pharmacovigilance?,"A) To accelerate report submission regardless of accuracy | B) To generate marketing insights | C) To maintain audit-ready documentation | D) To ensure accuracy, completeness, and regulatory compliance of the PSUR",D
+course_2,ch_2_05,les_2_05_06,topic_2_05_06_01,quiz_2_05_06_2,Which area of PSUR review focuses on verifying MedDRA/WHO Drug Dictionary coding and consistency with aggregate tables?,A) Data Accuracy | B) Narratives & Summaries | C) Line Listings & Tabulations | D) Signal Analysis,C
+course_2,ch_2_05,les_2_05_06,topic_2_05_06_01,quiz_2_05_06_3,"During the workflow for PSUR quality checks, what is a key activity in the narrative review step?",A) Aggregating ICSRs from multiple databases | B) Checking submission timelines | C) Ensuring medical and clinical accuracy of case summaries | D) Applying deduplication algorithms,C
+course_2,ch_2_05,les_2_05_06,topic_2_05_06_01,quiz_2_05_06_4,Which tool or technique is specifically useful for detecting discrepancies in data trends during PSUR quality checks?,A) Automation for duplicate identification | B) MedDRA dictionary lookup | C) Standard checklists | D) Visualization tools such as heatmaps or discrepancy dashboards,D
+course_2,ch_2_05,les_2_05_06,topic_2_05_06_01,quiz_2_05_06_5,A common challenge in PSUR quality checks is missing critical information in narratives. What is the recommended mitigation?,A) Ignoring minor omissions | B) Use only automated AI tools | C) Implement mandatory content templates and reviewer checklists | D) Aggregating data without validation,C
+course_2,ch_2_05,les_2_05_07,topic_2_05_07_01,quiz_2_05_07_1,What is the main objective of case study analysis in DSUR preparation?,A) To generate marketing insights | B) To reduce clinical trial duration | C) To aggregate financial data | D) To identify emerging safety signals and support regulatory decision-making,D
+course_2,ch_2_05,les_2_05_07,topic_2_05_07_01,quiz_2_05_07_2,Which key element in DSUR case study analysis captures the relationship between the adverse event and the investigational product?,A) Outcome | B) Patient Demographics | C) Causality Assessment | D) Regulatory Actions,C
+course_2,ch_2_05,les_2_05_07,topic_2_05_07_01,quiz_2_05_07_3,"During workflow for case study analysis, what is the purpose of pattern and trend analysis?","A) To update clinical trial protocols only | B) To standardize MedDRA coding | C) To detect clusters, common AE types, or unexpected events | D) To prepare marketing materials",C
+course_2,ch_2_05,les_2_05_07,topic_2_05_07_01,quiz_2_05_07_4,Which tool or technique is commonly used for visualizing trends and identifying signals across multiple DSUR cases?,"A) Automated regulatory submission portals | B) Financial dashboards | C) Excel macros only | D) Heatmaps, bar charts, and trend graphs",D
+course_2,ch_2_05,les_2_05_07,topic_2_05_07_01,quiz_2_05_07_5,What is a recommended mitigation strategy for incomplete case data during DSUR case study analysis?,A) Ignore missing data | B) Use only historical reports | C) Perform follow-up with clinical trial sites or literature verification | D) Randomly impute missing values,C
+course_2,ch_2_05,les_2_05_08,topic_2_05_08_01,quiz_2_05_08_1,What is the primary objective of regulatory submission of PV reports?,A) To market new drugs faster | B) To reduce clinical trial timelines | C) To generate internal analytics only | D) To ensure timely communication of safety information and regulatory compliance,D
+course_2,ch_2_05,les_2_05_08,topic_2_05_08_01,quiz_2_05_08_2,Within what timeframe must a DSUR typically be submitted?,"A) 7–15 days after SAE occurrence | B) Every 3 months | C) Annually, within 60 days of the reporting period end | D) Only at the end of clinical development",C
+course_2,ch_2_05,les_2_05_08,topic_2_05_08_01,quiz_2_05_08_3,Which electronic portal is commonly used for submitting PSURs in the EU?,A) FAERS | B) VigiBase | C) MedWatch | D) EudraVigilance,D
+course_2,ch_2_05,les_2_05_08,topic_2_05_08_01,quiz_2_05_08_4,What is a key best practice for ensuring compliance during regulatory submission?,"A) Ignore minor formatting errors | B) Submit reports without multi-level review | C) Track only submissions without audit trail | D) Follow SOPs, use checklists, and maintain audit-ready documentation",D
+course_2,ch_2_05,les_2_05_08,topic_2_05_08_01,quiz_2_05_08_5,Which challenge can occur during report submission and how is it mitigated?,A) Excessive report length – ignore it | B) Missing clinical data – publish anyway | C) Portal submission errors – pre-validate files and maintain helpdesk contacts | D) Duplicate submissions – delete original report,C
+course_2,ch_2_05,les_2_05_09,topic_2_05_09_01,quiz_2_05_09_1,What is the main purpose of PSUR queries from regulatory authorities?,"A) To delay product approval | B) To increase report length | C) To test PV team knowledge | D) To ensure accuracy, completeness, and regulatory compliance of safety data",D
+course_2,ch_2_05,les_2_05_09,topic_2_05_09_01,quiz_2_05_09_2,"Which type of query would involve missing demographic, drug, or AE details?",A) Signal analysis clarification | B) Narrative issues | C) Follow-up requests | D) Incomplete information,D
+course_2,ch_2_05,les_2_05_09,topic_2_05_09_01,quiz_2_05_09_3,What is the recommended first step when a PSUR query is received?,A) Draft a response immediately | B) Ignore minor issues | C) Perform statistical analysis first | D) Capture query details in a centralized tracking system and assign responsibility,D
+course_2,ch_2_05,les_2_05_09,topic_2_05_09_01,quiz_2_05_09_4,How can PV teams mitigate delayed responses to PSUR queries?,A) Respond only when requested again | B) Delay review until final report submission | C) Use ad-hoc emails | D) Maintain a query tracking system with assigned deadlines,D
+course_2,ch_2_05,les_2_05_09,topic_2_05_09_01,quiz_2_05_09_5,What is a best practice when drafting responses to PSUR queries?,"A) Use informal language for faster processing | B) Avoid including tables or visuals | C) Submit without internal review | D) Use structured templates, verify data against source records, and include supporting documentation",D
+course_2,ch_2_05,les_2_05_10,topic_2_05_10_01,quiz_2_05_10_1,What is the primary purpose of automating periodic pharmacovigilance reports?,"A) Reduce manual workload, human error, and improve timeliness | B) Increase report length for regulators | C) Replace PV experts entirely | D) Delay submission timelines",A
+course_2,ch_2_05,les_2_05_10,topic_2_05_10_01,quiz_2_05_10_2,Which of the following report types can benefit from automated signal detection workflows?,A) Signal Detection Reports | B) Local SOP updates | C) Investigator brochures | D) Clinical trial informed consent forms,A
+course_2,ch_2_05,les_2_05_10,topic_2_05_10_01,quiz_2_05_10_3,What is a key step in the automated workflow to ensure accuracy?,A) Manual guesswork | B) Data Cleaning & Validation to identify duplicates and inconsistencies | C) Skip standardization for faster processing | D) Ignoring validation rules,B
+course_2,ch_2_05,les_2_05_10,topic_2_05_10_01,quiz_2_05_10_4,How should AI-assisted narrative generation be handled in PV report automation?,A) Fully automated without review | B) Used cautiously with expert review to ensure clarity and compliance | C) Ignore regulatory compliance | D) Avoid using AI entirely,B
+course_2,ch_2_05,les_2_05_10,topic_2_05_10_01,quiz_2_05_10_5,Which of the following is a best practice for implementing report automation?,"A) Map all data sources, apply validation, maintain audit-ready logs | B) Randomly generate reports for speed | C) Avoid review to save time | D) Skip integration with PV databases",A
+course_2,ch_2_06,les_2_06_01,topic_2_06_01_01,quiz_2_06_01_1,What is the broadest grouping level in the MedDRA hierarchy?,A) System Organ Class (SOC) | B) High-Level Term (HLT) | C) Preferred Term (PT) | D) Lowest Level Term (LLT),A
+course_2,ch_2_06,les_2_06_01,topic_2_06_01_01,quiz_2_06_01_2,Which MedDRA level represents the exact verbatim term from a report?,A) Lowest Level Term (LLT) | B) Preferred Term (PT) | C) High-Level Group Term (HLGT) | D) System Organ Class (SOC),A
+course_2,ch_2_06,les_2_06_01,topic_2_06_01_01,quiz_2_06_01_3,Why is mapping LLTs to PTs important in pharmacovigilance?,A) Ensures standardized reporting and regulatory compliance | B) Increases manual workload | C) Creates ambiguity in AE coding | D) Avoids data aggregation,A
+course_2,ch_2_06,les_2_06_01,topic_2_06_01_01,quiz_2_06_01_4,Which MedDRA level groups related HLTs into broader categories?,A) High-Level Group Term (HLGT) | B) Lowest Level Term (LLT) | C) Preferred Term (PT) | D) System Organ Class (SOC),A
+course_2,ch_2_06,les_2_06_01,topic_2_06_01_01,quiz_2_06_01_5,What is a best practice for maintaining coding quality in MedDRA?,A) Always use the latest MedDRA version and maintain audit trails | B) Skip version updates to save time | C) Use only LLTs for reporting | D) Avoid hierarchical aggregation,A
+course_2,ch_2_06,les_2_06_02,topic_2_06_02_01,quiz_2_06_02_1,What is the role of a Lowest Level Term (LLT) in MedDRA coding?,A) Provides standardized representation for reporting | B) Broadly groups related PTs | C) Aggregates PTs for analysis | D) Captures the exact verbatim adverse event reported,D
+course_2,ch_2_06,les_2_06_02,topic_2_06_02_01,quiz_2_06_02_2,Which MedDRA level is used for regulatory-compliant analysis and reporting?,A) Lowest Level Term (LLT) | B) Preferred Term (PT) | C) System Organ Class (SOC) | D) High-Level Term (HLT),B
+course_2,ch_2_06,les_2_06_02,topic_2_06_02_01,quiz_2_06_02_3,Why are SOCs important in pharmacovigilance coding?,"A) Capture verbatim AE terms | B) Provide standard PT for reporting | C) Aggregate PTs for trend analysis, signal detection, and reporting | D) Map LLTs to PTs",C
+course_2,ch_2_06,les_2_06_02,topic_2_06_02_01,quiz_2_06_02_4,What is a best practice when mapping LLTs to PTs?,A) Assign PT randomly to LLTs | B) Map LLTs to PTs without expert review | C) Apply consistent selection rules across cases and studies | D) Skip PT mapping for SOC analysis,C
+course_2,ch_2_06,les_2_06_02,topic_2_06_02_01,quiz_2_06_02_5,Which tool can assist in validating LLT → PT → SOC mappings?,A) MedDRA Browser / Online Tools | B) Randomized spreadsheet entries | C) Non-standard dictionaries | D) Manual guesswork,A
+course_2,ch_2_06,les_2_06_03,topic_2_06_03_01,quiz_2_06_03_1,What is the primary purpose of AI-based MedDRA auto-coding?,"A) Replace PV staff entirely | B) Generate random AE codes | C) Improve efficiency, consistency, and accuracy of coding | D) Eliminate audit requirements",C
+course_2,ch_2_06,les_2_06_03,topic_2_06_03_01,quiz_2_06_03_2,"In AI auto-coding, what is the role of NLP models?","A) Detect hardware errors | B) Identify context, synonyms, and term variants in AE data | C) Map PTs to SOCs | D) Standardize reporting templates",B
+course_2,ch_2_06,les_2_06_03,topic_2_06_03_01,quiz_2_06_03_3,How should low-confidence AI-coded terms be handled?,A) Automatically accept without review | B) Delete from the database | C) Flag for manual review by PV professionals | D) Assign randomly to an LLT,C
+course_2,ch_2_06,les_2_06_03,topic_2_06_03_01,quiz_2_06_03_4,Why is it important to update AI models with new MedDRA versions?,A) To reduce server load | B) To improve regulatory inspection reports | C) To ensure accurate mapping to current LLTs and PTs | D) To avoid using dashboards,C
+course_2,ch_2_06,les_2_06_03,topic_2_06_03_01,quiz_2_06_03_5,What is a best practice when integrating AI auto-coding into PV workflows?,"A) Skip human validation for speed | B) Ignore low-confidence predictions | C) Maintain audit trail, human-in-the-loop validation, and periodic model updates | D) Use AI outputs only for training data",C
+course_2,ch_2_06,les_2_06_04,topic_2_06_04_01,quiz_2_06_04_1,What is the main objective of coding accuracy checks in pharmacovigilance?,A) Generate random AE codes | B) Ensure data integrity and regulatory compliance | C) Replace PV staff entirely | D) Skip manual verification,B
+course_2,ch_2_06,les_2_06_04,topic_2_06_04_01,quiz_2_06_04_2,Which of the following is an example of an incorrect LLT/PT assignment?,A) “Severe headache” coded as “Migraine” instead of “Headache” | B) Duplicate AE entries | C) Missing LLT/PT | D) Brand name mapped to active substance,A
+course_2,ch_2_06,les_2_06_04,topic_2_06_04_01,quiz_2_06_04_3,How can SOC misclassification occur?,A) Assigning PT to a wrong System Organ Class | B) Using AI for auto-coding | C) Updating MedDRA versions | D) Running automated scripts,A
+course_2,ch_2_06,les_2_06_04,topic_2_06_04_01,quiz_2_06_04_4,What is the recommended workflow for coding accuracy checks?,"A) Manual review only, ignoring automated tools | B) Automated verification, manual review, cross-reference checks, documentation, feedback | C) Randomly assigning LLTs/PTs | D) Only checking SOCs",B
+course_2,ch_2_06,les_2_06_04,topic_2_06_04_01,quiz_2_06_04_5,Which tool can help detect duplicate AE coding?,A) Dashboards | B) Python/R scripts | C) Training programs | D) SOP checklists,B
+course_2,ch_2_06,les_2_06_05,topic_2_06_05_01,quiz_2_06_05_1,Which scenario qualifies as a complex case in pharmacovigilance?,A) Single AE with no drug exposure | B) Multiple AEs per patient with multi-drug exposure | C) Minor AE in a healthy volunteer | D) Case with complete verbatim description and one drug,B
+course_2,ch_2_06,les_2_06_05,topic_2_06_05_01,quiz_2_06_05_2,What is a primary challenge in coding multi-drug exposure cases?,A) Assigning PTs to LLTs | B) Determining which drug is related to which AE | C) Formatting line listings | D) Integrating dashboards,B
+course_2,ch_2_06,les_2_06_05,topic_2_06_05_01,quiz_2_06_05_3,How should overlapping adverse events be handled?,A) Treat each term as a separate AE regardless of similarity | B) Distinguish distinct events versus multiple terms for the same AE | C) Map all to SOC only | D) Ignore duplicates,B
+course_2,ch_2_06,les_2_06_05,topic_2_06_05_01,quiz_2_06_05_4,Which tool is recommended for evaluating causality in complex cases?,A) Excel macros | B) WHO-UMC or Naranjo algorithms | C) E2B(R3) XML | D) PDF viewers,B
+course_2,ch_2_06,les_2_06_05,topic_2_06_05_01,quiz_2_06_05_5,What is the correct workflow for serious AE coding in complex cases?,A) Map PTs only and skip SOC aggregation | B) Apply SOC-specific rules and annotate outcomes like hospitalization or death | C) Assign LLT randomly | D) Use dashboards only,B
+course_2,ch_2_06,les_2_06_06,topic_2_06_06_01,quiz_2_06_06_1,What is the primary purpose of high-quality narratives in pharmacovigilance?,"A) To generate AI-only reports | B) To provide a complete, accurate account of the AE and associated drug(s) | C) To summarize lab results only | D) To track submission IDs",B
+course_2,ch_2_06,les_2_06_06,topic_2_06_06_01,quiz_2_06_06_2,Which element should be included in every high-quality ICSR narrative?,"A) Reporter information, patient details, AE description, causality assessment | B) Only patient age and sex | C) Just the drug name | D) Only the adverse event outcome",A
+course_2,ch_2_06,les_2_06_06,topic_2_06_06_01,quiz_2_06_06_3,What is a recommended practice for narrative clarity and consistency?,"A) Use abbreviations liberally | B) Align narrative with MedDRA coding, seriousness, and causality assessments | C) Focus on irrelevant details | D) Avoid audit trails",B
+course_2,ch_2_06,les_2_06_06,topic_2_06_06_01,quiz_2_06_06_4,How should AI-assisted tools be used in narrative drafting?,A) To fully replace expert review | B) To assist drafting while maintaining human validation | C) To ignore coding integration | D) To bypass regulatory requirements,B
+course_2,ch_2_06,les_2_06_06,topic_2_06_06_01,quiz_2_06_06_5,Which workflow step ensures that narratives meet regulatory standards before submission?,A) Automated extraction only | B) Final approval and audit trail with multi-tiered quality checks | C) Drafting without review | D) Skipping medical review,B
+course_2,ch_2_06,les_2_06_07,topic_2_06_07_01,quiz_2_06_07_1,What is a follow-up case in pharmacovigilance?,A) Any initial ICSR submitted to the regulatory authority | B) Any additional or updated information received after the initial ICSR submission | C) A duplicate case report | D) Only serious AE reports,B
+course_2,ch_2_06,les_2_06_07,topic_2_06_07_01,quiz_2_06_07_2,Which of the following is a trigger for initiating follow-up case processing?,A) Receipt of clarifying patient demographics or medical history | B) Submission of the initial ICSR only | C) Regulatory audit requests unrelated to case data | D) Updating PV system dashboards,A
+course_2,ch_2_06,les_2_06_07,topic_2_06_07_01,quiz_2_06_07_3,What is an essential step when integrating follow-up data into PV systems?,A) Replace original case without linking follow-up | B) Update the ICSR in PV databases and maintain the link and audit trail | C) Ignore MedDRA coding updates | D) Only track follow-up in spreadsheets outside PV systems,B
+course_2,ch_2_06,les_2_06_07,topic_2_06_07_01,quiz_2_06_07_4,Which challenge is commonly encountered in follow-up case processing?,A) Automated report generation without human review | B) Conflicting data in the follow-up and original case | C) Lack of templates for initial ICSRs | D) MedDRA hierarchy confusion only,B
+course_2,ch_2_06,les_2_06_07,topic_2_06_07_01,quiz_2_06_07_5,What is a recommended best practice for follow-up case processing?,A) Maintain unique identifiers and apply structured templates for capturing updates | B) Process follow-ups only if the case is serious | C) Skip quality checks to save time | D) Avoid using PV dashboards or AI tools,A
+course_2,ch_2_06,les_2_06_08,topic_2_06_08_01,quiz_2_06_08_1,Which of the following is an example of a MedDRA coding error?,A) Mapping “Severe headache” as “Migraine” instead of “Headache” | B) Updating follow-up lab results | C) Submitting PSUR on time | D) Using structured narrative templates,A
+course_2,ch_2_06,les_2_06_08,topic_2_06_08_01,quiz_2_06_08_2,What is the first step in coding error resolution workflow?,"A) Correction & re-coding | B) Error identification through automated scripts, dashboards, or manual review | C) Documentation for audit trail | D) Preventive staff training",B
+course_2,ch_2_06,les_2_06_08,topic_2_06_08_01,quiz_2_06_08_3,How should high-impact coding errors be prioritized?,"A) Based on alphabetical order of AE terms | B) By seriousness, causality, or regulatory reporting impact | C) Randomly assigned | D) Only after follow-up cases are closed",B
+course_2,ch_2_06,les_2_06_08,topic_2_06_08_01,quiz_2_06_08_4,Which tool can help highlight low-confidence coding for review?,A) PV Systems with AI-assisted modules | B) Standard word processors | C) Regulatory submission PDFs | D) Printed case files,A
+course_2,ch_2_06,les_2_06_08,topic_2_06_08_01,quiz_2_06_08_5,What is a recommended best practice for preventing recurring coding errors?,A) Track error trends and update coding guidelines or AI models | B) Ignore minor duplicates to save time | C) Apply corrections without review | D) Limit PV staff access to coding data,A
+course_2,ch_2_06,les_2_06_09,topic_2_06_09_01,quiz_2_06_09_1,How frequently are MedDRA version updates released?,A) Quarterly | B) Twice yearly (March and September) | C) Annually | D) Every month,B
+course_2,ch_2_06,les_2_06_09,topic_2_06_09_01,quiz_2_06_09_2,Which of the following is considered a type of update in a new MedDRA release?,A) Addition of new LLTs and PTs | B) Changes in office layout | C) Hiring new PV staff | D) Updating PV system software unrelated to MedDRA,A
+course_2,ch_2_06,les_2_06_09,topic_2_06_09_01,quiz_2_06_09_3,What is the recommended first step when a new MedDRA version is released?,A) Immediately update PV dashboards | B) Backup current PV system data and review official release notes | C) Start writing narratives | D) Ignore historical cases,B
+course_2,ch_2_06,les_2_06_09,topic_2_06_09_01,quiz_2_06_09_4,How should historical cases affected by deleted or modified terms be handled?,A) Leave them as-is to save time | B) Recode impacted cases and validate coding against the new version | C) Delete the cases | D) Only recode serious cases without validation,B
+course_2,ch_2_06,les_2_06_09,topic_2_06_09_01,quiz_2_06_09_5,Which practice ensures compliance and minimizes errors during MedDRA version updates?,A) Maintain audit-ready documentation and train staff on new terms | B) Skip staff training to save time | C) Update only the AI auto-coding modules | D) Ignore SOPs for version control,A
+course_2,ch_2_06,les_2_06_10,topic_2_06_10_01,quiz_2_06_10_1,What is the primary purpose of case quality dashboards in pharmacovigilance?,A) Track company profits | B) Monitor and improve the quality of ICSRs | C) Schedule staff shifts | D) Manage clinical trial recruitment,B
+course_2,ch_2_06,les_2_06_10,topic_2_06_10_01,quiz_2_06_10_2,Which metric indicates the percentage of ICSRs with all mandatory fields completed?,A) Follow-Up Status | B) Completeness Score | C) Coding Accuracy | D) Regulatory Timeliness,B
+course_2,ch_2_06,les_2_06_10,topic_2_06_10_01,quiz_2_06_10_3,What is an ideal target for coding accuracy of adverse events and drug terms?,A) ≥ 98% | B) ≥ 80% | C) 100% | D) ≥ 90%,A
+course_2,ch_2_06,les_2_06_10,topic_2_06_10_01,quiz_2_06_10_4,Which of the following is a best practice when using case quality dashboards?,A) Configure dashboards with actionable metrics and real-time alerts | B) Ignore KPIs and focus only on total cases | C) Use dashboards only for annual reporting | D) Avoid integrating AI tools to simplify dashboards,A
+course_2,ch_2_06,les_2_06_10,topic_2_06_10_01,quiz_2_06_10_5,How can dashboards support regulatory and audit processes?,A) Generate audit-ready logs and reports for regulatory submission | B) Replace PV staff review entirely | C) Predict new adverse events automatically | D) Eliminate the need for SOPs,A
 course_2,ch_2_07,les_2_07_01,topic_2_07_01_01,quiz_2_07_01_1,,,
 course_2,ch_2_07,les_2_07_01,topic_2_07_01_01,quiz_2_07_01_2,,,
 course_2,ch_2_07,les_2_07_01,topic_2_07_01_01,quiz_2_07_01_3,,,
