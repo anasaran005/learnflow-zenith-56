@@ -623,136 +623,880 @@ course_1,QA/QC,ch_1_12,Full-Scale QA/QC Simulation Project,les_1_12_09,Final Aud
 course_1,QA/QC,ch_1_12,Full-Scale QA/QC Simulation Project,les_1_12_10,"Capstone Mentorship – Career Readiness, Interview Defense & QA/QC Leadership",task_1_12_10_1,,,,,,10,
 ,,,,,,,,,,,,10,
 ,,,,,,,,,,,,10,
-course_2,Pharmacovigalance,ch_2_01,Foundations of Pharmacovigilance,les_2_01_01,What is Pharmacovigilance?,task_2_01_01_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_01,Foundations of Pharmacovigilance,les_2_01_02,History & Evolution of PV,task_2_01_02_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_01,Foundations of Pharmacovigilance,les_2_01_03,Global PV Regulatory Bodies,task_2_01_03_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_01,Foundations of Pharmacovigilance,les_2_01_04,Adverse Event (AE) Basics,task_2_01_04_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_01,Foundations of Pharmacovigilance,les_2_01_05,Good Pharmacovigilance Practices (GVP),task_2_01_05_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_01,Foundations of Pharmacovigilance,les_2_01_06,AI in PV Research,task_2_01_06_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_01,Foundations of Pharmacovigilance,les_2_01_07,PV Roles & Responsibilities,task_2_01_07_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_01,Foundations of Pharmacovigilance,les_2_01_08,Introduction to MedDRA,task_2_01_08_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_01,Foundations of Pharmacovigilance,les_2_01_09,PV Documentation Essentials,task_2_01_09_1,,,,,,10,
+course_2,Pharmacovigalance,ch_2_01,Foundations of Pharmacovigilance,les_2_01_01,What is Pharmacovigilance?,task_2_01_01_1,What is Pharmacovigilance?,"As a Drug Safety Associate at Apex Pharmaceuticals, you receive a report from a healthcare professional (HCP). A 40-year-old female patient developed a severe rash three days after starting paracetamol (500 mg, oral, three times daily) for a headache. She was hospitalized for one day and recovered. The HCP suspects paracetamol caused the rash. You must document the case within a 24-hour deadline.
+
+Deliverable
+Completed ADR Report Form: Fill the ICH-compliant ADR Report Form in ZANE Omega with patient details, drug information, adverse event, seriousness, expectedness, causality, and narrative (200-300 characters). Use the case sheet and safety information provided.
+
+Submission Method: Submit via the ADR Report Form in ZANE Omega, or paste the data (including narrative) into Omega Word, or upload a PDF.",,https://tally.so/r/w20Wjg,,10,"Check Case Details: Confirm patient (40-year-old female), drug (paracetamol, 500 mg), adverse event (severe rash, hospitalized), and reporter (HCP). Use case ID PV-2025-001, receipt date September 29, 2025.
+Classify Seriousness: Mark as serious due to hospitalization.
+Assess Expectedness: Check paracetamol safety information (Reference Document). Severe rash is not listed, so mark unexpected.
+Assess Causality: Select “Probable” based on HCP suspicion and timing.
+Fill ADR Report Form: Enter in ZANE Omega:
+ - Reporter: Dr. Emily Wong, email: emily.wong@clinic.com.
+ - Drug: Paracetamol, 500 mg, oral, three times daily.
+ - Onset Date: September 26, 2025.
+ - Event: Severe rash, hospitalized, recovered.
+ - Seriousness: Serious.
+ - Expectedness: Unexpected.
+ - Causality: Probable.
+ - Narrative: Summarize case (e.g., “40-year-old female had severe rash 3 days after paracetamol 500 mg. Hospitalized; recovered. Serious, unexpected, probable causality.”).
+Submit: Complete all fields and submit by September 29, 2025."
+course_2,Pharmacovigalance,ch_2_01,Foundations of Pharmacovigilance,les_2_01_02,History & Evolution of PV,task_2_01_02_1,History & Evolution of PV,"As a Drug Safety Associate at Apex Pharmaceuticals, you receive a mock regulatory query from the WHO regarding an ADR report for amoxicillin (500 mg, oral, twice daily). The report details a 45-year-old male patient who experienced anaphylaxis, requiring hospitalization, two days after starting the drug (Case ID: PV-2025-004). The WHO asks how historical PV milestones ensure proper handling of such cases. You must respond within a 24-hour deadline.
+
+Deliverable
+Completed Regulatory Query Response Form: Fill the Regulatory Query Response Form in ZANE Omega with query details, case ID, and a response (200-300 words) summarizing key PV historical milestones and their role in managing the amoxicillin ADR case. Use the provided reference data.
+
+Submission Method: Submit via the Regulatory Query Response Form in ZANE Omega.",,https://tally.so/r/mRpNoQ,,10,"Review Query Details: Confirm the WHO query (ID: WHO-Query-2025-002) and case (PV-2025-004, anaphylaxis, hospitalized).
+Identify Key Milestones: Use the reference document to select historical PV events (e.g., Thalidomide, ICH guidelines) relevant to ADR reporting.
+Link to Case: Connect milestones to the amoxicillin case (e.g., expedited reporting for serious ADRs).
+Fill Query Response Form: In ZANE Omega, enter:
+Query ID: WHO-Query-2025-002.
+Query Type: Data Clarification.
+Case ID: PV-2025-004.
+Response: Summarize Thalidomide’s impact, WHO PIDM, and ICH guidelines’ role in ADR management (200-300 words).
+Supporting Docs: Not required.
+Deadline: September 29, 2025.
+Escalation: No.
+Submit: Complete all fields and submit by September 29, 2025."
+course_2,Pharmacovigalance,ch_2_01,Foundations of Pharmacovigilance,les_2_01_03,Global PV Regulatory Bodies,task_2_01_03_1,Global PV Regulatory Bodies,"As a Drug Safety Associate at Apex Pharmaceuticals, you receive a mock regulatory query from the FDA regarding an ADR report for metformin (500 mg, oral, twice daily). The report details a 60-year-old female patient who experienced severe lactic acidosis, requiring hospitalization, five days after starting the drug (Case ID: PV-2025-005). The FDA asks which global regulatory bodies oversee such ADR reporting and their roles. You must respond within a 24-hour deadline.
+
+Deliverable
+Completed Regulatory Query Response Form: Fill the Regulatory Query Response Form in ZANE Omega with query details, case ID, and a response (200-300 words) summarizing the roles of FDA, EMA, and WHO and their databases in managing the metformin ADR case. Use the provided reference data.
+
+Submission Method: Submit via the Regulatory Query Response Form in ZANE Omega, or paste the response into Omega Word, or upload a PDF.",,https://tally.so/r/mRpNoQ,,10,"Review Query Details: Confirm the FDA query (ID: FDA-Query-2025-001) and case (PV-2025-005, lactic acidosis, hospitalized).
+Identify Regulatory Roles: Use the reference document to outline FDA, EMA, and WHO roles and databases (FAERS, EudraVigilance, VigiBase).
+Link to Case: Connect the metformin case to each body’s oversight (e.g., FDA’s FAERS for U.S. reporting).
+Fill Query Response Form: In ZANE Omega, enter:
+Query ID: FDA-Query-2025-001.
+Query Type: Data Clarification.
+Case ID: PV-2025-005.
+Response: Summarize FDA, EMA, WHO roles and databases for the ADR case (200-300 words).
+Supporting Docs: Not required.
+Deadline: September 29, 2025.
+Escalation: No.
+Submit: Complete all fields and submit."
+course_2,Pharmacovigalance,ch_2_01,Foundations of Pharmacovigilance,les_2_01_04,Adverse Event (AE) Basics,task_2_01_04_1,Adverse Event (AE) Basics,"As a Drug Safety Associate at Apex Pharmaceuticals, you receive a report from a healthcare professional (HCP). A 35-year-old male patient developed a severe allergic reaction two days after starting penicillin (500 mg, oral, twice daily) for a throat infection. He was hospitalized for one day and recovered. The HCP suspects penicillin caused the reaction. You must document the case within a 24-hour deadline.
+
+Deliverable
+Completed ADR Report Form: Fill the ICH-compliant ADR Report Form in ZANE Omega with reporter details, drug information, adverse event, seriousness, expectedness, outcome, expedited reporting status, and narrative (200-300 characters). Use the provided case sheet and safety information.
+
+Submission Method: Submit via the ADR Report Form in ZANE Omega.",,,,10,"Check Case Details: Confirm patient (35-year-old male), drug (penicillin, 500 mg), event (severe allergic reaction, hospitalized), and reporter (HCP). Use case ID PV-2025-006, receipt date September 29, 2025.
+Classify Event: Identify as SAE (hospitalization) and ADR (HCP suspects drug causality).
+Assess Seriousness: Mark as serious due to hospitalization.
+Check Expectedness: Review penicillin safety information. Severe allergic reaction is a known rare side effect, so mark expected.
+Assess Causality: Select “Probable” based on HCP suspicion and timing.
+Fill ADR Report Form: Enter in ZANE Omega:
+
+Reporter Details: Dr. Michael Patel, email: michael.patel@clinic.com.
+Suspect Drug: Penicillin, 500 mg, oral, twice daily.
+Reaction Onset Date: September 27, 2025.
+AE Details: Severe allergic reaction, hospitalized, recovered.
+Expectedness: Expected.
+Outcome: Recovered.
+Expedited Reporting: Yes.
+Narrative Summary: Summarize case (e.g., “35-year-old male had severe allergic reaction 2 days after penicillin 500 mg. Hospitalized; recovered. Serious, expected, probable causality.”).
+
+Submit: Complete all fields and submit."
+course_2,Pharmacovigalance,ch_2_01,Foundations of Pharmacovigilance,les_2_01_05,Good Pharmacovigilance Practices (GVP),task_2_01_05_1,Good Pharmacovigilance Practices (GVP),"As a Drug Safety Associate at Apex Pharmaceuticals, you receive a mock regulatory query from the EMA regarding an ADR report for lisinopril (10 mg, oral, once daily). The report details a 50-year-old male patient who experienced severe hypotension, requiring hospitalization, three days after starting the drug (Case ID: PV-2025-007). The EMA asks how GVP principles ensure proper handling of this ADR. You must respond within a 24-hour deadline.
+
+Deliverable
+Completed Regulatory Query Response Form: Fill the Regulatory Query Response Form in ZANE Omega with query details, case ID, and a response (200-300 words) summarizing GVP principles and their role in managing the lisinopril ADR case. Use the provided reference data.
+
+Submission Method: Submit via the Regulatory Query Response Form in ZANE Omega.",,https://tally.so/r/mRpNoQ,,10,"Review Query Details: Confirm the EMA query (ID: EMA-Query-2025-002) and case (PV-2025-007, severe hypotension, hospitalized).
+Identify GVP Principles: Use the reference document to select key GVP principles (e.g., ADR reporting, risk management) relevant to ADR handling.
+Link to Case: Connect principles to the lisinopril case (e.g., expedited reporting for serious ADRs).
+Fill Query Response Form: Enter in ZANE Omega:
+
+Query ID: EMA-Query-2025-002.
+Query Type: Data Clarification.
+Original Case ID: PV-2025-007.
+Response: Summarize GVP principles (ADR reporting, risk management, Module VI) and their role (200-300 words).
+Supporting Docs: Not required.
+Deadline: September 29, 2025.
+Escalation Needed: No.
+
+Submit: Complete all fields and submit."
+course_2,Pharmacovigalance,ch_2_01,Foundations of Pharmacovigilance,les_2_01_06,AI in PV Research,task_2_01_06_1,AI in PV Research,"As a Drug Safety Associate at Apex Pharmaceuticals, you are analyzing adverse event reports for omeprazole (20 mg, oral, once daily) used for acid reflux. Recent data shows 15 cases of severe diarrhea over three months (July 1–September 30, 2025), with a disproportionality metric (PRR) of 2.5, indicating a potential safety signal. You must use Claude to summarize the signal and recommend actions for an aggregate report within a 24-hour deadline.
+
+Deliverable
+Completed Aggregate Reporting Dashboard Form: Fill the Aggregate Reporting Dashboard Form in ZANE Omega with reporting period, case count, signal details, risk level, recommendations, and Claude usage note (200-300 characters). Use the provided case data and Claude AI to generate the signal summary.
+
+Submission Method: Submit via the Aggregate Reporting Dashboard Form in ZANE Omega.",,https://tally.so/r/wkqoZe,,10,"Review Case Data: Confirm 15 cases of severe diarrhea for omeprazole, PRR 2.5, from July 1–September 30, 2025 (Reference Document).
+Generate Signal Summary with Claude: Access Claude’s free tier (https://www.anthropic.com/claude). Input: “Summarize: 15 cases of severe diarrhea with omeprazole, PRR 2.5, July–September 2025, potential signal, recommend actions.” Copy Claude’s output (200-300 characters) for the signal summary.
+Assess Risk Level: Select “Medium” risk based on PRR >2.0 and hospitalization data.
+Draft Recommendations: Suggest further monitoring or label updates based on Claude’s output.
+Fill Aggregate Reporting Dashboard Form: Enter in ZANE Omega:
+
+Reporting Period: July 1–September 30, 2025.
+Total Cases: 15.
+Key Signals Identified: Severe diarrhea, PRR 2.5 (from Claude summary).
+Risk Level: Medium.
+Risk Mitigation Plan: Monitor signal, consider label update.
+Tool/AI Used: Claude.
+
+Submit: Complete all fields and submit."
+course_2,Pharmacovigalance,ch_2_01,Foundations of Pharmacovigilance,les_2_01_07,PV Roles & Responsibilities,task_2_01_07_1,PV Roles & Responsibilities,"As a Drug Safety Associate at Apex Pharmaceuticals, you receive a regulatory query from the EMA regarding an adverse drug reaction (ADR) report for fluoxetine (20 mg, oral, once daily). The report details a 45-year-old female patient who experienced severe insomnia, requiring hospitalization, four days after starting the drug (Case ID: PV-2025-009). The EMA asks which PV roles are involved in processing and reviewing this ADR and their responsibilities. You must respond within a 24-hour deadline.
+
+Deliverable
+Completed Regulatory Query Response Form: Fill the Regulatory Query Response Form in ZANE Omega with query details, case ID, and a response (200-300 words) summarizing the PV roles involved in the fluoxetine ADR case and their responsibilities. Use the provided reference data.
+
+Submission Method: Submit via the Regulatory Query Response Form in ZANE Omega.",,https://tally.so/r/mRpNoQ,,10,"Review Query Details: Confirm the EMA query (ID: EMA-Query-2025-003) and case (PV-2025-009, severe insomnia, hospitalized).
+Identify PV Roles: Use the reference document to select roles (e.g., Drug Safety Associate, PV Medical Reviewer) and their responsibilities for ADR processing.
+Link to Case: Connect roles to the fluoxetine case (e.g., case processing, medical review).
+Fill Query Response Form: Enter in ZANE Omega:
+
+Query ID: EMA-Query-2025-003.
+Query Type: Data Clarification.
+Original Case ID: PV-2025-009.
+Response: Summarize roles and responsibilities for the ADR case (200-300 words).
+Supporting Docs: Not required.
+Deadline: September 29, 2025.
+Escalation Needed: No.
+
+Submit: Complete all fields and submit."
+course_2,Pharmacovigalance,ch_2_01,Foundations of Pharmacovigilance,les_2_01_08,Introduction to MedDRA,task_2_01_08_1,Introduction to MedDRA,"Today, as a Drug Safety Associate at Apex Pharmaceuticals, you receive a report from a healthcare professional (HCP). A 70-year-old male patient developed severe bleeding gums two days after starting warfarin (5 mg, oral, once daily) for atrial fibrillation. He was hospitalized for one day and recovered. The HCP suspects warfarin caused the bleeding. You must document the case in an ICSR Data Entry Form by tomorrow.
+
+Deliverable
+Completed ICSR Data Entry Form: Fill the ICSR Data Entry Form in ZANE Omega with patient details, drug information, adverse event, MedDRA PT code, seriousness, causality, submission date, and narrative (200-300 characters). Use the provided case sheet and safety information.
+
+Submission Method: Submit via the ICSR Data Entry Form in ZANE Omega.",,https://tally.so/r/wvkldv,,10,"Check Case Details: Confirm patient (70-year-old male), drug (warfarin, 5 mg), event (severe bleeding gums, hospitalized), and reporter (HCP). Use case ID PV-001, receipt date today.
+Classify Seriousness: Mark as serious due to hospitalization.
+Assess Causality: Select “Probable” based on HCP suspicion and timing.
+Use MedDRA PT Code: Apply code “10018939” (Gingival bleeding) from the reference document.
+Fill ICSR Data Entry Form: Enter in ZANE Omega:
+
+Patient ID: PV-001.
+Age: 70.
+Gender: Male.
+Adverse Event Description: Severe bleeding gums, hospitalized, recovered.
+MedDRA PT Code: 10018939.
+Seriousness: Hospitalized.
+Causality Assessment: Probable.
+Submission Date: Today.
+Follow-Up Notes: Not required.
+
+Submit: Complete all fields and submit."
+course_2,Pharmacovigalance,ch_2_01,Foundations of Pharmacovigilance,les_2_01_09,PV Documentation Essentials,task_2_01_09_1,PV Documentation Essentials,"As a Drug Safety Associate at Apex Pharmaceuticals, you receive a report from a healthcare professional (HCP). A 55-year-old female patient developed severe palpitations three days after starting levothyroxine (100 mcg, oral, once daily) for hypothyroidism. She was hospitalized for one day and recovered. The HCP suspects levothyroxine caused the palpitations. You must document the case in an ICSR Data Entry Form asap.
+
+Deliverable
+Completed ICSR Data Entry Form: Fill the ICSR Data Entry Form in ZANE Omega with patient details, drug information, adverse event, seriousness, causality, submission date, and narrative (200-300 characters). Use the provided case sheet and safety information.
+
+Submission Method: Submit via the ICSR Data Entry Form in ZANE Omega.",,https://tally.so/r/wvkldv,,10,"Check Case Details: Confirm patient (55-year-old female), drug (levothyroxine, 100 mcg), event (severe palpitations, hospitalized), and reporter (HCP). Use case ID PV-002, receipt date today.
+Classify Seriousness: Mark as serious due to hospitalization.
+Assess Causality: Select “Probable” based on HCP suspicion and timing.
+Draft Narrative: Summarize the case using provided data (200-300 characters).
+Fill ICSR Data Entry Form: Enter in ZANE Omega:
+
+Patient ID: PV-002.
+Age: 55.
+Gender: Female.
+Adverse Event Description: Severe palpitations, hospitalized, recovered.
+Seriousness: Hospitalized.
+Causality Assessment: Probable.
+Submission Date: Today.
+Follow-Up Notes: Not required.
+
+Submit: Complete all fields and submit by tomorrow."
 ,,,,,,,,,,,,,
-course_2,Pharmacovigalance,ch_2_02,Individual Case Safety Reports (ICSR),les_2_02_01,ICSR Overview & Structure,task_2_02_01_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_02,Individual Case Safety Reports (ICSR),les_2_02_02,Adverse Event (AE) Case Intake Process,task_2_02_02_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_02,Individual Case Safety Reports (ICSR),les_2_02_03,Source Document Review,task_2_02_03_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_02,Individual Case Safety Reports (ICSR),les_2_02_04,Narrative Writing Basics,task_2_02_04_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_02,Individual Case Safety Reports (ICSR),les_2_02_05,AI for ICSR Triage,task_2_02_05_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_02,Individual Case Safety Reports (ICSR),les_2_02_06,Causality Assessment Intro,task_2_02_06_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_02,Individual Case Safety Reports (ICSR),les_2_02_07,MedDRA Type Coding for ICSRs,task_2_02_07_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_02,Individual Case Safety Reports (ICSR),les_2_02_08,ICSR Quality Checks,task_2_02_08_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_02,Individual Case Safety Reports (ICSR),les_2_02_09,Submission Timelines and Rules,task_2_02_09_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_02,Individual Case Safety Reports (ICSR),les_2_02_10,Individual Case Safety Report (ICSR) Case Closure,task_2_02_10_1,,,,,,10,
-,,,,,,,,,,,,10,
-course_2,Pharmacovigalance,ch_2_03,Global PV Systems & Databases,les_2_03_01,Global PV Databases Overview,task_2_03_01_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_03,Global PV Systems & Databases,les_2_03_02,E2B R3 Standards,task_2_03_02_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_03,Global PV Systems & Databases,les_2_03_03,VigiBase Navigation,task_2_03_03_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_03,Global PV Systems & Databases,les_2_03_04,FAERS Data Reconciliation,task_2_03_04_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_03,Global PV Systems & Databases,les_2_03_05,AI for Database Queries,task_2_03_05_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_03,Global PV Systems & Databases,les_2_03_06,Argus Safety System Intro,task_2_03_06_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_03,Global PV Systems & Databases,les_2_03_07,ARISg System Basics,task_2_03_07_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_03,Global PV Systems & Databases,les_2_03_08,Data Privacy in PV (GDPR/HIPAA),task_2_03_08_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_03,Global PV Systems & Databases,les_2_03_09,Database Error Handling,task_2_03_09_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_03,Global PV Systems & Databases,les_2_03_10,PV System Integration,task_2_03_10_1,,,,,,10,
+course_2,Pharmacovigalance,ch_2_02,Individual Case Safety Reports (ICSR),les_2_02_01,ICSR Overview & Structure,task_2_02_01_1,ICSR Overview & Structure,"As a Drug Safety Associate at Apex Pharmaceuticals, you receive a spontaneous report from a healthcare professional (HCP). A 30-year-old female patient developed severe dizziness two days after starting cetirizine (10 mg, oral, once daily) for allergies. She was hospitalized for one day and recovered. The HCP suspects cetirizine caused the dizziness. You must document the case in an ICSR Data Entry Form by tomorrow.
+
+Deliverable
+Completed ICSR Data Entry Form: Fill the ICSR Data Entry Form in ZANE Omega with patient details, drug information, adverse event, seriousness, causality, submission date, and narrative (200-300 characters). Use the provided case sheet and safety information.
+
+Submission Method: Submit via the ICSR Data Entry Form in ZANE Omega.",,https://tally.so/r/wvkldv,,10,"Check Case Details: Confirm patient (30-year-old female), drug (cetirizine, 10 mg), event (severe dizziness, hospitalized), and reporter (HCP). Use case ID PV-003, receipt date today.
+Classify Seriousness: Mark as serious due to hospitalization.
+Assess Causality: Select “Probable” based on HCP suspicion and timing.
+Draft Narrative: Summarize the case using provided data (200-300 characters).
+Fill ICSR Data Entry Form: Enter in ZANE Omega:
+
+Patient ID: PV-003.
+Age: 30.
+Gender: Female.
+Adverse Event Description: Severe dizziness, hospitalized, recovered.
+Seriousness: Hospitalized.
+Causality Assessment: Probable.
+Submission Date: Today.
+Follow-Up Notes: Not required.
+
+Submit: Complete all fields and submit."
+course_2,Pharmacovigalance,ch_2_02,Individual Case Safety Reports (ICSR),les_2_02_02,Adverse Event (AE) Case Intake Process,task_2_02_02_1,Adverse Event (AE) Case Intake Process,"As a Pharmacovigilance Associate at Zenith Pharma, you receive an email report of an adverse event from Dr. Sarah Patel, a physician at City Hospital. The report concerns a patient experiencing an adverse event while using metformin for type 2 diabetes. Your responsibility is to review the provided reference document, validate the information, and accurately complete the ICSR Data Entry Form.
+
+Deliverables
+A completed ICSR Data Entry Form based on the validated data from the reference document.",,https://tally.so/r/wvkldv,,10,"Review the Reference Document to extract key details regarding the patient, suspected drug, adverse event, concomitant medications, and reporter.
+Validate the data for completeness, confirming that all mandatory fields (e.g., patient demographics, drug details, AE description, reporter information) are present and accurate.
+Assign a unique Case ID to the report (e.g., ZP-2025-001).
+Enter the validated information into the ICSR Data Entry Form, using the specified MedDRA code ""10028813"" for nausea.
+Verify the seriousness classification (non-serious in this case) and ensure compliance with regulatory timelines (submission within 15 calendar days for non-serious AEs).
+Maintain confidentiality of patient and reporter data in accordance with GDPR and HIPAA regulations."
+course_2,Pharmacovigalance,ch_2_02,Individual Case Safety Reports (ICSR),les_2_02_03,Source Document Review,task_2_02_03_1,Source Document Review,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in India. You are reviewing an ICSR for a patient who experienced an adverse event while taking metformin for type 2 diabetes, reported by a clinic in Australia. Your task is to compare the ICSR data with the source document (a clinic note) and fill out a simplified Source Document Review Form, noting any mistakes or missing information. The task ensures compliance with global standards and is designed to be quick and clear for beginners.
+
+Deliverables
+A completed Source Document Review Form, checking patient, drug, AE, and reporter details against the source document.
+A brief note of any errors or missing data, with a simple follow-up suggestion.
+Submit the form to your supervisor via Horizon Pharma’s PV system, ensuring an audit trail per ICH E6(R3).
+",,https://tally.so/r/wvkldv,,10,"Read the Reference Document (clinic note) to find details about the patient, metformin, adverse event, and reporter.
+Compare these details with the ICSR Data to check if they match.
+Fill out the Source Document Review Form by marking each field as “Correct” or “Incorrect/Missing.”
+In the “Notes/Follow-Up” section, write one sentence about any errors or missing information and suggest a simple action (e.g., call the doctor).
+Use MedDRA code ""10028813"" for nausea, as required by global standards.
+Keep patient and reporter information private per GDPR (EU), HIPAA (USA), UK Data Protection Act, and India’s DPDP Act.
+Submit the form within 24 hours."
+course_2,Pharmacovigalance,ch_2_02,Individual Case Safety Reports (ICSR),les_2_02_04,Narrative Writing Basics,task_2_02_04_1,Narrative Writing Basics,"You are a Pharmacovigilance Trainee at Unity Pharma, a company based in Canada. You are tasked with writing an AE narrative for an ICSR based on a spontaneous report from a clinic in Brazil. The report details a patient experiencing nausea while taking metformin for type 2 diabetes. Your role is to use the provided source document (a clinic note) to write a concise narrative, ensuring it is accurate, clear, and compliant with global standards, suitable for submission to regulatory authorities like Health Canada, ANVISA (Brazil), FDA, MHRA, EMA, and CDSCO.
+
+Deliverables
+A completed AE Narrative, summarizing the patient’s adverse event in a clear, chronological format.
+The narrative should include all required components (patient details, drug information, AE details, outcome) and use standard terminology (MedDRA code ""10028813"" for nausea).
+Submit the narrative to your supervisor via Unity Pharma’s PV system, ensuring an audit trail per ICH E2B(R3).
+",,https://tally.so/r/m6q6jJ,,10,"Read the Reference Document (clinic note) to gather details about the patient, metformin, adverse event, and reporter.
+Organize the information in chronological order, starting with the patient’s baseline condition, drug administration, AE onset, and outcome.
+Write a concise AE Narrative (3-5 sentences) including:
+
+Patient details (age, sex, medical history)
+Suspected drug (name, dose, start date, indication)
+AE description (onset, seriousness, MedDRA code, outcome)
+Any relevant actions or follow-up plans
+
+Use clear, factual language in past tense, avoiding assumptions or abbreviations.
+Apply MedDRA code ""10028813"" for nausea, as required by global standards.
+Ensure confidentiality by using the patient ID instead of the full name, per GDPR (EU), HIPAA (USA), UK Data Protection Act, India’s DPDP Act, and Brazil’s LGPD.
+Submit the narrative within 24 hours, reflecting a beginner-friendly timeline for global pharmacovigilance reporting into OMEGA WORD."
+course_2,Pharmacovigalance,ch_2_02,Individual Case Safety Reports (ICSR),les_2_02_05,AI for ICSR Triage,task_2_02_05_1,AI for ICSR Triage,"You are a Pharmacovigilance Trainee at Stellar Pharma, a company based in Singapore. You are tasked with performing a causality assessment for an ICSR based on a spontaneous AE report from a clinic in Malaysia. The report describes a patient experiencing nausea while taking metformin for type 2 diabetes. Your role is to review the provided source document (clinic note), assess the causality using a simplified WHO-UMC framework, and complete a Causality Assessment Form, ensuring compliance with global standards for submission to regulatory authorities like HSA (Singapore), NPRA (Malaysia), FDA, MHRA, EMA, and CDSCO.
+
+Deliverables
+A completed Causality Assessment Form, indicating the causality category (Certain, Probable, Possible, Unlikely) and supporting rationale.
+A brief note explaining the chosen category based on key factors like temporal relationship and alternative causes.
+Submit the form to your supervisor via Stellar Pharma’s PV system, ensuring an audit trail per ICH E2B(R3).",,,,10,"Read the Reference Document (clinic note) to gather details about the patient, metformin, adverse event, and relevant clinical information.
+Review the Simplified WHO-UMC Causality Categories (provided below) to understand the criteria for assessing causality.
+Evaluate the AE based on:
+
+Temporal relationship: Did nausea occur after starting metformin?
+Alternative explanations: Are there other drugs or conditions that could cause nausea?
+Dechallenge: Did nausea improve after stopping or continuing metformin (if applicable)?
+
+Complete the Causality Assessment Form by selecting the appropriate causality category (Certain, Probable, Possible, Unlikely) and providing a one-sentence rationale.
+Use MedDRA code ""10028813"" for nausea, as required by global standards.
+Ensure confidentiality per GDPR (EU), HIPAA (USA), UK Data Protection Act, India’s DPDP Act, and Malaysia’s PDPA.
+Submit the form within 24 hours, reflecting a beginner-friendly timeline for global pharmacovigilance operations."
+course_2,Pharmacovigalance,ch_2_02,Individual Case Safety Reports (ICSR),les_2_02_06,Causality Assessment Intro,task_2_02_06_1,Causality Assessment Intro,"You are a Pharmacovigilance Trainee at Stellar Pharma, a company based in Singapore. You are tasked with performing a causality assessment for an ICSR based on a spontaneous AE report from a clinic in Malaysia. The report describes a patient experiencing nausea while taking metformin for type 2 diabetes. Your role is to review the provided source document (clinic note), assess the causality using a simplified WHO-UMC framework, and complete a Causality Assessment Form, ensuring compliance with global standards for submission to regulatory authorities like HSA (Singapore), NPRA (Malaysia), FDA, MHRA, EMA, and CDSCO.
+
+Deliverables
+A completed Causality Assessment Form, indicating the causality category (Certain, Probable, Possible, Unlikely) and supporting rationale.
+A brief note explaining the chosen category based on key factors like temporal relationship and alternative causes.
+Submit the form to your supervisor via Stellar Pharma’s PV system, ensuring an audit trail per ICH E2B(R3).
+",,,,10,"
+Access Grok at grok.com and input this prompt:
+""Analyze the following adverse event data using the Naranjo algorithm: A 55-year-old male with type 2 diabetes started metformin 500 mg orally twice daily on June 15, 2025, and reported nausea starting July 10, 2025. No other medications or gastrointestinal conditions reported, no dechallenge or rechallenge performed, nausea is a known side effect of metformin per literature, no toxic levels or placebo test. Suggest scores for each of the 10 Naranjo questions (Yes/No/Don't Know with corresponding points) and explain key factors.""
+Review the Reference Document (structured fields below) to confirm details.
+ Score each of the 10 Naranjo questions based on Grok’s output and your evaluation (Yes = +points, No = -points, Don't Know = 0, per the Naranjo framework below).
+ Calculate the total score and classify the causality.
+ Provide a short justification (1-2 sentences) explaining how the scores were determined.
+Open OMEGA Word and create a new document titled ""Naranjo Scoring Entry - Case ID HP-2025-SG-001"".
+Enter the question scores, total, classification, justification, and follow-up in OMEGA Word.
+Use MedDRA code ""10028813"" for nausea.
+Ensure confidentiality per GDPR (EU), HIPAA (USA), UK Data Protection Act, India’s DPDP Act, and Singapore’s PDPA.
+Submit in OMEGA Word within 24 hours.
+"
+course_2,Pharmacovigalance,ch_2_02,Individual Case Safety Reports (ICSR),les_2_02_07,MedDRA Type Coding for ICSRs,task_2_02_07_1,MedDRA Type Coding for ICSRs,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in New Zealand. You are tasked with coding an AE from an ICSR based on a spontaneous report from a clinic in Singapore. The report includes a verbatim description of the patient's symptom after taking metformin for type 2 diabetes. Using Grok (grok.com), you will code the verbatim term to the appropriate Lowest Level Term (LLT), Preferred Term (PT), and System Organ Class (SOC), justify your coding, and enter it in OMEGA Word for submission, ensuring compliance with regulatory authorities like Medsafe (New Zealand), HSA (Singapore), FDA, MHRA, EMA, and CDSCO.
+
+
+A basic coding entry in OMEGA Word, including the verbatim term, LLT, PT, SOC, and a short justification for the coding choice.
+A brief follow-up suggestion if more information is needed.
+",,,,10,"The current date is October 11, 2025.
+Access Grok at grok.com and input this prompt:
+""Code the following verbatim adverse event description using MedDRA: 'Patient experienced severe burning pain in the stomach after taking the drug.' Suggest the appropriate Lowest Level Term (LLT), Preferred Term (PT), and System Organ Class (SOC), and explain why this coding fits.""
+Review the Reference Document (ICSR details below) to confirm the verbatim description and context.
+Code the verbatim term based on Grok’s output and your evaluation:
+
+Select the LLT that matches the description closely.
+Map to the corresponding PT.
+Assign the SOC.
+
+Justify the coding in 1-2 sentences, explaining why it fits (e.g., specificity, hierarchy).
+Open OMEGA Word and create a new document titled ""MedDRA Coding Entry - Case ID HP-2025-SG-001"".
+Enter the verbatim term, LLT, PT, SOC, justification, and follow-up in OMEGA Word.
+Use MedDRA code for the PT if known, or note it from Grok.
+Ensure confidentiality per GDPR (EU), HIPAA (USA), UK Data Protection Act, India’s DPDP Act, and Singapore’s PDPA.
+Submit in OMEGA Word within 24 hours."
+course_2,Pharmacovigalance,ch_2_02,Individual Case Safety Reports (ICSR),les_2_02_08,ICSR Quality Checks,task_2_02_08_1,ICSR Quality Checks,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in New Zealand. You are tasked with performing a quality check on an ICSR based on a spontaneous AE report from a clinic in Singapore. The report details a patient who experienced nausea after taking metformin for type 2 diabetes. Using Grok (grok.com), you will review the provided ICSR data for errors, identify 3-5 issues, suggest corrections, and enter a short QC note in OMEGA Word for submission, ensuring compliance with regulatory authorities like Medsafe (New Zealand), HSA (Singapore), FDA, MHRA, EMA, and CDSCO.
+
+Deliverables
+A simple QC note in OMEGA Word, listing 3-5 identified errors from the ICSR and suggested corrections.
+A brief follow-up suggestion for resolving any ambiguities.
+",,,,10,"Access Grok at grok.com and input this prompt:
+-""Review this ICSR data for quality check errors in patient info, drug details, AE details, narrative, seriousness, and coding: Patient: Male, 55 years, type 2 diabetes. Drug: Metformin 500 mg oral twice daily, started June 15, 2025. AE: Nausea onset July 10, 2025, non-serious, ongoing. Narrative: Patient reported stomach pain. No concomitant drugs. Suggest 3-5 errors and corrections.""
+Review the Reference Document (ICSR data below) to confirm potential errors (e.g., mismatch in narrative, missing details).
+Identify 3-5 errors based on Grok’s output and your evaluation, such as inconsistencies in narrative vs AE description or missing seriousness validation.
+Suggest corrections for each error (e.g., update narrative to match AE).
+Open OMEGA Word and create a new document titled ""ICSR QC Note - Case ID HP-2025-SG-001"".
+Enter the list of 3-5 errors, corrections, and follow-up in OMEGA Word.
+Use MedDRA code ""10028813"" for nausea if relevant.
+Ensure confidentiality per GDPR (EU), HIPAA (USA), UK Data Protection Act, India’s DPDP Act, and Singapore’s PDPA.
+Submit in OMEGA Word within 24 hours."
+course_2,Pharmacovigalance,ch_2_02,Individual Case Safety Reports (ICSR),les_2_02_09,Submission Timelines and Rules,task_2_02_09_1,Submission Timelines and Rules,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in New Zealand. You are tasked with mapping submission timelines for an ICSR based on a spontaneous AE report from a clinic in Singapore. The report details a patient who experienced a serious AE after taking metformin for type 2 diabetes. Using Grok (grok.com), you will calculate the 15-day submission deadline from Day 0, identify any follow-up deadlines, map them to a calendar (e.g., due dates), and enter a simple timeline entry in OMEGA Word for submission, ensuring compliance with regulatory authorities like Medsafe (New Zealand), HSA (Singapore), FDA, MHRA, EMA, and CDSCO.
+
+Deliverables
+A basic timeline entry in OMEGA Word, including Day 0, submission deadline, follow-up deadline (if applicable), and a short note on compliance.
+",,,,10,"Access Grok at grok.com and input this prompt:
+""Calculate ICSR submission timelines for this case: Day 0 is September 20, 2025, for a serious non-fatal AE. Provide the 15-day submission deadline and any follow-up deadline, mapping them to a simple calendar format with dates.""
+Review the Reference Document (ICSR details below) to confirm Day 0 and seriousness.
+Calculate deadlines based on Grok’s output:
+ - Submission deadline: 15 days from Day 0 for serious non-fatal.
+ - Follow-up: Note if any 8-day follow-up applies (only for fatal/life-threatening).
+Map the deadlines to a simple calendar (e.g., Day 0: Sep 20; Deadline: Oct 5).
+Open OMEGA Word and create a new document titled ""ICSR Timeline Entry - Case ID HP-2025-SG-001"".
+Enter the timeline, note, and reminder in OMEGA Word.
+Ensure confidentiality per GDPR (EU), HIPAA (USA), UK Data Protection Act, India’s DPDP Act, and Singapore’s PDPA.
+Submit in OMEGA Word within 24 hours."
+course_2,Pharmacovigalance,ch_2_02,Individual Case Safety Reports (ICSR),les_2_02_10,Individual Case Safety Report (ICSR) Case Closure,task_2_02_10_1,Individual Case Safety Report (ICSR) Case Closure,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in New Zealand. You are tasked with checking an ICSR for closure based on a spontaneous AE report from a clinic in Singapore. The report details a patient who experienced nausea after taking metformin for type 2 diabetes. Using Grok (grok.com), you will evaluate the provided ICSR data against the closure checklist, determine if it's ready for closure or list 2-3 missing items, and enter a basic closure status in OMEGA Word for submission, ensuring compliance with regulatory authorities like Medsafe (New Zealand), HSA (Singapore), FDA, MHRA, EMA, and CDSCO.
+
+Deliverables
+A basic closure status entry in OMEGA Word, stating if the case is ready for closure, listing 2-3 missing items if not, and a short follow-up suggestion.
+Submit the entry in OMEGA Word to your supervisor, ensuring an audit trail per ICH E2B(R3).
+",,,,10,"Access Grok at grok.com and input this prompt:
+""Evaluate this ICSR data for closure readiness based on pharmacovigilance checklist: Patient: Male, 55 years, type 2 diabetes. Drug: Metformin 500 mg oral twice daily, started June 15, 2025. AE: Nausea onset July 10, 2025, non-serious, ongoing. Narrative complete, MedDRA coded, causality possible. Submission done, ACK received. Suggest if ready for closure or 2-3 missing items.""
+Review the Reference Document (ICSR data below) to confirm checklist items (e.g., submission ACK, coding, narrative).
+Determine closure readiness based on Grok’s output and your evaluation: Ready (yes/no), and list 2-3 missing items if no.
+Suggest a follow-up action (e.g., obtain missing ACK).
+Open OMEGA Word and create a new document titled ""ICSR Closure Status Entry - Case ID HP-2025-SG-001"".
+Enter the readiness status, missing items (if any), and follow-up in OMEGA Word.
+Ensure confidentiality per GDPR (EU), HIPAA (USA), UK Data Protection Act, India’s DPDP Act, and Singapore’s PDPA.
+Submit in OMEGA Word within 24 hours."
 ,,,,,,,,,,,,,
-course_2,Pharmacovigalance,ch_2_04,Signal Detection & Risk Management,les_2_04_01,Signal Detection Overview,task_2_04_01_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_04,Signal Detection & Risk Management,les_2_04_02,Quantitative Signal Detection,task_2_04_02_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_04,Signal Detection & Risk Management,les_2_04_03,Qualitative Signal Detection,task_2_04_03_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_04,Signal Detection & Risk Management,les_2_04_04,AI for Signal Noise Reduction,task_2_04_04_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_04,Signal Detection & Risk Management,les_2_04_05,Risk Management Plans (RMP),task_2_04_05_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_04,Signal Detection & Risk Management,les_2_04_06,Signal Validation Process,task_2_04_06_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_04,Signal Detection & Risk Management,les_2_04_07,Disproportionality Analysis,task_2_04_07_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_04,Signal Detection & Risk Management,les_2_04_08,Signal Reporting Standards,task_2_04_08_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_04,Signal Detection & Risk Management,les_2_04_09,Risk Minimization Strategies,task_2_04_09_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_04,Signal Detection & Risk Management,les_2_04_10,Signal Dashboards,task_2_04_10_1,,,,,,10,
+course_2,Pharmacovigalance,ch_2_03,Global PV Systems & Databases,les_2_03_01,Global PV Databases Overview,task_2_03_01_1,Global PV Databases Overview,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in New Zealand. You are tasked with querying global PV databases for an AE from an ICSR based on a spontaneous report from a clinic in Singapore. The report details a patient who experienced nausea after taking metformin for type 2 diabetes. Using the VigiBase simulator and Grok (grok.com), you will query VigiBase for metformin-nausea data, reconcile with FAERS/EudraVigilance summaries from Grok, analyze 3-5 trends, and enter a simple signal summary in OMEGA Word for submission, ensuring compliance with regulatory authorities like Medsafe (New Zealand), HSA (Singapore), FDA, MHRA, EMA, and CDSCO.
+
+Deliverables
+
+- A basic signal summary entry in OMEGA Word, listing 3-5 trends from VigiBase query and reconciliation with FAERS/EudraVigilance.
+- A brief follow-up suggestion for career application or further analysis.",,,,10,"Access the VigiBase simulator and input queries like ""metformin nausea reports"" and ""metformin nausea trends"" to retrieve data.
+Access Grok at grok.com and input this prompt:
+    
+ ""Summarize FAERS and EudraVigilance data on metformin-related nausea, including report counts, demographics, and trends.""
+    
+Review the Reference Document (ICSR details below) to confirm the AE context.
+Combine VigiBase outputs with Grok's FAERS/EudraVigilance summaries, analyzing 3-5 trends (e.g., report count, demographics).
+Suggest a follow-up action either manually or using AI (e.g., draft a signal observation for PSUR).
+Open OMEGA Word
+Enter the 3-5 trends and follow-up in OMEGA Word.
+Submit in OMEGA Word within 24 hours."
+course_2,Pharmacovigalance,ch_2_03,Global PV Systems & Databases,les_2_03_02,E2B R3 Standards,task_2_03_02_1,E2B R3 Standards,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in New Zealand. You are tasked with filling out an ICSR form using E2B(R3) standards for an ICSR based on a spontaneous AE report from a clinic in Singapore. The report details a patient who experienced nausea after taking metformin for type 2 diabetes. Using the E2B R3 simulator, you will fill out the key E2B(R3) fields, validate the form with Grok (grok.com), and enter the completed form in OMEGA. Ensure compliance with regulatory authorities like Medsafe (New Zealand), HSA (Singapore), FDA, MHRA, EMA, and CDSCO.
+
+Deliverables:
+A completed ICSR form in OMEGA.",,,,10,"Access the ICSR and fill in the form fields based on the reference document. (e.g., patient age, sex, AE description, drug name).
+Access Grok at grok.com and input this prompt:
+      ""Validate this filled E2B(R3) ICSR form for completeness: Patient: Male, 55 years. Suspected Drug: Metformin, dose 500 mg oral twice daily, start June 15, 2025. AE: Nausea, onset July 10, 2025, non-serious. Confirm if mandatory fields are filled.""
+    
+Review the Reference Document (ICSR details below) to ensure accurate filling.
+Fill out the E2B(R3) key fields in ICSR form: Case ID, Patient Info, Suspected Drug, AE Details, Reporter Info.
+Note the validation from Grok (e.g., all mandatory fields complete).
+Enter the filled form and validation note in OMEGA & submit."
+course_2,Pharmacovigalance,ch_2_03,Global PV Systems & Databases,les_2_03_03,VigiBase Navigation,task_2_03_03_1,VigiBase Navigation,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in New Zealand. You are tasked with navigating VigiBase for an AE from an ICSR based on a spontaneous report from a clinic in Singapore. The report details a patient who experienced bleeding after taking warfarin for atrial fibrillation. Using the VigiBase simulator, you will search for similar ICSRs, review 3-5 key case details (e.g., seriousness, demographics), and enter a simple case search summary in OMEGA Word for submission, ensuring compliance with regulatory authorities like Medsafe (New Zealand), HSA (Singapore), FDA, MHRA, EMA, and CDSCO.
+
+Deliverables
+A basic case search summary entry in OMEGA Word, listing 3-5 key details from the VigiBase search on warfarin-bleeding ICSRs.
+A brief follow-up suggestion for case review.",,,,10,"Access the VigiBase simulator and input queries like warfarin bleeding search and warfarin bleeding details to retrieve ICSR data.
+Review the Reference Document (ICSR details below) to confirm the AE context.
+Summarize 3-5 key details from the simulator's output (e.g., number of cases, seriousness levels).
+Suggest a follow-up action (e.g., export for signal detection).
+Open OMEGA Word and create a new document titled VigiBase Search Summary Entry - Case ID HP-2025-SG-001.
+Enter the 3-5 details and follow-up in OMEGA Word.
+Submit in OMEGA Word within 24 hours.
+"
+course_2,Pharmacovigalance,ch_2_03,Global PV Systems & Databases,les_2_03_04,FAERS Data Reconciliation,task_2_03_04_1,FAERS Data Reconciliation,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in New Zealand. You are tasked with reconciling FAERS data for an ICSR based on a spontaneous report from a clinic in Singapore. The report details a patient who experienced bleeding after taking warfarin for atrial fibrillation. Using the FAERS Reconciliation simulator, you will compare internal and FAERS data, identify 3-5 discrepancies, suggest corrections, and enter a simple reconciliation summary in OMEGA Word for submission, ensuring compliance with regulatory authorities like Medsafe (New Zealand), HSA (Singapore), FDA, MHRA, EMA, and CDSCO.
+
+Deliverables
+A basic reconciliation summary entry in OMEGA Word, listing 3-5 discrepancies and suggested corrections.
+A brief follow-up suggestion for resolution.",,,,10,"Access the FAERS Reconciliation simulator and input queries like ""warfarin bleeding reconcile"" to retrieve discrepancies.
+Review the Reference Document (internal ICSR and simulated FAERS data below) to confirm discrepancies.
+Identify 3-5 discrepancies from the simulator's output (e.g., seriousness mismatch, missing fields).
+Suggest corrections for each (e.g., update FAERS with correct seriousness).
+Open OMEGA Word and create a new document titled ""FAERS Reconciliation Summary Entry - Case ID HP-2025-SG-001"".
+Enter the 3-5 discrepancies, corrections, and follow-up in OMEGA Word.
+Submit in OMEGA Word within 24 hours. -----i need it exactly same content without altering a single word or line i only need u to remove thiose stars and remove the number points"
+course_2,Pharmacovigalance,ch_2_03,Global PV Systems & Databases,les_2_03_05,AI for Database Queries,task_2_03_05_1,AI for Database Queries,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in the USA. You are tasked with querying global PV databases for an AE from an ICSR based on a spontaneous report from a clinic in Singapore. The report details a patient who experienced tinnitus after taking aspirin for headache. Using the VigiBase and EudraVigilance, you will query VigiBase for aspirin-tinnitus data, reconcile with FAERS/EudraVigilance, analyze 3-5 trends, and enter a simple signal summary in OMEGA Word for submission using AI (Grok or ChatGPT), ensuring compliance with regulatory authorities like FDA (USA), HSA (Singapore), MHRA, EMA, and CDSCO.
+
+Deliverables
+A basic signal summary entry in OMEGA Word, listing 3-5 trends from the VigiBase query and reconciliation with FAERS/EudraVigilance.
+A brief follow-up suggestion for further analysis.",,,,10,"Access the VigiBase simulator and input queries like ""aspirin tinnitus reports"" and ""aspirin tinnitus trends"" to retrieve data. Do the same with EudraVigilance.
+Access Grok at grok.com and reconcile.
+Review the Reference Document (ICSR details below) to confirm the AE context.
+Combine VigiBase outputs & FAERS/EudraVigilance summaries, analyzing 3-5 trends (e.g., report count, demographics).
+Suggest a follow-up action (e.g., generate automated report for signal detection).
+Open OMEGA Word and create a new document titled ""PV Signal Summary Entry - Case ID HP-2025-SG-001"".
+Enter the 3-5 trends and follow-up in OMEGA Word.
+Submit in OMEGA Word within 24 hours."
+course_2,Pharmacovigalance,ch_2_03,Global PV Systems & Databases,les_2_03_06,Argus Safety System Intro,task_2_03_06_1,Argus Safety System Intro,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in Ireland. You are tasked with entering an ICSR into Argus for an AE from a spontaneous report from a clinic in Singapore. The report details a patient who experienced rash after taking amoxicillin for infection. Using the Argus simulator, you will enter key case details, validate the entry with Grok (grok.com), and enter a simple case entry summary in OMEGA Word for submission, ensuring compliance with regulatory authorities like HPRA (Ireland), HSA (Singapore), FDA, MHRA, EMA, and CDSCO.
+
+Deliverables
+
+A basic case entry summary entry in OMEGA Word, including the validated ICSR fields from the Argus simulator.
+
+A brief follow-up suggestion for medical review.",,,,10,"Access the Argus simulator and fill the ICSR. (Use reference document)
+Access Grok at grok.com and input this prompt:
+    
+""Validate this Argus case entry for completeness: Patient: Female, 40 years. Suspected Drug: Amoxicillin, dose 500 mg oral thrice daily, start September 15, 2025. AE: Rash, onset September 20, 2025, non-serious. Confirm if key fields are complete.""
+    
+Review the Reference Document (ICSR details below) to ensure accurate entry.
+Summarize the validated fields from the simulator and Grok (e.g., patient info, drug, AE).
+Suggest a follow-up action (e.g., perform causality assessment).
+Submit in OMEGA within 24 hours."
+course_2,Pharmacovigalance,ch_2_03,Global PV Systems & Databases,les_2_03_07,ARISg System Basics,task_2_03_07_1,ARISg System Basics,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in Europe. You are tasked with entering an ICSR into ARISg for an AE from a spontaneous report from a clinic in Singapore. The report details a patient who experienced myalgia after taking atorvastatin for hypercholesterolemia. Using the ARISg simulator, you will enter key case details, validate the entry with Grok (grok.com), and enter a simple case entry summary in OMEGA Word for submission, ensuring compliance with regulatory authorities like EMA (Europe), HSA (Singapore), FDA, MHRA, and CDSCO.
+
+Deliverables
+
+A basic case entry summary entry in OMEGA Word, including the validated ICSR fields from the ARISg simulator.
+
+A brief follow-up suggestion for medical review.",,,,10,"Access the ARISg simulator and enter case fields like ""patient age: 60, sex: male, AE: myalgia, drug: atorvastatin, onset: September 20, 2025, seriousness: non-serious"".
+Access Grok at grok.com and input this prompt:
+    
+""Validate this ARISg case entry for completeness: Patient: Male, 60 years. Suspected Drug: Atorvastatin, dose 20 mg oral daily, start September 15, 2025. AE: Myalgia, onset September 20, 2025, non-serious. Confirm if key fields are complete.""
+    
+Review the Reference Document (ICSR details below) to ensure accurate entry.
+Summarize the validated fields from the simulator and Grok (e.g., patient info, drug, AE).
+Suggest a follow-up action (e.g., perform causality assessment).
+Submit in OMEGA within 24 hours."
+course_2,Pharmacovigalance,ch_2_03,Global PV Systems & Databases,les_2_03_08,Data Privacy in PV (GDPR/HIPAA),task_2_03_08_1,Data Privacy in PV (GDPR/HIPAA),"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in India. You are tasked with checking data privacy compliance for an ICSR based on a spontaneous report from a clinic in the USA. The report details a patient who experienced dizziness after taking enalapril for hypertension. Using Grok (grok.com), you will analyze the ICSR for GDPR/HIPAA issues, identify 3-5 privacy risks, suggest corrections, and enter a simple privacy check summary in OMEGA Word for submission, ensuring compliance with regulatory authorities like CDSCO (India), FDA (USA), MHRA, EMA.
+
+Deliverables
+A basic privacy check summary entry in OMEGA Word, listing 3-5 privacy risks and suggested corrections.
+A brief follow-up suggestion for compliance.",,,,10,"Access Grok at grok.com and input this prompt:
+    
+""Analyze this ICSR for GDPR/HIPAA privacy risks: Patient: Male, 50 years, hypertension, full name John Doe. Drug: Enalapril 10 mg oral daily, start September 15, 2025. AE: Dizziness, onset September 20, 2025, non-serious. Reporter: Dr. Jane Smith, phone +1-555-123-4567, email jane.smith@email.com. Suggest 3-5 risks and corrections.""
+    
+Review the Reference Document (ICSR details below) to confirm potential risks (e.g., non-anonymized data).
+Identify 3-5 risks from Grok's output (e.g., visible identifiers, unprotected PHI).
+Suggest corrections for each (e.g., pseudonymize patient name).
+Open OMEGA Word and create a new document titled ""Privacy Check Summary Entry - Case ID HP-2025-US-001"".
+Enter the 3-5 risks, corrections, and follow-up in OMEGA Word.
+Submit in OMEGA Word within 24 hours."
+course_2,Pharmacovigalance,ch_2_03,Global PV Systems & Databases,les_2_03_09,Database Error Handling,task_2_03_09_1,Database Error Handling,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in Europe. You are tasked with handling database errors for an ICSR based on a spontaneous report from a clinic in the USA. The report details a patient who experienced bleeding after taking clopidogrel for cardiovascular disease. Using Grok (grok.com), you will analyze the ICSR for errors, identify 3-5 issues, suggest corrections, and enter a simple error handling summary in OMEGA Word for submission, ensuring compliance with regulatory authorities like EMA (Europe), FDA (USA), MHRA, CDSCO.
+
+Deliverables
+A basic error handling summary entry in OMEGA Word, listing 3-5 errors and suggested corrections.
+A brief follow-up suggestion for prevention.",,,,10,"Access Grok at grok.com and input this prompt:
+Analyze this ICSR data for database errors like missing fields or incorrect formats: Patient: Male, 70 years (age missing unit). Drug: Clopidogrel 75 mg oral daily, start September 15, 2025 (end date missing). AE: Bleeding, onset September 20, 2025, non-serious (MedDRA code missing). Narrative: Patient reported bleeding. No concomitant drugs. Suggest 3-5 errors and corrections.
+Review the Reference Document (ICSR details below) to confirm potential errors (e.g., missing codes, formats).
+Identify 3-5 errors from Grok's output (e.g., missing MedDRA code, incorrect age format).
+Suggest corrections for each (e.g., add MedDRA code 10005329 for bleeding).
+Open OMEGA Word and paste it. Hit submit."
+course_2,Pharmacovigalance,ch_2_03,Global PV Systems & Databases,les_2_03_10,PV System Integration,task_2_03_10_1,PV System Integration,,,,,10,
 ,,,,,,,,,,,,,
-course_2,Pharmacovigalance,ch_2_05,Aggregate Safety Reporting,les_2_05_01,PSUR Overview & Requirements,task_2_05_01_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_05,Aggregate Safety Reporting,les_2_05_02,DSUR Basics & Timelines,task_2_05_02_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_05,Aggregate Safety Reporting,les_2_05_03,Data Aggregation for Reports,task_2_05_03_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_05,Aggregate Safety Reporting,les_2_05_04,AI for PSUR Drafting,task_2_05_04_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_05,Aggregate Safety Reporting,les_2_05_05,Line Listings & Summary Tabulations,task_2_05_05_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_05,Aggregate Safety Reporting,les_2_05_06,PSUR Quality Checks,task_2_05_06_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_05,Aggregate Safety Reporting,les_2_05_07,DSUR Case Study Analysis,task_2_05_07_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_05,Aggregate Safety Reporting,les_2_05_08,Regulatory Submission of Reports,task_2_05_08_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_05,Aggregate Safety Reporting,les_2_05_09,Handling PSUR Queries,task_2_05_09_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_05,Aggregate Safety Reporting,les_2_05_10,Periodic Report Automation,task_2_05_10_1,,,,,,10,
+course_2,Pharmacovigalance,ch_2_04,Signal Detection & Risk Management,les_2_04_01,Signal Detection Overview,task_2_04_01_1,Signal Detection Overview,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in Europe. You are tasked with querying global PV databases for an AE from an ICSR based on a spontaneous report from a clinic in India. The report details a patient who experienced hepatotoxicity after taking paracetamol for fever. Using the official VigiAccess website (vigiaccess.org) from WHO, you will query for paracetamol-hepatotoxicity data and enter a simple signal summary in OMEGA Word for submission, ensuring compliance with regulatory authorities like EMA (Europe), CDSCO (India), FDA, MHRA.
+
+Deliverables
+
+A basic signal summary entry in OMEGA Word, listing 3-5 trends from the VigiAccess query and reconciliation with FAERS.
+
+A brief follow-up suggestion for further analysis.",,,,10,"Access the official VigiAccess website at vigiaccess.org and search for ""paracetamol"" (or ""acetaminophen"" if needed), then navigate to hepatotoxicity-related ADRs to retrieve data (e.g., report count, categories).
+Review the Reference Document (ICSR details below) to confirm the AE context.
+Open OMEGA Word & Enter the 3-5 trends and follow-up in OMEGA Word.
+Submit in OMEGA Word within 24 hours."
+course_2,Pharmacovigalance,ch_2_04,Signal Detection & Risk Management,les_2_04_02,Quantitative Signal Detection,task_2_04_02_1,Quantitative Signal Detection,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in India. You are tasked with performing quantitative signal detection for an AE from an ICSR based on a spontaneous report from a clinic in Europe. The report details a patient who experienced rhabdomyolysis after taking rosuvastatin for hypercholesterolemia. Using Grok (grok.com), you will calculate PRR, ROR, and IC from the provided dataset, interpret 3-5 key points, and enter a simple signal analysis summary in OMEGA Word for submission, ensuring compliance with regulatory authorities like CDSCO (India), EMA (Europe), FDA, MHRA.
+
+Deliverables
+A basic signal analysis summary entry in OMEGA Word, listing 3-5 key points from the PRR/ROR/IC calculations.
+A brief follow-up suggestion for validation.",,,,10,"Access Grok at grok.com and input this prompt:
+Calculate PRR, ROR, and IC for this AE dataset: Drug A (rosuvastatin) with AE: 50 cases, without AE: 950; All other drugs with AE: 100 cases, without AE: 9000. Interpret the results for signal detection.
+Review the Reference Document (dataset details below) to confirm the calculation context.
+Analyze 3-5 key points from Grok's output (e.g., PRR value, signal strength).
+Suggest a follow-up action (e.g., manual review of cases).
+Open OMEGA Word and create a new document titled ""Quantitative SD Summary Entry - Case ID HP-2025-EU-001"".
+Enter the 3-5 points and follow-up in OMEGA Word.
+Submit in OMEGA Word within 24 hours."
+course_2,Pharmacovigalance,ch_2_04,Signal Detection & Risk Management,les_2_04_03,Qualitative Signal Detection,task_2_04_03_1,Qualitative Signal Detection,"ou are a Pharmacovigilance Trainee at Horizon Pharma, a company based in Europe. You are tasked with performing qualitative signal detection for an AE from an ICSR based on a spontaneous report from a clinic in India. The report details a patient who experienced hyperkalemia after taking losartan for hypertension. Using Grok (grok.com), you will analyze the narrative for qualitative signals, identify 3-5 key points, and enter a simple narrative review summary in OMEGA Word for submission, ensuring compliance with regulatory authorities like EMA (Europe), CDSCO (India), FDA, MHRA.
+
+Deliverables
+
+A basic narrative review summary entry in OMEGA Word, listing 3-5 key qualitative points from the analysis.
+
+A brief follow-up suggestion for validation.",,,,10,"Access Grok at grok.com and input this prompt:
+Analyze this ICSR narrative qualitatively for signals: A 65-year-old male with hypertension started losartan 50 mg oral daily on September 15, 2025, and reported hyperkalemia on September 20, 2025, with potassium level 5.8 mEq/L, non-serious, ongoing. No concomitant drugs, no renal issues noted. Identify 3-5 key qualitative points like patterns or clinical relevance.
+Review the Reference Document (ICSR details below) to confirm the narrative context.
+Identify 3-5 key points from Grok's output (e.g., temporal pattern, lack of alternatives).
+Suggest a follow-up action (e.g., integrate with quantitative data).
+Open OMEGA Word and create a new document titled ""Qualitative SD Summary Entry - Case ID HP-2025-IN-001"".
+Enter the 3-5 points and follow-up in OMEGA Word.
+Submit in OMEGA Word within 24 hours."
+course_2,Pharmacovigalance,ch_2_04,Signal Detection & Risk Management,les_2_04_04,AI for Signal Noise Reduction,task_2_04_04_1,AI for Signal Noise Reduction,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in India. You are tasked with reducing noise in a signal dataset for an AE from an ICSR based on a spontaneous report from a clinic in Europe. The report details a patient who experienced edema after taking valsartan for hypertension. Using Grok (grok.com), you will process the noisy dataset, filter 3-5 duplicates/false positives, and enter a simple cleaned signal summary in OMEGA Word for submission, ensuring compliance with regulatory authorities like CDSCO (India), EMA (Europe), FDA, MHRA.
+
+Deliverables
+A basic cleaned signal summary entry in OMEGA Word, listing 3-5 filtered items (duplicates/false positives) and the remaining signals.
+A brief follow-up suggestion for further validation.",,,,10,"Access Grok at grok.com and input this prompt:
+Process this noisy AE dataset for valsartan-related edema: Dataset: Report 1: Edema after valsartan, serious; Report 2: Duplicate of Report 1; Report 3: Non-related headache; Report 4: Edema after valsartan, non-serious; Report 5: Low-quality, missing data; Report 6: Edema after valsartan, serious; Report 7: False positive, unrelated to drug. Filter 3-5 duplicates/false positives and summarize remaining signals.
+Review the Reference Document (ICSR details below) to confirm the AE context.
+Filter 3-5 items from Grok's output (e.g., duplicates, false positives).
+Summarize the remaining signals (e.g., valid reports, trends).
+Suggest a follow-up action (e.g., integrate with quantitative analysis).
+Open OMEGA Word and create a new document titled ""AI Noise Reduction Summary Entry - Case ID HP-2025-EU-001"".
+Enter the filtered items, remaining summary, and follow-up in OMEGA Word.
+Submit in OMEGA Word within 24 hours."
+course_2,Pharmacovigalance,ch_2_04,Signal Detection & Risk Management,les_2_04_05,Risk Management Plans (RMP),task_2_04_05_1,Risk Management Plans (RMP),"You are a Pharmacovigilance Trainee at Morizo Pharma, a company based in India. You are tasked with checking data privacy compliance for an ICSR based on a spontaneous report from a clinic in the USA. The report details a patient who experienced cough after taking lisinopril for hypertension. Using AI, you will review for GDPR/HIPAA issues, identify 3-5 privacy risks, suggest corrections, and enter a simple privacy check summary in OMEGA Word for submission, ensuring compliance with regulatory authorities like CDSCO (India), FDA (USA), MHRA, EMA.
+
+Deliverables
+A basic privacy check summary entry in OMEGA Word, listing 3-5 privacy risks and suggested corrections.
+A brief follow-up suggestion for compliance.",,,,10,"Access the Privacy Check simulator and input queries like ""lisinopril cough privacy check"" to retrieve risks.
+
+Access Grok at grok.com and input this prompt:
+
+Review this ICSR for GDPR/HIPAA privacy risks: Patient: Male, 50 years, hypertension. Drug: Lisinopril 10 mg oral daily, start September 15, 2025. AE: Cough, onset September 20, 2025, non-serious. Suggest 3-5 risks and corrections.
+
+Review the Reference Document (ICSR details below) to confirm potential risks (e.g., non-anonymized data).
+
+Identify 3-5 risks
+
+Suggest corrections for each (e.g., pseudonymize patient ID).
+
+Open OMEGA Word and create a new document titled ""Privacy Check Summary Entry - Case ID HP-2025-US-001"".
+
+Enter the 3-5 risks, corrections, and follow-up in OMEGA Word.
+
+Submit in OMEGA Word within 24 hours."
+course_2,Pharmacovigalance,ch_2_04,Signal Detection & Risk Management,les_2_04_06,Signal Validation Process,task_2_04_06_1,Signal Validation Process,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in Ireland. You are tasked with validating a potential signal from an ICSR based on a spontaneous report from a clinic in the USA. The report details a patient who experienced dry cough after taking ramipril for hypertension. Using Grok (grok.com), you will evaluate the signal for confirmation, list 3-5 key reasons, and enter a simple signal validation summary in OMEGA Word for submission, ensuring compliance with regulatory authorities like HPRA (Ireland), FDA (USA), MHRA, EMA, CDSCO.
+
+Deliverables
+A basic signal validation summary entry in OMEGA Word, stating if confirmed (yes/no) and listing 3-5 key reasons.
+
+A brief follow-up suggestion for action.",,,,10,"Access Grok at grok.com and input this prompt:
+
+Evaluate this potential signal for confirmation: A 55-year-old male with hypertension started ramipril 5 mg oral daily on September 15, 2025, and reported dry cough on September 20, 2025, non-serious, ongoing. No concomitant drugs, no respiratory issues noted. Determine if confirmed (yes/no) and provide 3-5 key reasons based on temporal relationship, plausibility, and data quality.
+
+Review the Reference Document (ICSR details below) to confirm the signal context.
+
+Determine confirmation status and list 3-5 reasons from Grok's output (e.g., temporal pattern, known class effect).
+
+Suggest a follow-up action (e.g., recommend further monitoring).
+
+Open OMEGA Word and create a new document titled ""Signal Validation Summary Entry - Case ID HP-2025-US-001"".
+
+Enter the status, 3-5 reasons, and follow-up in OMEGA Word.
+
+Submit in OMEGA Word within 24 hours."
+course_2,Pharmacovigalance,ch_2_04,Signal Detection & Risk Management,les_2_04_07,Disproportionality Analysis,task_2_04_07_1,Disproportionality Analysis,"You are a Pharmacovigilance Trainee at Global Pharma, a company based in Europe. You are tasked with performing disproportionality analysis for an AE from an ICSR based on a spontaneous report from a clinic in India. The report details a patient who experienced angioedema after taking lisinopril for hypertension. Using Grok (grok.com), you will calculate PRR, ROR, and IC from the provided dataset, interpret 3-5 key points, and enter a simple DPA summary in OMEGA Word for submission, ensuring compliance with regulatory authorities like EMA (Europe), CDSCO (India), FDA, MHRA.
+
+Deliverables
+
+A basic DPA summary entry in OMEGA Word, listing 3-5 key points from the PRR/ROR/IC calculations.
+
+A brief follow-up suggestion for validation.",,,,10,"Access Grok at grok.com and input this prompt:
+
+Calculate PRR, ROR, and IC for this AE dataset: Drug A (lisinopril) with AE: 30 cases, without AE: 970; All other drugs with AE: 50 cases, without AE: 9500. Interpret the results for signal detection.
+
+Review the Reference Document (ICSR details below) to confirm the calculation context.
+
+Analyze 3-5 key points from Grok's output (e.g., PRR value, signal strength).
+
+Suggest a follow-up action (e.g., clinical review of cases).
+
+Open OMEGA Word and create a new document titled ""DPA Summary Entry - Case ID GP-2025-IN-001"".
+
+Enter the 3-5 points and follow-up in OMEGA Word.
+
+Submit in OMEGA Word within 24 hours."
+course_2,Pharmacovigalance,ch_2_04,Signal Detection & Risk Management,les_2_04_08,Signal Reporting Standards,task_2_04_08_1,Signal Reporting Standards,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in the USA. You are tasked with drafting a signal report for a potential safety issue from an ICSR based on a spontaneous report from a clinic in Europe. The report details a patient who experienced hepatotoxicity after taking atorvastatin for hypercholesterolemia. Using the official VigiAccess website (vigiaccess.org) from WHO, you will query for atorvastatin-hepatotoxicity data, draft a mock signal report with Grok (grok.com), and enter a simple signal report summary in OMEGA Word for submission, ensuring compliance with regulatory authorities like FDA (USA), EMA (Europe), MHRA, CDSCO.
+
+Deliverables
+A basic signal report summary entry in OMEGA Word, including 3-5 key elements from the VigiAccess query and draft report.
+A brief follow-up suggestion for regulatory action.",,,,10,"Access the official VigiAccess website at vigiaccess.org and search for ""atorvastatin"" (or ""statin"" if needed), then navigate to hepatotoxicity-related ADRs to retrieve data (e.g., report count, categories) – take screenshots or note key stats creatively to build your report.
+
+Access Grok at grok.com and input this prompt:
+
+Draft a mock signal report for atorvastatin-related hepatotoxicity: Include signal description, data sources (VigiBase stats), assessment (seriousness, causality), and recommendations (e.g., RMP update). Summarize in 3-5 key points.
+
+Review the Reference Document (ICSR details below) to confirm the AE context.
+
+Combine VigiAccess data with Grok's draft, listing 3-5 key elements (e.g., report count, recommendations).
+
+Suggest a follow-up action (e.g., submit to EMA).
+
+Open OMEGA Word and create a new document titled ""Signal Report Summary Entry - Case ID HP-2025-EU-001"".
+
+Enter the 3-5 elements and follow-up in OMEGA Word.
+
+Submit in OMEGA Word within 24 hours."
+course_2,Pharmacovigalance,ch_2_04,Signal Detection & Risk Management,les_2_04_09,Risk Minimization Strategies,task_2_04_09_1,Risk Minimization Strategies,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in India. You are tasked with designing an RMS for a potential risk from an ICSR based on a spontaneous report from a clinic in Europe. The report details a patient who experienced hepatotoxicity after taking terbinafine for fungal infection. Using the official VigiAccess website (vigiaccess.org) from WHO, you will query for terbinafine-hepatotoxicity data (e.g., report count, seriousness), then use Grok (grok.com) to design a creative RMS intervention (e.g., a patient education app or HCP monitoring toolkit), and enter a simple RMS design summary in OMEGA Word for submission, ensuring compliance with regulatory authorities like CDSCO (India), EMA (Europe), FDA, MHRA.
+
+Deliverables
+
+A basic RMS design summary entry in OMEGA Word, describing the creative intervention and 3 key data points from VigiAccess that justify it.
+
+A brief follow-up suggestion for effectiveness measurement.",,,,10,"Access the official VigiAccess website at vigiaccess.org and search for ""terbinafine"" (or ""lamisil"" if needed), then navigate to hepatotoxicity-related ADRs to retrieve data (e.g., report count, categories) – note 3 key points creatively to inform your design.
+
+Access Grok at grok.com and input this prompt:
+
+Design a creative RMS intervention (e.g., patient app or HCP toolkit) for terbinafine-related hepatotoxicity based on this data: [paste your 3 VigiAccess points]. Make it practical and engaging.
+
+Review the Reference Document (ICSR details below) to confirm the AE context.
+
+Describe the creative intervention from Grok's output, linking to your 3 VigiAccess points.
+
+Suggest a follow-up action (e.g., measure via patient feedback surveys).
+
+Open OMEGA Word and create a new document titled ""RMS Design Summary Entry - Case ID HP-2025-EU-001"".
+
+Enter the description, 3 points, and follow-up in OMEGA Word.
+
+Submit in OMEGA Word within 24 hours."
+course_2,Pharmacovigalance,ch_2_04,Signal Detection & Risk Management,les_2_04_10,Signal Dashboards,task_2_04_10_1,MENTORSHIP,,,,,10,
 ,,,,,,,,,,,,,
-course_2,Pharmacovigalance,ch_2_06,MedDRA Coding & Case Quality,les_2_06_01,MedDRA Hierarchy Overview,task_2_06_01_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_06,MedDRA Coding & Case Quality,les_2_06_02,"LLT, PT, and SOC Coding",task_2_06_02_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_06,MedDRA Coding & Case Quality,les_2_06_03,AI for MedDRA Auto-Coding,task_2_06_03_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_06,MedDRA Coding & Case Quality,les_2_06_04,Coding Accuracy Checks,task_2_06_04_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_06,MedDRA Coding & Case Quality,les_2_06_05,Complex Case Coding,task_2_06_05_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_06,MedDRA Coding & Case Quality,les_2_06_06,Narrative Quality Standards,task_2_06_06_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_06,MedDRA Coding & Case Quality,les_2_06_07,Follow-Up Case Processing,task_2_06_07_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_06,MedDRA Coding & Case Quality,les_2_06_08,Coding Error Resolution,task_2_06_08_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_06,MedDRA Coding & Case Quality,les_2_06_09,MedDRA Version Updates,task_2_06_09_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_06,MedDRA Coding & Case Quality,les_2_06_10,Case Quality Dashboards,task_2_06_10_1,,,,,,10,
+course_2,Pharmacovigalance,ch_2_05,Aggregate Safety Reporting,les_2_05_01,PSUR Overview & Requirements,task_2_05_01_1,PSUR Overview & Requirements,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in India. You are tasked with preparing a PSUR overview for a potential safety issue from an ICSR based on a spontaneous report from a clinic in Europe. The report details a patient who experienced gastrointestinal bleeding after taking ibuprofen for pain. Using the official VigiAccess website (vigiaccess.org) from WHO, you will query for ibuprofen-gastrointestinal bleeding data (e.g., report count, trends), then use Grok (grok.com) to generate a creative mini-PSUR storyboard (e.g., a text-based ""comic strip"" narrative of safety summary and benefit-risk), and enter a simple PSUR storyboard summary in OMEGA Word for submission, ensuring compliance with regulatory authorities like CDSCO (India), EMA (Europe), FDA, MHRA.
+
+Deliverables
+
+A basic PSUR storyboard summary entry in OMEGA Word, including 3 key data points from VigiAccess and the creative storyboard text from Grok.
+
+A brief follow-up suggestion for full PSUR submission.",,,,10,"Access the official VigiAccess website at vigiaccess.org and search for ""ibuprofen"" (or ""NSAID"" if needed), then navigate to gastrointestinal bleeding-related ADRs to retrieve data (e.g., report count, categories) – note 3 key points to inform your storyboard.
+
+Access Grok at grok.com and input this prompt:
+
+Generate a creative mini-PSUR storyboard in text form (like a comic strip narrative) for ibuprofen-related gastrointestinal bleeding: Include sections for safety summary, benefit-risk assessment, and conclusions, based on this data: [paste your 3 VigiAccess points]. Make it engaging and story-like.
+
+Review the Reference Document (ICSR details below) to confirm the AE context.
+
+Combine VigiAccess data with Grok's storyboard, listing the 3 points and storyboard text.
+
+Suggest a follow-up action (e.g., submit to CDSCO for review).
+
+Open OMEGA Word and create a new document titled ""PSUR Storyboard Summary Entry - Case ID HP-2025-EU-001"".
+
+Enter the 3 points, storyboard text, and follow-up in OMEGA Word.
+
+Submit in OMEGA Word within 24 hours."
+course_2,Pharmacovigalance,ch_2_05,Aggregate Safety Reporting,les_2_05_02,DSUR Basics & Timelines,task_2_05_02_1,DSUR Basics & Timelines,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in Europe. You are tasked with preparing DSUR timelines for an ongoing clinical trial from an ICSR based on a report from a clinic in India. The report details a patient who experienced fatigue after taking sofosbuvir for hepatitis C. Using Grok (grok.com), you will calculate the annual submission timeline from IND approval date, generate a creative text-based DSUR infographic (e.g., a described timeline graphic), and enter a simple DSUR timeline summary in OMEGA Word for submission, ensuring compliance with regulatory authorities like EMA (Europe), CDSCO (India), FDA, MHRA.
+
+Deliverables
+
+A basic DSUR timeline summary entry in OMEGA Word, including the calculated timeline and creative infographic text from Grok.
+
+A brief follow-up suggestion for data inclusion.",,,,10,"Access Grok at grok.com and input this prompt:
+
+Calculate DSUR timelines for this clinical trial: IND approval date September 15, 2025, for sofosbuvir in hepatitis C trials. Provide annual submission deadlines and generate a creative text-based infographic (e.g., a visual timeline description) for the first 2 years.
+
+Review the Reference Document (ICSR details below) to confirm the trial context.
+
+Calculate timelines from Grok's output (e.g., first DSUR due November 15, 2026).
+
+Include the creative infographic text (e.g., a described graphic timeline).
+
+Suggest a follow-up action (e.g., include interval safety data).
+
+Open OMEGA Word
+
+Enter the timeline, infographic text, and follow-up in OMEGA Word.
+
+Submit in OMEGA Word within 24 hours."
+course_2,Pharmacovigalance,ch_2_05,Aggregate Safety Reporting,les_2_05_03,Data Aggregation for Reports,task_2_05_03_1,Data Aggregation for Reports,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in Europe. You are tasked with aggregating data for a PSUR from a batch of ICSRs based on spontaneous reports from clinics in the USA. The reports detail patients who experienced myalgia after taking atorvastatin for hypercholesterolemia. Using Grok (grok.com), you will clean the dataset (e.g., remove duplicates, fix missing fields), tabulate AE frequencies (e.g., by seriousness, age), and enter a simple aggregated data summary in OMEGA Word for submission, ensuring compliance with regulatory authorities like EMA (Europe), FDA (USA), MHRA, CDSCO.
+
+Deliverables
+
+A basic aggregated data summary entry in OMEGA Word, including a tabulated AE frequency summary (e.g., table of seriousness counts) and 3 key trends.
+
+A brief follow-up suggestion for PSUR inclusion.",,,,10,"Access Grok at grok.com and input this prompt:
+
+Clean this ICSR dataset for aggregation: [paste the full Reference Document dataset]. Remove duplicates, fix missing fields (e.g., assume seriousness 'Non-serious' if missing), standardize MedDRA codes, then tabulate AE frequencies by seriousness and age group. Summarize 3 key trends.
+
+Review the Reference Document (dataset below) to confirm the data context.
+
+Clean and tabulate based on Grok's output (e.g., table of myalgia cases by seriousness).
+
+Analyze 3 key trends (e.g., higher in elderly, mostly non-serious).
+
+Suggest a follow-up action (e.g., include in PSUR risk evaluation).
+
+Open OMEGA Word and create a new document titled ""Data Aggregation Summary Entry - Case ID HP-2025-US-001"".
+
+Enter the tabulated summary, 3 trends, and follow-up in OMEGA Word.
+
+Submit in OMEGA Word within 24 hours."
+course_2,Pharmacovigalance,ch_2_05,Aggregate Safety Reporting,les_2_05_04,AI for PSUR Drafting,task_2_05_04_1,AI for PSUR Drafting,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in the UK. You are tasked with drafting a PSUR section for a potential safety issue from an ICSR based on a spontaneous report from a clinic in the USA. The report details a patient who experienced angioedema after taking valsartan for hypertension. Using Grok (grok.com) as an NLP tool, you will draft the ""Summary of Safety Concerns"" section, edit it for clinical accuracy, and enter the revised section in OMEGA Word for submission, ensuring compliance with regulatory authorities like MHRA (UK), FDA (USA), EMA, CDSCO.
+
+Deliverables
+
+A revised PSUR section entry in OMEGA Word, including the AI-drafted text and 1-2 human edits with explanations.
+
+A brief follow-up suggestion for quality review.",,,,10,"Access Grok at grok.com and input this prompt:
+
+Draft a PSUR 'Summary of Safety Concerns' section for valsartan-related angioedema: Include known risks, potential risks, and missing information, based on this data: 300 reports, 70% serious, onset average 2 weeks, higher in females. Make it concise and regulatory-style.
+
+Review the Reference Document (ICSR details below) to confirm the AE context.
+
+Edit the Grok draft by adding 1-2 refinements (e.g., add a clinical note or correct a detail for accuracy).
+
+Explain your edits briefly (e.g., ""Added female predominance emphasis for precision"").
+
+Suggest a follow-up action (e.g., submit for medical review).
+
+Open OMEGA Word and create a new document titled ""PSUR Draft Section Entry - Case ID HP-2025-US-001"".
+
+Enter the revised section, edits explanation, and follow-up in OMEGA Word.
+
+Submit in OMEGA Word within 24 hours."
+course_2,Pharmacovigalance,ch_2_05,Aggregate Safety Reporting,les_2_05_05,Line Listings & Summary Tabulations,task_2_05_05_1,Line Listings & Summary Tabulations,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in the UK. You are tasked with creating a summary tabulation from a line listing derived from aggregated ICSRs reported to databases like EudraVigilance and FAERS, focusing on ibuprofen-related gastrointestinal bleeding. Using Grok (grok.com) as an NLP tool, you will draft the ""Summary Tabulation"" section, edit it for clinical and regulatory accuracy, and enter the revised section in OMEGA Word for submission, ensuring compliance with regulatory authorities like EMA (EU), FDA (USA), MHRA (UK), and CDSCO (India).
+
+Deliverables
+
+A revised Summary Tabulation entry in OMEGA Word, including the AI-drafted text and 1-2 human edits with explanations.
+
+A brief follow-up suggestion for quality review.",,,,10,"Access Grok at grok.com and input this prompt:
+Draft a Summary Tabulation section for ibuprofen-related gastrointestinal bleeding: Include counts and percentages by seriousness, age groups, sex, outcomes, and trends, based on this data: 200 reports, 60% serious, age distribution (20% under 18, 50% 18-65, 30% over 65), 55% female, outcomes (70% recovered, 20% ongoing, 10% fatal). Make it concise and regulatory-style, using MedDRA terminology.
+
+Review the Reference Document (sample line listing details below) to confirm the AE context and aggregation.
+
+Edit the Grok draft by adding 1-2 refinements (e.g., add a note on MedDRA coding or adjust for demographic trends for accuracy).
+
+Explain your edits briefly (e.g., ""Added emphasis on elderly risk for precision based on age distribution"").
+
+Suggest a follow-up action (e.g., recommend signal evaluation for high-risk groups).
+
+Open OMEGA Word and create a new document titled ""Summary Tabulation Draft Section - Case ID HP-2025-EU-US-001"".
+
+Enter the revised section, edits explanation, and follow-up in OMEGA Word.
+
+Submit in OMEGA Word within 24 hours."
+course_2,Pharmacovigalance,ch_2_05,Aggregate Safety Reporting,les_2_05_06,PSUR Quality Checks,task_2_05_06_1,PSUR Quality Checks,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in the UK. You are tasked with performing quality checks on a draft PSUR section derived from aggregated ICSRs reported to databases like FAERS and EudraVigilance, focusing on atorvastatin-related myopathy. Using Grok (grok.com) as an NLP tool, you will draft the ""PSUR Quality Check Summary"" section, edit it for compliance and accuracy, and enter the revised section in OMEGA Word for submission, ensuring compliance with regulatory authorities like FDA (USA), EMA (EU), MHRA (UK), and CDSCO (India).
+
+Deliverables
+
+A revised PSUR Quality Check Summary entry in OMEGA Word, including the AI-drafted text and 1-2 human edits with explanations.
+
+A brief follow-up suggestion for quality review.",,,,10,"Access Grok at grok.com and input this prompt:
+Draft a PSUR Quality Check Summary for atorvastatin-related myopathy: Include verification of data accuracy, completeness, consistency, regulatory compliance, and key trends, based on this data: 150 reports, 65% serious, age distribution (15% under 18, 55% 18-65, 30% over 65), 60% male, outcomes (75% recovered, 15% ongoing, 10% fatal). Make it concise and regulatory-style, referencing MedDRA coding.
+
+Review the Reference Document (sample PSUR details below) to confirm the quality check context.
+
+Edit the Grok draft by adding 1-2 refinements (e.g., add a note on duplicate detection or adjust for consistency in terminology for accuracy).
+
+Explain your edits briefly (e.g., ""Added reference to ICH E2C(R2) for regulatory compliance emphasis"").
+
+Suggest a follow-up action (e.g., schedule an independent review).
+
+Open OMEGA Word and create a new document titled ""PSUR Quality Check Draft Summary - Case ID HP-2025-US-EU-001"".
+
+Enter the revised section, edits explanation, and follow-up in OMEGA Word.
+
+Submit in OMEGA Word within 24 hours."
+course_2,Pharmacovigalance,ch_2_05,Aggregate Safety Reporting,les_2_05_07,DSUR Case Study Analysis,task_2_05_07_1,DSUR Case Study Analysis,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in the UK. You are tasked with analyzing a DSUR section from aggregated clinical trial data (Phase II/III) reported to databases like ClinicalTrials.gov and EudraCT, focusing on Cardiostimab-related elevated liver enzymes in chronic heart failure trials. Using Grok (grok.com) as an NLP tool, you will draft the ""Signal Detection and Risk Evaluation"" section, edit it for clinical and regulatory accuracy, and enter the revised section in OMEGA Word for submission, ensuring compliance with regulatory authorities like EMA (EU), FDA (USA), MHRA (UK), and CDSCO (India).
+
+Deliverables
+
+A revised Signal Detection and Risk Evaluation entry in OMEGA Word, including the AI-drafted text and 1-2 human edits with explanations.
+
+A brief follow-up suggestion for quality review.",,,,10,"Access Grok at grok.com and input this prompt:
+Draft a DSUR 'Signal Detection and Risk Evaluation' section for Cardiostimab-related elevated liver enzymes: Include signal identification, causality assessment, risk evaluation, and recommendations, based on this data: 100 reports, 50% serious, incidence rate 5 per 100 patient-years, higher in Phase III, temporal association average 4 weeks, dose-response observed. Make it concise and regulatory-style, using MedDRA terminology.
+
+Review the Reference Document (sample DSUR case details below) to confirm the analysis context.
+
+Edit the Grok draft by adding 1-2 refinements (e.g., add a note on benefit-risk implications or adjust for confounding factors for accuracy).
+
+Explain your edits briefly (e.g., ""Added comparison to preclinical data for comprehensive risk evaluation"").
+
+Suggest a follow-up action (e.g., escalate to Safety Review Committee).
+
+Open OMEGA Word and create a new document titled ""DSUR Draft Section Entry - Case ID HP-2025-UK-EU-001"".
+
+Enter the revised section, edits explanation, and follow-up in OMEGA Word.
+
+Submit in OMEGA Word within 24 hours."
+course_2,Pharmacovigalance,ch_2_05,Aggregate Safety Reporting,les_2_05_08,Regulatory Submission of Reports,task_2_05_08_1,Regulatory Submission of Reports,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in the UK. You are tasked with preparing a section for regulatory submission from aggregated ICSRs reported to databases like FAERS and EudraVigilance, focusing on metformin-related lactic acidosis. Using Grok (grok.com) as an NLP tool, you will draft the ""Key Considerations for Submission"" section, edit it for compliance and accuracy, and enter the revised section in OMEGA Word for submission, ensuring compliance with regulatory authorities like FDA (USA), EMA (EU), MHRA (UK), and CDSCO (India).
+
+Deliverables
+
+A revised Key Considerations for Submission entry in OMEGA Word, including the AI-drafted text and 1-2 human edits with explanations.
+
+A brief follow-up suggestion for quality review.",,,,10,"Access Grok at grok.com and input this prompt:
+Draft a 'Key Considerations for Submission' section for a regulatory report on metformin-related lactic acidosis: Include data quality, compliance, traceability, and recommendations, based on this data: 120 reports, 70% serious, age distribution (10% under 18, 60% 18-65, 30% over 65), 50% female, outcomes (65% recovered, 25% ongoing, 10% fatal). Make it concise and regulatory-style, referencing MedDRA coding.
+
+Review the Reference Document (sample regulatory report details below) to confirm the submission context.
+
+Edit the Grok draft by adding 1-2 refinements (e.g., add a note on data privacy compliance or adjust for regional variations for accuracy).
+
+Explain your edits briefly (e.g., ""Added GDPR/HIPAA reference for data privacy emphasis"").
+
+Suggest a follow-up action (e.g., monitor regulatory acknowledgment).
+
+Open OMEGA Word and create a new document titled ""Regulatory Submission Draft Section - Case ID HP-2025-US-EU-002"".
+
+Enter the revised section, edits explanation, and follow-up in OMEGA Word.
+
+Submit in OMEGA Word within 24 hours."
+course_2,Pharmacovigalance,ch_2_05,Aggregate Safety Reporting,les_2_05_09,Handling PSUR Queries,task_2_05_09_1,Handling PSUR Queries,,,,,10,
+course_2,Pharmacovigalance,ch_2_05,Aggregate Safety Reporting,les_2_05_10,Periodic Report Automation,task_2_05_10_1,Periodic Report Automation,,,,,10,
 ,,,,,,,,,,,,,
-course_2,Pharmacovigalance,ch_2_07,PV Audits & Inspections,les_2_07_01,PV Audit Overview,task_2_07_01_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_07,PV Audits & Inspections,les_2_07_02,Preparing for FDA PV Inspections,task_2_07_02_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_07,PV Audits & Inspections,les_2_07_03,EMA PV Audit Requirements,task_2_07_03_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_07,PV Audits & Inspections,les_2_07_04,CAPA for PV Findings,task_2_07_04_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_07,PV Audits & Inspections,les_2_07_05,AI for PV Audit Trails,task_2_07_05_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_07,PV Audits & Inspections,les_2_07_06,Mock PV Audit Simulations,task_2_07_06_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_07,PV Audits & Inspections,les_2_07_07,Handling Inspection Queries,task_2_07_07_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_07,PV Audits & Inspections,les_2_07_08,Document Control for PV Audits,task_2_07_08_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_07,PV Audits & Inspections,les_2_07_09,Post-Audit Reporting,task_2_07_09_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_07,PV Audits & Inspections,les_2_07_10,Continuous PV Compliance,task_2_07_10_1,,,,,,10,
+course_2,Pharmacovigalance,ch_2_06,MedDRA Coding & Case Quality,les_2_06_01,MedDRA Hierarchy Overview,task_2_06_01_1,MedDRA Hierarchy Overview,,,,,10,
+course_2,Pharmacovigalance,ch_2_06,MedDRA Coding & Case Quality,les_2_06_02,"LLT, PT, and SOC Coding",task_2_06_02_1,"LLT, PT, and SOC Coding",,,,,10,
+course_2,Pharmacovigalance,ch_2_06,MedDRA Coding & Case Quality,les_2_06_03,AI for MedDRA Auto-Coding,task_2_06_03_1,AI for MedDRA Auto-Coding,,,,,10,
+course_2,Pharmacovigalance,ch_2_06,MedDRA Coding & Case Quality,les_2_06_04,Coding Accuracy Checks,task_2_06_04_1,Coding Accuracy Checks,,,,,10,
+course_2,Pharmacovigalance,ch_2_06,MedDRA Coding & Case Quality,les_2_06_05,Complex Case Coding,task_2_06_05_1,Complex Case Coding,,,,,10,
+course_2,Pharmacovigalance,ch_2_06,MedDRA Coding & Case Quality,les_2_06_06,Narrative Quality Standards,task_2_06_06_1,Narrative Quality Standards,,,,,10,
+course_2,Pharmacovigalance,ch_2_06,MedDRA Coding & Case Quality,les_2_06_07,Follow-Up Case Processing,task_2_06_07_1,Follow-Up Case Processing,,,,,10,
+course_2,Pharmacovigalance,ch_2_06,MedDRA Coding & Case Quality,les_2_06_08,Coding Error Resolution,task_2_06_08_1,Coding Error Resolution,,,,,10,
+course_2,Pharmacovigalance,ch_2_06,MedDRA Coding & Case Quality,les_2_06_09,MedDRA Version Updates,task_2_06_09_1,MedDRA Version Updates,,,,,10,
+course_2,Pharmacovigalance,ch_2_06,MedDRA Coding & Case Quality,les_2_06_10,Case Quality Dashboards,task_2_06_10_1,Case Quality Dashboards,,,,,10,
 ,,,,,,,,,,,,,
-course_2,Pharmacovigalance,ch_2_08,Risk Management & Safety Communication,les_2_08_01,Risk Communication Overview,task_2_08_01_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_08,Risk Management & Safety Communication,les_2_08_02,Dear Healthcare Professional Letters,task_2_08_02_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_08,Risk Management & Safety Communication,les_2_08_03,AI for Safety Communication,task_2_08_03_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_08,Risk Management & Safety Communication,les_2_08_04,DSMB & Safety Committee Roles,task_2_08_04_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_08,Risk Management & Safety Communication,les_2_08_05,Patient Safety Notifications,task_2_08_05_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_08,Risk Management & Safety Communication,les_2_08_06,Stakeholder Engagement in PV,task_2_08_06_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_08,Risk Management & Safety Communication,les_2_08_07,Risk Communication Metrics,task_2_08_07_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_08,Risk Management & Safety Communication,les_2_08_08,Handling Public Safety Queries,task_2_08_08_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_08,Risk Management & Safety Communication,les_2_08_09,Crisis Communication in PV,task_2_08_09_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_08,Risk Management & Safety Communication,les_2_08_10,Global Safety Communication,task_2_08_10_1,,,,,,10,
+course_2,Pharmacovigalance,ch_2_07,PV Audits & Inspections,les_2_07_01,PV Audit Overview,task_2_07_01_1,PV Audit Overview,,,,,10,
+course_2,Pharmacovigalance,ch_2_07,PV Audits & Inspections,les_2_07_02,Preparing for FDA PV Inspections,task_2_07_02_1,Preparing for FDA PV Inspections,,,,,10,
+course_2,Pharmacovigalance,ch_2_07,PV Audits & Inspections,les_2_07_03,EMA PV Audit Requirements,task_2_07_03_1,EMA PV Audit Requirements,,,,,10,
+course_2,Pharmacovigalance,ch_2_07,PV Audits & Inspections,les_2_07_04,CAPA for PV Findings,task_2_07_04_1,CAPA for PV Findings,,,,,10,
+course_2,Pharmacovigalance,ch_2_07,PV Audits & Inspections,les_2_07_05,AI for PV Audit Trails,task_2_07_05_1,AI for PV Audit Trails,,,,,10,
+course_2,Pharmacovigalance,ch_2_07,PV Audits & Inspections,les_2_07_06,Mock PV Audit Simulations,task_2_07_06_1,Mock PV Audit Simulations,,,,,10,
+course_2,Pharmacovigalance,ch_2_07,PV Audits & Inspections,les_2_07_07,Handling Inspection Queries,task_2_07_07_1,Handling Inspection Queries,,,,,10,
+course_2,Pharmacovigalance,ch_2_07,PV Audits & Inspections,les_2_07_08,Document Control for PV Audits,task_2_07_08_1,Document Control for PV Audits,,,,,10,
+course_2,Pharmacovigalance,ch_2_07,PV Audits & Inspections,les_2_07_09,Post-Audit Reporting,task_2_07_09_1,Post-Audit Reporting,,,,,10,
+course_2,Pharmacovigalance,ch_2_07,PV Audits & Inspections,les_2_07_10,Continuous PV Compliance,task_2_07_10_1,Continuous PV Compliance,,,,,10,
 ,,,,,,,,,,,,,
-course_2,Pharmacovigalance,ch_2_09,Post-Marketing Surveillance,les_2_09_01,Post-Marketing PV Overview,task_2_09_01_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_09,Post-Marketing Surveillance,les_2_09_02,Real-World Evidence (RWE) in PV,task_2_09_02_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_09,Post-Marketing Surveillance,les_2_09_03,AI for Post-Market Signals,task_2_09_03_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_09,Post-Marketing Surveillance,les_2_09_04,Literature Monitoring for PV,task_2_09_04_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_09,Post-Marketing Surveillance,les_2_09_05,Social Media Safety Monitoring,task_2_09_05_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_09,Post-Marketing Surveillance,les_2_09_06,Post-Market Query Handling,task_2_09_06_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_09,Post-Marketing Surveillance,les_2_09_07,Label Updates for Safety,task_2_09_07_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_09,Post-Marketing Surveillance,les_2_09_08,Post-Market Report Compilation,task_2_09_08_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_09,Post-Marketing Surveillance,les_2_09_09,Global Post-Market Harmonization,task_2_09_09_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_09,Post-Marketing Surveillance,les_2_09_10,Post-Market Audit Prep,task_2_09_10_1,,,,,,10,
+course_2,Pharmacovigalance,ch_2_08,Risk Management & Safety Communication,les_2_08_01,Risk Communication Overview,task_2_08_01_1,Risk Communication Overview,,,,,10,
+course_2,Pharmacovigalance,ch_2_08,Risk Management & Safety Communication,les_2_08_02,Dear Healthcare Professional Letters,task_2_08_02_1,Dear Healthcare Professional Letters,,,,,10,
+course_2,Pharmacovigalance,ch_2_08,Risk Management & Safety Communication,les_2_08_03,AI for Safety Communication,task_2_08_03_1,AI for Safety Communication,,,,,10,
+course_2,Pharmacovigalance,ch_2_08,Risk Management & Safety Communication,les_2_08_04,DSMB & Safety Committee Roles,task_2_08_04_1,DSMB & Safety Committee Roles,,,,,10,
+course_2,Pharmacovigalance,ch_2_08,Risk Management & Safety Communication,les_2_08_05,Patient Safety Notifications,task_2_08_05_1,Patient Safety Notifications,,,,,10,
+course_2,Pharmacovigalance,ch_2_08,Risk Management & Safety Communication,les_2_08_06,Stakeholder Engagement in PV,task_2_08_06_1,Stakeholder Engagement in PV,,,,,10,
+course_2,Pharmacovigalance,ch_2_08,Risk Management & Safety Communication,les_2_08_07,Risk Communication Metrics,task_2_08_07_1,Risk Communication Metrics,,,,,10,
+course_2,Pharmacovigalance,ch_2_08,Risk Management & Safety Communication,les_2_08_08,Handling Public Safety Queries,task_2_08_08_1,Handling Public Safety Queries,,,,,10,
+course_2,Pharmacovigalance,ch_2_08,Risk Management & Safety Communication,les_2_08_09,Crisis Communication in PV,task_2_08_09_1,Crisis Communication in PV,,,,,10,
+course_2,Pharmacovigalance,ch_2_08,Risk Management & Safety Communication,les_2_08_10,Global Safety Communication,task_2_08_10_1,Global Safety Communication,,,,,10,
 ,,,,,,,,,,,,,
-course_2,Pharmacovigalance,ch_2_10,Advanced AI in Pharmacovigilance,les_2_10_01,AI for Automated Case Processing,task_2_10_01_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_10,Advanced AI in Pharmacovigilance,les_2_10_02,NLP for AE Narrative Analysis,task_2_10_02_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_10,Advanced AI in Pharmacovigilance,les_2_10_03,Predictive Analytics in PV,task_2_10_03_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_10,Advanced AI in Pharmacovigilance,les_2_10_04,AI for PV Workflow Automation,task_2_10_04_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_10,Advanced AI in Pharmacovigilance,les_2_10_05,Blockchain for PV Data Integrity,task_2_10_05_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_10,Advanced AI in Pharmacovigilance,les_2_10_06,AI Ethics in PV,task_2_10_06_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_10,Advanced AI in Pharmacovigilance,les_2_10_07,AI in PV Dashboards,task_2_10_07_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_10,Advanced AI in Pharmacovigilance,les_2_10_08,AI for Global PV Integration,task_2_10_08_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_10,Advanced AI in Pharmacovigilance,les_2_10_09,Future PV Trends (Digital Twins),task_2_10_09_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_10,Advanced AI in Pharmacovigilance,les_2_10_10,Integrating AI with PV Systems,task_2_10_10_1,,,,,,10,
+course_2,Pharmacovigalance,ch_2_09,Post-Marketing Surveillance,les_2_09_01,Post-Marketing PV Overview,task_2_09_01_1,Post-Marketing PV Overview,,,,,10,
+course_2,Pharmacovigalance,ch_2_09,Post-Marketing Surveillance,les_2_09_02,Real-World Evidence (RWE) in PV,task_2_09_02_1,Real-World Evidence (RWE) in PV,,,,,10,
+course_2,Pharmacovigalance,ch_2_09,Post-Marketing Surveillance,les_2_09_03,AI for Post-Market Signals,task_2_09_03_1,AI for Post-Market Signals,,,,,10,
+course_2,Pharmacovigalance,ch_2_09,Post-Marketing Surveillance,les_2_09_04,Literature Monitoring for PV,task_2_09_04_1,Literature Monitoring for PV,,,,,10,
+course_2,Pharmacovigalance,ch_2_09,Post-Marketing Surveillance,les_2_09_05,Social Media Safety Monitoring,task_2_09_05_1,Social Media Safety Monitoring,,,,,10,
+course_2,Pharmacovigalance,ch_2_09,Post-Marketing Surveillance,les_2_09_06,Post-Market Query Handling,task_2_09_06_1,Post-Market Query Handling,,,,,10,
+course_2,Pharmacovigalance,ch_2_09,Post-Marketing Surveillance,les_2_09_07,Label Updates for Safety,task_2_09_07_1,Label Updates for Safety,,,,,10,
+course_2,Pharmacovigalance,ch_2_09,Post-Marketing Surveillance,les_2_09_08,Post-Market Report Compilation,task_2_09_08_1,Post-Market Report Compilation,,,,,10,
+course_2,Pharmacovigalance,ch_2_09,Post-Marketing Surveillance,les_2_09_09,Global Post-Market Harmonization,task_2_09_09_1,Global Post-Market Harmonization,,,,,10,
+course_2,Pharmacovigalance,ch_2_09,Post-Marketing Surveillance,les_2_09_10,Post-Market Audit Prep,task_2_09_10_1,Post-Market Audit Prep,,,,,10,
 ,,,,,,,,,,,,,
-course_2,Pharmacovigalance,ch_2_11,PV Operations & Systems Integration,les_2_11_01,PV Operations Overview,task_2_11_01_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_11,PV Operations & Systems Integration,les_2_11_02,Argus Workflow Management,task_2_11_02_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_11,PV Operations & Systems Integration,les_2_11_03,ARISg System Integration,task_2_11_03_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_11,PV Operations & Systems Integration,les_2_11_04,AI for PV Task Automation,task_2_11_04_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_11,PV Operations & Systems Integration,les_2_11_05,E2B R3/R4 XML Conversions,task_2_11_05_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_11,PV Operations & Systems Integration,les_2_11_06,PV System Validation (21 CFR Part 11),task_2_11_06_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_11,PV Operations & Systems Integration,les_2_11_07,Multi-Site PV Coordination,task_2_11_07_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_11,PV Operations & Systems Integration,les_2_11_08,PV Metrics & Reporting,task_2_11_08_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_11,PV Operations & Systems Integration,les_2_11_09,Troubleshooting PV Systems,task_2_11_09_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_11,PV Operations & Systems Integration,les_2_11_10,Scalability in PV Operations,task_2_11_10_1,,,,,,10,
+course_2,Pharmacovigalance,ch_2_10,Advanced AI in Pharmacovigilance,les_2_10_01,AI for Automated Case Processing,task_2_10_01_1,AI for Automated Case Processing,,,,,10,
+course_2,Pharmacovigalance,ch_2_10,Advanced AI in Pharmacovigilance,les_2_10_02,NLP for AE Narrative Analysis,task_2_10_02_1,NLP for AE Narrative Analysis,,,,,10,
+course_2,Pharmacovigalance,ch_2_10,Advanced AI in Pharmacovigilance,les_2_10_03,Predictive Analytics in PV,task_2_10_03_1,Predictive Analytics in PV,,,,,10,
+course_2,Pharmacovigalance,ch_2_10,Advanced AI in Pharmacovigilance,les_2_10_04,AI for PV Workflow Automation,task_2_10_04_1,AI for PV Workflow Automation,,,,,10,
+course_2,Pharmacovigalance,ch_2_10,Advanced AI in Pharmacovigilance,les_2_10_05,Blockchain for PV Data Integrity,task_2_10_05_1,Blockchain for PV Data Integrity,,,,,10,
+course_2,Pharmacovigalance,ch_2_10,Advanced AI in Pharmacovigilance,les_2_10_06,AI Ethics in PV,task_2_10_06_1,AI Ethics in PV,,,,,10,
+course_2,Pharmacovigalance,ch_2_10,Advanced AI in Pharmacovigilance,les_2_10_07,AI in PV Dashboards,task_2_10_07_1,AI in PV Dashboards,,,,,10,
+course_2,Pharmacovigalance,ch_2_10,Advanced AI in Pharmacovigilance,les_2_10_08,AI for Global PV Integration,task_2_10_08_1,AI for Global PV Integration,,,,,10,
+course_2,Pharmacovigalance,ch_2_10,Advanced AI in Pharmacovigilance,les_2_10_09,Future PV Trends (Digital Twins),task_2_10_09_1,Future PV Trends (Digital Twins),,,,,10,
+course_2,Pharmacovigalance,ch_2_10,Advanced AI in Pharmacovigilance,les_2_10_10,Integrating AI with PV Systems,task_2_10_10_1,Integrating AI with PV Systems,,,,,10,
 ,,,,,,,,,,,,,
-course_2,Pharmacovigalance,ch_2_12,Capstone Integration & Career Prep,les_2_12_01,Full PV Lifecycle Review,task_2_12_01_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_12,Capstone Integration & Career Prep,les_2_12_02,Advanced PV Simulation Strategies,task_2_12_02_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_12,Capstone Integration & Career Prep,les_2_12_03,Building PV Portfolios with AI,task_2_12_03_1,,,,,,,
-course_2,Pharmacovigalance,ch_2_12,Capstone Integration & Career Prep,les_2_12_04,Interview Prep for PV Roles,task_2_12_04_1,,,,,,,
-course_2,Pharmacovigalance,ch_2_12,Capstone Integration & Career Prep,les_2_12_05,Networking in Pharmacovigilance,task_2_12_05_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_12,Capstone Integration & Career Prep,les_2_12_06,AI for PV Career Advancement,task_2_12_06_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_12,Capstone Integration & Career Prep,les_2_12_07,Case Studies of PV Success,task_2_12_07_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_12,Capstone Integration & Career Prep,les_2_12_08,Handling PV Crises,task_2_12_08_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_12,Capstone Integration & Career Prep,les_2_12_09,Emerging PV Regulations,task_2_12_09_1,,,,,,10,
-course_2,Pharmacovigalance,ch_2_12,Capstone Integration & Career Prep,les_2_12_10,Final PV Capstone Sim,task_2_12_10_1,,,,,,10,
+course_2,Pharmacovigalance,ch_2_11,PV Operations & Systems Integration,les_2_11_01,PV Operations Overview,task_2_11_01_1,PV Operations Overview,,,,,10,
+course_2,Pharmacovigalance,ch_2_11,PV Operations & Systems Integration,les_2_11_02,Argus Workflow Management,task_2_11_02_1,Argus Workflow Management,,,,,10,
+course_2,Pharmacovigalance,ch_2_11,PV Operations & Systems Integration,les_2_11_03,ARISg System Integration,task_2_11_03_1,ARISg System Integration,,,,,10,
+course_2,Pharmacovigalance,ch_2_11,PV Operations & Systems Integration,les_2_11_04,AI for PV Task Automation,task_2_11_04_1,AI for PV Task Automation,,,,,10,
+course_2,Pharmacovigalance,ch_2_11,PV Operations & Systems Integration,les_2_11_05,E2B R3/R4 XML Conversions,task_2_11_05_1,E2B R3/R4 XML Conversions,,,,,10,
+course_2,Pharmacovigalance,ch_2_11,PV Operations & Systems Integration,les_2_11_06,PV System Validation (21 CFR Part 11),task_2_11_06_1,PV System Validation (21 CFR Part 11),,,,,10,
+course_2,Pharmacovigalance,ch_2_11,PV Operations & Systems Integration,les_2_11_07,Multi-Site PV Coordination,task_2_11_07_1,Multi-Site PV Coordination,,,,,10,
+course_2,Pharmacovigalance,ch_2_11,PV Operations & Systems Integration,les_2_11_08,PV Metrics & Reporting,task_2_11_08_1,PV Metrics & Reporting,,,,,10,
+course_2,Pharmacovigalance,ch_2_11,PV Operations & Systems Integration,les_2_11_09,Troubleshooting PV Systems,task_2_11_09_1,Troubleshooting PV Systems,,,,,10,
+course_2,Pharmacovigalance,ch_2_11,PV Operations & Systems Integration,les_2_11_10,Scalability in PV Operations,task_2_11_10_1,Scalability in PV Operations,,,,,10,
+,,,,,,,,,,,,,
+course_2,Pharmacovigalance,ch_2_12,Capstone Integration & Career Prep,les_2_12_01,Full PV Lifecycle Review,task_2_12_01_1,Full PV Lifecycle Review,,,,,10,
+course_2,Pharmacovigalance,ch_2_12,Capstone Integration & Career Prep,les_2_12_02,Advanced PV Simulation Strategies,task_2_12_02_1,Advanced PV Simulation Strategies,,,,,10,
+course_2,Pharmacovigalance,ch_2_12,Capstone Integration & Career Prep,les_2_12_03,Building PV Portfolios with AI,task_2_12_03_1,Building PV Portfolios with AI,,,,,,
+course_2,Pharmacovigalance,ch_2_12,Capstone Integration & Career Prep,les_2_12_04,Interview Prep for PV Roles,task_2_12_04_1,Interview Prep for PV Roles,,,,,,
+course_2,Pharmacovigalance,ch_2_12,Capstone Integration & Career Prep,les_2_12_05,Networking in Pharmacovigilance,task_2_12_05_1,Networking in Pharmacovigilance,,,,,10,
+course_2,Pharmacovigalance,ch_2_12,Capstone Integration & Career Prep,les_2_12_06,AI for PV Career Advancement,task_2_12_06_1,AI for PV Career Advancement,,,,,10,
+course_2,Pharmacovigalance,ch_2_12,Capstone Integration & Career Prep,les_2_12_07,Case Studies of PV Success,task_2_12_07_1,Case Studies of PV Success,,,,,10,
+course_2,Pharmacovigalance,ch_2_12,Capstone Integration & Career Prep,les_2_12_08,Handling PV Crises,task_2_12_08_1,Handling PV Crises,,,,,10,
+course_2,Pharmacovigalance,ch_2_12,Capstone Integration & Career Prep,les_2_12_09,Emerging PV Regulations,task_2_12_09_1,Emerging PV Regulations,,,,,10,
+course_2,Pharmacovigalance,ch_2_12,Capstone Integration & Career Prep,les_2_12_10,Final PV Capstone Sim,task_2_12_10_1,Final PV Capstone Sim,,,,,10,
 ,,,,,,,,,,,,,
 course_3,Clinical Research,ch_3_01,Foundations of Clinical Research & GCP Basics,les_3_01_01,What is Clinical Research?,task_3_01_01_1,,,,,,10,
 course_3,Clinical Research,ch_3_01,Foundations of Clinical Research & GCP Basics,les_3_01_02,History & Evolution of Clinical Trials.,task_3_01_02_1,,,,,,10,
