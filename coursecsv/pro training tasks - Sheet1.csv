@@ -1009,7 +1009,7 @@ Identify 3-5 discrepancies from the simulator's output (e.g., seriousness mismat
 Suggest corrections for each (e.g., update FAERS with correct seriousness).
 Open OMEGA Word and create a new document titled ""FAERS Reconciliation Summary Entry - Case ID HP-2025-SG-001"".
 Enter the 3-5 discrepancies, corrections, and follow-up in OMEGA Word.
-Submit in OMEGA Word within 24 hours. -----i need it exactly same content without altering a single word or line i only need u to remove thiose stars and remove the number points"
+Submit in OMEGA Word within 24 hours."
 course_2,Pharmacovigalance,ch_2_03,Global PV Systems & Databases,les_2_03_05,AI for Database Queries,task_2_03_05_1,AI for Database Queries,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in the USA. You are tasked with querying global PV databases for an AE from an ICSR based on a spontaneous report from a clinic in Singapore. The report details a patient who experienced tinnitus after taking aspirin for headache. Using the VigiBase and EudraVigilance, you will query VigiBase for aspirin-tinnitus data, reconcile with FAERS/EudraVigilance, analyze 3-5 trends, and enter a simple signal summary in OMEGA Word for submission using AI (Grok or ChatGPT), ensuring compliance with regulatory authorities like FDA (USA), HSA (Singapore), MHRA, EMA, and CDSCO.
 
 Deliverables
@@ -2118,3 +2118,4 @@ Ensure the response is compliant: accurate, evidence-based, clear, and ALCOA+.",
 Fill the eCRF (8 minutes): Enter all data from sources into the eCRF. Fix the pulse to 70 and note in bold italics in Query/Notes (e.g., ""Fixed from 75 to 70 per source; typo. Date: 09/07/2025""). Fill every field. Save as PDF or DOC.
 
 Complete Correction Log (3 minutes): List the pulse error: original (75), corrected (70), reason (matches source for ALCOA+ 'Accurate'), date/time (September 07, 2025, 4:00 PM), and your initials (e.g., S.K.). SUBMIT IT."
+
