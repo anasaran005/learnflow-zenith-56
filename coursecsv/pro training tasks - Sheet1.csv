@@ -1,6 +1,5 @@
 courseId,courseName,coursedescription,chapterId,chapterName,lessonId,lessonName,taskId,taskTitle,scenario,pdfUrls,tallyUrls,answerKeyUrl,xp,instructions
-course_1,Pro Training in QA/QC ,"FOR PHARMA & HEALTHCARE WITH ENTERPRISE-LEVEL VALIDATION SYSTEMS & AI-AUGMENTED
-AUDIT INTELLIGENCE",ch_1_01,Foundations of Quality Warfare,les_1_01_01,Entering the Battlefield – QMS Basics & SOP Gap Review,task_1_01_01_1,QMS Compliance Check,"Welcome to your first mission as a Junior Quality Control Analyst at Zenith Pharma Labs!
+course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,ch_1_01,Foundations of Quality Warfare,les_1_01_01,Entering the Battlefield – QMS Basics & SOP Gap Review,task_1_01_01_1,QMS Compliance Check,"Welcome to your first mission as a Junior Quality Control Analyst at Zenith Pharma Labs!
 Your supervisor, Ms. Rhea Patel, Quality Assurance Supervisor, needs you to ensure the lab’s Quality Management System (QMS) is on point. You’ve been tasked with checking if the lab’s batch record-keeping follows the QMS rules outlined in the SOP. Your job is to review the SOP, compare it to a lab observation, and fill out a Compliance Verification Form to confirm if the process is compliant or flag any issues. This keeps the lab’s operations safe and reliable, like a well-coordinated army following its playbook.
 
 CheckList:
@@ -2115,4 +2114,3 @@ Ensure the response is compliant: accurate, evidence-based, clear, and ALCOA+.",
 Fill the eCRF (8 minutes): Enter all data from sources into the eCRF. Fix the pulse to 70 and note in bold italics in Query/Notes (e.g., ""Fixed from 75 to 70 per source; typo. Date: 09/07/2025""). Fill every field. Save as PDF or DOC.
 
 Complete Correction Log (3 minutes): List the pulse error: original (75), corrected (70), reason (matches source for ALCOA+ 'Accurate'), date/time (September 07, 2025, 4:00 PM), and your initials (e.g., S.K.). SUBMIT IT."
-
