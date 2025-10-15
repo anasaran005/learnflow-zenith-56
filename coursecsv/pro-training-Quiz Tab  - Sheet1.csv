@@ -162,10 +162,10 @@ course_1,ch_1_01,les_1_01_08,topic_1_01_08_01,quiz_1_01_08_5,What is the fundame
 B) Documentation is only required for major deviations |
 C) Undocumented events possess no regulatory existence |
 D) Documentation can be completed after the issue is resolved",C
-course_1,ch_1_01,les_1_01_09,topic_1_01_09_01,quiz_1_01_09_1,what are the three critical competencies demanded by high-pressure crisis environments?,"A) Planning, execution, and monitoring |
-B) Speed, accuracy, and leadership |
-C) Documentation, investigation, and resolution |
-D) Communication, coordination, and control",B
+course_1,ch_1_01,les_1_01_09,topic_1_01_09_01,quiz_1_01_09_1,what are the three critical competencies demanded by high-pressure crisis environments?,"A) Planning execution and monitoring |
+B) Speed accuracy and leadership |
+C) Documentation investigation and resolution |
+D) Communication coordination and control",B
 course_1,ch_1_01,les_1_01_09,topic_1_01_09_01,quiz_1_01_09_2,What are the four primary trigger categories for comprehensive QA/QC crises?,"A) Failures involving equipment, personnel, documentation practices, or environmental conditions |
 B) Overlapping deviations, OOS findings during audits, compromised data integrity, and supplier breakdowns | 
 C) Issues arising internally, externally, through regulators, or from customer-related concerns |
@@ -4608,3 +4608,4 @@ course_7,ch_7_01,les_7_01_01,topic_7_01_01_1,quiz_7_01_01_5,What is the primary 
 B) To record source data accurately and perform initial CRF data entry
 C) To provide training to the study team on protocol compliance
 D) To audit the study site for regulatory compliance",B
+
