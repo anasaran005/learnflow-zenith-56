@@ -1,8 +1,8 @@
 courseId,chapterId,lessonId,topicId,questionId,question,options,correct
-course_1,ch_1_01,les_1_01_01,topic_1_01_01_01,quiz_1_01_01_1,What are the four critical elements that a Quality Management System (QMS) coordinates in an organization?,"A) Planning, execution, monitoring, and reporting. |
-B) Quality standards, procedures, roles, and corrective actions. |
-C) Documentation, training, auditing, and compliance. |
-D) Policies, processes, people, and performance.",B
+course_1,ch_1_01,les_1_01_01,topic_1_01_01_01,quiz_1_01_01_1,What are the four critical elements that a Quality Management System (QMS) coordinates in an organization?,"A) Planning execution monitoring and reporting. |
+B) Quality standards procedures roles and corrective actions. |
+C) Documentation training auditing and compliance. |
+D) Policies processes people and performance.",B
 course_1,ch_1_01,les_1_01_01,topic_1_01_01_01,quiz_1_01_01_2,"In the hospital analogy, what does operating without QMS resemble?","A) A well-organized military unit | 
 B) A disciplined army with clear command structure | 
 C) A military unit without command structure | 
@@ -4608,4 +4608,5 @@ course_7,ch_7_01,les_7_01_01,topic_7_01_01_1,quiz_7_01_01_5,What is the primary 
 B) To record source data accurately and perform initial CRF data entry
 C) To provide training to the study team on protocol compliance
 D) To audit the study site for regulatory compliance",B
+
 
