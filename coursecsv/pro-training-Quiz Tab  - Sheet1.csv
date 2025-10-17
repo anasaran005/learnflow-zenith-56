@@ -1,8 +1,8 @@
 courseId,chapterId,lessonId,topicId,questionId,question,options,correct
-course_1,ch_1_01,les_1_01_01,topic_1_01_01_01,quiz_1_01_01_1,What are the four critical elements that a Quality Management System (QMS) coordinates in an organization?,"A) Planning execution monitoring and reporting. |
-B) Quality standards procedures roles and corrective actions. |
-C) Documentation training auditing and compliance. |
-D) Policies processes people and performance.",B
+course_1,ch_1_01,les_1_01_01,topic_1_01_01_01,quiz_1_01_01_1,What are the four critical elements that a Quality Management System (QMS) coordinates in an organization?,"A) Planning, execution, monitoring, and reporting. |
+B) Quality standards, procedures, roles, and corrective actions. |
+C) Documentation, training, auditing, and compliance. |
+D) Policies, processes, people, and performance.",B
 course_1,ch_1_01,les_1_01_01,topic_1_01_01_01,quiz_1_01_01_2,"In the hospital analogy, what does operating without QMS resemble?","A) A well-organized military unit | 
 B) A disciplined army with clear command structure | 
 C) A military unit without command structure | 
@@ -162,10 +162,10 @@ course_1,ch_1_01,les_1_01_08,topic_1_01_08_01,quiz_1_01_08_5,What is the fundame
 B) Documentation is only required for major deviations |
 C) Undocumented events possess no regulatory existence |
 D) Documentation can be completed after the issue is resolved",C
-course_1,ch_1_01,les_1_01_09,topic_1_01_09_01,quiz_1_01_09_1,what are the three critical competencies demanded by high-pressure crisis environments?,"A) Planning execution and monitoring |
-B) Speed accuracy and leadership |
-C) Documentation investigation and resolution |
-D) Communication coordination and control",B
+course_1,ch_1_01,les_1_01_09,topic_1_01_09_01,quiz_1_01_09_1,what are the three critical competencies demanded by high-pressure crisis environments?,"A) Planning, execution, and monitoring |
+B) Speed, accuracy, and leadership |
+C) Documentation, investigation, and resolution |
+D) Communication, coordination, and control",B
 course_1,ch_1_01,les_1_01_09,topic_1_01_09_01,quiz_1_01_09_2,What are the four primary trigger categories for comprehensive QA/QC crises?,"A) Failures involving equipment, personnel, documentation practices, or environmental conditions |
 B) Overlapping deviations, OOS findings during audits, compromised data integrity, and supplier breakdowns | 
 C) Issues arising internally, externally, through regulators, or from customer-related concerns |
@@ -262,7 +262,7 @@ D) External auditors",B
 course_1,ch_1_02,les_1_02_04,topic_1_02_04_01,quiz_1_02_04_5,What is a common failure point in incident reporting?,"A) Excessive staff training |
 B) Delayed reporting  |
 C) Overuse of digital forms |
-D) frequent audits",A
+D) frequent audits",B
 course_1,ch_1_02,les_1_02_05,topic_1_02_05_01,quiz_1_02_05_1,What is a critical component of standard precautions for all patients?,"A) Following WHO 6 Moments for Hand Hygiene |
 B) Adhering to WHO 5 Moments for Hand Hygiene |
 C) Implementing WHO 4 Moments for Hand Hygiene |
@@ -310,7 +310,7 @@ D) Eliminate expired drugs, implement sterilization log checks, and retrain staf
 course_1,ch_1_02,les_1_02_07,topic_1_02_07_01,quiz_1_02_07_2,What defines a critical non-compliance issue in a ward?,"A) Direct risk to patient safety, like expired drugs in crash cart |
 B) Missing signage on doors |
 C) Incomplete staff training records |
-D) Uncalibrated non-critical equipment",C
+D) Uncalibrated non-critical equipment",A
 course_1,ch_1_02,les_1_02_07,topic_1_02_07_01,quiz_1_02_07_3,How must biomedical waste be handled in a hospital?,"A) Transported in puncture-proof, closed containers without spillage |
 B) Disposed along with municipal/general waste after basic disinfection |
 C) Segregated at the point of generation into designated color-coded containers |
@@ -326,7 +326,7 @@ D) Review hospital budgeting and financial planning",A
 course_1,ch_1_02,les_1_02_08,topic_1_02_08_01,quiz_1_02_08_1,What is QA/QC’s primary role within the first 3 minutes of a Code Blue emergency?,"A) Lead the medical team response |
 B) Document patient outcomes |
 C) Confirm emergency protocol initiation |
-D) Conduct root cause analysis",B
+D) Conduct root cause analysis",C
 course_1,ch_1_02,les_1_02_08,topic_1_02_08_01,quiz_1_02_08_2,What must QA/QC verify before an emergency to ensure readiness?,"A) Patient admission records |
 B) Emergency cart and staff training compliance |
 C) Staff vacation schedules |
@@ -334,11 +334,11 @@ D) Hospital marketing plans",C
 course_1,ch_1_02,les_1_02_08,topic_1_02_08_01,quiz_1_02_08_3,Which action is part of the post-incident phase in an emergency response?,"A) Deploy initial response team |
 B) Conduct root cause analysis |
 C) Initiate alarm systems |
-D) Stabilize patient conditions",A
+D) Stabilize patient conditions",B
 course_1,ch_1_02,les_1_02_08,topic_1_02_08_01,quiz_1_02_08_4,What is a key QA/QC practice for emergency preparedness?,"A) Train staff on non-emergency tasks |
 B) Monitor visitor logs weekly |
 C) Audit alarm systems monthly |
-D) Update patient charts daily",A
+D) Update patient charts daily",C
 course_1,ch_1_02,les_1_02_08,topic_1_02_08_01,quiz_1_02_08_5,"During a biohazard spill, a hospital’s isolation measures fail due to improper PPE usage. As a QA/QC officer, which approach best ensures compliance and prevents recurrence?","A) Revise PPE protocols and audit compliance post-incident |
 B) Conduct PPE spot checks during drills and enforce compliance protocols |
 C) Implement PPE training sessions and monitor usage during emergencies |
@@ -350,7 +350,7 @@ D) Limit inter-department communication",A
 course_1,ch_1_02,les_1_02_09,topic_1_02_09_01,quiz_1_02_09_2,What is the first step in the multi-department QA/QC coordination process?,"A) Schedule department-specific audits |
 B) Conduct root cause analysis for incidents |
 C) Centralize all SOPs without mapping |
-D) Map departments and their QA focal points",B
+D) Map departments and their QA focal points",D
 course_1,ch_1_02,les_1_02_09,topic_1_02_09_01,quiz_1_02_09_3,Which tool supports effective multi-department QA/QC coordination?,"A) Non-standardized department reports |
 B) Manual incident logs without integration |
 C) Centralized QA/QC dashboard for data integration |
@@ -362,11 +362,11 @@ D) Over-centralized SOP versions",C
 course_1,ch_1_02,les_1_02_09,topic_1_02_09_01,quiz_1_02_09_5,"A pharmacy mislabeling error leads to a medication error in the ICU. As a QA/QC officer, which approach best ensures coordinated resolution and prevents recurrence across departments?","A) Perform RCA with pharmacy only, update SOPs, and track via department logs |
 B) Implement cross-department training, revise protocols, and monitor with weekly audits |
 C) Lead multi-team huddle with ICU and pharmacy, align SOPs, and audit compliance |
-D) Conduct joint RCA with pharmacy and ICU, revise SOPs, and monitor via QA dashboard",A
+D) Conduct joint RCA with pharmacy and ICU, revise SOPs, and monitor via QA dashboard",D
 course_1,ch_1_02,les_1_02_10,topic_1_02_10_01,quiz_1_02_10_1,What is the primary purpose of a QA/QC Command Debrief?,"A) Review non-conformities, verify root causes, and redesign processes |
 B) Conduct informal staff meetings |
 C) Update patient records |
-D) Discuss hospital budgets",D
+D) Discuss hospital budgets",A
 course_1,ch_1_02,les_1_02_10,topic_1_02_10_01,quiz_1_02_10_2,What is a key element of the findings review in a Command Debrief?,"A) Reviewing hospital marketing plans |
 B) Ignoring frontline staff feedback |
 C) Categorizing deviations and incidents |
@@ -374,11 +374,11 @@ D) Accepting verbal reports without data",C
 course_1,ch_1_02,les_1_02_10,topic_1_02_10_01,quiz_1_02_10_3,What is the first step in the strategy redesign process?,"A) Consolidate findings by category |
 B) Test new designs hospital-wide |
 C) Define KPIs without stakeholder input |
-D) Prioritize low-risk issues",C
+D) Prioritize low-risk issues",A
 course_1,ch_1_02,les_1_02_10,topic_1_02_10_01,quiz_1_02_10_4,Which tool helps track improvements after a Command Debrief?,"A) Patient satisfaction surveys  tracker |
 B) Staff training schedules  tracker |
 C) Corrective and preventive actions  tracker |
-D) General meeting minutes  tracker",D
+D) General meeting minutes  tracker",C
 course_1,ch_1_02,les_1_02_10,topic_1_02_10_01,quiz_1_02_10_5,"An ICU oxygen supply interruption occurs due to a faulty regulator. As a QA/QC officer, which redesign strategy best addresses this issue and ensures long-term prevention?","A) Update SOPs with daily regulator checks, install pressure alarms, and cross-train staff |
 B) Revise SOPs for weekly regulator checks, add alarms, and train only technicians |
 C) Implement daily regulator checks, use manual overrides, and train nursing staff |
@@ -4608,5 +4608,3 @@ course_7,ch_7_01,les_7_01_01,topic_7_01_01_1,quiz_7_01_01_5,What is the primary 
 B) To record source data accurately and perform initial CRF data entry
 C) To provide training to the study team on protocol compliance
 D) To audit the study site for regulatory compliance",B
-
-
