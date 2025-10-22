@@ -850,7 +850,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_02,Individual Case Safety Repor
 Deliverables
 A completed Causality Assessment Form, indicating the causality category (Certain, Probable, Possible, Unlikely) and supporting rationale.
 A brief note explaining the chosen category based on key factors like temporal relationship and alternative causes.
-Submit the form to your supervisor via Stellar Pharma’s PV system, ensuring an audit trail per ICH E2B(R3).",https://drive.google.com/file/d/1gCKoBg5qS0LFNwj7Usf6Dsnd000CLUQA/view?usp=sharing,,https://drive.google.com/file/d/1mdd8raV7nvHU-GRZbL3Awse_tF6Mfnl7/view?usp=sharing,"Read the Reference Document (clinic note) to gather details about the patient, metformin, adverse event, and relevant clinical information.
+Submit the form to your supervisor via Stellar Pharma’s PV system, ensuring an audit trail per ICH E2B(R3).",https://drive.google.com/file/d/1gCKoBg5qS0LFNwj7Usf6Dsnd000CLUQA/view?usp=sharing,https://tally.so/r/wb0ob6,https://drive.google.com/file/d/1mdd8raV7nvHU-GRZbL3Awse_tF6Mfnl7/view?usp=sharing,"Read the Reference Document (clinic note) to gather details about the patient, metformin, adverse event, and relevant clinical information.
 Review the Simplified WHO-UMC Causality Categories (provided below) to understand the criteria for assessing causality.
 Evaluate the AE based on:
 
@@ -950,7 +950,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_03,Global PV Systems & Database
 Deliverables
 
 - A basic signal summary entry in OMEGA Word, listing 3-5 trends from VigiBase query and reconciliation with FAERS/EudraVigilance.
-- A brief follow-up suggestion for career application or further analysis.",https://drive.google.com/file/d/1TRg4jZek0iTup8whU0a9Q3uQMrJPWaGX/view?usp=sharing,omegaword,https://drive.google.com/file/d/1Tf8IxG9fSZrDICcgoZxxSXwEKdqvLo86/view?usp=sharing,"Access the ZANE VigiBase simulator and input queries like ""metformin nausea reports"" and ""metformin nausea trends"" to retrieve data.
+- A brief follow-up suggestion for career application or further analysis.",https://drive.google.com/file/d/1TRg4jZek0iTup8whU0a9Q3uQMrJPWaGX/view?usp=sharing,omegaword,https://drive.google.com/file/d/1Tf8IxG9fSZrDICcgoZxxSXwEKdqvLo86/view?usp=sharing,"Access the ZANE VigiBase and input queries like ""metformin nausea reports"" and ""metformin nausea trends"" to retrieve data.
 Access Grok at Tools Section and input this prompt:
     
  ""Summarize FAERS and EudraVigilance data on metformin-related nausea, including report counts, demographics, and trends.""
@@ -965,8 +965,8 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_03,Global PV Systems & Database
 
 Deliverables:
 
-A completed ICSR form in OMEGA.",https://drive.google.com/file/d/1SF1URWgZgyjLtqwjiTo7GxrRrcazc_bL/view?usp=sharing,omegaword,https://drive.google.com/file/d/13GczGpUTBGMA5orGSn0EZ530eDvAvBbS/view?usp=sharing,"Access the ICSR and fill in the form fields based on the reference document. (e.g., patient age, sex, AE description, drug name).
-Access Grok at Tools Section and input this prompt:
+A completed ICSR form in OMEGA.",https://drive.google.com/file/d/1SF1URWgZgyjLtqwjiTo7GxrRrcazc_bL/view?usp=sharing,omegaword,https://drive.google.com/file/d/13GczGpUTBGMA5orGSn0EZ530eDvAvBbS/view?usp=sharing,"Access the ICSR form in forms section and  fill in the form fields based on the reference document. (e.g., patient age, sex, AE description, drug name).
+Access Grok at tools section and input this prompt:
       ""Validate this filled E2B(R3) ICSR form for completeness: Patient: Male, 55 years. Suspected Drug: Metformin, dose 500 mg oral twice daily, start June 15, 2025. AE: Nausea, onset July 10, 2025, non-serious. Confirm if mandatory fields are filled.""
     
 Review the Reference Document (ICSR details below) to ensure accurate filling.
@@ -978,7 +978,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_03,Global PV Systems & Database
 Deliverables
 
 A basic case search summary entry in OMEGA Word, listing 3-5 key details from the VigiBase search on warfarin-bleeding ICSRs.
-A brief follow-up suggestion for case review.",https://drive.google.com/file/d/1gOOjCokke5riHvTdlQwmXrf7iP_5hECy/view?usp=sharing,omegaword,https://drive.google.com/file/d/1aGtpE3M_3iJdssK6SVbNEdsXtaMEGJQ_/view?usp=sharing,"Access the ZANE VigiBase simulator and input queries like warfarin bleeding search and warfarin bleeding details to retrieve ICSR data.
+A brief follow-up suggestion for case review.",https://drive.google.com/file/d/1gOOjCokke5riHvTdlQwmXrf7iP_5hECy/view?usp=sharing,omegaword,https://drive.google.com/file/d/1aGtpE3M_3iJdssK6SVbNEdsXtaMEGJQ_/view?usp=sharing,"Access the ZANE VigiBase and input queries like ""warfarin bleeding reports"" and ""warfarin bleeding trends"" to retrieve ICSR data.
 Review the Reference Document (ICSR details below) to confirm the AE context.
 Summarize 3-5 key details from the simulator's output (e.g., number of cases, seriousness levels).
 Suggest a follow-up action (e.g., export for signal detection).
@@ -991,7 +991,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_03,Global PV Systems & Database
 Deliverables
 
 A basic reconciliation summary entry in OMEGA Word, listing 3-5 discrepancies and suggested corrections.
-A brief follow-up suggestion for resolution.",https://drive.google.com/file/d/1sSk2D2DCdLgHBtVMeVEx8mnn-iRoU2vT/view?usp=sharing,omegaword,https://drive.google.com/file/d/18I6pcQXA73m3KkPm4lVWajoI9xEOxDiG/view?usp=sharing,"Access the FAERS Reconciliation simulator and input queries like ""warfarin bleeding reconcile"" to retrieve discrepancies.
+A brief follow-up suggestion for resolution.",https://drive.google.com/file/d/1sSk2D2DCdLgHBtVMeVEx8mnn-iRoU2vT/view?usp=sharing,omegaword,https://drive.google.com/file/d/18I6pcQXA73m3KkPm4lVWajoI9xEOxDiG/view?usp=sharing,"Access the ZANE FAERS and Navigate to ICSR Database  input drug name ""warfarin"" to retrieve discrepancies.
 Review the Reference Document (internal ICSR and simulated FAERS data below) to confirm discrepancies.
 Identify 3-5 discrepancies from the simulator's output (e.g., seriousness mismatch, missing fields).
 Suggest corrections for each (e.g., update FAERS with correct seriousness).
@@ -1003,7 +1003,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_03,Global PV Systems & Database
 Deliverables
 
 A basic signal summary entry in OMEGA Word, listing 3-5 trends from the VigiBase query and reconciliation with FAERS/EudraVigilance.
-A brief follow-up suggestion for further analysis.",https://drive.google.com/file/d/1oNiPgyiFmOpWFP8Np4xezAF7mB5n6Vd2/view?usp=sharing,omegaword,https://drive.google.com/file/d/1rxvhdLlRJk6ObaUfOrGo3JEWPZVqf5UB/view?usp=sharing,"Access the ZANE VigiBase simulator and input queries like ""aspirin tinnitus reports"" and ""aspirin tinnitus trends"" to retrieve data. Do the same with EudraVigilance.
+A brief follow-up suggestion for further analysis.",https://drive.google.com/file/d/1oNiPgyiFmOpWFP8Np4xezAF7mB5n6Vd2/view?usp=sharing,omegaword,https://drive.google.com/file/d/1rxvhdLlRJk6ObaUfOrGo3JEWPZVqf5UB/view?usp=sharing,"Access the ZANE VigiBase and input queries like ""aspirin tinnitus reports"" and ""aspirin tinnitus trends"" to retrieve data. Do the same with EudraVigilance.
 Access Grok at Tools Section and reconcile.
 Review the Reference Document (ICSR details below) to confirm the AE context.
 Combine ZANE VigiBase outputs & FAERS/EudraVigilance summaries, analyzing 3-5 trends (e.g., report count, demographics).
@@ -1016,10 +1016,11 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_03,Global PV Systems & Database
 Deliverables
 
 A basic case entry summary entry in OMEGA Word, including the validated ICSR fields from the Argus simulator.
-A brief follow-up suggestion for medical review.",https://drive.google.com/file/d/1PToIFl-_EVWUcJZBe1evyA-QOfggKMjI/view?usp=sharing,omegaword,https://drive.google.com/file/d/1v4aP-Yfjv3eYrWYJnKxRO-hAIVQCVaLe/view?usp=sharing,"Access the ZANE Argus simulator and fill the ICSR. (Use reference document)
+A brief follow-up suggestion for medical review.",https://drive.google.com/file/d/1PToIFl-_EVWUcJZBe1evyA-QOfggKMjI/view?usp=sharing,omegaword,https://drive.google.com/file/d/1v4aP-Yfjv3eYrWYJnKxRO-hAIVQCVaLe/view?usp=sharing,"Access the ZANE Argus and fill the ICSR. (Use reference document)
+After entering all the information from the reference document and clicking “Create Case,” copy the case details and verify them using Grok.
 Access Grok at Tools Section and input this prompt:
     
-""Validate this Argus case entry for completeness: Patient: Female, 40 years. Suspected Drug: Amoxicillin, dose 500 mg oral thrice daily, start September 15, 2025. AE: Rash, onset September 20, 2025, non-serious. Confirm if key fields are complete.""
+""Validate this Argus case entry for completeness: {input copied case details from ZANE Argus} Confirm if key fields are complete.""
     
 Review the Reference Document (ICSR details below) to ensure accurate entry.
 Summarize the validated fields from the simulator and Grok (e.g., patient info, drug, AE).
@@ -1030,10 +1031,11 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_03,Global PV Systems & Database
 Deliverables
 
 A basic case entry summary entry in OMEGA Word, including the validated ICSR fields from the ARISg simulator.
-A brief follow-up suggestion for medical review.",https://drive.google.com/file/d/1-wDxJY_9UfFHyoI4zx4nzGFOt9IH4AHb/view?usp=sharing,omegaword,https://drive.google.com/file/d/14F_nD6i8WwuRACyJlUyO2hmxq-2TNH_P/view?usp=sharing,"Access the ZANE ARISg simulator and enter case fields like ""patient age: 60, sex: male, AE: myalgia, drug: atorvastatin, onset: September 20, 2025, seriousness: non-serious"".
+A brief follow-up suggestion for medical review.",https://drive.google.com/file/d/1-wDxJY_9UfFHyoI4zx4nzGFOt9IH4AHb/view?usp=sharing,omegaword,https://drive.google.com/file/d/14F_nD6i8WwuRACyJlUyO2hmxq-2TNH_P/view?usp=sharing,"Access the ZANE ARISg and navigate to  Case Intake in sidebar then enter case fields like ""patient age: 60, sex: male, AE: myalgia, drug: atorvastatin, onset: September 20, 2025, seriousness: non-serious"".
+After entering all the information from the reference document and clicking “Create Case,” copy the case details and verify them using Grok.
 Access Grok at Tools Section and input this prompt:
     
-""Validate this ARISg case entry for completeness: Patient: Male, 60 years. Suspected Drug: Atorvastatin, dose 20 mg oral daily, start September 15, 2025. AE: Myalgia, onset September 20, 2025, non-serious. Confirm if key fields are complete.""
+""Validate this ARISg case entry for completeness:{input copied case details from ZANE ARISg} Confirm if key fields are complete.""
     
 Review the Reference Document (ICSR details below) to ensure accurate entry.
 Summarize the validated fields from the simulator and Grok (e.g., patient info, drug, AE).
@@ -1121,8 +1123,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_04,Signal Detection & Risk Mana
 Deliverables
 
 A basic privacy check summary entry in OMEGA Word, listing 3-5 privacy risks and suggested corrections.
-A brief follow-up suggestion for compliance.",,omegaword,,"Access the Privacy Check simulator and input queries like ""lisinopril cough privacy check"" to retrieve risks.
-Access Grok at Tools Section and input this prompt:
+A brief follow-up suggestion for compliance.",,omegaword,,"Access Grok at Tools Section and input this prompt:
 Review this ICSR for GDPR/HIPAA privacy risks: Patient: Male, 50 years, hypertension. Drug: Lisinopril 10 mg oral daily, start September 15, 2025. AE: Cough, onset September 20, 2025, non-serious. Suggest 3-5 risks and corrections.
 Review the Reference Document (ICSR details below) to confirm potential risks (e.g., non-anonymized data).
 Identify 3-5 risks
@@ -1318,7 +1319,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_06,MedDRA Coding & Case Quality
 Deliverables
 
 A MedDRA Coding Note in OMEGA Word, listing the three descriptions, their PTs, one verification note, and a brief PSUR comment.
-A one-sentence reflection on using the tool.",,omegaword,,"Access the Zane MedDRA Simulation Tool at zaneproed.com/meddra-sim with your trainee credentials.
+A one-sentence reflection on using the tool.",,omegaword,,"Access the Zane MedDRA in tools section with your trainee credentials.
 Review the Reference Document (three adverse event descriptions below) for input.
 Input each description into the tool’s “Adverse Event Coder” field, using the latest MedDRA version (e.g., 27.0), to generate the PT.
 Verify one PT: Check if the tool’s PT for the first description makes sense (e.g., matches the symptom logically).
@@ -1332,7 +1333,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_06,MedDRA Coding & Case Quality
 Deliverables
 
 An Adventure Log in OMEGA Word, listing the four adverse event descriptions, their LLT, PT, and SOC codes from the tool, and a one-sentence PSUR note on their value.
-A one-sentence ""Explorer’s Insight"" on what made the coding fun or clear.",,omegaword,,"Access the Zane MedDRA Simulation Tool at zaneproed.com/meddra-sim using your trainee credentials.
+A one-sentence ""Explorer’s Insight"" on what made the coding fun or clear.",,omegaword,,"Access the Zane MedDRA in tools section with your trainee credentials.
 Review the Reference Document (four adverse event descriptions below) to prepare your inputs.
 Input each description: Enter the exact text into the tool's ""Adverse Event Coder"" field, select MedDRA version 27.0, and generate the LLT, PT, and SOC.
 Log the codes: Record the tool's output for each description (LLT, PT, SOC) in a table.
@@ -1346,7 +1347,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_06,MedDRA Coding & Case Quality
 Deliverables
 
 An AI Code Quest Report in OMEGA Word, listing the four descriptions, their auto-generated LLT, PT, and SOC codes, a validation note for one code, and a one-sentence PSUR note.
-A one-sentence ""Coder’s Spark"" on what made the AI coding process exciting or clear.",,omegaword,,"Access the Zane MedDRA Simulation Tool at zaneproed.com/meddra-sim using your trainee credentials.
+A one-sentence ""Coder’s Spark"" on what made the AI coding process exciting or clear.",,omegaword,,"Access the Zane MedDRA in tools section with your trainee credentials.
 Review the Reference Document (four adverse event descriptions below) to prepare inputs.
 Input each description: Enter the exact text into the tool’s “Adverse Event Coder” field, select MedDRA version 27.0, and generate LLT, PT, and SOC codes.
 Validate one code: For the first description, check if the tool’s LLT and PT match the reported symptom (e.g., does “tummy upset” map to “Abdominal discomfort” logically?).
@@ -1360,7 +1361,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_06,MedDRA Coding & Case Quality
 Deliverables
 
 A Code Check Agent’s Report in OMEGA Word, listing the three descriptions, their LLT, PT, and SOC codes, an accuracy check note for one code, and a one-sentence PSUR comment.
-A one-sentence ""Agent’s Clue"" on what made the accuracy check interesting or useful.",,omegaword,,"Access the Zane MedDRA Simulation Tool at zaneproed.com/meddra-sim using your trainee credentials.
+A one-sentence ""Agent’s Clue"" on what made the accuracy check interesting or useful.",,omegaword,,"Access the Zane MedDRA in tools section with your trainee credentials.
 Review the Reference Document (three adverse event descriptions below) to prepare inputs.
 Input each description: Enter the exact text into the tool’s “Adverse Event Coder” field, select MedDRA version 27.0, and generate LLT, PT, and SOC codes.
 Perform accuracy check: For the first description, verify if the tool’s LLT and PT match the reported symptom (e.g., does “bad tummy pain” align with “Abdominal pain”?) and note any issues.
@@ -1374,7 +1375,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_06,MedDRA Coding & Case Quality
 Deliverables
 
 A Complex Case Coding Case File in OMEGA Word, listing the two descriptions, their LLT, PT, and SOC codes, an accuracy check note for one case, and a one-sentence PSUR comment.
-A one-sentence ""Detective’s Insight"" on what made the coding process interesting or clear.",,omegaword,,"Access the Zane MedDRA Simulation Tool at zaneproed.com/meddra-sim using your trainee credentials.
+A one-sentence ""Detective’s Insight"" on what made the coding process interesting or clear.",,omegaword,,"Access the Zane MedDRA in tools section with your trainee credentials.
 Review the Reference Document (two complex adverse event descriptions below) to prepare inputs.
 Input each description: Enter the exact text into the tool’s “Adverse Event Coder” field, select MedDRA version 27.0, and generate LLT, PT, and SOC codes for each symptom.
 Perform accuracy check: For the first description, verify if the tool’s LLTs and PTs logically match the reported symptoms (e.g., do “muscle soreness” and “tummy trouble” align with correct PTs?)
@@ -1388,7 +1389,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_06,MedDRA Coding & Case Quality
 Deliverables
 
 A Narrative Detective Case Summary in OMEGA Word, listing the two narratives, their LLT, PT, and SOC codes, a brief quality check note for one narrative, and a one-sentence PSUR comment.
-A one-sentence ""Detective’s Discovery"" on what made the narrative coding or quality check fun or clear.",,omegaword,,"Access the Zane MedDRA Simulation Tool at zaneproed.com/meddra-sim using your trainee credentials.
+A one-sentence ""Detective’s Discovery"" on what made the narrative coding or quality check fun or clear.",,omegaword,,"Access the Zane MedDRA in tools section with your trainee credentials.
 Review the Reference Document (two simplified patient narratives below) to prepare inputs.
 Input adverse events: For each narrative, identify the adverse event(s), enter them into the tool’s “Adverse Event Coder” field, select MedDRA version 27.0, and generate LLT, PT, and SOC codes.
 Perform quality check: For the first narrative, verify if the coded terms and narrative details (e.g., outcome, causality) align with ICH E2B(R3) standards (e.g., clear, complete).
@@ -1402,7 +1403,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_06,MedDRA Coding & Case Quality
 Deliverables
 
 A Case Update Log in OMEGA Word, listing the two follow-up case reports, their updated LLT, PT, and SOC codes, an accuracy check note for one case, and a one-sentence PSUR comment.
-A one-sentence ""Agent’s Insight"" on what made the follow-up coding or verification process fun or clear.",,omegaword,,"Access the Zane MedDRA Simulation Tool at zaneproed.com/meddra-sim using your trainee credentials.
+A one-sentence ""Agent’s Insight"" on what made the follow-up coding or verification process fun or clear.",,omegaword,,"Access the Zane MedDRA in tools section with your trainee credentials.
 Review the Reference Document (two follow-up case reports below) to identify new adverse event details for coding.
 Input updated adverse events: For each report, enter the new or updated adverse event(s) into the tool’s “Adverse Event Coder” field, select MedDRA version 27.0, and generate LLT, PT, and SOC codes.
 Perform accuracy check: For the first case, verify if the coded terms and updated details (e.g., outcome, new symptom) align with ICH E2B(R3) standards (e.g., complete, accurate).
@@ -1416,7 +1417,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_06,MedDRA Coding & Case Quality
 Deliverables
 
 A Code Fix Mission Report in OMEGA Word, listing the three descriptions, their correct LLT, PT, and SOC codes, a correction note for the identified error, and a one-sentence PSUR comment.
-A one-sentence ""Agent’s Breakthrough"" on what made spotting or fixing the error interesting or clear.",,omegaword,,"Access the Zane MedDRA Simulation Tool at zaneproed.com/meddra-sim using your trainee credentials.
+A one-sentence ""Agent’s Breakthrough"" on what made spotting or fixing the error interesting or clear.",,omegaword,,"Access the Zane MedDRA in tools section with your trainee credentials.
 Review the Reference Document (three adverse event descriptions and initial codes below) to identify the coding error.
 Input each description: Enter the exact text into the tool’s “Adverse Event Coder” field, select MedDRA version 27.0, and generate correct LLT, PT, and SOC codes.
 Identify and correct error: Compare the tool’s output to the initial codes in the Reference Document; spot the error (one description has an incorrect PT) and note the correction.
@@ -1430,7 +1431,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_06,MedDRA Coding & Case Quality
 Deliverables
 
 A Version Update Log in OMEGA Word, listing the three descriptions, their LLT, PT, and SOC codes from MedDRA 27.0, a comparison note for one code against version 26.0, and a one-sentence PSUR comment.
-A one-sentence ""Explorer’s Insight"" on what made the version update process interesting or clear.",,omegaword,,"Access the Zane MedDRA Simulation Tool at zaneproed.com/meddra-sim using your trainee credentials.
+A one-sentence ""Explorer’s Insight"" on what made the version update process interesting or clear.",,omegaword,,"Access the Zane MedDRA in tools section with your trainee credentials.
 Review the Reference Document (three adverse event descriptions and version 26.0 codes below) to prepare inputs.
 Input each description: Enter the exact text into the tool’s “Adverse Event Coder” field, select MedDRA version 27.0, and generate LLT, PT, and SOC codes.
 Compare versions: For the first description, compare the tool’s version 27.0 PT to the version 26.0 PT provided in the Reference Document to identify any term update (e.g., a refined PT).
