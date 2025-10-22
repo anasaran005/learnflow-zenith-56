@@ -1074,7 +1074,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_04,Signal Detection & Risk Mana
 Deliverables
 
 A basic signal summary entry in OMEGA Word, listing 3-5 trends from the VigiAccess query and reconciliation with FAERS.
-A brief follow-up suggestion for further analysis.",,omegaword,,"Access the official VigiAccess website at vigiaccess.org and search for ""paracetamol"" (or ""acetaminophen"" if needed), then navigate to hepatotoxicity-related ADRs to retrieve data (e.g., report count, categories).
+A brief follow-up suggestion for further analysis.",https://drive.google.com/file/d/1h2dALsdDrO0WjO24Fn-kJ0evOf2co89p/view?usp=sharing,omegaword,https://drive.google.com/file/d/1CyrUwSTeH7pOGFkyXcIQG146PkJ0UNLV/view?usp=drive_link,"Access the official VigiAccess website at vigiaccess.org and search for ""paracetamol"" (or ""acetaminophen"" if needed), then navigate to hepatotoxicity-related ADRs to retrieve data (e.g., report count, categories).
 Review the Reference Document (ICSR details below) to confirm the AE context.
 Open OMEGA Word & Enter the 3-5 trends and follow-up in OMEGA Word.
 Submit in OMEGA Word within 24 hours.",10
@@ -1083,7 +1083,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_04,Signal Detection & Risk Mana
 Deliverables
 
 A basic signal analysis summary entry in OMEGA Word, listing 3-5 key points from the PRR/ROR/IC calculations.
-A brief follow-up suggestion for validation.",,omegaword,,"Access Grok at Tools Section and input this prompt:
+A brief follow-up suggestion for validation.",https://drive.google.com/file/d/16iYoUSG7HHwfRZzLl73anSheXD8UmmGK/view?usp=sharing,omegaword,https://drive.google.com/file/d/1nnVpPE9waHL38ubdEETE793pdstOKQkj/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
 Calculate PRR, ROR, and IC for this AE dataset: Drug A (rosuvastatin) with AE: 50 cases, without AE: 950; All other drugs with AE: 100 cases, without AE: 9000. Interpret the results for signal detection.
 Review the Reference Document (dataset details below) to confirm the calculation context.
 Analyze 3-5 key points from Grok's output (e.g., PRR value, signal strength).
@@ -1096,7 +1096,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_04,Signal Detection & Risk Mana
 Deliverables
 
 A basic narrative review summary entry in OMEGA Word, listing 3-5 key qualitative points from the analysis.
-A brief follow-up suggestion for validation.",,omegaword,,"Access Grok at Tools Section and input this prompt:
+A brief follow-up suggestion for validation.",https://drive.google.com/file/d/1Bmpm6-yP3E7LVmch9pOB4mOyRNPpQbZr/view?usp=sharing,omegaword,https://drive.google.com/file/d/1UrG_kLHzZ3YZywr3keAG-XwQ5hk8bat-/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
 Analyze this ICSR narrative qualitatively for signals: A 65-year-old male with hypertension started losartan 50 mg oral daily on September 15, 2025, and reported hyperkalemia on September 20, 2025, with potassium level 5.8 mEq/L, non-serious, ongoing. No concomitant drugs, no renal issues noted. Identify 3-5 key qualitative points like patterns or clinical relevance.
 Review the Reference Document (ICSR details below) to confirm the narrative context.
 Identify 3-5 key points from Grok's output (e.g., temporal pattern, lack of alternatives).
@@ -1109,7 +1109,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_04,Signal Detection & Risk Mana
 Deliverables
 
 A basic cleaned signal summary entry in OMEGA Word, listing 3-5 filtered items (duplicates/false positives) and the remaining signals.
-A brief follow-up suggestion for further validation.",,omegaword,,"Access Grok at Tools Section and input this prompt:
+A brief follow-up suggestion for further validation.",https://drive.google.com/file/d/1zsGco1ILxaJ1U0MImShkGqS4bts4yHe6/view?usp=sharing,omegaword,https://drive.google.com/file/d/1_ffCWX4YtVP156RyHM3ILBv2dWDNYFFS/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
 Process this noisy AE dataset for valsartan-related edema: Dataset: Report 1: Edema after valsartan, serious; Report 2: Duplicate of Report 1; Report 3: Non-related headache; Report 4: Edema after valsartan, non-serious; Report 5: Low-quality, missing data; Report 6: Edema after valsartan, serious; Report 7: False positive, unrelated to drug. Filter 3-5 duplicates/false positives and summarize remaining signals.
 Review the Reference Document (ICSR details below) to confirm the AE context.
 Filter 3-5 items from Grok's output (e.g., duplicates, false positives).
@@ -1123,7 +1123,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_04,Signal Detection & Risk Mana
 Deliverables
 
 A basic privacy check summary entry in OMEGA Word, listing 3-5 privacy risks and suggested corrections.
-A brief follow-up suggestion for compliance.",,omegaword,,"Access Grok at Tools Section and input this prompt:
+A brief follow-up suggestion for compliance.",https://drive.google.com/file/d/1Mjk9-eisgKQBs22UqLeidVW9PZlvfKS6/view?usp=sharing,omegaword,https://drive.google.com/file/d/1e6DrHiTYcwbaAHOqvl_TnfcOLf6470DA/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
 Review this ICSR for GDPR/HIPAA privacy risks: Patient: Male, 50 years, hypertension. Drug: Lisinopril 10 mg oral daily, start September 15, 2025. AE: Cough, onset September 20, 2025, non-serious. Suggest 3-5 risks and corrections.
 Review the Reference Document (ICSR details below) to confirm potential risks (e.g., non-anonymized data).
 Identify 3-5 risks
@@ -1136,7 +1136,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_04,Signal Detection & Risk Mana
 Deliverables
 
 A basic signal validation summary entry in OMEGA Word, stating if confirmed (yes/no) and listing 3-5 key reasons.
-A brief follow-up suggestion for action.",,omegaword,,"Access Grok at Tools Section and input this prompt:
+A brief follow-up suggestion for action.",https://drive.google.com/file/d/1L0I7FnfsL0AmB5VOOUOpYLU7_uuc9SBx/view?usp=sharing,omegaword,https://drive.google.com/file/d/1O_rrOYJuPYm49YgPqm8Wvjxa9HHAcoHd/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
 Evaluate this potential signal for confirmation: A 55-year-old male with hypertension started ramipril 5 mg oral daily on September 15, 2025, and reported dry cough on September 20, 2025, non-serious, ongoing. No concomitant drugs, no respiratory issues noted. Determine if confirmed (yes/no) and provide 3-5 key reasons based on temporal relationship, plausibility, and data quality.
 Review the Reference Document (ICSR details below) to confirm the signal context.
 Determine confirmation status and list 3-5 reasons from Grok's output (e.g., temporal pattern, known class effect).
@@ -1149,7 +1149,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_04,Signal Detection & Risk Mana
 Deliverables
 
 A basic DPA summary entry in OMEGA Word, listing 3-5 key points from the PRR/ROR/IC calculations.
-A brief follow-up suggestion for validation.",,omegaword,,"Access Grok at Tools Section and input this prompt:
+A brief follow-up suggestion for validation.",https://drive.google.com/file/d/1m99fUOBePRBhYKMjxW9dFR2WhmI4jpT0/view?usp=sharing,omegaword,https://drive.google.com/file/d/1__y6ZJvvo3J7VmeWBO-niLjENTzLhf2O/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
 Calculate PRR, ROR, and IC for this AE dataset: Drug A (lisinopril) with AE: 30 cases, without AE: 970; All other drugs with AE: 50 cases, without AE: 9500. Interpret the results for signal detection.
 Review the Reference Document (ICSR details below) to confirm the calculation context.
 Analyze 3-5 key points from Grok's output (e.g., PRR value, signal strength).
@@ -1162,7 +1162,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_04,Signal Detection & Risk Mana
 Deliverables
 
 A basic signal report summary entry in OMEGA Word, including 3-5 key elements from the VigiAccess query and draft report.
-A brief follow-up suggestion for regulatory action.",,omegaword,,"Access the official VigiAccess website at vigiaccess.org and search for ""atorvastatin"" (or ""statin"" if needed), then navigate to hepatotoxicity-related ADRs to retrieve data (e.g., report count, categories) – take screenshots or note key stats creatively to build your report.
+A brief follow-up suggestion for regulatory action.",https://drive.google.com/file/d/1LqADSI28jM6FUXKt7VV7LEQjDJNHEjTY/view?usp=sharing,omegaword,https://drive.google.com/file/d/1VNynKLlWsFCy2lViYYn0Z2cwF-331SZZ/view?usp=sharing,"Access the official VigiAccess website at vigiaccess.org and search for ""atorvastatin"" (or ""statin"" if needed), then navigate to hepatotoxicity-related ADRs to retrieve data (e.g., report count, categories) – take screenshots or note key stats creatively to build your report.
 Access Grok at Tools Section and input this prompt:
 Draft a mock signal report for atorvastatin-related hepatotoxicity: Include signal description, data sources (VigiBase stats), assessment (seriousness, causality), and recommendations (e.g., RMP update). Summarize in 3-5 key points.
 Review the Reference Document (ICSR details below) to confirm the AE context.
@@ -1176,7 +1176,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_04,Signal Detection & Risk Mana
 Deliverables
 
 A basic RMS design summary entry in OMEGA Word, describing the creative intervention and 3 key data points from VigiAccess that justify it.
-A brief follow-up suggestion for effectiveness measurement.",,omegaword,,"Access the official VigiAccess website at vigiaccess.org and search for ""terbinafine"" (or ""lamisil"" if needed), then navigate to hepatotoxicity-related ADRs to retrieve data (e.g., report count, categories) – note 3 key points creatively to inform your design.
+A brief follow-up suggestion for effectiveness measurement.",https://drive.google.com/file/d/1qv0Arw4w46Ynr5aTHm4L7yucaFfl38zh/view?usp=sharing,omegaword,https://drive.google.com/file/d/1TTHryW1_JxIZq6F52e19JjIBVQyHIM5T/view?usp=sharing,"Access the official VigiAccess website at vigiaccess.org and search for ""terbinafine"" (or ""lamisil"" if needed), then navigate to hepatotoxicity-related ADRs to retrieve data (e.g., report count, categories) – note 3 key points creatively to inform your design.
 Access Grok at Tools Section and input this prompt:
 Design a creative RMS intervention (e.g., patient app or HCP toolkit) for terbinafine-related hepatotoxicity based on this data: [paste your 3 VigiAccess points]. Make it practical and engaging.
 Review the Reference Document (ICSR details below) to confirm the AE context.
@@ -1185,14 +1185,14 @@ Suggest a follow-up action (e.g., measure via patient feedback surveys).
 Open OMEGA Word and create a new document titled ""RMS Design Summary Entry - Case ID HP-2025-EU-001"".
 Enter the description, 3 points, and follow-up in OMEGA Word.
 Submit in OMEGA Word within 24 hours.",10
-course_2,Pro Training in Pharmacovigilance,,ch_2_04,Signal Detection & Risk Management,les_2_04_10,Signal Dashboards,task_2_04_10_1,MENTORSHIP,,,,,,10
+,,,,,,,,,,,,,,10
 ,,,,,,,,,,,,,,
 course_2,Pro Training in Pharmacovigilance,,ch_2_05,Aggregate Safety Reporting,les_2_05_01,PSUR Overview & Requirements,task_2_05_01_1,PSUR Overview & Requirements,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in India. You are tasked with preparing a PSUR overview for a potential safety issue from an ICSR based on a spontaneous report from a clinic in Europe. The report details a patient who experienced gastrointestinal bleeding after taking ibuprofen for pain. Using the official VigiAccess website (vigiaccess.org) from WHO, you will query for ibuprofen-gastrointestinal bleeding data (e.g., report count, trends), then use Grok (grok.com) to generate a creative mini-PSUR storyboard (e.g., a text-based ""comic strip"" narrative of safety summary and benefit-risk), and enter a simple PSUR storyboard summary in OMEGA Word for submission, ensuring compliance with regulatory authorities like CDSCO (India), EMA (Europe), FDA, MHRA.
 
 Deliverables
 
 A basic PSUR storyboard summary entry in OMEGA Word, including 3 key data points from VigiAccess and the creative storyboard text from Grok.
-A brief follow-up suggestion for full PSUR submission.",,omegaword,,"Access the official VigiAccess website at vigiaccess.org and search for ""ibuprofen"" (or ""NSAID"" if needed), then navigate to gastrointestinal bleeding-related ADRs to retrieve data (e.g., report count, categories) – note 3 key points to inform your storyboard.
+A brief follow-up suggestion for full PSUR submission.",https://drive.google.com/file/d/1WGttyR9Vfvx0eJ1EKhKi8t5jcdDT5vNS/view?usp=sharing,omegaword,https://drive.google.com/file/d/1Ajof6vizWRt8RLoS5jcHTZWfDCZcED4r/view?usp=sharing,"Access the official VigiAccess website at vigiaccess.org and search for ""ibuprofen"" (or ""NSAID"" if needed), then navigate to gastrointestinal bleeding-related ADRs to retrieve data (e.g., report count, categories) – note 3 key points to inform your storyboard.
 Access Grok at Tools Section and input this prompt:
 Generate a creative mini-PSUR storyboard in text form (like a comic strip narrative) for ibuprofen-related gastrointestinal bleeding: Include sections for safety summary, benefit-risk assessment, and conclusions, based on this data: [paste your 3 VigiAccess points]. Make it engaging and story-like.
 Review the Reference Document (ICSR details below) to confirm the AE context.
@@ -1206,7 +1206,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_05,Aggregate Safety Reporting,l
 Deliverables
 
 A basic DSUR timeline summary entry in OMEGA Word, including the calculated timeline and creative infographic text from Grok.
-A brief follow-up suggestion for data inclusion.",,omegaword,,"Access Grok at Tools Section and input this prompt:
+A brief follow-up suggestion for data inclusion.",https://drive.google.com/file/d/1329IQ-VkcYWx1_LjOaai2LwRE4-aSVR6/view?usp=sharing,omegaword,https://drive.google.com/file/d/1-x7lcirQSMQGSOCcZRdzootNToFSp5d0/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
 Calculate DSUR timelines for this clinical trial: IND approval date September 15, 2025, for sofosbuvir in hepatitis C trials. Provide annual submission deadlines and generate a creative text-based infographic (e.g., a visual timeline description) for the first 2 years.
 Review the Reference Document (ICSR details below) to confirm the trial context.
 Calculate timelines from Grok's output (e.g., first DSUR due November 15, 2026).
@@ -1220,7 +1220,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_05,Aggregate Safety Reporting,l
 Deliverables
 
 A basic aggregated data summary entry in OMEGA Word, including a tabulated AE frequency summary (e.g., table of seriousness counts) and 3 key trends.
-A brief follow-up suggestion for PSUR inclusion.",,omegaword,,"Access Grok at Tools Section and input this prompt:
+A brief follow-up suggestion for PSUR inclusion.",https://drive.google.com/file/d/1XPYAcis1MVPhNgN5liB6UedN6NPax9ta/view?usp=sharing,omegaword,https://drive.google.com/file/d/1vKesT01VER71-q2NcqKoVF9XkG9y0nLo/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
 Clean this ICSR dataset for aggregation: [paste the full Reference Document dataset]. Remove duplicates, fix missing fields (e.g., assume seriousness 'Non-serious' if missing), standardize MedDRA codes, then tabulate AE frequencies by seriousness and age group. Summarize 3 key trends.
 Review the Reference Document (dataset below) to confirm the data context.
 Clean and tabulate based on Grok's output (e.g., table of myalgia cases by seriousness).
@@ -1234,7 +1234,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_05,Aggregate Safety Reporting,l
 Deliverables
 
 A revised PSUR section entry in OMEGA Word, including the AI-drafted text and 1-2 human edits with explanations.
-A brief follow-up suggestion for quality review.",,omegaword,,"Access Grok at Tools Section and input this prompt:
+A brief follow-up suggestion for quality review.",https://drive.google.com/file/d/1EMuqyO0pCzlbNM0Y6bjIwhgCbD4f9VUj/view?usp=sharing,omegaword,https://drive.google.com/file/d/1OfpYt5XG5WtAVjqd5dgMwPuymbwG1IWE/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
 Draft a PSUR 'Summary of Safety Concerns' section for valsartan-related angioedema: Include known risks, potential risks, and missing information, based on this data: 300 reports, 70% serious, onset average 2 weeks, higher in females. Make it concise and regulatory-style.
 Review the Reference Document (ICSR details below) to confirm the AE context.
 Edit the Grok draft by adding 1-2 refinements (e.g., add a clinical note or correct a detail for accuracy).
@@ -1248,7 +1248,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_05,Aggregate Safety Reporting,l
 Deliverables
 
 A revised Summary Tabulation entry in OMEGA Word, including the AI-drafted text and 1-2 human edits with explanations.
-A brief follow-up suggestion for quality review.",,omegaword,,"Access Grok at Tools Section and input this prompt:
+A brief follow-up suggestion for quality review.",https://drive.google.com/file/d/1dp2god4RLsTzQcbscszDHxCjedmApp51/view?usp=sharing,omegaword,https://drive.google.com/file/d/1BO-SkiQtd20KBiqwfWfegD9m3o-6zhyK/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
 Draft a Summary Tabulation section for ibuprofen-related gastrointestinal bleeding: Include counts and percentages by seriousness, age groups, sex, outcomes, and trends, based on this data: 200 reports, 60% serious, age distribution (20% under 18, 50% 18-65, 30% over 65), 55% female, outcomes (70% recovered, 20% ongoing, 10% fatal). Make it concise and regulatory-style, using MedDRA terminology.
 Review the Reference Document (sample line listing details below) to confirm the AE context and aggregation.
 Edit the Grok draft by adding 1-2 refinements (e.g., add a note on MedDRA coding or adjust for demographic trends for accuracy).
@@ -1262,7 +1262,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_05,Aggregate Safety Reporting,l
 Deliverables
 
 A revised PSUR Quality Check Summary entry in OMEGA Word, including the AI-drafted text and 1-2 human edits with explanations.
-A brief follow-up suggestion for quality review.",,omegaword,,"Access Grok at Tools Section and input this prompt:
+A brief follow-up suggestion for quality review.",https://drive.google.com/file/d/1g_ZIz1wZbvYQq6LKe6SqK_RSBEFKXxbW/view?usp=sharing,omegaword,https://drive.google.com/file/d/14AhGYHS1a_OKKV4qWwEYaKlH2wiDy3q4/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
 Draft a PSUR Quality Check Summary for atorvastatin-related myopathy: Include verification of data accuracy, completeness, consistency, regulatory compliance, and key trends, based on this data: 150 reports, 65% serious, age distribution (15% under 18, 55% 18-65, 30% over 65), 60% male, outcomes (75% recovered, 15% ongoing, 10% fatal). Make it concise and regulatory-style, referencing MedDRA coding.
 Review the Reference Document (sample PSUR details below) to confirm the quality check context.
 Edit the Grok draft by adding 1-2 refinements (e.g., add a note on duplicate detection or adjust for consistency in terminology for accuracy).
@@ -1276,7 +1276,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_05,Aggregate Safety Reporting,l
 Deliverables
 
 A revised Signal Detection and Risk Evaluation entry in OMEGA Word, including the AI-drafted text and 1-2 human edits with explanations.
-A brief follow-up suggestion for quality review.",,omegaword,,"Access Grok at Tools Section and input this prompt:
+A brief follow-up suggestion for quality review.",https://drive.google.com/file/d/1r1-S4_g7WYzEFcK6GGHoENUBxbPfyaUD/view?usp=sharing,omegaword,https://drive.google.com/file/d/1-Jp2n_taiKr9qQb9XOW_ZEHnReH6BnvK/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
 Draft a DSUR 'Signal Detection and Risk Evaluation' section for Cardiostimab-related elevated liver enzymes: Include signal identification, causality assessment, risk evaluation, and recommendations, based on this data: 100 reports, 50% serious, incidence rate 5 per 100 patient-years, higher in Phase III, temporal association average 4 weeks, dose-response observed. Make it concise and regulatory-style, using MedDRA terminology.
 Review the Reference Document (sample DSUR case details below) to confirm the analysis context.
 Edit the Grok draft by adding 1-2 refinements (e.g., add a note on benefit-risk implications or adjust for confounding factors for accuracy).
@@ -1290,7 +1290,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_05,Aggregate Safety Reporting,l
 Deliverables
 
 A revised Key Considerations for Submission entry in OMEGA Word, including the AI-drafted text and 1-2 human edits with explanations.
-A brief follow-up suggestion for quality review.",,omegaword,,"Access Grok at Tools Section and input this prompt:
+A brief follow-up suggestion for quality review.",https://drive.google.com/file/d/1TFlcNSXy5TYhQbr1Jo8idNtp0lsr7kPH/view?usp=sharing,omegaword,https://drive.google.com/file/d/1Fs0IP2lkAuBGjM30C-qzM6qRmzE0IDB6/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
 Draft a 'Key Considerations for Submission' section for a regulatory report on metformin-related lactic acidosis: Include data quality, compliance, traceability, and recommendations, based on this data: 120 reports, 70% serious, age distribution (10% under 18, 60% 18-65, 30% over 65), 50% female, outcomes (65% recovered, 25% ongoing, 10% fatal). Make it concise and regulatory-style, referencing MedDRA coding.
 Review the Reference Document (sample regulatory report details below) to confirm the submission context.
 Edit the Grok draft by adding 1-2 refinements (e.g., add a note on data privacy compliance or adjust for regional variations for accuracy).
@@ -1304,7 +1304,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_05,Aggregate Safety Reporting,l
 Deliverables
 
 A completed Query Matching Table in OMEGA Word, showing matched queries, strategies, and rationales.
-A brief explanation of one ""aha"" moment from the puzzle (e.g., why a certain match was tricky or insightful).",,omegaword,,"Review the Reference Document (sample queries and options below) to familiarize yourself with the puzzle elements.
+A brief explanation of one ""aha"" moment from the puzzle (e.g., why a certain match was tricky or insightful).",https://drive.google.com/file/d/1FEMuWP1hLn8hlVOjeOf6fVXtqRYHWUHQ/view?usp=sharing,omegaword,https://drive.google.com/file/d/1xRK493g2qjJGht2BDRpzM60oW1xeZPGv/view?usp=sharing,"Review the Reference Document (sample queries and options below) to familiarize yourself with the puzzle elements.
 Analyze each query: Identify its focus (e.g., discrepancy, missing data) based on the study document's guidance on query nature.
 Match to strategies: Select the best handling strategy (A-E) and rationale (1-5) from the lists provided.
 Build the table: Use a simple table format in OMEGA Word with columns for Query Number, Matched Strategy (letter), Matched Rationale (number), and Brief Justification.
@@ -1312,14 +1312,14 @@ Add your insight: Note one interesting takeaway from the matching process.
 Open OMEGA Word and create a new document titled ""PSUR Query Matching Puzzle - Case ID HP-2025-UK-US-001"".
 Enter the table and insight in OMEGA Word.
 Submit in OMEGA Word within 24 hours.",10
-course_2,Pro Training in Pharmacovigilance,,ch_2_05,Aggregate Safety Reporting,les_2_05_10,Periodic Report Automation,task_2_05_10_1,MENTORSHIP,,,,,,10
+,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 course_2,Pro Training in Pharmacovigilance,,ch_2_06,MedDRA Coding & Case Quality,les_2_06_01,MedDRA Hierarchy Overview,task_2_06_01_1,MedDRA Hierarchy Overview,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in the UK. Your team is preparing a PSUR for paracetamol-related adverse events. In this ""Quick Code Quest,"" you’ll use the Zane MedDRA Simulation Tool (accessible at zaneproed.com/meddra-sim) to code three simple patient-reported adverse events into MedDRA Preferred Terms (PTs). You’ll verify one PT for accuracy and write a brief note for the PSUR, ensuring compliance with authorities like EMA (EU), FDA (USA), MHRA (UK), and CDSCO (India).
 
 Deliverables
 
 A MedDRA Coding Note in OMEGA Word, listing the three descriptions, their PTs, one verification note, and a brief PSUR comment.
-A one-sentence reflection on using the tool.",,omegaword,,"Access the Zane MedDRA in tools section with your trainee credentials.
+A one-sentence reflection on using the tool.",https://drive.google.com/file/d/1YKkljzQjj33BzHYbyNPUGokHsv5I4eqh/view?usp=sharing,omegaword,https://drive.google.com/file/d/1YXkVQ4SgContbfF_kOdkMX7tmdhM3icF/view?usp=sharing,"Access the Zane MedDRA in tools section with your trainee credentials.
 Review the Reference Document (three adverse event descriptions below) for input.
 Input each description into the tool’s “Adverse Event Coder” field, using the latest MedDRA version (e.g., 27.0), to generate the PT.
 Verify one PT: Check if the tool’s PT for the first description makes sense (e.g., matches the symptom logically).
@@ -1333,7 +1333,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_06,MedDRA Coding & Case Quality
 Deliverables
 
 An Adventure Log in OMEGA Word, listing the four adverse event descriptions, their LLT, PT, and SOC codes from the tool, and a one-sentence PSUR note on their value.
-A one-sentence ""Explorer’s Insight"" on what made the coding fun or clear.",,omegaword,,"Access the Zane MedDRA in tools section with your trainee credentials.
+A one-sentence ""Explorer’s Insight"" on what made the coding fun or clear.",https://drive.google.com/file/d/1W-N3ZdkQKTV1CFZET_aSLdWezCeMJ--R/view?usp=sharing,omegaword,https://drive.google.com/file/d/1Wt5Y3Ee1Fuwir0iXtjwzGkdQbU6Za9Bc/view?usp=sharing,"Access the Zane MedDRA in tools section with your trainee credentials.
 Review the Reference Document (four adverse event descriptions below) to prepare your inputs.
 Input each description: Enter the exact text into the tool's ""Adverse Event Coder"" field, select MedDRA version 27.0, and generate the LLT, PT, and SOC.
 Log the codes: Record the tool's output for each description (LLT, PT, SOC) in a table.
@@ -1347,7 +1347,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_06,MedDRA Coding & Case Quality
 Deliverables
 
 An AI Code Quest Report in OMEGA Word, listing the four descriptions, their auto-generated LLT, PT, and SOC codes, a validation note for one code, and a one-sentence PSUR note.
-A one-sentence ""Coder’s Spark"" on what made the AI coding process exciting or clear.",,omegaword,,"Access the Zane MedDRA in tools section with your trainee credentials.
+A one-sentence ""Coder’s Spark"" on what made the AI coding process exciting or clear.",https://drive.google.com/file/d/1PGMkUSLQ550iU-UtM-vdOhrbY3rp8KD3/view?usp=sharing,omegaword,https://drive.google.com/file/d/16yv_N_bgWOABGKAZQSusvwXuB9vkf2fK/view?usp=sharing,"Access the Zane MedDRA in tools section with your trainee credentials.
 Review the Reference Document (four adverse event descriptions below) to prepare inputs.
 Input each description: Enter the exact text into the tool’s “Adverse Event Coder” field, select MedDRA version 27.0, and generate LLT, PT, and SOC codes.
 Validate one code: For the first description, check if the tool’s LLT and PT match the reported symptom (e.g., does “tummy upset” map to “Abdominal discomfort” logically?).
@@ -1361,7 +1361,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_06,MedDRA Coding & Case Quality
 Deliverables
 
 A Code Check Agent’s Report in OMEGA Word, listing the three descriptions, their LLT, PT, and SOC codes, an accuracy check note for one code, and a one-sentence PSUR comment.
-A one-sentence ""Agent’s Clue"" on what made the accuracy check interesting or useful.",,omegaword,,"Access the Zane MedDRA in tools section with your trainee credentials.
+A one-sentence ""Agent’s Clue"" on what made the accuracy check interesting or useful.",https://drive.google.com/file/d/1lW3e4gG42a7JXPVQDt6v7jb7wYkb3oub/view?usp=sharing,omegaword,https://drive.google.com/file/d/1lpqLPjP-WKdkED2LHndwiptWZD6Qcul0/view?usp=sharing,"Access the Zane MedDRA in tools section with your trainee credentials.
 Review the Reference Document (three adverse event descriptions below) to prepare inputs.
 Input each description: Enter the exact text into the tool’s “Adverse Event Coder” field, select MedDRA version 27.0, and generate LLT, PT, and SOC codes.
 Perform accuracy check: For the first description, verify if the tool’s LLT and PT match the reported symptom (e.g., does “bad tummy pain” align with “Abdominal pain”?) and note any issues.
@@ -1375,7 +1375,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_06,MedDRA Coding & Case Quality
 Deliverables
 
 A Complex Case Coding Case File in OMEGA Word, listing the two descriptions, their LLT, PT, and SOC codes, an accuracy check note for one case, and a one-sentence PSUR comment.
-A one-sentence ""Detective’s Insight"" on what made the coding process interesting or clear.",,omegaword,,"Access the Zane MedDRA in tools section with your trainee credentials.
+A one-sentence ""Detective’s Insight"" on what made the coding process interesting or clear.",https://drive.google.com/file/d/1G__hU4iatiZZT5BkHGUCSmU7E3i4gzKK/view?usp=sharing,omegaword,https://drive.google.com/file/d/1_PVykqwb_BEmunr5oWAzIw9oWG8c2SQ-/view?usp=sharing,"Access the Zane MedDRA in tools section with your trainee credentials.
 Review the Reference Document (two complex adverse event descriptions below) to prepare inputs.
 Input each description: Enter the exact text into the tool’s “Adverse Event Coder” field, select MedDRA version 27.0, and generate LLT, PT, and SOC codes for each symptom.
 Perform accuracy check: For the first description, verify if the tool’s LLTs and PTs logically match the reported symptoms (e.g., do “muscle soreness” and “tummy trouble” align with correct PTs?)
@@ -1389,7 +1389,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_06,MedDRA Coding & Case Quality
 Deliverables
 
 A Narrative Detective Case Summary in OMEGA Word, listing the two narratives, their LLT, PT, and SOC codes, a brief quality check note for one narrative, and a one-sentence PSUR comment.
-A one-sentence ""Detective’s Discovery"" on what made the narrative coding or quality check fun or clear.",,omegaword,,"Access the Zane MedDRA in tools section with your trainee credentials.
+A one-sentence ""Detective’s Discovery"" on what made the narrative coding or quality check fun or clear.",https://drive.google.com/file/d/1m8TsElYKtWcWyXQmEyU2qn1-upnI7OEQ/view?usp=sharing,omegaword,https://drive.google.com/file/d/1MYBEUnPtDaewaXZztXMlEd0CtJFZJAeG/view?usp=sharing,"Access the Zane MedDRA in tools section with your trainee credentials.
 Review the Reference Document (two simplified patient narratives below) to prepare inputs.
 Input adverse events: For each narrative, identify the adverse event(s), enter them into the tool’s “Adverse Event Coder” field, select MedDRA version 27.0, and generate LLT, PT, and SOC codes.
 Perform quality check: For the first narrative, verify if the coded terms and narrative details (e.g., outcome, causality) align with ICH E2B(R3) standards (e.g., clear, complete).
@@ -1403,7 +1403,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_06,MedDRA Coding & Case Quality
 Deliverables
 
 A Case Update Log in OMEGA Word, listing the two follow-up case reports, their updated LLT, PT, and SOC codes, an accuracy check note for one case, and a one-sentence PSUR comment.
-A one-sentence ""Agent’s Insight"" on what made the follow-up coding or verification process fun or clear.",,omegaword,,"Access the Zane MedDRA in tools section with your trainee credentials.
+A one-sentence ""Agent’s Insight"" on what made the follow-up coding or verification process fun or clear.",https://drive.google.com/file/d/1M7HGggrtjveZu7WILunDMYCqx3cVkG0o/view?usp=sharing,omegaword,https://drive.google.com/file/d/1cYsmDzLVu0F9ycmUpsoXW9DOEMYCqlZ7/view?usp=sharing,"Access the Zane MedDRA in tools section with your trainee credentials.
 Review the Reference Document (two follow-up case reports below) to identify new adverse event details for coding.
 Input updated adverse events: For each report, enter the new or updated adverse event(s) into the tool’s “Adverse Event Coder” field, select MedDRA version 27.0, and generate LLT, PT, and SOC codes.
 Perform accuracy check: For the first case, verify if the coded terms and updated details (e.g., outcome, new symptom) align with ICH E2B(R3) standards (e.g., complete, accurate).
@@ -1417,7 +1417,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_06,MedDRA Coding & Case Quality
 Deliverables
 
 A Code Fix Mission Report in OMEGA Word, listing the three descriptions, their correct LLT, PT, and SOC codes, a correction note for the identified error, and a one-sentence PSUR comment.
-A one-sentence ""Agent’s Breakthrough"" on what made spotting or fixing the error interesting or clear.",,omegaword,,"Access the Zane MedDRA in tools section with your trainee credentials.
+A one-sentence ""Agent’s Breakthrough"" on what made spotting or fixing the error interesting or clear.",https://drive.google.com/file/d/1olyRp_tiTHRGPGSjwTr2YJizey5SxOJs/view?usp=sharing,omegaword,https://drive.google.com/file/d/1-Ik-Z3c_CimXan7P_4czeC-cWEYQrkmG/view?usp=sharing,"Access the Zane MedDRA in tools section with your trainee credentials.
 Review the Reference Document (three adverse event descriptions and initial codes below) to identify the coding error.
 Input each description: Enter the exact text into the tool’s “Adverse Event Coder” field, select MedDRA version 27.0, and generate correct LLT, PT, and SOC codes.
 Identify and correct error: Compare the tool’s output to the initial codes in the Reference Document; spot the error (one description has an incorrect PT) and note the correction.
@@ -1431,7 +1431,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_06,MedDRA Coding & Case Quality
 Deliverables
 
 A Version Update Log in OMEGA Word, listing the three descriptions, their LLT, PT, and SOC codes from MedDRA 27.0, a comparison note for one code against version 26.0, and a one-sentence PSUR comment.
-A one-sentence ""Explorer’s Insight"" on what made the version update process interesting or clear.",,omegaword,,"Access the Zane MedDRA in tools section with your trainee credentials.
+A one-sentence ""Explorer’s Insight"" on what made the version update process interesting or clear.",https://drive.google.com/file/d/1QMO7EEVsZoX4hKd703R62qVdkXllKA_0/view?usp=sharing,omegaword,https://drive.google.com/file/d/1Fse7ZwpmevVtZ_g2Codtkdi0mCNOTpbW/view?usp=sharing,"Access the Zane MedDRA in tools section with your trainee credentials.
 Review the Reference Document (three adverse event descriptions and version 26.0 codes below) to prepare inputs.
 Input each description: Enter the exact text into the tool’s “Adverse Event Coder” field, select MedDRA version 27.0, and generate LLT, PT, and SOC codes.
 Compare versions: For the first description, compare the tool’s version 27.0 PT to the version 26.0 PT provided in the Reference Document to identify any term update (e.g., a refined PT).
@@ -1440,7 +1440,7 @@ Add your insight: Note one interesting or clear aspect of the version update pro
 Open OMEGA Word and create a document titled ""Version Update Adventure Log - Case ID HP-2025-UK-EU-012"".
 Enter the Update Log and insight in OMEGA Word.
 Submit in OMEGA Word within 24 hours.",10
-course_2,Pro Training in Pharmacovigilance,,ch_2_06,MedDRA Coding & Case Quality,les_2_06_10,Case Quality Dashboards,task_2_06_10_1,MENTORSHIP,,,,,,10
+,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 course_2,Pro Training in Pharmacovigilance,,ch_2_07,PV Audits & Inspections,les_2_07_01,PV Audit Overview,task_2_07_01_1,PV Audit Overview,,,,,,10
 course_2,Pro Training in Pharmacovigilance,,ch_2_07,PV Audits & Inspections,les_2_07_02,Preparing for FDA PV Inspections,task_2_07_02_1,Preparing for FDA PV Inspections,,,,,,10
