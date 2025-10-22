@@ -22,6 +22,7 @@ course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level va
 During a routine document audit, you notice that the SOP for sample storage (SOP-QC-002, v1.0) requires samples to be stored at 2–8°C, but the lab’s refrigerator log shows temperatures occasionally reaching 10°C due to a missing maintenance check step. Mr. Desai asks you to propose an update to the SOP using a Document Change Request (DCR) Form to add a daily maintenance check.
 
 Deliverables
+
 Completed Document Change Request (DCR) Form (100–150 words) identifying the SOP gap and proposing the addition of a daily refrigerator maintenance check.",https://drive.google.com/file/d/1y6RVPyWpTB_SD0sskQDxt5S8GbQxM4U4/view?usp=sharing,https://tally.so/r/wbJPeo,https://drive.google.com/file/d/1kt87iFAUiZUiOGBjjk6pkzhtk98MHi2k/view?usp=sharing,"Click “Reference Documents” to review SOP-QC-002 and the refrigerator log.
 Compare SOP (requires 2–8°C storage, no maintenance step) to the log (shows temperature deviations).
 Open “Fillable Document” (DCR Form).
@@ -30,6 +31,7 @@ Submit via “Answer Portal.”",10
 course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,ch_1_01,Foundations of Quality Warfare,les_1_01_03,Spot the Breach – Deviation Detection & Rapid Reporting,task_1_01_03_1,Detecting and Classifying a Deviation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Ms. Priya Sharma, Quality Assurance Supervisor. During a routine in-process check (IPC) of a tablet batch (Batch No. TAB-2025-047), you notice that the tablet weight recorded by the automated weighing machine is 495 mg, below the SOP-QC-003 requirement of 500 ± 5 mg. After checking, you find the weighing machine was not calibrated before the shift, causing the deviation. Ms. Sharma instructs you to document this using the Deviation and Incident Report Form and propose immediate containment actions.
 
 Deliverables
+
 Completed Deviation and Incident Report Form (100–150 words total across fields) documenting the weight deviation, its cause, and containment actions.",https://drive.google.com/file/d/11Pqhs4bKzotVdEmLs_kL3RpEshaiO4HP/view?usp=sharing,https://tally.so/r/3jVqb9,https://drive.google.com/file/d/1E7UVvyWtPSCLChXVtLDwIOFv95C4h3cj/view?usp=sharing,"Click “Reference Documents” to review SOP-QC-003 and IPC Log.
 Compare SOP (tablet weight 500 ± 5 mg) to IPC Log (weight 495 mg).
 Open “Fillable Document” (Deviation and Incident Report Form).
@@ -37,7 +39,8 @@ Fill the form: Describe the deviation (low weight), identify cause (uncalibrated
 Submit via “Answer Portal.”",10
 course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,ch_1_01,Foundations of Quality Warfare,les_1_01_04,Strike Back – Root Cause Analysis & CAPA Drafting,task_1_01_04_1,The Mystery of the Failing Cold Room,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Mr. Anil Gupta, Quality Assurance Manager. During a routine dissolution test for tablet batch TAB-2025-049, 3 out of 20 tablets failed to meet the SOP-QC-004 dissolution specification (≥80% dissolution in 30 minutes). Initial investigation points to inconsistent granulation time. Mr. Gupta instructs you to perform a root cause analysis (RCA) using the 5 Whys method and document corrective and preventive actions using the CAPA Command Template.
 
-Deliverables: 
+Deliverables
+
 Completed CAPA Command Template (100–150 words total across descriptive fields) documenting the root cause of the dissolution failure and proposing corrective and preventive actions.",https://drive.google.com/file/d/1lS8dLuDj7nq_pBJ-gJuvkEM6uKwkAt10/view?usp=sharing,https://tally.so/r/mDGOYl,https://drive.google.com/file/d/1XuYqWUXV9iFj_VOmxN5zzPxP-k-wiEBb/view?usp=sharing,"Click “Reference Documents” to review SOP-QC-004 and Dissolution Test Log.
 Use the 5 Whys method to identify the root cause (start with: tablets failed dissolution test).
 Open “Fillable Document” (CAPA Command Template).
@@ -45,7 +48,8 @@ Fill the form: Describe the issue, document RCA findings, propose corrective act
 Submit via “Answer Portal.”",10
 course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,ch_1_01,Foundations of Quality Warfare,les_1_01_05,First Combat Drill – Internal Audit & Document Inspection Simulation,task_1_01_05_1,Internal Audit & Document Inspection at Sunrise Hospital Lab,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, assigned as an internal auditor under Ms. Rhea Patel, QA Manager. During a mock process audit of the sample testing process, you review the Sample Testing Log (LOG-2025-016) against SOP-QC-005 (Sample Testing Procedure, v1.0). You notice that 4 out of 10 test records lack analyst signatures, violating SOP-QC-005’s requirement for signed documentation. Ms. Patel instructs you to document your findings and recommend corrective actions using the Audit & Inspection Form.
 
-Deliverables: 
+Deliverables
+
 Completed Audit & Inspection Form (100–150 words total across REMARKS and Others/Additional Observations) documenting audit findings and recommending actions.",https://drive.google.com/file/d/1-oJxjHqSgFMuadS30z0e4X7S2Niym0Pd/view?usp=sharing,https://tally.so/r/mV6BGl,https://drive.google.com/file/d/1KxGNxSxQjpedN8HdvsWo6Yr308ugNea8/view?usp=sharing,"Click “Reference Documents” to review SOP-QC-005 and Sample Testing Log.
 Compare SOP-QC-005 (requires analyst signatures on all test records) to LOG-2025-016 (4/10 records missing signatures).
 Open “Fillable Document” (Audit & Inspection Form).
@@ -53,7 +57,7 @@ Fill the form: Check relevant criteria (e.g., Documentation complete and accurat
 Submit via “Answer Portal.”",10
 course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,ch_1_01,Foundations of Quality Warfare,les_1_01_06,Defend the Lab – OOS/OOT Identification & First-line Investigation,task_1_01_06_1,OOS Identification and First-line Investigation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Ms. Priya Sharma, Quality Assurance Supervisor. During a routine purity test for raw material batch RM-2025-105, the HPLC test result shows a purity of 98.5%, below the SOP-QC-006 specification of ≥99.5%. Initial checks suggest a possible lab error in sample preparation. Ms. Sharma instructs you to document the OOS result and perform a first-line investigation using the Deviation and Incident Report Form, noting immediate actions and initial findings.
 
-Deliverables: 
+Deliverables 
 Completed Deviation and Incident Report Form (100–150 words total across Incident Description, Immediate Action Taken, Root Cause Analysis, CAPA Details) documenting the OOS result, immediate actions, and initial investigation findings.",https://drive.google.com/file/d/1wTls81wwbIgvuyF200uR2wvTn1RrQ3BB/view?usp=sharing,https://tally.so/r/3jVqb9,https://drive.google.com/file/d/11FmFmPckN-p-Fi83L-9PlpaknjLjnwqC/view?usp=sharing,"Click “Reference Documents” to review SOP-QC-006 and HPLC Test Log.
 Compare SOP-QC-006 (purity ≥99.5%) to HPLC Test Log (98.5% purity).
 Open “Fillable Document” (Deviation and Incident Report Form).
@@ -61,7 +65,8 @@ Fill the form: Describe the OOS result, note immediate actions (e.g., quarantine
 Submit via “Answer Portal.”",10
 course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,ch_1_01,Foundations of Quality Warfare,les_1_01_07,Guard the Data – ALCOA+ & Data Integrity Auditing,task_1_01_07_1,ALCOA+ & Data Integrity Auditing,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, assigned as a data integrity auditor under Mr. Vikram Desai, QA Lead. During a mock audit of batch record data for tablet batch TAB-2025-053, you review the Batch Record Log (LOG-2025-020) against SOP-QA-007 (Batch Record Documentation). You notice that 5 out of 10 records have timestamps entered hours after the test, violating SOP-QA-007’s requirement for contemporaneous data entry (ALCOA+ principle). Mr. Desai instructs you to document your findings and recommend improvements using the Compliance Verification Form.
 
-Deliverables: 
+Deliverables
+
 Completed Compliance Verification Form (100–150 words total across REMARKS, Deviation Details, Suggested Improvements) documenting the data integrity audit findings and proposed improvements.",https://drive.google.com/file/d/1P739y6U2m9-qzwXOWqGx5nlzXmIM3_Mf/view?usp=sharing,https://tally.so/r/m6Bzeo,https://drive.google.com/file/d/1JQytxpbHV5Nvr3OFjZ1YMdUu-8Tpm8Ow/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-007 and Batch Record Log.
 Compare SOP-QA-007 (requires contemporaneous timestamps) to LOG-2025-020 (delayed timestamps).
 Open “Fillable Document” (Compliance Verification Form).
@@ -88,7 +93,7 @@ Fill the CAPA Template: Reference the deviation ID (DEV-2025-055), draft correct
 Tip: This two-form workflow mimics real QA—deviation for quick response, CAPA for long-term fix. Keep descriptions concise and evidence-based.",10
 course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,ch_1_01,Foundations of Quality Warfare,les_1_01_09,The War Game – Integrated QA/QC Crisis Assignment,task_1_01_09_1,Integrated QA/QC Crisis Assignment,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Mr. Anil Gupta, QA Manager. A crisis erupts: an assay test for Batch TAB-2025-057 shows an OOS result (API content 97.8% vs. ≥99.0% per SOP-QC-009). Simultaneously, an audit uncovers missing training records for two analysts (AK003, VS004) on SOP-QC-009, and an FDA inspection is scheduled tomorrow. Mr. Gupta tasks you with managing the crisis using three forms: Crisis Tracker Dashboard to triage and prioritize issues, Deviation and Incident Report Form to detail the OOS with RCA, and CAPA Command Template to resolve the OOS with corrective/preventive actions.
 
-Deliverables: Three completed forms:
+Deliverables
 
 1. Crisis Tracker Dashboard (triage/prioritize OOS and training issues, 100–150 words across descriptives).
 2. Deviation and Incident Report Form (OOS detail/RCA, 100–150 words).
@@ -105,10 +110,10 @@ Fill CAPA Template: Reference Deviation ID, draft corrective/preventive actions,
 Tip: Dashboard is your crisis command center—link IDs across forms for traceability. Prioritize patient safety (OOS) for audit readiness.",10
 ,,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,,,,,,,,,,,,
 course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,ch_1_02,Hospital Quality Command Protocols,les_1_02_01,Entering the Ward Zone – Hospital QMS Framework & Accreditation Codes,task_1_02_01_1,Ward QMS Compliance Audit,"You are a Junior Quality Control Analyst at Zenith Hospital, reporting to Dr. Meera Nair, Quality Assurance Lead. During a routine ward audit in Ward 3 (General Medicine), you review the Hand Hygiene Compliance Log (LOG-2025-027) against SOP-QA-010 (Hand Hygiene Protocol). 
-
 You find that 6 out of 10 shift logs lack hand hygiene verification entries, violating SOP-QA-010 and NABH Standard AAC.5 (Access to Care and Continuity). Dr. Nair instructs you to document the non-compliance and recommend improvements using the Compliance Verification Form to prepare for an upcoming NABH audit.
 
-Deliverables: 
+Deliverables
+
 Completed Compliance Verification Form (100–150 words total across REMARKS, Deviation Details, Suggested Improvements) documenting the ward audit findings and proposed improvements for NABH compliance.",https://drive.google.com/file/d/1Sz3g4chibpJOI18mRlH78C-gfuc26qsb/view?usp=sharing,https://tally.so/r/m6Bzeo,https://drive.google.com/file/d/1KYlll5nEFnTyrXlT_vJUpeQWJdS7ZdoW/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-010 and Hand Hygiene Compliance Log.
 Compare SOP-QA-010 (requires hand hygiene verification entries per shift) to LOG-2025-027 (missing entries).
 Open “Fillable Document” (Compliance Verification Form).
@@ -116,7 +121,8 @@ Fill the form: Check criteria (e.g., Documentation complete and accurate: B - FA
 Submit via “Answer Portal”.",10
 course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,ch_1_02,Hospital Quality Command Protocols,les_1_02_02,Code Control – SOP Command Chains & Access Authority,task_1_02_02_1,SOP Compliance and Access Authority Audit,"You are a Junior Quality Control Analyst at Zenith Hospital, reporting to Dr. Vikram Desai, QA Lead. During a routine ward audit in Ward 4 (Surgical Unit), you review the SOP Register (REG-2025-002) against SOP-QA-011 (Surgical Instrument Sterilization Protocol). You find that 3 out of 5 SOP copies in use are version 1.0 (expired 01/06/2025), while the current version is 2.0, violating NABH Standard MOM.2 (Management of Medication). Dr. Desai instructs you to document the non-compliance and recommend improvements using the Compliance Verification Form to prepare for an upcoming NABH audit.
 
-Deliverables: 
+Deliverables
+ 
 Completed Compliance Verification Form (100–150 words total across REMARKS, Deviation Details, Suggested Improvements) documenting the SOP compliance audit findings and proposed improvements for NABH adherence.",https://drive.google.com/file/d/1RcJ_GoLC__evWJNRrXejtBKxIo_Si5MJ/view?usp=sharing,https://tally.so/r/m6Bzeo,https://drive.google.com/file/d/1yAlj2pOBvxfmbH5COv1L3ZCHi_pJ1-Jd/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-011 and SOP Register.
 Compare SOP-QA-011 (version 2.0, effective 01/07/2025) to REG-2025-002 (outdated version 1.0 in use).
 Open “Fillable Document” (Compliance Verification Form).
@@ -124,17 +130,18 @@ Fill the form: Check criteria (e.g., SOP followed as per latest revision: B - FA
 Submit via “Answer Portal”.",10
 course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,ch_1_02,Hospital Quality Command Protocols,les_1_02_03,Vitals Check – Patient Safety Indicators & Risk Flagging,task_1_02_03_1,Patient Safety Indicators and Risk Flagging Audit,"You are a Junior Quality Control Analyst at Zenith Hospital, reporting to Dr. Priya Sharma, QA Supervisor. During a routine audit in Ward 5 (ICU), you review the Catheter Care Log (LOG-2025-029) against SOP-QA-012 (Catheter Care Protocol) to check PSI compliance for Catheter-Associated Urinary Tract Infections (CAUTIs). You find that 4 out of 10 catheter care logs lack nurse verification entries, increasing CAUTI risk and violating NABH Standard IPC.3 (Infection Prevention and Control). Dr. Sharma instructs you to document the findings and recommend improvements using the Audit & Inspection Form to prepare for an upcoming NABH audit.
 
- Deliverables : 
+ Deliverables 
+
 Completed Audit & Inspection Form (100–150 words total across REMARKS and Others/Additional Observations) documenting the PSI audit findings and proposed improvements for NABH compliance.",https://drive.google.com/file/d/1wzsz668svfia0Iy3-AtfvrEprls__1SG/view?usp=sharing,https://tally.so/r/mV6BGl,https://drive.google.com/file/d/14fB10TY9f1zMSKUnt1uL8M4SSeks3yfs/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-012 and Catheter Care Log.
 Compare SOP-QA-012 (requires nurse verification entries per shift) to LOG-2025-029 (missing entries).
 Open “Fillable Document” (Audit & Inspection Form).
 Fill the form: Check criteria (e.g., Documentation complete and accurate: NO), provide REMARKS (e.g., missing verification entries), and recommend improvements in Others/Additional Observations (e.g., retrain nurses, add digital alerts).
 Submit via “Answer Portal”.",10
 course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,ch_1_02,Hospital Quality Command Protocols,les_1_02_04,Contain the Breach – Incident Reporting & Escalation Pathways,task_1_02_04_1,Incident Reporting and Escalation Simulation,"You are a Junior Quality Control Analyst at Zenith Hospital, reporting to Dr. Anil Gupta, QA Manager. During a night shift in Ward 6 (Emergency Department), a nurse reports a medication error: patient PT-2025-112 received 10 mg of a drug instead of 5 mg due to a misread prescription label, classified as a clinical incident. 
-
 Dr. Gupta instructs you to document the incident, classify its severity, and outline initial actions using the Deviation and Incident Report Form, following SOP-QA-013 (Medication Administration Protocol) to ensure NABH Standard MOM.3 (Management of Medication) compliance.
 
- Deliverables : 
+ Deliverables 
+ 
 Completed Deviation and Incident Report Form (100–150 words total across Incident Description, Immediate Action Taken, Root Cause Analysis, CAPA Details) documenting the medication error, severity, immediate actions, and preliminary CAPA.",https://drive.google.com/file/d/1qmhtt20J2VQ5syh3h0LmTCn0zivMcras/view?usp=sharing,https://tally.so/r/3jVqb9,https://drive.google.com/file/d/1KeyXyLmb4_quburfCQu9ZaF6NYC9VMqF/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-013 and Medication Administration Log.
 Compare SOP-QA-013 (requires clear prescription labeling) to LOG-2025-030 (misread label caused error).
 Open “Fillable Document” (Deviation and Incident Report Form).
@@ -142,19 +149,19 @@ Fill the form: Describe the incident (medication error), classify severity (mode
 Submit via “Answer Portal”.",10
 course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,ch_1_02,Hospital Quality Command Protocols,les_1_02_05,First Hospital Drill – Ward & Facility Compliance Sweep,task_1_02_05_1,Infection Control and Isolation Audit,"You are a Junior Quality Control Analyst at Zenith Hospital, reporting to Dr. Meera Nair, QA Lead. During a routine audit in Ward 7 (Infectious Diseases Unit), you review the Isolation Room Compliance Log (LOG-2025-031) against SOP-QA-014 (Infection Control and Isolation Protocol). You find that 3 out of 5 isolation rooms lack proper signage for contact precautions, violating NABH Standard IPC.3 (Infection Prevention and Control) and increasing HAI risk. Dr. Nair instructs you to document the findings and recommend improvements using the Audit & Inspection Form to prepare for an upcoming NABH audit.
 
- Deliverables : 
+Deliverables 
+
 Completed Audit & Inspection Form (100–150 words total across REMARKS and Others/Additional Observations) documenting the IPC audit findings and proposed improvements for NABH compliance.",https://drive.google.com/file/d/1NCZgT_8h_5YojzRF-zeVX4-4s1Iq1qul/view?usp=sharing,https://tally.so/r/mV6BGl,https://drive.google.com/file/d/1U2IrYIN_stpUAjGa6ouLT_pKcEQjS70M/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-014 and Isolation Room Compliance Log.
 Compare SOP-QA-014 (requires contact precaution signage) to LOG-2025-031 (missing signage).
 Open “Fillable Document” (Audit & Inspection Form).
 Fill the form: Check criteria (e.g., Safety protocols followed: NO), provide REMARKS (e.g., missing signage), and recommend improvements in Others/Additional Observations (e.g., install signage, retrain staff).
 Submit via “Answer Portal”.",10
 course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,ch_1_02,Hospital Quality Command Protocols,les_1_02_06,Biohazard Defense – Infection Control Protocols & Isolation Measures,task_1_02_06_1,EMR/EHR Data Integrity and Access Log Audit,"You are a Junior Quality Control Analyst at Zenith Hospital, reporting to Dr. Priya Sharma, QA Supervisor. During a routine EMR audit in Ward 8 (Cardiology Unit), you review the EMR Access Log (LOG-2025-032) against SOP-QA-015 (EMR Data Management Protocol). 
-
 You find that 4 out of 10 patient record entries have delayed timestamps (entered 2–3 hours after patient interaction), violating SOP-QA-015’s ALCOA+ Contemporaneous principle and NABH Standard HIC.2 (Hospital Infection Control). 
-
 Dr. Sharma instructs you to document the findings and recommend improvements using the Compliance Verification Form to prepare for an upcoming NABH audit.
 
-Deliverables :
+Deliverables 
+
 Completed Compliance Verification Form (100–150 words total across REMARKS, Deviation Details, Suggested Improvements) documenting the EMR data integrity audit findings and proposed improvements for NABH compliance.",https://drive.google.com/file/d/1xwt6RMBks6RCIJbPsmYwZKHeuCN1kqAI/view?usp=sharing,https://tally.so/r/m6Bzeo,https://drive.google.com/file/d/1s5xvidtTV_fTxU2C1-uarMw_HHQv0J5B/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-015 and EMR Access Log.
 Compare SOP-QA-015 (requires contemporaneous EMR entries) to LOG-2025-032 (delayed timestamps).
 Open “Fillable Document” (Compliance Verification Form).
@@ -164,7 +171,7 @@ course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level va
 
 You find that 5 out of 10 daily disinfection logs lack staff signatures, classified as a major non-compliance issue violating NABH Standard HIC.3 (Hospital Infection Control). Dr. Gupta instructs you to document the findings and recommend improvements using the Audit & Inspection Form to prepare for an upcoming NABH audit.
 
-Deliverables :
+Deliverables
 Completed Audit & Inspection Form (100–150 words total across REMARKS and Others/Additional Observations) documenting the compliance sweep findings and proposed improvements for NABH compliance.",https://drive.google.com/file/d/1XYrJRzUW0SnFBM3qRNqjBwbjIxBjcP19/view?usp=sharing,https://tally.so/r/mV6BGl,https://drive.google.com/file/d/1TrFK-TDJNdMDE4BqDvPxncuhg25xqYhk/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-016 and Disinfection Compliance Log.
 Compare SOP-QA-016 (requires signed disinfection logs per shift) to LOG-2025-033 (missing signatures).
 Open “Fillable Document” (Audit & Inspection Form).
@@ -174,7 +181,7 @@ course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level va
 
 Dr. Nair instructs you to document the incident, classify its severity, and outline initial actions using the Deviation and Incident Report Form, following SOP-QA-017 (Biohazard Spill Response Protocol) to ensure compliance with NABH Standard FMS.4 (Facility Management and Safety).
 
-Deliverables :
+Deliverables 
 Completed Deviation and Incident Report Form (100–150 words total across Incident Description, Immediate Action Taken, Root Cause Analysis, CAPA Details) documenting the biohazard spill, severity, immediate actions, and preliminary CAPA.",https://drive.google.com/file/d/18hDngVtD1yjQ9Z_SoMiZaVFnwN13arzA/view?usp=sharing,https://tally.so/r/3jVqb9,https://drive.google.com/file/d/1py-8b79Qitl36u9Th1Polr11cvqMDiAP/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-017 and Biohazard Spill Log.
 Compare SOP-QA-017 (requires immediate containment and reporting) to LOG-2025-034 (spill details).
 Open “Fillable Document” (Deviation and Incident Report Form).
@@ -184,8 +191,7 @@ course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level va
 
 Dr. Gupta instructs you to use the Crisis Tracker Dashboard to map and prioritize these issues, then the Deviation and Incident Report Form to detail the highest-priority issue (Pharmacy error) with RCA, ensuring NABH Standard COP.7 (Care of Patient) compliance.
 
-Deliverables : 
-Two completed forms:
+Deliverables 
 
 1. Crisis Tracker Dashboard (100–150 words across Issue Description, Containment Action Taken, Additional Comments) to map and prioritize issues.
 2. Deviation and Incident Report Form (100–150 words across Incident Description, Immediate Action Taken, Root Cause Analysis, CAPA Details) for the Pharmacy error.",https://drive.google.com/file/d/1nwk4AWRmAQbWIhxlQ5T3urlD4P_B3oBR/view?usp=sharing,https://tally.so/r/mYABqv | https://tally.so/r/3jVqb9,https://drive.google.com/file/d/11_yUF3-aZszRGV_j4taQsq90I-1s-Ce7/view?usp=sharing,"Click “Reference Documents” to review SOP-PH-001, SOP-QA-012, Pharmacy Dispensing Log, and Hand Hygiene Compliance Log.
@@ -200,8 +206,7 @@ course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level va
 
 Dr. Desai instructs you to use the Crisis Tracker Dashboard to consolidate and prioritize these findings, then the CAPA Command Template to detail corrective/preventive actions for the oxygen issue, ensuring NABH Standard CQI.3 (Continuous Quality Improvement) compliance.
 
-Deliverables : 
-Two completed forms:
+Deliverables
 
 1. Crisis Tracker Dashboard (100–150 words across Issue Description, Containment Action Taken, Additional Comments) to consolidate and prioritize findings.
 2. CAPA Command Template (100–150 words across Corrective Actions, Preventive Actions, Verification of Effectiveness, Additional Comments) for the oxygen issue.",https://drive.google.com/file/d/1gz1mwQnqatonQgca6UFpEAIpg58eYCqx/view?usp=sharing,https://tally.so/r/mYABqv | https://tally.so/r/mDGOYl ,https://drive.google.com/file/d/1pn2MquNMI-i43eKaHoHi_XJHkzbHik0p/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-019, SOP-QA-020, Oxygen Supply Log, and Training Record Log.
@@ -215,7 +220,8 @@ Tip: Prioritize oxygen issue for patient safety; link IDs for traceability.",10
 ,,,,,,,,,,,,,,
 course_1,Pro Training in QA/QC ,,ch_1_03,Pharma GMP Compliance Playbook,les_1_03_01,"Blueprint of GMP – Principles, History & Core Requirements",task_1_03_01_1,GMP Compliance Audit Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Priya Sharma, QA Manager. During a routine GMP audit in the Tablet Manufacturing Unit, you review the Batch Production Record (BPR-2025-045) against SOP-QA-022 (GMP Batch Documentation Protocol). You find that 4 out of 10 batch records lack operator signatures, violating GMP 21 CFR Part 211.186 (Master Production and Control Records) and risking audit failure. Dr. Sharma instructs you to document the findings and recommend improvements using the Compliance Verification Form to prepare for an upcoming USFDA audit.
 
-Deliverables: 
+Deliverables 
+
 Completed Compliance Verification Form (100–150 words total across REMARKS, Deviation Details, Suggested Improvements) documenting the GMP audit findings and proposed improvements for compliance.",https://drive.google.com/file/d/1r_-mNWosJv52XNHlFuGZZmPL8-6ud1sg/view?usp=sharing,https://tally.so/r/m6Bzeo,https://drive.google.com/file/d/1JCwShApxlZcdMauEp7uLYlAeT3Ft8tjd/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-022 and Batch Production Record
 Compare SOP-QA-022 (requires operator signatures for all batch records) to BPR-2025-045 (missing signatures)
 Open “Fillable Document” (Compliance Verification Form)
@@ -223,7 +229,8 @@ Fill the form: Check criteria (e.g., Documentation complete and accurate: B - FA
 Submit via “Answer Portal”",10
 course_1,Pro Training in QA/QC ,,ch_1_03,Pharma GMP Compliance Playbook,les_1_03_02,Facility Fortress – Cleanroom Classifications & Environmental Controls,task_1_03_02_1,Cleanroom Compliance Audit Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Priya Sharma, QA Manager. During a routine cleanroom audit in the Sterile Injectable Unit (ISO 5), you review the Environmental Monitoring Log (LOG-2025-041) against SOP-QA-023 (Cleanroom Environmental Control Protocol). You find that particle counts in 3 out of 10 samples exceed ISO 5 limits (3,520 particles ≥0.5 μm/m³), violating GMP 21 CFR Part 211.42 and risking contamination. Dr. Sharma instructs you to document the findings and recommend improvements using the Audit & Inspection Form to prepare for an upcoming USFDA audit.
 
-Deliverables: 
+Deliverables 
+
 Completed Audit & Inspection Form (100–150 words total across REMARKS and Others/Additional Observations) documenting the cleanroom audit findings and proposed improvements for GMP compliance.",https://drive.google.com/file/d/1wJGIz4yl7iQlmp6COlynOjxZMgjoCfJv/view?usp=sharing,https://tally.so/r/mV6BGl,https://drive.google.com/file/d/1SWgM-HLD69pOjaqzYa3aCun1gJCRgiA3/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-023 and Environmental Monitoring Log  
 Compare SOP-QA-023 (requires ISO 5 particle limits) to LOG-2025-041 (exceeding limits)  
 Open “Fillable Document” (Audit & Inspection Form)  
@@ -232,7 +239,8 @@ Submit via “Answer Portal”
 ",10
 course_1,Pro Training in QA/QC ,,ch_1_03,Pharma GMP Compliance Playbook,les_1_03_03,"Personnel in Command – Gowning, Hygiene & Cross-Contamination Barriers",task_1_03_03_1,Gowning and Hygiene Compliance Audit Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Anil Gupta, QA Manager. During a routine GMP audit in the Sterile Injectable Unit (ISO 5 cleanroom), you review the Gowning Compliance Log (LOG-2025-042) against SOP-QA-024 (Gowning and Hygiene Protocol). You find that 3 out of 10 gowning entries lack verification of sterile glove donning, violating GMP 21 CFR Part 211.28 (Personnel Responsibilities) and risking contamination. Dr. Gupta instructs you to document the findings and recommend improvements using the Audit & Inspection Form to prepare for an upcoming USFDA audit.
 
-Deliverables: 
+Deliverables 
+
 Completed Audit & Inspection Form (100–150 words total across REMARKS and Others/Additional Observations) documenting the gowning and hygiene audit findings and proposed improvements for GMP compliance.",https://drive.google.com/file/d/1X_6eRBhX3tzO8Fo4r4HtToVvCe1xQqTj/view?usp=sharing,https://tally.so/r/mV6BGl,https://drive.google.com/file/d/1f_mtN4YNvFzIQ7WZWiDmj6jdGZFy1-RW/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-024 and Gowning Compliance Log  
 Compare SOP-QA-024 (requires verification of sterile glove donning) to LOG-2025-042 (missing verifications)  
 Open “Fillable Document” (Audit & Inspection Form)  
@@ -240,7 +248,8 @@ Fill the form: Check criteria (e.g., Safety protocols followed: NO), provide REM
 Submit via “Answer Portal”",10
 course_1,Pro Training in QA/QC ,,ch_1_03,Pharma GMP Compliance Playbook,les_1_03_04,"Documented Truth – Batch Records, Logbooks & Controlled Documentation",task_1_03_04_1,GMP Documentation Audit Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Priya Sharma, QA Manager. During a routine GMP audit in the Capsule Manufacturing Unit, you review the Batch Production Record (BPR-2025-046) against SOP-QA-025 (GMP Controlled Documentation Protocol). You find that 3 out of 10 batch record entries lack real-time timestamps, violating GMP 21 CFR Part 211.186 (Master Production and Control Records) and risking audit failure. Dr. Sharma instructs you to document the findings and recommend improvements using the Compliance Verification Form to prepare for an upcoming USFDA audit.
 
-Deliverables: 
+Deliverables 
+
 Completed Compliance Verification Form (100–150 words total across REMARKS, Deviation Details, Suggested Improvements) documenting the GMP documentation audit findings and proposed improvements for compliance.",https://drive.google.com/file/d/1v9sWmJUxPkDzEQOFLlH55KFmKpJC1fy9/view?usp=sharing,https://tally.so/r/m6Bzeo,https://drive.google.com/file/d/1_DTJLJwyj2vaA3cmASmzuDeDjThDIVq2/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-025 and Batch Production Record  
 Compare SOP-QA-025 (requires real-time timestamps for batch records) to BPR-2025-046 (missing timestamps)  
 Open “Fillable Document” (Compliance Verification Form)  
@@ -248,7 +257,8 @@ Fill the form: Check criteria (e.g., Documentation complete and accurate: B - FA
 Submit via “Answer Portal”",10
 course_1,Pro Training in QA/QC ,,ch_1_03,Pharma GMP Compliance Playbook,les_1_03_05,"Raw Material Gatekeeping – Sampling, Storage & Supplier Qualification",task_1_03_05_1,Raw Material Compliance Audit Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Anil Gupta, QA Manager. During a routine GMP audit in the Raw Material Warehouse, you review the Raw Material Receipt Log (LOG-2025-043) against SOP-QA-026 (Raw Material Sampling and Storage Protocol). You find that 3 out of 10 API batches lack Certificates of Analysis (CoA), violating GMP 21 CFR Part 211.84 (Testing and Approval/Rejection of Components). Dr. Gupta instructs you to document the findings and recommend improvements using the Audit & Inspection Form to prepare for an upcoming USFDA audit.
 
-Deliverables: 
+Deliverables 
+
 Completed Audit & Inspection Form (100–150 words total across REMARKS and Others/Additional Observations) documenting the raw material audit findings and proposed improvements for GMP compliance.",https://drive.google.com/file/d/1oeHleqIre5QG0cReDfMNUGi1L75ArF_H/view?usp=sharing,https://tally.so/r/mV6BGl,https://drive.google.com/file/d/1sLnxT-CLvw9BKenaMJfFctRmxT2XOTL4/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-026 and Raw Material Receipt Log  
 Compare SOP-QA-026 (requires CoA for all API batches) to LOG-2025-043 (missing CoAs)  
 Open “Fillable Document” (Audit & Inspection Form)  
@@ -256,21 +266,26 @@ Fill the form: Check criteria (e.g., Documentation complete and accurate: NO), p
 Submit via “Answer Portal”",10
 course_1,Pro Training in QA/QC ,,ch_1_03,Pharma GMP Compliance Playbook,les_1_03_06,"Line of Defense – Equipment Validation, Cleaning & Maintenance Cycles",task_1_03_06_1,Equipment Validation and Maintenance Audit Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Priya Sharma, QA Manager. During a routine GMP audit in the Tablet Manufacturing Unit, you review the Equipment Calibration Log (LOG-2025-044) against SOP-QA-027 (Equipment Validation and Maintenance Protocol). You find that 3 out of 10 calibration entries for a tablet press (Equipment ID: COMP-02) lack verification signatures, violating GMP 21 CFR Part 211.67 (Equipment Cleaning and Maintenance). Dr. Sharma instructs you to document the findings and recommend improvements using the Audit & Inspection Form to prepare for an upcoming USFDA audit.
 
-Deliverables: Completed Audit & Inspection Form (100–150 words total across REMARKS and Others/Additional Observations) documenting the equipment audit findings and proposed improvements for GMP compliance.",https://drive.google.com/file/d/1V9PSBy_OxFF54iozx0geLdIFTOdI5F-1/view?usp=sharing,https://tally.so/r/mV6BGl,https://drive.google.com/file/d/1zAe6G9vXYfSEQnqEwe7Tzu0JJAtYR1cX/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-027 and Equipment Calibration Log  
+Deliverables 
+
+Completed Audit & Inspection Form (100–150 words total across REMARKS and Others/Additional Observations) documenting the equipment audit findings and proposed improvements for GMP compliance.",https://drive.google.com/file/d/1V9PSBy_OxFF54iozx0geLdIFTOdI5F-1/view?usp=sharing,https://tally.so/r/mV6BGl,https://drive.google.com/file/d/1zAe6G9vXYfSEQnqEwe7Tzu0JJAtYR1cX/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-027 and Equipment Calibration Log  
 Compare SOP-QA-027 (requires signed calibration verifications) to LOG-2025-044 (missing signatures)  
 Open “Fillable Document” (Audit & Inspection Form)  
 Fill the form: Check criteria (e.g., Equipment status verified: NO), provide REMARKS (e.g., missing signatures), recommend improvements in Others/Additional Observations (e.g., retrain technicians, add digital logging)  
 Submit via “Answer Portal”",10
 course_1,Pro Training in QA/QC ,,ch_1_03,Pharma GMP Compliance Playbook,les_1_03_07,The Critical Path – Process Validation & Change Control Systems,task_1_03_07_1,Process Validation and Change Control Audit Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Priya Sharma, QA Manager. During a routine GMP audit in the Capsule Manufacturing Unit, you review the Change Control Log (LOG-2025-045) against SOP-QA-028 (Process Validation and Change Control Protocol). You find that 2 out of 10 change control entries for a new mixing blade lack validation data, violating GMP 21 CFR Part 211.100 (Written Procedures; Deviations). Dr. Sharma instructs you to document the findings and recommend improvements using the Compliance Verification Form to prepare for an upcoming USFDA audit.
 
-Deliverables: Completed Compliance Verification Form (100–150 words total across REMARKS, Deviation Details, Suggested Improvements) documenting the change control audit findings and proposed improvements for GMP compliance.",https://drive.google.com/file/d/1qKPULKut67nQXAiL22maAezfAoAR7HAM/view?usp=sharing,https://tally.so/r/m6Bzeo,https://drive.google.com/file/d/1EDQ9XLVyJD79qXhZQlRf7O2P7WiXq4CS/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-028 and Change Control Log  
+Deliverables 
+
+Completed Compliance Verification Form (100–150 words total across REMARKS, Deviation Details, Suggested Improvements) documenting the change control audit findings and proposed improvements for GMP compliance.",https://drive.google.com/file/d/1qKPULKut67nQXAiL22maAezfAoAR7HAM/view?usp=sharing,https://tally.so/r/m6Bzeo,https://drive.google.com/file/d/1EDQ9XLVyJD79qXhZQlRf7O2P7WiXq4CS/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-028 and Change Control Log  
 Compare SOP-QA-028 (requires validation data for all changes) to LOG-2025-045 (missing validation data)  
 Open “Fillable Document” (Compliance Verification Form)  
 Fill the form: Check criteria (e.g., Documentation complete and accurate: B - FAIL), provide REMARKS (e.g., missing validation data), detail deviation, and suggest improvements (e.g., retrain staff, update SOP)  
 Submit via “Answer Portal”",10
 course_1,Pro Training in QA/QC ,,ch_1_03,Pharma GMP Compliance Playbook,les_1_03_08,Quality on the Floor – In-Process Controls & Batch Release Protocols,task_1_03_08_1,In-Process Controls and Batch Release Audit Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Anil Gupta, QA Manager. During a routine GMP audit in the Tablet Manufacturing Unit, you review the In-Process Control Log (LOG-2025-046) against SOP-QA-029 (In-Process Controls and Batch Release Protocol). You find that 3 out of 10 in-process tablet weight checks lack recorded results, violating GMP 21 CFR Part 211.110 (Sampling and Testing of In-Process Materials). Dr. Gupta instructs you to document the findings and recommend improvements using the Compliance Verification Form to prepare for an upcoming USFDA audit.
 
-Deliverables: 
+Deliverables 
+
 Completed Compliance Verification Form (100–150 words total across REMARKS, Deviation Details, Suggested Improvements) documenting the in-process control audit findings and proposed improvements for GMP compliance.",https://drive.google.com/file/d/1hvvgXr40dDyaqtP3Np2V5SQK5tgf2Eg4/view?usp=sharing,https://tally.so/r/m6Bzeo,https://drive.google.com/file/d/1RBSaiQZJ1EDXBggrUdaCqzQZ5vY3wY_r/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-029 and In-Process Control Log  
 Compare SOP-QA-029 (requires recorded in-process weight checks) to LOG-2025-046 (missing results)  
 Open “Fillable Document” (Compliance Verification Form)  
@@ -278,14 +293,17 @@ Fill the form: Check criteria (e.g., Documentation complete and accurate: B - FA
 Submit via “Answer Portal”",10
 course_1,Pro Training in QA/QC ,,ch_1_03,Pharma GMP Compliance Playbook,les_1_03_09,"Regulatory Battlefield – WHO, USFDA, EU vs Indian GMP Codes",task_1_03_09_1,GMP Regulatory Compliance Audit Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Priya Sharma, QA Manager. During a routine GMP audit in the Sterile Injectable Unit (ISO 5 cleanroom), you review the Data Integrity Log (LOG-2025-047) against SOP-QA-030 (GMP Documentation Compliance Protocol). You find that 3 out of 10 batch record entries lack audit trail documentation, violating USFDA GMP 21 CFR Part 211.188 (Batch Production and Control Records) and risking export market compliance. Dr. Sharma instructs you to document the findings and recommend improvements using the Compliance Verification Form to prepare for an upcoming USFDA audit.
 
-Deliverables: Completed Compliance Verification Form (100–150 words total across REMARKS, Deviation Details, Suggested Improvements) documenting the GMP regulatory audit findings and proposed improvements for compliance.",https://drive.google.com/file/d/1mdTzcJSDJKCy5OEFXwYaDR6_Mtelc81y/view?usp=sharing,https://tally.so/r/m6Bzeo,https://drive.google.com/file/d/1_WEV0_m6h0dTEbqRLMOdnhcqB2AiHZ3W/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-030 and Data Integrity Log  
+Deliverables 
+
+Completed Compliance Verification Form (100–150 words total across REMARKS, Deviation Details, Suggested Improvements) documenting the GMP regulatory audit findings and proposed improvements for compliance.",https://drive.google.com/file/d/1mdTzcJSDJKCy5OEFXwYaDR6_Mtelc81y/view?usp=sharing,https://tally.so/r/m6Bzeo,https://drive.google.com/file/d/1_WEV0_m6h0dTEbqRLMOdnhcqB2AiHZ3W/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-030 and Data Integrity Log  
 Compare SOP-QA-030 (requires audit trail for batch records) to LOG-2025-047 (missing audit trails)  
 Open “Fillable Document” (Compliance Verification Form)  
 Fill the form: Check criteria (e.g., Documentation complete and accurate: B - FAIL), provide REMARKS (e.g., missing audit trails), detail deviation, and suggest improvements (e.g., retrain staff, implement eDMS)  
 Submit via “Answer Portal”",10
 course_1,Pro Training in QA/QC ,,ch_1_03,Pharma GMP Compliance Playbook,les_1_03_10,GMP War Game – Full-Scale Production Floor Compliance Simulation,task_1_03_10_1,Full-Scale GMP Compliance Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Vikram Desai, QA Lead. During a full-scale GMP war game in the Sterile Injectable Unit (ISO 5 cleanroom), you identify two issues: (1) incomplete batch record entries (3/10 lack audit trails, critical for USFDA compliance), and (2) unverified equipment cleaning for a filling machine (FILL-01). Dr. Desai instructs you to use the Crisis Tracker Dashboard to consolidate and prioritize these issues, then the CAPA Command Template to detail corrective/preventive actions for the batch record issue, ensuring USFDA GMP 21 CFR Part 211.188 compliance for a mock audit.
 
-Deliverables:
+Deliverables
+
 1. Crisis Tracker Dashboard (100–150 words across Issue Description, Containment Action Taken, Additional Comments) to consolidate and prioritize issues.
 2. CAPA Command Template (100–150 words across Corrective Actions, Preventive Actions, Verification of Effectiveness, Additional Comments) for the batch record issue.",https://drive.google.com/file/d/1oo9XSJoudJdtZdHUaTeCkt3WP58dB34u/view?usp=sharing,https://tally.so/r/mYABqv | https://tally.so/r/mDGOYl ,https://drive.google.com/file/d/1ovm7Yl4TTrE3n09H57LLLLODF8qR6JL-/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-030, SOP-QA-027, Data Integrity Log, and Equipment Calibration Log  
 Consolidate findings: List batch record and equipment cleaning issues, prioritize batch records (critical risk)  
@@ -298,7 +316,8 @@ Tip: Prioritize batch records for USFDA compliance; link IDs for traceability",1
 ,,,,,,,,,,,,,,
 course_1,Pro Training in QA/QC ,,ch_1_04,SOP Authoring and Validation Systems,les_1_04_01,"The SOP Arsenal – Structure, Scope & Regulatory Mandates",task_1_04_01_1,SOP Compliance Audit Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Vikram Desai, QA Lead. During a routine GMP audit in the Tablet Manufacturing Unit, you review the SOP Registry Log (LOG-2025-049) against SOP-QA-031 (SOP Management Protocol). You find that 2 out of 10 SOPs lack a defined scope section, violating GMP 21 CFR Part 211.22 (Quality Control Unit Responsibilities) and risking audit failure. Dr. Desai instructs you to document the findings and recommend improvements using the Compliance Verification Form to prepare for an upcoming USFDA audit.
 
-Deliverables: 
+Deliverables 
+
 Completed Compliance Verification Form (100–150 words total across REMARKS, Deviation Details, Suggested Improvements) documenting the SOP audit findings and proposed improvements for GMP compliance.",https://drive.google.com/file/d/1Mk8OIDOd4CHpwAuQP4TIk7Exa4oorig7/view?usp=sharing,https://tally.so/r/m6Bzeo,https://drive.google.com/file/d/1oNgeaSSZ8Z2-Ju2Cy1DVulzo4jzqG5f1/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-031 and SOP Registry Log  
 Compare SOP-QA-031 (requires defined scope for all SOPs) to LOG-2025-049 (missing scope sections)  
 Open “Fillable Document” (Compliance Verification Form)  
@@ -306,7 +325,8 @@ Fill the form: Check criteria (e.g., Documentation complete and accurate: B - FA
 Submit via “Answer Portal”",10
 course_1,Pro Training in QA/QC ,,ch_1_04,SOP Authoring and Validation Systems,les_1_04_02,"Writing That Commands – Clarity, Precision & Zero-Ambiguity Rules",task_1_04_02_1,SOP Writing Quality Audit Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Vikram Desai, QA Lead. During a routine GMP audit in the Capsule Manufacturing Unit, you review SOP-QA-040 (Capsule Mixing Protocol) against SOP-QA-032 (SOP Writing and Review Protocol). You find that 3 out of 10 procedural steps in SOP-QA-040 use vague terms (e.g., “mix thoroughly” instead of “mix at 500 rpm for 10 minutes”), violating GMP 21 CFR Part 211.22 (Quality Control Unit Responsibilities). Dr. Desai instructs you to document the findings and recommend improvements using the Compliance Verification Form to prepare for an upcoming USFDA audit.
 
-Deliverables: 
+Deliverables 
+
 Completed Compliance Verification Form (100–150 words total across REMARKS, Deviation Details, Suggested Improvements) documenting the SOP writing audit findings and proposed improvements for GMP compliance.",https://drive.google.com/file/d/1ooKhEjFxxgbDdiE2yQmCdvwZM55p0YJY/view?usp=sharing,https://tally.so/r/m6Bzeo,https://drive.google.com/file/d/1oZuQ3bNpawSPG-xJdwmuZQFt9qs1uDSI/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-032 and SOP-QA-040  
 Compare SOP-QA-032 (requires precise, clear SOP language) to SOP-QA-040 (vague terms)  
 Open “Fillable Document” (Compliance Verification Form)  
@@ -314,7 +334,8 @@ Fill the form: Check criteria (e.g., SOP followed: B - FAIL), provide REMARKS (e
 Submit via “Answer Portal”",10
 course_1,Pro Training in QA/QC ,,ch_1_04,SOP Authoring and Validation Systems,les_1_04_03,"Controlled Evolution – Version Control, Review Cycles & Change Logs",task_1_04_03_1,SOP Version Control CAPA Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Vikram Desai, QA Lead. During a GMP audit in the Tablet Manufacturing Unit, you identify that 2 out of 10 entries in the Change Log (LOG-2025-050) for SOP-QA-041 (Tablet Compression Protocol) lack approval signatures, violating GMP 21 CFR Part 211.22 (Quality Control Unit Responsibilities). Dr. Desai instructs you to use the CAPA Command Template to outline corrective and preventive actions to address this deviation (DEV-2025-109) and ensure audit-readiness for an upcoming USFDA audit.
 
-Deliverables: 
+Deliverables 
+
 Completed CAPA Command Template (100–150 words total across Corrective Actions, Preventive Actions, Verification of Effectiveness, Additional Comments) documenting corrective/preventive actions for the SOP change log deviation.",https://drive.google.com/file/d/1qPIO-bVqj6_IPhl8DaW_WPMMokcZ3IJ6/view?usp=sharing,https://tally.so/r/mDGOYl,https://drive.google.com/file/d/1VXhREjw3pOKGR1LgM3jiFcMEWKzUNWp_/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-033 and Change Log  
 Review SOP-QA-033 (requires approval signatures for change log entries) and LOG-2025-050 (missing signatures)  
 Open “Fillable Document” (CAPA Command Template)  
@@ -322,7 +343,8 @@ Fill the form: Reference DEV-2025-109, perform RCA, propose corrective actions (
 Submit via “Answer Portal”",10
 course_1,Pro Training in QA/QC ,,ch_1_04,SOP Authoring and Validation Systems,les_1_04_04,"Validation Warfare – IQ, OQ, PQ & System Qualification Essentials",task_1_04_04_1,Validation Compliance Audit Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Vikram Desai, QA Lead. During a routine GMP audit in the Sterile Injectable Unit, you review the Validation Report Log (LOG-2025-051) against SOP-QA-034 (Equipment Validation Protocol). You find that 2 out of 10 OQ entries for a filling machine (FILL-02) lack test result documentation, violating GMP 21 CFR Part 211.68 (Automatic, Mechanical, and Electronic Equipment). Dr. Desai instructs you to document the findings and recommend improvements using the Audit & Inspection Form to prepare for an upcoming USFDA audit.
 
-Deliverables: 
+Deliverables 
+
 Completed Audit & Inspection Form (100–150 words total across REMARKS and Others/Additional Observations) documenting the validation audit findings and proposed improvements for GMP compliance.",https://drive.google.com/file/d/1ftiOX_94lI8H7NkOl3JcemN0_D6Hhb2A/view?usp=sharing,https://tally.so/r/mV6BGl,https://drive.google.com/file/d/1dInxgd5l1C0Q5CKq2wvXHuvhedM93L1M/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-034 and Validation Report Log  
 Compare SOP-QA-034 (requires documented OQ test results) to LOG-2025-051 (missing results)  
 Open “Fillable Document” (Audit & Inspection Form)  
@@ -330,7 +352,8 @@ Fill the form: Check criteria (e.g., Documentation complete: NO), provide REMARK
 Submit via “Answer Portal”",10
 course_1,Pro Training in QA/QC ,,ch_1_04,SOP Authoring and Validation Systems,les_1_04_05,"Critical Protocols – Cleaning, Equipment & Safety SOPs in Action",task_1_04_05_1,Cleaning SOP Deviation Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Vikram Desai, QA Lead. During a routine GMP audit in the Sterile Injectable Unit (ISO 5 cleanroom), you review the Cleaning Validation Log (LOG-2025-052) against SOP-QA-035 (Cleaning Validation Protocol). You find that 3 out of 10 cleaning entries for a filling machine (FILL-03) lack swab test results, violating GMP 21 CFR Part 211.67 (Equipment Cleaning and Maintenance). Dr. Desai instructs you to document the deviation and propose corrective actions using the Deviation and Incident Report Form to prepare for an upcoming USFDA audit.
 
-Deliverables: 
+Deliverables 
+
 Completed Deviation and Incident Report Form (100–150 words total across Incident Description, Immediate Action Taken, Root Cause Analysis, CAPA Details) documenting the cleaning SOP deviation and proposed actions for GMP compliance.",https://drive.google.com/file/d/1AvsL5ah82zDH_EvR55ahudMkfM6-ljl7/view?usp=sharing,https://tally.so/r/3jVqb9,https://drive.google.com/file/d/1p4Dt489QWhS1MZt7XhivV7JlguYMrkkS/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-035 and Cleaning Validation Log  
 Compare SOP-QA-035 (requires swab test results for cleaning validation) to LOG-2025-052 (missing results)  
 Open “Fillable Document” (Deviation and Incident Report Form)  
@@ -338,7 +361,8 @@ Fill the form: Describe deviation, note immediate actions (e.g., re-clean equipm
 Submit via “Answer Portal”",10
 course_1,Pro Training in QA/QC ,,ch_1_04,SOP Authoring and Validation Systems,les_1_04_06,"Human Factor – Training, Compliance Tracking & Competency Records",task_1_04_06_1,Training and Competency Audit Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Vikram Desai, QA Lead. During a routine GMP audit in the Sterile Injectable Unit, you review the Competency Record Log (LOG-2025-053) against SOP-QA-036 (Training and Competency Protocol). You find that 3 out of 10 training entries for cleanroom operators lack completion signatures, violating GMP 21 CFR Part 211.25 (Personnel Qualifications). Dr. Desai instructs you to document the findings and recommend improvements using the Compliance Verification Form to prepare for an upcoming USFDA audit.
 
-Deliverables: 
+Deliverables 
+
 Completed Compliance Verification Form (100–150 words total across REMARKS, Deviation Details, Suggested Improvements) documenting the training audit findings and proposed improvements for GMP compliance.",https://drive.google.com/file/d/1_TqiORroRxoEmUikhwhmf7Bai36ugrbA/view?usp=sharing,https://tally.so/r/m6Bzeo,https://drive.google.com/file/d/1RbEcSJ2etjI7W0oXKPxizuR7-lOQxqvj/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-036 and Competency Record Log  
 Compare SOP-QA-036 (requires signed training completions) to LOG-2025-053 (missing signatures)  
 Open “Fillable Document” (Compliance Verification Form)  
@@ -346,7 +370,8 @@ Fill the form: Check criteria (e.g., Training/competency verified: B - FAIL), pr
 Submit via “Answer Portal”",10
 course_1,Pro Training in QA/QC ,,ch_1_04,SOP Authoring and Validation Systems,les_1_04_07,Gaps & Breaches – SOP Deviation Handling & Escalation Models,task_1_04_07_1,SOP Deviation Handling Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Vikram Desai, QA Lead. During a routine GMP audit in the Tablet Manufacturing Unit, you review the Batch Production Record (BPR-2025-048) against SOP-QA-037 (Tablet Compression Protocol). You find that 3 out of 10 compression steps skipped in-process weight checks, violating GMP 21 CFR Part 211.100 (Written Procedures; Deviations). Dr. Desai instructs you to document the deviation and propose corrective actions using the Deviation and Incident Report Form to prepare for an upcoming USFDA audit.
 
-Deliverables: 
+Deliverables 
+
 Completed Deviation and Incident Report Form (100–150 words total across Incident Description, Immediate Action Taken, Root Cause Analysis, CAPA Details) documenting the SOP deviation and proposed actions for GMP compliance.",https://drive.google.com/file/d/1UFCNJ4J648Ftw9sCo5O-dq_w9PUXdIOP/view?usp=sharing,https://tally.so/r/3jVqb9,https://drive.google.com/file/d/17hhSpYGpnc68VIyLkaZnLyTCMLOFAgcH/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-037 and Batch Production Record  
 Compare SOP-QA-037 (requires in-process weight checks) to BPR-2025-048 (missing checks)  
 Open “Fillable Document” (Deviation and Incident Report Form)  
@@ -354,7 +379,8 @@ Fill the form: Describe deviation, note immediate actions (e.g., quarantine batc
 Submit via “Answer Portal”",10
 course_1,Pro Training in QA/QC ,,ch_1_04,SOP Authoring and Validation Systems,les_1_04_08,"Digital Command – eSOP Systems, Access Hierarchies & 21 CFR Part 11",task_1_04_08_1,eSOP System Compliance Audit Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Vikram Desai, QA Lead. During a routine GMP audit in the Sterile Injectable Unit, you review the eSOP Audit Trail Log (LOG-2025-054) against SOP-QA-038 (eSOP System Management Protocol). You find that 3 out of 10 eSOP access entries lack audit trail documentation, violating 21 CFR Part 11 (Electronic Records; Electronic Signatures). Dr. Desai instructs you to document the findings and recommend improvements using the Compliance Verification Form to prepare for an upcoming USFDA audit.
 
-Deliverables: 
+Deliverables 
+
 Completed Compliance Verification Form (100–150 words total across REMARKS, Deviation Details, Suggested Improvements) documenting the eSOP audit findings and proposed improvements for GMP and 21 CFR Part 11 compliance.",https://drive.google.com/file/d/1oXtOFYXpmPjOGn0x7vecZIpe-WXJ-0s5/view?usp=sharing,https://tally.so/r/m6Bzeo,https://drive.google.com/file/d/1PpW-viYKU-NxckKglTGTSerxxcEdyHZp/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-038 and eSOP Audit Trail Log  
 Compare SOP-QA-038 (requires audit trail for all eSOP actions) to LOG-2025-054 (missing audit trails)  
 Open “Fillable Document” (Compliance Verification Form)  
@@ -362,7 +388,8 @@ Fill the form: Check criteria (e.g., Documentation complete: B - FAIL), provide 
 Submit via “Answer Portal”",10
 course_1,Pro Training in QA/QC ,,ch_1_04,SOP Authoring and Validation Systems,les_1_04_09,Audit Crossfire – SOP Review Under Regulatory Inspection Pressure,task_1_04_09_1,SOP Audit Simulation Under Regulatory Pressure,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Vikram Desai, QA Lead. During a mock USFDA audit in the Tablet Manufacturing Unit, you review the SOP Registry Log (LOG-2025-055) against SOP-QA-039 (SOP Management and Audit Protocol). You find that 2 out of 10 SOPs are outdated (using v1.0 instead of v2.0), violating GMP 21 CFR Part 211.22 (Quality Control Unit Responsibilities). Dr. Desai instructs you to document the findings and recommend improvements using the Audit & Inspection Form to prepare for an upcoming USFDA audit.
 
-Deliverables: 
+Deliverables 
+
 Completed Audit & Inspection Form (100–150 words total across REMARKS and Others/Additional Observations) documenting the SOP audit findings and proposed improvements for GMP compliance.",https://drive.google.com/file/d/1AKlzmsrvG24BPdOnsM-Tn2cSbaFeku4R/view?usp=sharing,https://tally.so/r/mV6BGl,https://drive.google.com/file/d/1JXr4XPPqFwwPnBFVIj6OlCXurXGiO52P/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-039 and SOP Registry Log  
 Compare SOP-QA-039 (requires current SOP versions) to LOG-2025-055 (outdated versions)  
 Open “Fillable Document” (Audit & Inspection Form)  
@@ -370,7 +397,8 @@ Fill the form: Check criteria (e.g., SOP followed: NO), provide REMARKS (e.g., o
 Submit via “Answer Portal”",10
 course_1,Pro Training in QA/QC ,,ch_1_04,SOP Authoring and Validation Systems,les_1_04_10,The Validation Gauntlet – Full-Scale SOP Creation & Enforcement Drill,task_1_04_10_1,Full-Scale SOP Creation and Enforcement Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Vikram Desai, QA Lead. During a full-scale GMP validation gauntlet in the Sterile Injectable Unit (ISO 5 cleanroom), you identify two issues: (1) vague steps in SOP-QA-042 (Sterile Filling Protocol, violating clarity rules), and (2) missing training signatures in Competency Record Log (LOG-2025-056). Dr. Desai instructs you to use the Crisis Tracker Dashboard to consolidate and prioritize these issues, then the CAPA Command Template to detail corrective/preventive actions for the vague SOP issue, ensuring USFDA GMP 21 CFR Part 211.22 compliance for a mock audit.
 
-Deliverables: 
+Deliverables 
+
 1. Crisis Tracker Dashboard (100–150 words across Issue Description, Containment Action Taken, Additional Comments) to consolidate and prioritize issues.
 2. CAPA Command Template (100–150 words across Corrective Actions, Preventive Actions, Verification of Effectiveness, Additional Comments) for the vague SOP issue.",https://drive.google.com/file/d/1Rr7_Ns1eS6buIaDiApzQHCR4QMJtPm4y/view?usp=sharing,https://tally.so/r/mYABqv | https://tally.so/r/mDGOYl,https://drive.google.com/file/d/1sZCsNmsuvtbNIz4k2oy63Asar-wszzkh/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-032, SOP-QA-042, and Competency Record Log  
 Consolidate findings: List vague SOP steps and missing training signatures, prioritize SOP issue (critical for compliance)  
@@ -383,7 +411,8 @@ Tip: Prioritize SOP issue for audit-readiness; link IDs for traceability",10
 ,,,,,,,,,,,,,,
 course_1,Pro Training in QA/QC ,,ch_1_05,Deviation Tracking and Root Cause Engines,les_1_05_01,Breach Point – Types of Deviations & First-Response Protocols,task_1_05_01_1,Deviation Response Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Vikram Desai, QA Lead. During a routine GMP audit in the Tablet Manufacturing Unit, you review the Batch Production Record (BPR-2025-050) against SOP-QA-043 (Tablet Mixing Protocol). You find that 3 out of 10 mixing log entries lack operator signatures, a minor deviation violating GMP 21 CFR Part 211.100 (Written Procedures; Deviations). Dr. Desai instructs you to document the deviation and propose first-response actions using the Deviation and Incident Report Form to prepare for an upcoming USFDA audit.
 
-Deliverables: 
+Deliverables 
+
 Completed Deviation and Incident Report Form (100–150 words total across Incident Description, Immediate Action Taken, Root Cause Analysis, CAPA Details) documenting the deviation and proposed actions for GMP compliance.",https://drive.google.com/file/d/16n6rUKfQnSSJVhrzzn5awluPIeW3dTRO/view?usp=sharing,https://tally.so/r/3jVqb9,https://drive.google.com/file/d/1P92_i_qu7nKD--Lj5eGg06UJSRjKzcLv/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-043 and Batch Production Record  
 Compare SOP-QA-043 (requires signed mixing log entries) to BPR-2025-050 (missing signatures)  
 Open “Fillable Document” (Deviation and Incident Report Form)  
@@ -391,7 +420,8 @@ Fill the form: Describe deviation, note immediate actions (e.g., correct logs), 
 Submit via “Answer Portal”",10
 course_1,Pro Training in QA/QC ,,ch_1_05,Deviation Tracking and Root Cause Engines,les_1_05_02,Rapid Fire – Immediate Containment & Impact Assessment Tactics,task_1_05_02_1,Deviation Containment and Impact Assessment Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Vikram Desai, QA Lead. During a routine GMP check in the Sterile Injectable Unit, you review the In-Process Control Log (LOG-2025-057) against SOP-QA-044 (Sterile Filling Protocol). You find that 3 out of 10 fill volume checks show out-of-spec results (beyond ±2%), a major deviation violating GMP 21 CFR Part 211.100 (Written Procedures; Deviations). Dr. Desai instructs you to document the deviation, containment actions, and impact assessment using the Deviation and Incident Report Form to prepare for an upcoming USFDA audit.
 
-Deliverables: 
+Deliverables 
+
 Completed Deviation and Incident Report Form (100–150 words total across Incident Description, Immediate Action Taken, Root Cause Analysis, CAPA Details) documenting the deviation, containment, and impact assessment for GMP compliance.",https://drive.google.com/file/d/19k6otYwsdackdB6CoWdSk_dINLjzF9u0/view?usp=sharing,https://tally.so/r/3jVqb9,https://drive.google.com/file/d/1N1xrjtBYYVJeGIeOM7xzELcdl-_WiaPw/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-044 and In-Process Control Log  
 Compare SOP-QA-044 (requires fill volume within ±2%) to LOG-2025-057 (out-of-spec results)  
 Open “Fillable Document” (Deviation and Incident Report Form)  
@@ -399,7 +429,8 @@ Fill the form: Describe deviation, note immediate actions (e.g., quarantine batc
 Submit via “Answer Portal”",10
 course_1,Pro Training in QA/QC ,,ch_1_05,Deviation Tracking and Root Cause Engines,les_1_05_03,"Data Drill – Deviation Registers, Logs & Trending Analysis",task_1_05_03_1,Deviation Tracking and Trending Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Vikram Desai, QA Lead. During a routine GMP review in the Tablet Manufacturing Unit, you analyze the Deviation Register (REG-2025-058) against SOP-QA-045 (Deviation Management Protocol). You identify two recurring deviations: (1) missing operator signatures in 3/10 mixing logs (minor), and (2) out-of-spec pH in 2/10 mixing batches (major). Dr. Desai instructs you to consolidate and prioritize these deviations using the Crisis Tracker Dashboard, initiating trending analysis to prepare for an upcoming USFDA audit.
 
-Deliverables: 
+Deliverables 
+
 Completed Crisis Tracker Dashboard (100–150 words total across Issue Description, Containment Action Taken, Additional Comments) consolidating and prioritizing deviations for GMP compliance and trending analysis.",https://drive.google.com/file/d/1d5o_sDVYIt3-4CXPNMsbAR2MuyQbeB-1/view?usp=sharing,https://tally.so/r/mYABqv,https://drive.google.com/file/d/1i4-64Gc_txXNepc250LmsVRIYdZyGU9t/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-045 and Deviation Register  
 Compare SOP-QA-045 (requires complete deviation logs) to REG-2025-058 (missing signatures, out-of-spec pH)  
 Open “Fillable Document” (Crisis Tracker Dashboard)  
@@ -407,7 +438,8 @@ Fill the form: Describe deviations, assign priorities (pH: High, signatures: Med
 Submit via “Answer Portal”",10
 course_1,Pro Training in QA/QC ,,ch_1_05,Deviation Tracking and Root Cause Engines,les_1_05_04,"Mapping the Chaos – Fishbone, 5 Whys & Fault Tree Tools",task_1_05_04_1,Root Cause Analysis and CAPA Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Vikram Desai, QA Lead. During a GMP review in the Tablet Manufacturing Unit, you identify a recurring deviation in the In-Process Control Log (LOG-2025-059) against SOP-QA-046 (Tablet Compression Protocol): 3 out of 10 tablet weight checks are out-of-spec (beyond ±5%), violating GMP 21 CFR Part 211.100 (Written Procedures; Deviations). Dr. Desai instructs you to perform RCA using the 5 Whys technique and document corrective/preventive actions using the CAPA Command Template to prepare for an upcoming USFDA audit.
 
-Deliverables: 
+Deliverables 
+
 Completed CAPA Command Template (100–150 words total across Corrective Actions, Preventive Actions, Verification of Effectiveness, Additional Comments) documenting RCA findings and CAPA for the deviation.",https://drive.google.com/file/d/1pWM6U90gfyWTkQ2mFupVyr9KauWdjdVX/view?usp=sharing,https://tally.so/r/mDGOYl,https://drive.google.com/file/d/1DCPBGZG7R1rH61l3_-iRVCvEMI_KA7_-/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-046 and In-Process Control Log  
 Review SOP-QA-046 (requires weight checks within ±5%) and LOG-2025-059 (out-of-spec weights)  
 Perform RCA using 5 Whys to identify the root cause  
@@ -416,7 +448,9 @@ Fill the form: Reference DEV-2025-126, document RCA in Additional Comments, prop
 Submit via “Answer Portal”",10
 course_1,Pro Training in QA/QC ,,ch_1_05,Deviation Tracking and Root Cause Engines,les_1_05_05,Root Cause Warfare – From Symptom to True Origin,task_1_05_05_1,Root Cause Analysis and CAPA Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Vikram Desai, QA Lead. During a GMP review in the Sterile Injectable Unit, you identify a recurring deviation in the In-Process Control Log (LOG-2025-060) against SOP-QA-047 (Sterile Filling Protocol): 3 out of 10 sterility tests show contamination (positive results), a critical deviation violating GMP 21 CFR Part 211.100 (Written Procedures; Deviations). Dr. Desai instructs you to perform RCA using the 5 Whys technique and document corrective/preventive actions using the CAPA Command Template to prepare for an upcoming USFDA audit.
 
-Deliverables: Completed CAPA Command Template (100–150 words total across Corrective Actions, Preventive Actions, Verification of Effectiveness, Additional Comments) documenting RCA findings and CAPA for the critical deviation.",https://drive.google.com/file/d/1BTm6sv8NQdphaTaQWCKWsj3cM2KRrR_6/view?usp=sharing,https://tally.so/r/mDGOYl,https://drive.google.com/file/d/10NSyLWFknQCvh3pzAlETjW7CR4zew7Sg/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-047 and In-Process Control Log  
+Deliverables 
+
+Completed CAPA Command Template (100–150 words total across Corrective Actions, Preventive Actions, Verification of Effectiveness, Additional Comments) documenting RCA findings and CAPA for the critical deviation.",https://drive.google.com/file/d/1BTm6sv8NQdphaTaQWCKWsj3cM2KRrR_6/view?usp=sharing,https://tally.so/r/mDGOYl,https://drive.google.com/file/d/10NSyLWFknQCvh3pzAlETjW7CR4zew7Sg/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-047 and In-Process Control Log  
 Review SOP-QA-047 (requires negative sterility test results) and LOG-2025-060 (positive results)  
 Perform RCA using 5 Whys to identify the root cause  
 Open “Fillable Document” (CAPA Command Template)  
@@ -424,7 +458,8 @@ Fill the form: Reference DEV-2025-127, document RCA in Additional Comments, prop
 Submit via “Answer Portal”",10
 course_1,Pro Training in QA/QC ,,ch_1_05,Deviation Tracking and Root Cause Engines,les_1_05_06,Crossfire Controls – Human Error vs Systemic Failure Distinction,task_1_05_06_1,Human Error vs Systemic Failure RCA Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Vikram Desai, QA Lead. During a GMP review in the Sterile Injectable Unit, you identify a deviation in the In-Process Control Log (LOG-2025-061) against SOP-QA-048 (Sterile Mixing Protocol): 3 out of 10 mixing batches show incorrect API dosing (beyond ±3%), violating GMP 21 CFR Part 211.100 (Written Procedures; Deviations). Dr. Desai instructs you to perform RCA using the 5 Whys technique to distinguish human error from systemic failure and document corrective/preventive actions using the CAPA Command Template for an upcoming USFDA audit.
 
-Deliverables: 
+Deliverables 
+
 Completed CAPA Command Template (100–150 words total across Corrective Actions, Preventive Actions, Verification of Effectiveness, Additional Comments) documenting RCA findings and CAPA for the deviation.",https://drive.google.com/file/d/1GHjnStYiEqGVIeCx7P4EF449GVYizsGE/view?usp=sharing,https://tally.so/r/mDGOYl,https://drive.google.com/file/d/1vrItHi9L6QLD8EuowvqtcZ9IBIo8XTNi/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-048 and In-Process Control Log  
 Review SOP-QA-048 (requires API dosing within ±3%) and LOG-2025-061 (incorrect dosing)  
 Perform RCA using 5 Whys to distinguish human error vs. systemic failure  
@@ -433,7 +468,8 @@ Fill the form: Reference DEV-2025-128, document RCA in Additional Comments, prop
 Submit via “Answer Portal”",10
 course_1,Pro Training in QA/QC ,,ch_1_05,Deviation Tracking and Root Cause Engines,les_1_05_07,"Evidence Arsenal – Documentation, Witness Reports & Proof Trails",task_1_05_07_1,Deviation Evidence Documentation Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Vikram Desai, QA Lead. During a GMP review in the Sterile Injectable Unit, you identify a deviation in the Batch Production Record (BPR-2025-051) against SOP-QA-049 (Sterile Packaging Protocol): 3 out of 10 packaging steps skipped label verification checks, violating GMP 21 CFR Part 211.100 (Written Procedures; Deviations). An operator’s witness report confirms the oversight. Dr. Desai instructs you to document the deviation, witness details, and initial proof trail using the Deviation and Incident Report Form to prepare for an upcoming USFDA audit.
 
-Deliverables: 
+Deliverables 
+
 Completed Deviation and Incident Report Form (100–150 words total across Incident Description, Immediate Action Taken, Root Cause Analysis, CAPA Details) documenting the deviation, witness report, and proof trail elements for GMP compliance.",https://drive.google.com/file/d/10Gw839UNpm41pLdmTHa4041XwzlMuJpm/view?usp=sharing,https://tally.so/r/3jVqb9,https://drive.google.com/file/d/1HsDn__PaVqlpuWZFvZvz9zuL7Ggk4dsq/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-049 and Batch Production Record  
 Compare SOP-QA-049 (requires label verification checks) to BPR-2025-051 (skipped checks) and include witness report details  
 Open “Fillable Document” (Deviation and Incident Report Form)  
@@ -441,7 +477,8 @@ Fill the form: Describe deviation, note immediate actions (e.g., quarantine batc
 Submit via “Answer Portal”",10
 course_1,Pro Training in QA/QC ,,ch_1_05,Deviation Tracking and Root Cause Engines,les_1_05_08,"The Escalation Ladder – Minor, Major, Critical Deviation Handling",task_1_05_08_1,Deviation Escalation Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Vikram Desai, QA Lead. During a GMP review in the Sterile Injectable Unit, you identify a critical deviation in the Sterility Test Log (LOG-2025-062) against SOP-QA-050 (Sterile Filling Protocol): 3 out of 10 sterility tests show contamination, violating GMP 21 CFR Part 211.100 (Written Procedures; Deviations). Dr. Desai instructs you to document the deviation, containment actions, and escalation to QA/management using the Deviation and Incident Report Form to prepare for an upcoming USFDA audit.
 
-Deliverables: 
+Deliverables 
+
 Completed Deviation and Incident Report Form (100–150 words total across Incident Description, Immediate Action Taken, Root Cause Analysis, CAPA Details) documenting the critical deviation, containment, and escalation for GMP compliance.",https://drive.google.com/file/d/1TESeIQsU0XJsDrmxNGjVOrsFOlhe_vKa/view?usp=sharing,https://tally.so/r/3jVqb9,https://drive.google.com/file/d/1MjmKKwBG6uwNPBKZ1H4WcMLGancVnIDx/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-050 and Sterility Test Log  
 Compare SOP-QA-050 (requires negative sterility tests) to LOG-2025-062 (positive results)  
 Open “Fillable Document” (Deviation and Incident Report Form)  
@@ -450,7 +487,8 @@ Submit via “Answer Portal”
 ",10
 course_1,Pro Training in QA/QC ,,ch_1_05,Deviation Tracking and Root Cause Engines,les_1_05_09,Simulation Siege – End-to-End Deviation Case Battle,task_1_05_09_1,End-to-End Deviation Case Battle Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Vikram Desai, QA Lead. During a GMP deviation case battle simulation in the Sterile Injectable Unit, you identify two deviations in the Batch Production Record (BPR-2025-052) against SOP-QA-051 (Sterile Filling Protocol): (1) 3/10 fill volume checks are out-of-spec (beyond ±2%, major deviation), and (2) 2/10 sterility tests show contamination (critical deviation). Dr. Desai instructs you to use the Deviation and Incident Report Form to document the critical sterility deviation, containment, and RCA, then the CAPA Command Template to detail corrective/preventive actions, ensuring USFDA GMP 21 CFR Part 211.100 compliance for a mock audit.
 
-Deliverables:
+Deliverables
+
 1. Deviation and Incident Report Form (100–150 words across Incident Description, Immediate Action Taken, Root Cause Analysis, CAPA Details) for the sterility deviation.
 2. CAPA Command Template (100–150 words across Corrective Actions, Preventive Actions, Verification of Effectiveness, Additional Comments) for corrective/preventive actions.",https://drive.google.com/file/d/1JfB6Q6f5Tw343IEcA8_3pwEUvWcPay1W/view?usp=sharing,https://tally.so/r/3jVqb9 | https://tally.so/r/mDGOYl ,https://drive.google.com/file/d/1nljSjl_3BIs4x5202ilOV7ccwYUXlflx/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-051 and Batch Production Record  
 Identify critical sterility deviation in BPR-2025-052 against SOP-QA-051 (negative sterility tests required)  
@@ -463,7 +501,8 @@ Tip: Prioritize critical sterility deviation for audit-readiness; link IDs for t
 ,,,,,,,,,,,,,,
 course_1,Pro Training in QA/QC ,,ch_1_06,AI-Augmented CAPA & Escalation Tactics,les_1_06_01,CAPA Command – Core Concepts & Regulatory Expectations,task_1_06_01_1,GMP Deviation Management and CAPA Implementation for Sterile Injectable Manufacturing,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Vikram Desai, QA Lead. During a GMP review in the Sterile Injectable Unit, you identify two deviations in the In-Process Control Log (LOG-2025-063) against SOP-QA-052 (Sterile Mixing Protocol): (1) 3/10 API dosing checks are out-of-spec (beyond ±3%, major deviation), and (2) 2/10 sterility tests show contamination (critical deviation). Dr. Desai instructs you to use the Deviation and Incident Report Form to document the critical sterility deviation, RCA, and containment, then the CAPA Command Template to detail corrective/preventive actions and effectiveness checks, ensuring USFDA GMP 21 CFR Part 211.100 compliance for a mock audit.
 
-Deliverables:
+Deliverables
+
 1. Deviation and Incident Report Form (100–150 words across Incident Description, Immediate Action Taken, Root Cause Analysis, CAPA Details) for the sterility deviation.
 2. CAPA Command Template (100–150 words across Corrective Actions, Preventive Actions, Verification of Effectiveness, Additional Comments) for corrective/preventive actions.",https://drive.google.com/file/d/1MU-Ov7vnPDkD0jd1u_iB8xFsmyqoo3YB/view?usp=sharing,https://tally.so/r/3jVqb9 | https://tally.so/r/mDGOYl ,https://drive.google.com/file/d/1VyG0u8YZ3YB1P5RB5XR_LmI1RhmLNVNu/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-052 and In-Process Control Log  
 Identify critical sterility deviation in LOG-2025-063 against SOP-QA-052 (negative sterility tests required)  
@@ -475,7 +514,7 @@ Fill CAPA Template: Reference DEV-2025-132, detail corrective/preventive actions
 Tip: Prioritize critical sterility deviation for audit-readiness; link IDs for traceability",10
 course_1,Pro Training in QA/QC ,,ch_1_06,AI-Augmented CAPA & Escalation Tactics,les_1_06_02,From Firefight to Framework – CAPA Lifecycle Stages Explained,task_1_06_02_1,CAPA Lifecycle Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Vikram Desai, QA Lead. During a GMP review in the Tablet Manufacturing Unit, you identify two deviations in the In-Process Control Log (LOG-2025-064) against SOP-QA-053 (Tablet Mixing Protocol): (1) 3/10 pH checks are out-of-spec (beyond 6.8–7.2, major deviation), and (2) 2/10 mixing logs lack operator signatures (minor deviation). Dr. Desai instructs you to use the Deviation and Incident Report Form to document the major pH deviation, containment, and RCA, then the CAPA Command Template to detail corrective/preventive actions and effectiveness checks, ensuring USFDA GMP 21 CFR Part 211.100 compliance for a mock audit.
 
-Deliverables:
+Deliverables
 1. Deviation and Incident Report Form (100–150 words across Incident Description, Immediate Action Taken, Root Cause Analysis, CAPA Details) for the pH deviation.
 2. CAPA Command Template (100–150 words across Corrective Actions, Preventive Actions, Verification of Effectiveness, Additional Comments) for corrective/preventive actions.",https://drive.google.com/file/d/1pVGT0NQWYMy1IPxBGfknR4pw-fyUvgA0/view?usp=sharing,https://tally.so/r/3jVqb9 | https://tally.so/r/mDGOYl ,https://drive.google.com/file/d/1YUm1rUYNA-1F5XgHxhYs6Ryzv6biY9gm/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-053 and In-Process Control Log  
 Identify major pH deviation in LOG-2025-064 against SOP-QA-053 (pH 6.8–7.2 required)  
@@ -487,7 +526,8 @@ Fill CAPA Template: Reference DEV-2025-134, detail corrective/preventive actions
 Tip: Prioritize pH deviation for audit-readiness; link IDs for traceability",10
 course_1,Pro Training in QA/QC ,,ch_1_06,AI-Augmented CAPA & Escalation Tactics,les_1_06_03,AI at the Frontline – Machine Learning for Deviation Pattern Detection,task_1_06_03_1,ML-Driven Deviation Detection Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Vikram Desai, QA Lead. During a GMP review in the Tablet Manufacturing Unit, an ML model (validated per GAMP 5) analyzing the In-Process Control Log (LOG-2025-065) against SOP-QA-054 (Tablet Mixing Protocol) flags two recurring deviations: (1) 3/10 pH checks out-of-spec (beyond 6.8–7.2, major deviation), and (2) 2/10 mixing logs lack operator signatures (minor deviation). Dr. Desai instructs you to use the Crisis Tracker Dashboard to consolidate these ML-detected deviations, prioritize actions, and document validation for an upcoming USFDA audit, ensuring 21 CFR Part 211.100 compliance.
 
-Deliverables: 
+Deliverables 
+
 Completed Crisis Tracker Dashboard (100–150 words total across Issue Description, Containment Action Taken, Additional Comments) consolidating ML-detected deviations and prioritizing actions for GMP compliance.",https://drive.google.com/file/d/1h-u8Y2FGmc04pCW1S5bmV5KSzPxW3zAa/view?usp=sharing,https://tally.so/r/mYABqv,https://drive.google.com/file/d/1ByayLIhL3xQrpmwojJz327bXxzl626Y7/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-054 and In-Process Control Log  
 Review SOP-QA-054 (requires pH 6.8–7.2, signed logs) and LOG-2025-065 (ML-flagged deviations)  
 Open “Fillable Document” (Crisis Tracker Dashboard)  
@@ -495,7 +535,8 @@ Fill the form: Describe ML-detected deviations, assign priorities (pH: High, sig
 Submit via “Answer Portal”",10
 course_1,Pro Training in QA/QC ,,ch_1_06,AI-Augmented CAPA & Escalation Tactics,les_1_06_04,"Smart Triggers – Automated Alerts, Dashboards & Risk Prioritization",task_1_06_04_1,Automated Deviation Detection Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Vikram Desai, QA Lead. During a GMP review in the Sterile Injectable Unit, a validated QMS-integrated alert system (GAMP 5-compliant) analyzing the In-Process Control Log (LOG-2025-066) against SOP-QA-055 (Sterile Filling Protocol) flags two deviations: (1) 3/10 fill volume checks out-of-spec (beyond ±2%, major deviation), and (2) 2/10 sterility tests show contamination (critical deviation). Dr. Desai instructs you to use the Crisis Tracker Dashboard to consolidate these alert-detected deviations, prioritize risks, and document system validation for an upcoming USFDA audit, ensuring 21 CFR Part 211.100 and Annex 11 compliance.
 
-Deliverables: 
+Deliverables 
+
 Completed Crisis Tracker Dashboard (100–150 words total across Issue Description, Containment Action Taken, Additional Comments) consolidating alert-detected deviations and prioritizing actions for GMP compliance.",https://drive.google.com/file/d/1KahGErjsx2AMGMmm-_hFxp7kaeFIAKLB/view?usp=sharing,https://tally.so/r/mYABqv,https://drive.google.com/file/d/1s8wviio5BVpmqp-6wu2kS7kMSGsVojab/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-055 and In-Process Control Log  
 Review SOP-QA-055 (requires fill volume ±2%, negative sterility tests) and LOG-2025-066 (alert-flagged deviations)  
 Open “Fillable Document” (Crisis Tracker Dashboard)  
@@ -503,7 +544,7 @@ Fill the form: Describe alert-detected deviations, assign priorities (sterility:
 Submit via “Answer Portal”",10
 course_1,Pro Training in QA/QC ,,ch_1_06,AI-Augmented CAPA & Escalation Tactics,les_1_06_05,Escalation Pathways – Local vs Global CAPA Decision Chains,task_1_06_05_1,CAPA Escalation Pathway Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Vikram Desai, QA Lead. During a GMP review in the Sterile Injectable Unit, a QMS-integrated system analyzing the In-Process Control Log (LOG-2025-067) against SOP-QA-056 (Sterile Filling Protocol) flags two deviations: (1) 3/10 fill volume checks out-of-spec (beyond ±2%, major deviation, local CAPA), and (2) 2/10 sterility tests show contamination (critical deviation, global CAPA). Dr. Desai instructs you to use the Crisis Tracker Dashboard to consolidate these deviations, assign local/global CAPA pathways, and document escalation for an upcoming USFDA audit, ensuring 21 CFR Part 211.100 and Annex 11 compliance.
 
-Deliverables: 
+Deliverables 
 Completed Crisis Tracker Dashboard (100–150 words total across Issue Description, Containment Action Taken, Additional Comments) consolidating deviations and assigning CAPA pathways for GMP compliance.",https://drive.google.com/file/d/1J2OwUXU31FwH8IuC4s5AHKcnmkxAnO5-/view?usp=sharing,https://tally.so/r/mYABqv,https://drive.google.com/file/d/1nE86fNuSGdG-bXuc1e7Jy1GbJTE5XdPH/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-056 and In-Process Control Log  
 Review SOP-QA-056 (requires fill volume ±2%, negative sterility tests) and LOG-2025-067 (flagged deviations)  
 Open “Fillable Document” (Crisis Tracker Dashboard)  
@@ -511,7 +552,7 @@ Fill the form: Describe deviations, assign priorities (sterility: High, global C
 Submit via “Answer Portal”",10
 course_1,Pro Training in QA/QC ,,ch_1_06,AI-Augmented CAPA & Escalation Tactics,les_1_06_06,Precision Counterstrikes – Corrective vs Preventive Action Differentiation,task_1_06_06_1,Corrective vs Preventive Action Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Vikram Desai, QA Lead. During a GMP review in the Tablet Manufacturing Unit, a QMS-integrated alert flags a deviation in the In-Process Control Log (LOG-2025-068) against SOP-QA-057 (Tablet Compression Protocol): 3 out of 10 tablet weight checks are out-of-spec (beyond ±5%), a major deviation violating GMP 21 CFR Part 211.100. Dr. Desai instructs you to perform RCA using 5 Whys and document corrective and preventive actions using the CAPA Command Template, ensuring clear differentiation for an upcoming USFDA audit.
 
-Deliverables: 
+Deliverables 
 Completed CAPA Command Template (100–150 words total across Corrective Actions, Preventive Actions, Verification of Effectiveness, Additional Comments) documenting RCA findings, corrective, and preventive actions for GMP compliance.",https://drive.google.com/file/d/1XVVJ2rxTDEFZr7Au1tQtv1PXD2lBnDuA/view?usp=sharing,https://tally.so/r/3jVqb9,https://drive.google.com/file/d/1EGWy-664OrCDwboMPaZfRtXowk5oyA0e/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-057 and In-Process Control Log  
 Review SOP-QA-057 (requires weight checks within ±5%) and LOG-2025-068 (out-of-spec weights)  
 Perform RCA using 5 Whys to identify the root cause  
@@ -520,7 +561,8 @@ Fill the form: Reference DEV-2025-142, document RCA in Additional Comments, deta
 Submit via “Answer Portal”",10
 course_1,Pro Training in QA/QC ,,ch_1_06,AI-Augmented CAPA & Escalation Tactics,les_1_06_07,Evidence Intelligence – AI-Supported Root Cause Verification,task_1_06_07_1,AI-Supported RCA and CAPA Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Vikram Desai, QA Lead. During a GMP review in the Sterile Injectable Unit, a GAMP 5-validated AI model analyzing the In-Process Control Log (LOG-2025-069) against SOP-QA-058 (Sterile Filling Protocol) flags a recurring deviation: 3 out of 10 sterility tests show contamination, a critical deviation violating GMP 21 CFR Part 211.100. The AI confirms a root cause tied to a faulty cleanroom filter. Dr. Desai instructs you to document the AI-verified root cause and corrective/preventive actions using the CAPA Command Template for an upcoming USFDA audit, ensuring 21 CFR Part 211.100 and Annex 11 compliance.
 
-Deliverables: 
+Deliverables 
+
 Completed CAPA Command Template (100–150 words total across Corrective Actions, Preventive Actions, Verification of Effectiveness, Additional Comments) documenting AI-verified RCA findings and CAPA for the deviation.",https://drive.google.com/file/d/1l5nMH-a_CKfx1Y0kZP-DJn7zu4h3jLWa/view?usp=sharing,https://tally.so/r/3jVqb9,https://drive.google.com/file/d/1MD9y2RfHuAzhkPTr6ekMZwt_I4GeDHYZ/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-058 and In-Process Control Log  
 Review SOP-QA-058 (requires negative sterility tests) and LOG-2025-069 (AI-flagged contamination)  
 Perform RCA using AI model output to verify the root cause  
@@ -529,7 +571,8 @@ Fill the form: Reference DEV-2025-143, document AI-verified RCA in Additional Co
 Submit via “Answer Portal”",10
 course_1,Pro Training in QA/QC ,,ch_1_06,AI-Augmented CAPA & Escalation Tactics,les_1_06_08,"System Defense – Integrating CAPA with QMS, LIMS & eTMF Platforms",task_1_06_08_1,CAPA System Integration Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Vikram Desai, QA Lead. During a GMP review in the Sterile Injectable Unit, a QMS-integrated system (GAMP 5-validated) analyzing data from QMS, LIMS, and eTMF against SOP-QA-059 (Sterile Filling Protocol) flags two deviations in the In-Process Control Log (LOG-2025-070): (1) 3/10 fill volume checks out-of-spec (beyond ±2%, major deviation), and (2) 2/10 sterility tests show contamination (critical deviation). Dr. Desai instructs you to use the Crisis Tracker Dashboard to consolidate these deviations, document system integration details, and prioritize actions for an upcoming USFDA audit, ensuring 21 CFR Part 211.100 and Annex 11 compliance.
 
-Deliverables: 
+Deliverables 
+
 Completed Crisis Tracker Dashboard (100–150 words total across Issue Description, Containment Action Taken, Additional Comments) consolidating deviations and documenting system integration for GMP compliance.",https://drive.google.com/file/d/1mcHDTZjcp3bSeNYx8vJErlCRjI6Fk8cI/view?usp=sharing,https://tally.so/r/mYABqv,https://drive.google.com/file/d/17Vus6vUdRONpKRmYgqDZNZYEgm0fyVU-/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-059 and In-Process Control Log  
 Review SOP-QA-059 (requires fill volume ±2%, negative sterility tests) and LOG-2025-070 (QMS/LIMS/eTMF-flagged deviations)  
 Open “Fillable Document” (Crisis Tracker Dashboard)  
@@ -537,7 +580,8 @@ Fill the form: Describe deviations, assign priorities (sterility: High, volume: 
 Submit via “Answer Portal”",10
 course_1,Pro Training in QA/QC ,,ch_1_06,AI-Augmented CAPA & Escalation Tactics,les_1_06_09,Audit Heat – CAPA Case Studies Under FDA/WHO Inspection Pressure,task_1_06_09_1,CAPA Audit Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Vikram Desai, QA Lead. During a mock USFDA audit in the Sterile Injectable Unit, you review a CAPA (CAPA-2025-028) for a critical deviation in the In-Process Control Log (LOG-2025-071) against SOP-QA-060 (Sterile Filling Protocol): 3 out of 10 sterility tests show contamination (DEV-2025-146). You must evaluate the CAPA’s RCA, actions, and documentation using the Audit & Inspection Form to ensure 21 CFR Part 211.100 and Annex 11 compliance for the audit.
 
-Deliverables: 
+Deliverables 
+
 Completed Audit & Inspection Form (100–150 words total across REMARKS and Others/Additional Observations) evaluating the CAPA for GMP compliance and audit-readiness.",https://drive.google.com/file/d/1gOeP3_v4kK_f-3FTffSebs5knjvPMJgi/view?usp=sharing,https://tally.so/r/mV6BGl,https://drive.google.com/file/d/1KA4UY85eymZQ3_zWsCMkzECrdVpHVEHr/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-060, In-Process Control Log, and CAPA Report  
 Review SOP-QA-060 (requires negative sterility tests) and LOG-2025-071 (contaminated tests)  
 Open “Fillable Document” (Audit & Inspection Form)  
@@ -545,7 +589,8 @@ Fill the form: Check CAPA criteria (e.g., RCA quality, documentation), provide R
 Submit via “Answer Portal”",10
 course_1,Pro Training in QA/QC ,,ch_1_06,AI-Augmented CAPA & Escalation Tactics,les_1_06_10,The CAPA War Room – AI-Simulated Escalation & Full CAPA Closure Drill,task_1_06_10_1,CAPA War Room Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Vikram Desai, QA Lead. In a CAPA War Room drill in the Sterile Injectable Unit, a GAMP 5-validated AI model simulating multi-site deviations flags two issues in the In-Process Control Log (LOG-2025-072) against SOP-QA-061 (Sterile Filling Protocol): (1) 3/10 fill volume checks out-of-spec (beyond ±2%, major deviation, local CAPA), and (2) 2/10 sterility tests show contamination (critical deviation, global CAPA). Dr. Desai instructs you to use the Crisis Tracker Dashboard to consolidate deviations and document escalation, then the CAPA Command Template for the critical sterility deviation’s actions and closure, ensuring 21 CFR Part 211.100 and Annex 11 compliance for a mock USFDA audit.
 
-Deliverables: 
+Deliverables 
+
 1. Crisis Tracker Dashboard (100–150 words across Issue Description, Containment Action Taken, Additional Comments) consolidating deviations and escalation.
 2. CAPA Command Template (100–150 words across Corrective Actions, Preventive Actions, Verification of Effectiveness, Additional Comments) for the sterility deviation.",https://drive.google.com/file/d/1WcjEslzQT6MwTIV9ZQQe5s838UKoKLGc/view?usp=sharing,https://tally.so/r/mYABqv | https://tally.so/r/mDGOYl ,https://drive.google.com/file/d/1iOeSUL0MHq3aXZu-XmWI9FLvFKaOB8Q6/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-061 and In-Process Control Log  
 Identify AI-simulated deviations in LOG-2025-072 against SOP-QA-061 (fill volume ±2%, negative sterility tests)  
@@ -625,22 +670,24 @@ course_1,Pro Training in QA/QC ,,ch_1_12,Full-Scale QA/QC Simulation Project,les
 ,,,,,,,,,,,,,,10
 course_2,Pro Training in Pharmacovigilance ,"Monitor, evaluate, and manage drug safety to protect patients and ensure regulatory compliance.",ch_2_01,Foundations of Pharmacovigilance,les_2_01_01,What is Pharmacovigilance?,task_2_01_01_1,ADR Case Documentation,"As a Drug Safety Associate at Apex Pharmaceuticals, you receive a report from a healthcare professional (HCP). A 40-year-old female patient developed a severe rash three days after starting paracetamol (500 mg, oral, three times daily) for a headache. She was hospitalized for one day and recovered. The HCP suspects paracetamol caused the rash. You must document the case within a 24-hour deadline.
 
+
 Deliverables
 
-Completed ADR Report Form: Fill the ICH-compliant ADR Report Form in ZANE Omega with patient details, drug information, adverse event, seriousness, expectedness, causality, and narrative (200-300 characters). Use the case sheet and safety information provided.
+Completed ADR Report Form: Fill the ICH-compliant ADR Report Form in ZANE Omega with patient details, drug information, adverse event, seriousness, expectedness, causality, and narrative (200-300 characters). 
+Use the case sheet and safety information provided.
 Submission Method: Submit via the ADR Report Form in ZANE Omega, or paste the data (including narrative) into Omega Word, or upload a PDF.",https://drive.google.com/file/d/161Pww4Z4n42LVUaZYKnt1-jegExk5Sry/view?usp=sharing,https://tally.so/r/w20Wjg,https://drive.google.com/file/d/1KrSe4335DRApfkmDQ5lK_5FqUyXpZlej/view?usp=sharing,"Check Case Details : Confirm patient (40-year-old female), drug (paracetamol, 500 mg), adverse event (severe rash, hospitalized), and reporter (HCP). Use case ID PV-2025-001, receipt date September 29, 2025.
 Classify Seriousness : Mark as serious due to hospitalization.
 Assess Expectedness : Check paracetamol safety information (Reference Document). Severe rash is not listed, so mark unexpected.
 Assess Causality : Select “Probable” based on HCP suspicion and timing.
 Fill ADR Report Form : Enter in ZANE Omega:
-    - Reporter: Dr. Emily Wong, email: emily.wong@clinic.com.
-    - Drug: Paracetamol, 500 mg, oral, three times daily.
-    - Onset Date: September 26, 2025.
-    - Event: Severe rash, hospitalized, recovered.
-    - Seriousness: Serious.
-    - Expectedness: Unexpected.
-    - Causality: Probable.
-    - Narrative: Summarize case (e.g., “40-year-old female had severe rash 3 days after paracetamol 500 mg. Hospitalized; recovered. Serious, unexpected, probable causality.”).
+Reporter: Dr. Emily Wong, email: emily.wong@clinic.com.
+Drug: Paracetamol, 500 mg, oral, three times daily.
+Onset Date: September 26, 2025.
+Event: Severe rash, hospitalized, recovered.
+Seriousness: Serious.
+Expectedness: Unexpected.
+Causality: Probable.
+Narrative: Summarize case (e.g., “40-year-old female had severe rash 3 days after paracetamol 500 mg. Hospitalized; recovered. Serious, unexpected, probable causality.”).
 Submit : Complete all fields and submit",10
 course_2,Pro Training in Pharmacovigilance,,ch_2_01,Foundations of Pharmacovigilance,les_2_01_02,History & Evolution of PV,task_2_01_02_1,Regulatory Query Response,"As a Drug Safety Associate at Apex Pharmaceuticals, you receive a mock regulatory query from the WHO regarding an ADR report for amoxicillin (500 mg, oral, twice daily). The report details a 45-year-old male patient who experienced anaphylaxis, requiring hospitalization, two days after starting the drug (Case ID: PV-2025-004). The WHO asks how historical PV milestones ensure proper handling of such cases. You must respond within a 24-hour deadline.
 
@@ -656,7 +703,6 @@ Query Type: Data Clarification.
 Case ID: PV-2025-004.
 Response: Summarize Thalidomide’s impact, WHO PIDM, and ICH guidelines’ role in ADR management (200-300 words).
 Supporting Docs: Not required.
-Deadline: September 29, 2025.
 Escalation: No.
 Submit: Complete all fields and submit.",10
 course_2,Pro Training in Pharmacovigilance,,ch_2_01,Foundations of Pharmacovigilance,les_2_01_03,Global PV Regulatory Bodies,task_2_01_03_1,Regulatory Query Response – FDA Inquiry on Metformin Lactic Acidosis,"As a Drug Safety Associate at Apex Pharmaceuticals, you receive a mock regulatory query from the FDA regarding an ADR report for metformin (500 mg, oral, twice daily). The report details a 60-year-old female patient who experienced severe lactic acidosis, requiring hospitalization, five days after starting the drug (Case ID: PV-2025-005). The FDA asks which global regulatory bodies oversee such ADR reporting and their roles. You must respond within a 24-hour deadline.
@@ -673,7 +719,6 @@ Query Type: Data Clarification.
 Case ID: PV-2025-005.
 Response: Summarize FDA, EMA, WHO roles and databases for the ADR case (200-300 words).
 Supporting Docs: Not required.
-Deadline: September 29, 2025.
 Escalation: No.
 Submit: Complete all fields and submit.",10
 course_2,Pro Training in Pharmacovigilance,,ch_2_01,Foundations of Pharmacovigilance,les_2_01_04,Adverse Event (AE) Basics,task_2_01_04_1,ADR Case Documentation,"As a Drug Safety Associate at Apex Pharmaceuticals, you receive a report from a healthcare professional (HCP). A 35-year-old male patient developed a severe allergic reaction two days after starting penicillin (500 mg, oral, twice daily) for a throat infection. He was hospitalized for one day and recovered. The HCP suspects penicillin caused the reaction. You must document the case within a 24-hour deadline.
@@ -710,7 +755,6 @@ Query Type: Data Clarification.
 Original Case ID: PV-2025-007.
 Response: Summarize GVP principles (ADR reporting, risk management, Module VI) and their role (200-300 words).
 Supporting Docs: Not required.
-Deadline: September 29, 2025.
 Escalation Needed: No.
 Submit: Complete all fields and submit.",10
 course_2,Pro Training in Pharmacovigilance,,ch_2_01,Foundations of Pharmacovigilance,les_2_01_06,AI in PV Research,task_2_01_06_1,Aggregate Signal Assessment – Omeprazole Severe Diarrhea,"As a Drug Safety Associate at Apex Pharmaceuticals, you are analyzing adverse event reports for omeprazole (20 mg, oral, once daily) used for acid reflux. Recent data shows 15 cases of severe diarrhea over three months (July 1–September 30, 2025), with a disproportionality metric (PRR) of 2.5, indicating a potential safety signal. You must use Claude to summarize the signal and recommend actions for an aggregate report within a 24-hour deadline.
@@ -744,14 +788,14 @@ Query Type: Data Clarification.
 Original Case ID: PV-2025-009.
 Response: Summarize roles and responsibilities for the ADR case (200-300 words).
 Supporting Docs: Not required.
-Deadline: September 29, 2025.
 Escalation Needed: No.
 Submit: Complete all fields and submit.",10
 course_2,Pro Training in Pharmacovigilance,,ch_2_01,Foundations of Pharmacovigilance,les_2_01_08,Introduction to MedDRA,task_2_01_08_1,ICSR Data Entry – Warfarin-Induced Gingival Bleeding,"Today, as a Drug Safety Associate at Apex Pharmaceuticals, you receive a report from a healthcare professional (HCP). A 70-year-old male patient developed severe bleeding gums two days after starting warfarin (5 mg, oral, once daily) for atrial fibrillation. He was hospitalized for one day and recovered. The HCP suspects warfarin caused the bleeding. You must document the case in an ICSR Data Entry Form by tomorrow.
 
 Deliverables
 
-Completed ICSR Data Entry Form: Fill the ICSR Data Entry Form in ZANE Omega with patient details, drug information, adverse event, MedDRA PT code, seriousness, causality, submission date, and narrative (200-300 characters). Use the provided case sheet and safety information.
+Completed ICSR Data Entry Form: Fill the ICSR Data Entry Form in ZANE Omega with patient details, drug information, adverse event, MedDRA PT code, seriousness, causality, submission date, and narrative (200-300 characters). 
+Use the provided case sheet and safety information.
 Submission Method: Submit via the ICSR Data Entry Form in ZANE Omega.",https://drive.google.com/file/d/1eC4i7YA5khwUnByJS8pEspprZE7e_v34/view?usp=sharing,https://tally.so/r/wvkldv,https://drive.google.com/file/d/1tRhW5o9EPaIQk3D_juwCodqDFBkhQ94_/view?usp=sharing,"Check Case Details: Confirm patient (70-year-old male), drug (warfarin, 5 mg), event (severe bleeding gums, hospitalized), and reporter (HCP). Use case ID PV-001, receipt date today.
 Classify Seriousness: Mark as serious due to hospitalization.
 Assess Causality: Select “Probable” based on HCP suspicion and timing.
@@ -771,7 +815,8 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_01,Foundations of Pharmacovigil
 
 Deliverables
 
-Completed ICSR Data Entry Form: Fill the ICSR Data Entry Form in ZANE Omega with patient details, drug information, adverse event, seriousness, causality, submission date, and narrative (200-300 characters). Use the provided case sheet and safety information.
+Completed ICSR Data Entry Form: Fill the ICSR Data Entry Form in ZANE Omega with patient details, drug information, adverse event, seriousness, causality, submission date, and narrative (200-300 characters). 
+Use the provided case sheet and safety information.
 Submission Method: Submit via the ICSR Data Entry Form in ZANE Omega.",https://drive.google.com/file/d/1bH27XJdTE_onhr7TXwi1WKY8QXfrdLrA/view?usp=sharing,https://tally.so/r/wvkldv,https://drive.google.com/file/d/1BDrIuvNc2Wrp-h6TLbRKB6SB0UHxsP26/view?usp=sharing,"Check Case Details: Confirm patient (55-year-old female), drug (levothyroxine, 100 mcg), event (severe palpitations, hospitalized), and reporter (HCP). Use case ID PV-002, receipt date today.
 Classify Seriousness: Mark as serious due to hospitalization.
 Assess Causality: Select “Probable” based on HCP suspicion and timing.
@@ -831,6 +876,7 @@ Submit the form within 24 hours.",10
 course_2,Pro Training in Pharmacovigilance,,ch_2_02,Individual Case Safety Reports (ICSR),les_2_02_04,Narrative Writing Basics,task_2_02_04_1,AE Narrative Writing – Metformin-Induced Nausea,"You are a Pharmacovigilance Trainee at Unity Pharma, a company based in Canada. You are tasked with writing an AE narrative for an ICSR based on a spontaneous report from a clinic in Brazil. The report details a patient experiencing nausea while taking metformin for type 2 diabetes. Your role is to use the provided source document (a clinic note) to write a concise narrative, ensuring it is accurate, clear, and compliant with global standards, suitable for submission to regulatory authorities like Health Canada, ANVISA (Brazil), FDA, MHRA, EMA, and CDSCO.
 
 Deliverables
+
 A completed AE Narrative, summarizing the patient’s adverse event in a clear, chronological format.
 The narrative should include all required components (patient details, drug information, AE details, outcome) and use standard terminology (MedDRA code ""10028813"" for nausea).
 Submit the narrative to your supervisor via Unity Pharma’s PV system, ensuring an audit trail per ICH E2B(R3).
@@ -882,6 +928,8 @@ Submit in OMEGA Word within 24 hours.",10
 course_2,Pro Training in Pharmacovigilance,,ch_2_02,Individual Case Safety Reports (ICSR),les_2_02_07,MedDRA Type Coding for ICSRs,task_2_02_07_1,MedDRA Coding – Metformin AE,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in New Zealand. You are tasked with coding an AE from an ICSR based on a spontaneous report from a clinic in Singapore. The report includes a verbatim description of the patient's symptom after taking metformin for type 2 diabetes. Using Grok (grok.com), you will code the verbatim term to the appropriate Lowest Level Term (LLT), Preferred Term (PT), and System Organ Class (SOC), justify your coding, and enter it in OMEGA Word for submission, ensuring compliance with regulatory authorities like Medsafe (New Zealand), HSA (Singapore), FDA, MHRA, EMA, and CDSCO.
 
 
+Deliverables
+
 A basic coding entry in OMEGA Word, including the verbatim term, LLT, PT, SOC, and a short justification for the coding choice.
 A brief follow-up suggestion if more information is needed.
 ",https://drive.google.com/file/d/1b0Q7IcYMYYwuzxAhWGzqPj87Q7pT_t-N/view?usp=sharing,omegaword,https://drive.google.com/file/d/15AUISoXUb09aPE5iJ5lPql9K_uu51zhj/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
@@ -922,8 +970,8 @@ A basic timeline entry in OMEGA Word, including Day 0, submission deadline, foll
 ""Calculate ICSR submission timelines for this case: Day 0 is September 20, 2025, for a serious non-fatal AE. Provide the 15-day submission deadline and any follow-up deadline, mapping them to a simple calendar format with dates.""
 Review the Reference Document (ICSR details below) to confirm Day 0 and seriousness.
 Calculate deadlines based on Grok’s output:
- - Submission deadline: 15 days from Day 0 for serious non-fatal.
- - Follow-up: Note if any 8-day follow-up applies (only for fatal/life-threatening).
+Submission deadline: 15 days from Day 0 for serious non-fatal.
+Follow-up: Note if any 8-day follow-up applies (only for fatal/life-threatening).
 Map the deadlines to a simple calendar (e.g., Day 0: Sep 20; Deadline: Oct 5).
 Open OMEGA Word and create a new document titled ""ICSR Timeline Entry - Case ID HP-2025-SG-001"".
 Enter the timeline, note, and reminder in OMEGA Word.
@@ -963,7 +1011,7 @@ Enter the 3-5 trends and follow-up in OMEGA Word.
 Submit in OMEGA Word within 24 hours.",10
 course_2,Pro Training in Pharmacovigilance,,ch_2_03,Global PV Systems & Databases,les_2_03_02,E2B R3 Standards,task_2_03_02_1,E2B R3 Standards,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in New Zealand. You are tasked with filling out an ICSR form using E2B(R3) standards for an ICSR based on a spontaneous AE report from a clinic in Singapore. The report details a patient who experienced nausea after taking metformin for type 2 diabetes. Using the E2B R3 simulator, you will fill out the key E2B(R3) fields, validate the form with Grok (grok.com), and enter the completed form in OMEGA. Ensure compliance with regulatory authorities like Medsafe (New Zealand), HSA (Singapore), FDA, MHRA, EMA, and CDSCO.
 
-Deliverables:
+Deliverables
 
 A completed ICSR form in OMEGA.",https://drive.google.com/file/d/1SF1URWgZgyjLtqwjiTo7GxrRrcazc_bL/view?usp=sharing,omegaword,https://drive.google.com/file/d/13GczGpUTBGMA5orGSn0EZ530eDvAvBbS/view?usp=sharing,"Access the ICSR form in forms section and  fill in the form fields based on the reference document. (e.g., patient age, sex, AE description, drug name).
 Access Grok at tools section and input this prompt:
@@ -974,6 +1022,7 @@ Fill out the E2B(R3) key fields in ICSR form: Case ID, Patient Info, Suspected D
 Note the validation from Grok (e.g., all mandatory fields complete).
 Enter the filled form and validation note in OMEGA & submit.",10
 course_2,Pro Training in Pharmacovigilance,,ch_2_03,Global PV Systems & Databases,les_2_03_03,VigiBase Navigation,task_2_03_03_1,VigiBase Navigation,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in New Zealand. You are tasked with navigating VigiBase for an AE from an ICSR based on a spontaneous report from a clinic in Singapore. The report details a patient who experienced bleeding after taking warfarin for atrial fibrillation. Using the VigiBase simulator, you will search for similar ICSRs, review 3-5 key case details (e.g., seriousness, demographics), and enter a simple case search summary in OMEGA Word for submission, ensuring compliance with regulatory authorities like Medsafe (New Zealand), HSA (Singapore), FDA, MHRA, EMA, and CDSCO.
+
 
 Deliverables
 
@@ -988,6 +1037,7 @@ Submit in OMEGA Word within 24 hours.
 ",10
 course_2,Pro Training in Pharmacovigilance,,ch_2_03,Global PV Systems & Databases,les_2_03_04,FAERS Data Reconciliation,task_2_03_04_1,FAERS Data Reconciliation,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in New Zealand. You are tasked with reconciling FAERS data for an ICSR based on a spontaneous report from a clinic in Singapore. The report details a patient who experienced bleeding after taking warfarin for atrial fibrillation. Using the FAERS Reconciliation simulator, you will compare internal and FAERS data, identify 3-5 discrepancies, suggest corrections, and enter a simple reconciliation summary in OMEGA Word for submission, ensuring compliance with regulatory authorities like Medsafe (New Zealand), HSA (Singapore), FDA, MHRA, EMA, and CDSCO.
 
+
 Deliverables
 
 A basic reconciliation summary entry in OMEGA Word, listing 3-5 discrepancies and suggested corrections.
@@ -999,6 +1049,7 @@ Open OMEGA Word and create a new document titled ""FAERS Reconciliation Summary 
 Enter the 3-5 discrepancies, corrections, and follow-up in OMEGA Word.
 Submit in OMEGA Word within 24 hours. ",10
 course_2,Pro Training in Pharmacovigilance,,ch_2_03,Global PV Systems & Databases,les_2_03_05,AI for Database Queries,task_2_03_05_1,AI for Database Queries,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in the USA. You are tasked with querying global PV databases for an AE from an ICSR based on a spontaneous report from a clinic in Singapore. The report details a patient who experienced tinnitus after taking aspirin for headache. Using the VigiBase and EudraVigilance, you will query VigiBase for aspirin-tinnitus data, reconcile with FAERS/EudraVigilance, analyze 3-5 trends, and enter a simple signal summary in OMEGA Word for submission using AI (Grok or ChatGPT), ensuring compliance with regulatory authorities like FDA (USA), HSA (Singapore), MHRA, EMA, and CDSCO.
+
 
 Deliverables
 
@@ -1062,7 +1113,12 @@ Deliverables
 
 A basic error handling summary entry in OMEGA Word, listing 3-5 errors and suggested corrections.
 A brief follow-up suggestion for prevention.",https://drive.google.com/file/d/1hI4DRHUxIdEGMQ3_YmbyyV3Vay0jBIEO/view?usp=sharing,omegaword,https://drive.google.com/file/d/1UExpnMj3aXS5QmRdH75Lx1s3gSaa7c-8/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
-Analyze this ICSR data for database errors like missing fields or incorrect formats: Patient: Male, 70 years (age missing unit). Drug: Clopidogrel 75 mg oral daily, start September 15, 2025 (end date missing). AE: Bleeding, onset September 20, 2025, non-serious (MedDRA code missing). Narrative: Patient reported bleeding. No concomitant drugs. Suggest 3-5 errors and corrections.
+Analyze this ICSR data for database errors like missing fields or incorrect formats: 
+Patient: Male, 70 years (age missing unit). 
+Drug: Clopidogrel 75 mg oral daily, start September 15, 2025 (end date missing). 
+AE: Bleeding, onset September 20, 2025, non-serious (MedDRA code missing). 
+Narrative: Patient reported bleeding. No concomitant drugs. 
+Suggest 3-5 errors and corrections.
 Review the Reference Document (ICSR details below) to confirm potential errors (e.g., missing codes, formats).
 Identify 3-5 errors from Grok's output (e.g., missing MedDRA code, incorrect age format).
 Suggest corrections for each (e.g., add MedDRA code 10005329 for bleeding).
