@@ -1020,7 +1020,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_03,Global PV Systems & Database
 Deliverables
 
 A basic signal summary entry in OMEGA Word, listing 3-5 trends from VigiBase query and reconciliation with FAERS/EudraVigilance.
-A brief follow-up suggestion for career application or further analysis.",https://drive.google.com/file/d/1TRg4jZek0iTup8whU0a9Q3uQMrJPWaGX/view?usp=sharing,omegaword,https://drive.google.com/file/d/1Tf8IxG9fSZrDICcgoZxxSXwEKdqvLo86/view?usp=sharing,"Access the ZANE VigiBase and input queries like ""metformin nausea reports"" and ""metformin nausea trends"" to retrieve data.
+A brief follow-up suggestion for career application or further analysis.",https://drive.google.com/file/d/1TRg4jZek0iTup8whU0a9Q3uQMrJPWaGX/view?usp=sharing,omegaword,https://drive.google.com/file/d/1Tf8IxG9fSZrDICcgoZxxSXwEKdqvLo86/view?usp=drive_link,"Access the ZANE VigiBase and input queries like ""metformin nausea reports"" and ""metformin nausea trends"" to retrieve data.
 Access Grok at Tools Section and input this prompt:
     
  ""Summarize FAERS and EudraVigilance data on metformin-related nausea, including report counts, demographics, and trends.""
@@ -1035,7 +1035,7 @@ course_2,Pro Training in Pharmacovigilance,,ch_2_03,Global PV Systems & Database
 
 Deliverables
 
-A completed ICSR form in OMEGA.",https://drive.google.com/file/d/1SF1URWgZgyjLtqwjiTo7GxrRrcazc_bL/view?usp=sharing,omegaword,https://drive.google.com/file/d/13GczGpUTBGMA5orGSn0EZ530eDvAvBbS/view?usp=sharing,"Access the ICSR form in forms section and  fill in the form fields based on the reference document. (e.g., patient age, sex, AE description, drug name).
+A completed ICSR form in OMEGA.",https://drive.google.com/file/d/1SF1URWgZgyjLtqwjiTo7GxrRrcazc_bL/view?usp=sharing,omegaword,https://drive.google.com/file/d/1TQXGcPzOn4KMI8cICs_YxI8zhwmlxexE/view?usp=drive_link,"Access the ICSR form in forms section and  fill in the form fields based on the reference document. (e.g., patient age, sex, AE description, drug name).
 Access Grok at tools section and input this prompt:
       ""Validate this filled E2B(R3) ICSR form for completeness: Patient: Male, 55 years. Suspected Drug: Metformin, dose 500 mg oral twice daily, start June 15, 2025. AE: Nausea, onset July 10, 2025, non-serious. Confirm if mandatory fields are filled.""
     
@@ -1135,13 +1135,8 @@ Deliverables
 
 A basic error handling summary entry in OMEGA Word, listing 3-5 errors and suggested corrections.
 A brief follow-up suggestion for prevention.",https://drive.google.com/file/d/1hI4DRHUxIdEGMQ3_YmbyyV3Vay0jBIEO/view?usp=sharing,omegaword,https://drive.google.com/file/d/1UExpnMj3aXS5QmRdH75Lx1s3gSaa7c-8/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
-Analyze this ICSR data for database errors like missing fields or incorrect formats: 
-Patient: Male, 70 years (age missing unit). 
-Drug: Clopidogrel 75 mg oral daily, start September 15, 2025 (end date missing). 
-AE: Bleeding, onset September 20, 2025, non-serious (MedDRA code missing). 
-Narrative: Patient reported bleeding. No concomitant drugs. 
-Suggest 3-5 errors and corrections.
-Review the Reference Document (ICSR details below) to confirm potential errors (e.g., missing codes, formats).
+Analyze this ICSR data for database errors like missing fields or incorrect formats:  Patient: Male, 70 years (age missing unit). Drug: Clopidogrel 75 mg oral daily, start September 15, 2025 (end date missing). AE: Bleeding, onset September 20, 2025, non-serious (MedDRA code missing).Narrative: Patient reported bleeding. No concomitant drugs.Suggest 3-5 errors and corrections.
+Review the Reference Document (ICSR details below) to confirm potential errors (e.g. missing codes, formats).
 Identify 3-5 errors from Grok's output (e.g., missing MedDRA code, incorrect age format).
 Suggest corrections for each (e.g., add MedDRA code 10005329 for bleeding).
 Open OMEGA Word and paste it. Hit submit.",10
