@@ -1,5 +1,5 @@
 courseId,courseName,coursedescription,chapterId,chapterName,lessonId,lessonName,taskId,taskTitle,scenario,pdfUrls,tallyUrls,answerKeyUrl,instructions,xp
-course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,ch_1_01,Foundations of Quality Warfare,les_1_01_01,Entering the Battlefield – QMS Basics & SOP Gap Review,task_1_01_01_1,QMS Compliance Check,"Welcome to your first mission as a Junior Quality Control Analyst at Zenith Pharma Labs!
+course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,ch_1_01,Foundations of Quality Warfare,les_1_01_01,Entering the Battlefield – QMS Basics & SOP Gap Review,task_1_01_01_1,L1: QMS Compliance Check,"Welcome to your first mission as a Junior Quality Control Analyst at Zenith Pharma Labs!
 Your supervisor, Ms. Rhea Patel, Quality Assurance Supervisor, needs you to ensure the lab’s Quality Management System (QMS) is on point. You’ve been tasked with checking if the lab’s batch record-keeping follows the QMS rules outlined in the SOP. Your job is to review the SOP, compare it to a lab observation, and fill out a Compliance Verification Form to confirm if the process is compliant or flag any issues. This keeps the lab’s operations safe and reliable, like a well-coordinated army following its playbook.
 
 CheckList:
@@ -18,8 +18,9 @@ Observation: Briefly describe the issue.
 Recommendation: Suggest one practical fix (100–150 words).
 Verify: Ensure findings are clear and solution is realistic.
 Check Answer: Click “Answer Portal” → review correct Compliance Verification Form.",10
-course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,ch_1_01,Foundations of Quality Warfare,les_1_01_02,Control the Arsenal – Document Versioning & Register Mastery,task_1_01_02_1,SOP Gap Review and DCR Submission.,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Mr. Vikram Desai, Quality Assurance Lead.
+course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,ch_1_01,Foundations of Quality Warfare,les_1_01_02,Control the Arsenal – Document Versioning & Register Mastery,task_1_01_02_1,L2: SOP Gap Review and DCR Submission.,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Mr. Vikram Desai, Quality Assurance Lead.
 During a routine document audit, you notice that the SOP for sample storage (SOP-QC-002, v1.0) requires samples to be stored at 2–8°C, but the lab’s refrigerator log shows temperatures occasionally reaching 10°C due to a missing maintenance check step. Mr. Desai asks you to propose an update to the SOP using a Document Change Request (DCR) Form to add a daily maintenance check.
+
 
 Deliverables
 
@@ -28,7 +29,8 @@ Compare SOP (requires 2–8°C storage, no maintenance step) to the log (shows t
 Open “Fillable Document” (DCR Form).
 Fill the form: Identify SOP, describe gap (missing maintenance check), propose change (add daily check step), and justify (prevents temperature deviations).
 Submit via “Answer Portal.”",10
-course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,ch_1_01,Foundations of Quality Warfare,les_1_01_03,Spot the Breach – Deviation Detection & Rapid Reporting,task_1_01_03_1,Detecting and Classifying a Deviation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Ms. Priya Sharma, Quality Assurance Supervisor. During a routine in-process check (IPC) of a tablet batch (Batch No. TAB-2025-047), you notice that the tablet weight recorded by the automated weighing machine is 495 mg, below the SOP-QC-003 requirement of 500 ± 5 mg. After checking, you find the weighing machine was not calibrated before the shift, causing the deviation. Ms. Sharma instructs you to document this using the Deviation and Incident Report Form and propose immediate containment actions.
+course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,ch_1_01,Foundations of Quality Warfare,les_1_01_03,Spot the Breach – Deviation Detection & Rapid Reporting,task_1_01_03_1,L3: Detecting and Classifying a Deviation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Ms. Priya Sharma, Quality Assurance Supervisor. During a routine in-process check (IPC) of a tablet batch (Batch No. TAB-2025-047), you notice that the tablet weight recorded by the automated weighing machine is 495 mg, below the SOP-QC-003 requirement of 500 ± 5 mg. After checking, you find the weighing machine was not calibrated before the shift, causing the deviation. Ms. Sharma instructs you to document this using the Deviation and Incident Report Form and propose immediate containment actions.
+
 
 Deliverables
 
@@ -37,7 +39,8 @@ Compare SOP (tablet weight 500 ± 5 mg) to IPC Log (weight 495 mg).
 Open “Fillable Document” (Deviation and Incident Report Form).
 Fill the form: Describe the deviation (low weight), identify cause (uncalibrated machine), classify severity (Major), and propose containment (quarantine batch, recalibrate machine).
 Submit via “Answer Portal.”",10
-course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,ch_1_01,Foundations of Quality Warfare,les_1_01_04,Strike Back – Root Cause Analysis & CAPA Drafting,task_1_01_04_1,The Mystery of the Failing Cold Room,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Mr. Anil Gupta, Quality Assurance Manager. During a routine dissolution test for tablet batch TAB-2025-049, 3 out of 20 tablets failed to meet the SOP-QC-004 dissolution specification (≥80% dissolution in 30 minutes). Initial investigation points to inconsistent granulation time. Mr. Gupta instructs you to perform a root cause analysis (RCA) using the 5 Whys method and document corrective and preventive actions using the CAPA Command Template.
+course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,ch_1_01,Foundations of Quality Warfare,les_1_01_04,Strike Back – Root Cause Analysis & CAPA Drafting,task_1_01_04_1,L4: The Mystery of the Failing Cold Room,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Mr. Anil Gupta, Quality Assurance Manager. During a routine dissolution test for tablet batch TAB-2025-049, 3 out of 20 tablets failed to meet the SOP-QC-004 dissolution specification (≥80% dissolution in 30 minutes). Initial investigation points to inconsistent granulation time. Mr. Gupta instructs you to perform a root cause analysis (RCA) using the 5 Whys method and document corrective and preventive actions using the CAPA Command Template.
+
 
 Deliverables
 
@@ -46,7 +49,8 @@ Use the 5 Whys method to identify the root cause (start with: tablets failed dis
 Open “Fillable Document” (CAPA Command Template).
 Fill the form: Describe the issue, document RCA findings, propose corrective actions (e.g., retrain operators), and preventive actions (e.g., update equipment settings), assign responsibilities, and set deadlines.
 Submit via “Answer Portal.”",10
-course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,ch_1_01,Foundations of Quality Warfare,les_1_01_05,First Combat Drill – Internal Audit & Document Inspection Simulation,task_1_01_05_1,Internal Audit & Document Inspection at Sunrise Hospital Lab,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, assigned as an internal auditor under Ms. Rhea Patel, QA Manager. During a mock process audit of the sample testing process, you review the Sample Testing Log (LOG-2025-016) against SOP-QC-005 (Sample Testing Procedure, v1.0). You notice that 4 out of 10 test records lack analyst signatures, violating SOP-QC-005’s requirement for signed documentation. Ms. Patel instructs you to document your findings and recommend corrective actions using the Audit & Inspection Form.
+course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,ch_1_01,Foundations of Quality Warfare,les_1_01_05,First Combat Drill – Internal Audit & Document Inspection Simulation,task_1_01_05_1,L5: Internal Audit & Document Inspection at Sunrise Hospital Lab,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, assigned as an internal auditor under Ms. Rhea Patel, QA Manager. During a mock process audit of the sample testing process, you review the Sample Testing Log (LOG-2025-016) against SOP-QC-005 (Sample Testing Procedure, v1.0). You notice that 4 out of 10 test records lack analyst signatures, violating SOP-QC-005’s requirement for signed documentation. Ms. Patel instructs you to document your findings and recommend corrective actions using the Audit & Inspection Form.
+
 
 Deliverables
 
@@ -55,15 +59,17 @@ Compare SOP-QC-005 (requires analyst signatures on all test records) to LOG-2025
 Open “Fillable Document” (Audit & Inspection Form).
 Fill the form: Check relevant criteria (e.g., Documentation complete and accurate: NO), provide REMARKS (e.g., missing signatures), and recommend actions in Others/Additional Observations (e.g., retrain staff, add checklist).
 Submit via “Answer Portal.”",10
-course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,ch_1_01,Foundations of Quality Warfare,les_1_01_06,Defend the Lab – OOS/OOT Identification & First-line Investigation,task_1_01_06_1,OOS Identification and First-line Investigation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Ms. Priya Sharma, Quality Assurance Supervisor. During a routine purity test for raw material batch RM-2025-105, the HPLC test result shows a purity of 98.5%, below the SOP-QC-006 specification of ≥99.5%. Initial checks suggest a possible lab error in sample preparation. Ms. Sharma instructs you to document the OOS result and perform a first-line investigation using the Deviation and Incident Report Form, noting immediate actions and initial findings.
+course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,ch_1_01,Foundations of Quality Warfare,les_1_01_06,Defend the Lab – OOS/OOT Identification & First-line Investigation,task_1_01_06_1,L6: OOS Identification and First-line Investigation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Ms. Priya Sharma, Quality Assurance Supervisor. During a routine purity test for raw material batch RM-2025-105, the HPLC test result shows a purity of 98.5%, below the SOP-QC-006 specification of ≥99.5%. Initial checks suggest a possible lab error in sample preparation. Ms. Sharma instructs you to document the OOS result and perform a first-line investigation using the Deviation and Incident Report Form, noting immediate actions and initial findings.
+
 
 Deliverables 
+
 Completed Deviation and Incident Report Form (100–150 words total across Incident Description, Immediate Action Taken, Root Cause Analysis, CAPA Details) documenting the OOS result, immediate actions, and initial investigation findings.",https://drive.google.com/file/d/1wTls81wwbIgvuyF200uR2wvTn1RrQ3BB/view?usp=sharing,https://tally.so/r/3jVqb9,https://drive.google.com/file/d/11FmFmPckN-p-Fi83L-9PlpaknjLjnwqC/view?usp=sharing,"Click “Reference Documents” to review SOP-QC-006 and HPLC Test Log.
 Compare SOP-QC-006 (purity ≥99.5%) to HPLC Test Log (98.5% purity).
 Open “Fillable Document” (Deviation and Incident Report Form).
 Fill the form: Describe the OOS result, note immediate actions (e.g., quarantine batch, recheck data), provide initial RCA (e.g., possible sample preparation error), propose corrective/preventive actions, and assign responsibilities.
 Submit via “Answer Portal.”",10
-course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,ch_1_01,Foundations of Quality Warfare,les_1_01_07,Guard the Data – ALCOA+ & Data Integrity Auditing,task_1_01_07_1,ALCOA+ & Data Integrity Auditing,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, assigned as a data integrity auditor under Mr. Vikram Desai, QA Lead. During a mock audit of batch record data for tablet batch TAB-2025-053, you review the Batch Record Log (LOG-2025-020) against SOP-QA-007 (Batch Record Documentation). You notice that 5 out of 10 records have timestamps entered hours after the test, violating SOP-QA-007’s requirement for contemporaneous data entry (ALCOA+ principle). Mr. Desai instructs you to document your findings and recommend improvements using the Compliance Verification Form.
+course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,ch_1_01,Foundations of Quality Warfare,les_1_01_07,Guard the Data – ALCOA+ & Data Integrity Auditing,task_1_01_07_1,L7: ALCOA+ & Data Integrity Auditing,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, assigned as a data integrity auditor under Mr. Vikram Desai, QA Lead. During a mock audit of batch record data for tablet batch TAB-2025-053, you review the Batch Record Log (LOG-2025-020) against SOP-QA-007 (Batch Record Documentation). You notice that 5 out of 10 records have timestamps entered hours after the test, violating SOP-QA-007’s requirement for contemporaneous data entry (ALCOA+ principle). Mr. Desai instructs you to document your findings and recommend improvements using the Compliance Verification Form.
 
 Deliverables
 
@@ -72,7 +78,7 @@ Compare SOP-QA-007 (requires contemporaneous timestamps) to LOG-2025-020 (delaye
 Open “Fillable Document” (Compliance Verification Form).
 Fill the form: Check criteria (e.g., Documentation complete and accurate: B - FAIL), provide REMARKS (e.g., delayed timestamps), detail deviation, and suggest improvements (e.g., retrain staff, use electronic logging).
 Submit via “Answer Portal.”",10
-course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,ch_1_01,Foundations of Quality Warfare,les_1_01_08,Full-Scale Operation – Deviation to CAPA Lifecycle Simulation,task_1_01_08_1,Deviation to CAPA Lifecycle Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Ms. Rhea Patel, QA Manager. During a routine hardness test for tablet batch TAB-2025-055, the result is 3.5 kg, below the SOP-QC-008 specification of 4–6 kg (deviation detected). 
+course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,ch_1_01,Foundations of Quality Warfare,les_1_01_08,Full-Scale Operation – Deviation to CAPA Lifecycle Simulation,task_1_01_08_1,L8: Deviation to CAPA Lifecycle Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Ms. Rhea Patel, QA Manager. During a routine hardness test for tablet batch TAB-2025-055, the result is 3.5 kg, below the SOP-QC-008 specification of 4–6 kg (deviation detected). 
 
 Initial assessment shows major impact on product quality, and RCA reveals a machine malfunction due to overdue maintenance. 
 Ms. Patel instructs you to simulate the full Deviation to CAPA lifecycle using two forms: 
@@ -82,7 +88,9 @@ Ms. Patel instructs you to simulate the full Deviation to CAPA lifecycle using t
 
 This builds a complete, traceable cycle.
 
-Deliverables: 
+
+Deliverables
+
 Two completed forms—Deviation and Incident Report Form (for initial stages) and CAPA Command Template (for CAPA stages)—documenting the full lifecycle from deviation detection to CAPA closure (100–150 words total across descriptive fields per form).",https://drive.google.com/file/d/1jj9qqQzB_q5WOEidKglhzecpc4aIbnmj/view?usp=sharing,https://tally.so/r/3jVqb9 | https://tally.so/r/mDGOYl,https://drive.google.com/file/d/1RmlneEj-uWatsNRfzHI8muWo5itx4aCQ/view?usp=sharing,"Click “Reference Documents” to review SOP-QC-008 and Hardness Test Log.
 Simulate the initial stages: Log the deviation (hardness 3.5 kg), assess impact (major), contain (quarantine), and perform RCA (5 Whys to root cause).
 Open “Fillable Document” (Deviation and Incident Report Form).
@@ -91,13 +99,14 @@ Transition to CAPA: Use the Deviation Form's RCA/output as input for detailed CA
 Open “Fillable Document” (CAPA Command Template).
 Fill the CAPA Template: Reference the deviation ID (DEV-2025-055), draft corrective/preventive actions, assign responsibilities, plan verification, and note closure date. Submit via “Answer Portal”.
 Tip: This two-form workflow mimics real QA—deviation for quick response, CAPA for long-term fix. Keep descriptions concise and evidence-based.",10
-course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,ch_1_01,Foundations of Quality Warfare,les_1_01_09,The War Game – Integrated QA/QC Crisis Assignment,task_1_01_09_1,Integrated QA/QC Crisis Assignment,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Mr. Anil Gupta, QA Manager. A crisis erupts: an assay test for Batch TAB-2025-057 shows an OOS result (API content 97.8% vs. ≥99.0% per SOP-QC-009). Simultaneously, an audit uncovers missing training records for two analysts (AK003, VS004) on SOP-QC-009, and an FDA inspection is scheduled tomorrow. Mr. Gupta tasks you with managing the crisis using three forms: Crisis Tracker Dashboard to triage and prioritize issues, Deviation and Incident Report Form to detail the OOS with RCA, and CAPA Command Template to resolve the OOS with corrective/preventive actions.
+course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,ch_1_01,Foundations of Quality Warfare,les_1_01_09,The War Game – Integrated QA/QC Crisis Assignment,task_1_01_09_1,L9: Integrated QA/QC Crisis Assignment,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Mr. Anil Gupta, QA Manager. A crisis erupts: an assay test for Batch TAB-2025-057 shows an OOS result (API content 97.8% vs. ≥99.0% per SOP-QC-009). Simultaneously, an audit uncovers missing training records for two analysts (AK003, VS004) on SOP-QC-009, and an FDA inspection is scheduled tomorrow. Mr. Gupta tasks you with managing the crisis using three forms: Crisis Tracker Dashboard to triage and prioritize issues, Deviation and Incident Report Form to detail the OOS with RCA, and CAPA Command Template to resolve the OOS with corrective/preventive actions.
+
 
 Deliverables
 
-1. Crisis Tracker Dashboard (triage/prioritize OOS and training issues, 100–150 words across descriptives).
-2. Deviation and Incident Report Form (OOS detail/RCA, 100–150 words).
-3. CAPA Command Template (OOS resolution, 100–150 words).",https://drive.google.com/file/d/1ruYNX4Z-tMs1C36Mp414nh5n_vO_QYzP/view?usp=sharing, https://tally.so/r/mYABqv | https://tally.so/r/3jVqb9 | https://tally.so/r/mDGOYl,https://drive.google.com/file/d/1DVPWaaU2u6JKrJ_7dacXXee33wwWLgVo/view?usp=sharing,"Click “Reference Documents” to review SOP-QC-009, Assay Test Log, and Training Record Log.
+Crisis Tracker Dashboard (triage/prioritize OOS and training issues, 100–150 words across descriptives).
+Deviation and Incident Report Form (OOS detail/RCA, 100–150 words).
+CAPA Command Template (OOS resolution, 100–150 words).",https://drive.google.com/file/d/1ruYNX4Z-tMs1C36Mp414nh5n_vO_QYzP/view?usp=sharing, https://tally.so/r/mYABqv | https://tally.so/r/3jVqb9 | https://tally.so/r/mDGOYl,https://drive.google.com/file/d/1DVPWaaU2u6JKrJ_7dacXXee33wwWLgVo/view?usp=sharing,"Click “Reference Documents” to review SOP-QC-009, Assay Test Log, and Training Record Log.
 Triage the crisis: List issues (OOS, missing records), assess risk, prioritize (OOS first).
 Open “Fillable Document” (Crisis Tracker Dashboard).
 Fill Dashboard: Describe issues, assign risk/priority (OOS: Major/High), note status, link to Deviation IDs. Submit via “Answer Portal” (sets crisis overview).
@@ -111,6 +120,7 @@ Tip: Dashboard is your crisis command center—link IDs across forms for traceab
 ,,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,,,,,,,,,,,,
 course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,ch_1_02,Hospital Quality Command Protocols,les_1_02_01,Entering the Ward Zone – Hospital QMS Framework & Accreditation Codes,task_1_02_01_1,Ward QMS Compliance Audit,"You are a Junior Quality Control Analyst at Zenith Hospital, reporting to Dr. Meera Nair, Quality Assurance Lead. During a routine ward audit in Ward 3 (General Medicine), you review the Hand Hygiene Compliance Log (LOG-2025-027) against SOP-QA-010 (Hand Hygiene Protocol). 
 You find that 6 out of 10 shift logs lack hand hygiene verification entries, violating SOP-QA-010 and NABH Standard AAC.5 (Access to Care and Continuity). Dr. Nair instructs you to document the non-compliance and recommend improvements using the Compliance Verification Form to prepare for an upcoming NABH audit.
+
 
 Deliverables
 
@@ -182,6 +192,7 @@ course_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level va
 Dr. Nair instructs you to document the incident, classify its severity, and outline initial actions using the Deviation and Incident Report Form, following SOP-QA-017 (Biohazard Spill Response Protocol) to ensure compliance with NABH Standard FMS.4 (Facility Management and Safety).
 
 Deliverables 
+
 Completed Deviation and Incident Report Form (100–150 words total across Incident Description, Immediate Action Taken, Root Cause Analysis, CAPA Details) documenting the biohazard spill, severity, immediate actions, and preliminary CAPA.",https://drive.google.com/file/d/18hDngVtD1yjQ9Z_SoMiZaVFnwN13arzA/view?usp=sharing,https://tally.so/r/3jVqb9,https://drive.google.com/file/d/1py-8b79Qitl36u9Th1Polr11cvqMDiAP/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-017 and Biohazard Spill Log.
 Compare SOP-QA-017 (requires immediate containment and reporting) to LOG-2025-034 (spill details).
 Open “Fillable Document” (Deviation and Incident Report Form).
@@ -193,8 +204,8 @@ Dr. Gupta instructs you to use the Crisis Tracker Dashboard to map and prioritiz
 
 Deliverables 
 
-1. Crisis Tracker Dashboard (100–150 words across Issue Description, Containment Action Taken, Additional Comments) to map and prioritize issues.
-2. Deviation and Incident Report Form (100–150 words across Incident Description, Immediate Action Taken, Root Cause Analysis, CAPA Details) for the Pharmacy error.",https://drive.google.com/file/d/1nwk4AWRmAQbWIhxlQ5T3urlD4P_B3oBR/view?usp=sharing,https://tally.so/r/mYABqv | https://tally.so/r/3jVqb9,https://drive.google.com/file/d/11_yUF3-aZszRGV_j4taQsq90I-1s-Ce7/view?usp=sharing,"Click “Reference Documents” to review SOP-PH-001, SOP-QA-012, Pharmacy Dispensing Log, and Hand Hygiene Compliance Log.
+Crisis Tracker Dashboard (100–150 words across Issue Description, Containment Action Taken, Additional Comments) to map and prioritize issues.
+Deviation and Incident Report Form (100–150 words across Incident Description, Immediate Action Taken, Root Cause Analysis, CAPA Details) for the Pharmacy error.",https://drive.google.com/file/d/1nwk4AWRmAQbWIhxlQ5T3urlD4P_B3oBR/view?usp=sharing,https://tally.so/r/mYABqv | https://tally.so/r/3jVqb9,https://drive.google.com/file/d/11_yUF3-aZszRGV_j4taQsq90I-1s-Ce7/view?usp=sharing,"Click “Reference Documents” to review SOP-PH-001, SOP-QA-012, Pharmacy Dispensing Log, and Hand Hygiene Compliance Log.
 Map issues: List Pharmacy error and ICU log issues, prioritize Pharmacy (higher risk).
 Open “Fillable Document” (Crisis Tracker Dashboard).
 Fill Dashboard: Describe issues, assign priorities (Pharmacy: High), note containment, link to Deviation IDs. Submit via “Answer Portal”.
@@ -208,8 +219,8 @@ Dr. Desai instructs you to use the Crisis Tracker Dashboard to consolidate and p
 
 Deliverables
 
-1. Crisis Tracker Dashboard (100–150 words across Issue Description, Containment Action Taken, Additional Comments) to consolidate and prioritize findings.
-2. CAPA Command Template (100–150 words across Corrective Actions, Preventive Actions, Verification of Effectiveness, Additional Comments) for the oxygen issue.",https://drive.google.com/file/d/1gz1mwQnqatonQgca6UFpEAIpg58eYCqx/view?usp=sharing,https://tally.so/r/mYABqv | https://tally.so/r/mDGOYl ,https://drive.google.com/file/d/1pn2MquNMI-i43eKaHoHi_XJHkzbHik0p/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-019, SOP-QA-020, Oxygen Supply Log, and Training Record Log.
+Crisis Tracker Dashboard (100–150 words across Issue Description, Containment Action Taken, Additional Comments) to consolidate and prioritize findings.
+CAPA Command Template (100–150 words across Corrective Actions, Preventive Actions, Verification of Effectiveness, Additional Comments) for the oxygen issue.",https://drive.google.com/file/d/1gz1mwQnqatonQgca6UFpEAIpg58eYCqx/view?usp=sharing,https://tally.so/r/mYABqv | https://tally.so/r/mDGOYl ,https://drive.google.com/file/d/1pn2MquNMI-i43eKaHoHi_XJHkzbHik0p/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-019, SOP-QA-020, Oxygen Supply Log, and Training Record Log.
 Consolidate findings: List oxygen interruption and training record issues, prioritize oxygen (critical risk).
 Open “Fillable Document” (Crisis Tracker Dashboard).
 Fill Dashboard: Describe issues, assign priorities (oxygen: High), note containment, link to Deviation IDs. Submit via “Answer Portal”.
@@ -304,8 +315,8 @@ course_1,Pro Training in QA/QC ,,ch_1_03,Pharma GMP Compliance Playbook,les_1_03
 
 Deliverables
 
-1. Crisis Tracker Dashboard (100–150 words across Issue Description, Containment Action Taken, Additional Comments) to consolidate and prioritize issues.
-2. CAPA Command Template (100–150 words across Corrective Actions, Preventive Actions, Verification of Effectiveness, Additional Comments) for the batch record issue.",https://drive.google.com/file/d/1oo9XSJoudJdtZdHUaTeCkt3WP58dB34u/view?usp=sharing,https://tally.so/r/mYABqv | https://tally.so/r/mDGOYl ,https://drive.google.com/file/d/1ovm7Yl4TTrE3n09H57LLLLODF8qR6JL-/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-030, SOP-QA-027, Data Integrity Log, and Equipment Calibration Log  
+Crisis Tracker Dashboard (100–150 words across Issue Description, Containment Action Taken, Additional Comments) to consolidate and prioritize issues.
+CAPA Command Template (100–150 words across Corrective Actions, Preventive Actions, Verification of Effectiveness, Additional Comments) for the batch record issue.",https://drive.google.com/file/d/1oo9XSJoudJdtZdHUaTeCkt3WP58dB34u/view?usp=sharing,https://tally.so/r/mYABqv | https://tally.so/r/mDGOYl ,https://drive.google.com/file/d/1ovm7Yl4TTrE3n09H57LLLLODF8qR6JL-/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-030, SOP-QA-027, Data Integrity Log, and Equipment Calibration Log  
 Consolidate findings: List batch record and equipment cleaning issues, prioritize batch records (critical risk)  
 Open “Fillable Document” (Crisis Tracker Dashboard)  
 Fill Dashboard: Describe issues, assign priorities (batch records: High), note containment, link to Deviation IDs. Submit via “Answer Portal”  
@@ -399,8 +410,8 @@ course_1,Pro Training in QA/QC ,,ch_1_04,SOP Authoring and Validation Systems,le
 
 Deliverables 
 
-1. Crisis Tracker Dashboard (100–150 words across Issue Description, Containment Action Taken, Additional Comments) to consolidate and prioritize issues.
-2. CAPA Command Template (100–150 words across Corrective Actions, Preventive Actions, Verification of Effectiveness, Additional Comments) for the vague SOP issue.",https://drive.google.com/file/d/1Rr7_Ns1eS6buIaDiApzQHCR4QMJtPm4y/view?usp=sharing,https://tally.so/r/mYABqv | https://tally.so/r/mDGOYl,https://drive.google.com/file/d/1sZCsNmsuvtbNIz4k2oy63Asar-wszzkh/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-032, SOP-QA-042, and Competency Record Log  
+Crisis Tracker Dashboard (100–150 words across Issue Description, Containment Action Taken, Additional Comments) to consolidate and prioritize issues.
+CAPA Command Template (100–150 words across Corrective Actions, Preventive Actions, Verification of Effectiveness, Additional Comments) for the vague SOP issue.",https://drive.google.com/file/d/1Rr7_Ns1eS6buIaDiApzQHCR4QMJtPm4y/view?usp=sharing,https://tally.so/r/mYABqv | https://tally.so/r/mDGOYl,https://drive.google.com/file/d/1sZCsNmsuvtbNIz4k2oy63Asar-wszzkh/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-032, SOP-QA-042, and Competency Record Log  
 Consolidate findings: List vague SOP steps and missing training signatures, prioritize SOP issue (critical for compliance)  
 Open “Fillable Document” (Crisis Tracker Dashboard)  
 Fill Dashboard: Describe issues, assign priorities (SOP: High), note containment, link to Deviation IDs. Submit via “Answer Portal”  
@@ -489,8 +500,8 @@ course_1,Pro Training in QA/QC ,,ch_1_05,Deviation Tracking and Root Cause Engin
 
 Deliverables
 
-1. Deviation and Incident Report Form (100–150 words across Incident Description, Immediate Action Taken, Root Cause Analysis, CAPA Details) for the sterility deviation.
-2. CAPA Command Template (100–150 words across Corrective Actions, Preventive Actions, Verification of Effectiveness, Additional Comments) for corrective/preventive actions.",https://drive.google.com/file/d/1JfB6Q6f5Tw343IEcA8_3pwEUvWcPay1W/view?usp=sharing,https://tally.so/r/3jVqb9 | https://tally.so/r/mDGOYl ,https://drive.google.com/file/d/1nljSjl_3BIs4x5202ilOV7ccwYUXlflx/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-051 and Batch Production Record  
+Deviation and Incident Report Form (100–150 words across Incident Description, Immediate Action Taken, Root Cause Analysis, CAPA Details) for the sterility deviation.
+CAPA Command Template (100–150 words across Corrective Actions, Preventive Actions, Verification of Effectiveness, Additional Comments) for corrective/preventive actions.",https://drive.google.com/file/d/1JfB6Q6f5Tw343IEcA8_3pwEUvWcPay1W/view?usp=sharing,https://tally.so/r/3jVqb9 | https://tally.so/r/mDGOYl ,https://drive.google.com/file/d/1nljSjl_3BIs4x5202ilOV7ccwYUXlflx/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-051 and Batch Production Record  
 Identify critical sterility deviation in BPR-2025-052 against SOP-QA-051 (negative sterility tests required)  
 Open “Fillable Document” (Deviation and Incident Report Form)  
 Fill Deviation Form: Describe sterility deviation, note containment (e.g., halt production), perform RCA (5 Whys), note escalation to QA/management. Submit via “Answer Portal”  
@@ -503,8 +514,8 @@ course_1,Pro Training in QA/QC ,,ch_1_06,AI-Augmented CAPA & Escalation Tactics,
 
 Deliverables
 
-1. Deviation and Incident Report Form (100–150 words across Incident Description, Immediate Action Taken, Root Cause Analysis, CAPA Details) for the sterility deviation.
-2. CAPA Command Template (100–150 words across Corrective Actions, Preventive Actions, Verification of Effectiveness, Additional Comments) for corrective/preventive actions.",https://drive.google.com/file/d/1MU-Ov7vnPDkD0jd1u_iB8xFsmyqoo3YB/view?usp=sharing,https://tally.so/r/3jVqb9 | https://tally.so/r/mDGOYl ,https://drive.google.com/file/d/1VyG0u8YZ3YB1P5RB5XR_LmI1RhmLNVNu/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-052 and In-Process Control Log  
+Deviation and Incident Report Form (100–150 words across Incident Description, Immediate Action Taken, Root Cause Analysis, CAPA Details) for the sterility deviation.
+CAPA Command Template (100–150 words across Corrective Actions, Preventive Actions, Verification of Effectiveness, Additional Comments) for corrective/preventive actions.",https://drive.google.com/file/d/1MU-Ov7vnPDkD0jd1u_iB8xFsmyqoo3YB/view?usp=sharing,https://tally.so/r/3jVqb9 | https://tally.so/r/mDGOYl ,https://drive.google.com/file/d/1VyG0u8YZ3YB1P5RB5XR_LmI1RhmLNVNu/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-052 and In-Process Control Log  
 Identify critical sterility deviation in LOG-2025-063 against SOP-QA-052 (negative sterility tests required)  
 Open “Fillable Document” (Deviation and Incident Report Form)  
 Fill Deviation Form: Describe sterility deviation, note containment (e.g., halt production), perform RCA (5 Whys), note escalation to QA/management. Submit via “Answer Portal”  
@@ -515,8 +526,8 @@ Tip: Prioritize critical sterility deviation for audit-readiness; link IDs for t
 course_1,Pro Training in QA/QC ,,ch_1_06,AI-Augmented CAPA & Escalation Tactics,les_1_06_02,From Firefight to Framework – CAPA Lifecycle Stages Explained,task_1_06_02_1,CAPA Lifecycle Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Vikram Desai, QA Lead. During a GMP review in the Tablet Manufacturing Unit, you identify two deviations in the In-Process Control Log (LOG-2025-064) against SOP-QA-053 (Tablet Mixing Protocol): (1) 3/10 pH checks are out-of-spec (beyond 6.8–7.2, major deviation), and (2) 2/10 mixing logs lack operator signatures (minor deviation). Dr. Desai instructs you to use the Deviation and Incident Report Form to document the major pH deviation, containment, and RCA, then the CAPA Command Template to detail corrective/preventive actions and effectiveness checks, ensuring USFDA GMP 21 CFR Part 211.100 compliance for a mock audit.
 
 Deliverables
-1. Deviation and Incident Report Form (100–150 words across Incident Description, Immediate Action Taken, Root Cause Analysis, CAPA Details) for the pH deviation.
-2. CAPA Command Template (100–150 words across Corrective Actions, Preventive Actions, Verification of Effectiveness, Additional Comments) for corrective/preventive actions.",https://drive.google.com/file/d/1pVGT0NQWYMy1IPxBGfknR4pw-fyUvgA0/view?usp=sharing,https://tally.so/r/3jVqb9 | https://tally.so/r/mDGOYl ,https://drive.google.com/file/d/1YUm1rUYNA-1F5XgHxhYs6Ryzv6biY9gm/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-053 and In-Process Control Log  
+Deviation and Incident Report Form (100–150 words across Incident Description, Immediate Action Taken, Root Cause Analysis, CAPA Details) for the pH deviation.
+CAPA Command Template (100–150 words across Corrective Actions, Preventive Actions, Verification of Effectiveness, Additional Comments) for corrective/preventive actions.",https://drive.google.com/file/d/1pVGT0NQWYMy1IPxBGfknR4pw-fyUvgA0/view?usp=sharing,https://tally.so/r/3jVqb9 | https://tally.so/r/mDGOYl ,https://drive.google.com/file/d/1YUm1rUYNA-1F5XgHxhYs6Ryzv6biY9gm/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-053 and In-Process Control Log  
 Identify major pH deviation in LOG-2025-064 against SOP-QA-053 (pH 6.8–7.2 required)  
 Open “Fillable Document” (Deviation and Incident Report Form)  
 Fill Deviation Form: Describe pH deviation, note containment (e.g., quarantine batch), perform RCA (5 Whys), note initial CAPA. Submit via “Answer Portal”  
@@ -591,8 +602,8 @@ course_1,Pro Training in QA/QC ,,ch_1_06,AI-Augmented CAPA & Escalation Tactics,
 
 Deliverables 
 
-1. Crisis Tracker Dashboard (100–150 words across Issue Description, Containment Action Taken, Additional Comments) consolidating deviations and escalation.
-2. CAPA Command Template (100–150 words across Corrective Actions, Preventive Actions, Verification of Effectiveness, Additional Comments) for the sterility deviation.",https://drive.google.com/file/d/1WcjEslzQT6MwTIV9ZQQe5s838UKoKLGc/view?usp=sharing,https://tally.so/r/mYABqv | https://tally.so/r/mDGOYl ,https://drive.google.com/file/d/1iOeSUL0MHq3aXZu-XmWI9FLvFKaOB8Q6/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-061 and In-Process Control Log  
+Crisis Tracker Dashboard (100–150 words across Issue Description, Containment Action Taken, Additional Comments) consolidating deviations and escalation.
+CAPA Command Template (100–150 words across Corrective Actions, Preventive Actions, Verification of Effectiveness, Additional Comments) for the sterility deviation.",https://drive.google.com/file/d/1WcjEslzQT6MwTIV9ZQQe5s838UKoKLGc/view?usp=sharing,https://tally.so/r/mYABqv | https://tally.so/r/mDGOYl ,https://drive.google.com/file/d/1iOeSUL0MHq3aXZu-XmWI9FLvFKaOB8Q6/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-061 and In-Process Control Log  
 Identify AI-simulated deviations in LOG-2025-072 against SOP-QA-061 (fill volume ±2%, negative sterility tests)  
 Open “Fillable Document” (Crisis Tracker Dashboard)  
 Fill Dashboard: Describe deviations, assign priorities (sterility: High, global CAPA; volume: Medium, local CAPA), note containment, document escalation/AI validation. Submit via “Answer Portal”  
