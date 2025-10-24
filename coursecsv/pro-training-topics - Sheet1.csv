@@ -126,7 +126,6 @@ course_2,ch_2_01,les_2_01_06,topic_2_01_06_1,AI in PV Research,https://www.youtu
 course_2,ch_2_01,les_2_01_07,topic_2_01_07_1,PV Roles & Responsibilities,https://www.youtube.com/watch?v=fkWe-2b_jF0,Defines key functions of professionals ensuring compliance and data accuracy in PV systems.,1
 course_2,ch_2_01,les_2_01_08,topic_2_01_08_1,Introduction to MedDRA,https://www.youtube.com/watch?v=HWek_3TYXyk,Overview of the global medical terminology used for coding and classifying adverse events.,1
 course_2,ch_2_01,les_2_01_09,topic_2_01_09_1,PV Documentation Essentials,https://www.youtube.com/watch?v=-MnBUZgRDkI,"Core principles for maintaining accurate, compliant, and auditable safety records.",1
-,,,,,,,
 course_2,ch_2_02,les_2_02_01,topic_2_02_01_1,ICSR Overview & Structure,https://www.youtube.com/watch?v=OU8aBf4eNPQ,Breakdown of the components and purpose of Individual Case Safety Reports in PV.,1
 course_2,ch_2_02,les_2_02_02,topic_2_02_02_1,Adverse Event (AE) Case Intake Process,https://www.youtube.com/watch?v=gXHduBhy0ss,Stepwise capture and validation of safety information from initial reports.,1
 course_2,ch_2_02,les_2_02_03,topic_2_02_03_1,Source Document Review,https://www.youtube.com/watch?v=l4VAm1SJiDM,Systematic evaluation of original medical data to verify and support safety case details.,1
@@ -138,7 +137,6 @@ course_2,ch_2_02,les_2_02_07,topic_2_02_07_1,MedDRA Type Coding for ICSRs,https:
 course_2,ch_2_02,les_2_02_08,topic_2_02_08_1,ICSR Quality Checks,https://www.youtube.com/watch?v=7UpKksBCIVw ,"Key validation steps ensuring completeness, consistency, and regulatory compliance of reports.",1
 course_2,ch_2_02,les_2_02_09,topic_2_02_09_1,Submission Timelines and Rules,https://www.youtube.com/watch?v=IwOegMImSng,Regulatory deadlines and protocols for timely ICSR submission to authorities.,1
 course_2,ch_2_02,les_2_02_10,topic_2_02_10_1,Individual Case Safety Report (ICSR) Case Closure,https://www.youtube.com/watch?v=by97SVxVW9o,Final verification and archival of completed safety cases after submission.,1
-,,,,,,,1
 course_2,ch_2_03,les_2_03_01,topic_2_03_01_1,Global PV Databases Overview,https://www.youtube.com/watch?v=,,
 course_2,ch_2_03,les_2_03_02,topic_2_03_02_1,E2B R3 Standards,https://www.youtube.com/watch?v=,,1
 course_2,ch_2_03,les_2_03_03,topic_2_03_03_1,VigiBase Navigation,https://www.youtube.com/watch?v=,,1
@@ -149,7 +147,6 @@ course_2,ch_2_03,les_2_03_07,topic_2_03_07_1,ARISg System Basics,https://www.you
 course_2,ch_2_03,les_2_03_08,topic_2_03_08_1,Data Privacy in PV (GDPR/HIPAA),https://www.youtube.com/watch?v=,,1
 course_2,ch_2_03,les_2_03_09,topic_2_03_09_1,Database Error Handling,https://www.youtube.com/watch?v=,,1
 ,,,,,,,
-,,,,,https://www.youtube.com/watch?v=,,1
 course_2,ch_2_04,les_2_04_01,topic_2_04_01_1,Signal Detection Overview,https://www.youtube.com/watch?v=,,1
 course_2,ch_2_04,les_2_04_02,topic_2_04_02_1,Quantitative Signal Detection,https://www.youtube.com/watch?v=,,1
 course_2,ch_2_04,les_2_04_03,topic_2_04_03_1,Qualitative Signal Detection,https://www.youtube.com/watch?v=,,1
@@ -160,7 +157,7 @@ course_2,ch_2_04,les_2_04_07,topic_2_04_07_1,Disproportionality Analysis,https:/
 course_2,ch_2_04,les_2_04_08,topic_2_04_08_1,Signal Reporting Standards,https://www.youtube.com/watch?v=,,1
 course_2,ch_2_04,les_2_04_09,topic_2_04_09_1,Risk Minimization Strategies,https://www.youtube.com/watch?v=,,1
 course_2,ch_2_04,les_2_04_10,topic_2_04_10_1,Signal Dashboards,https://www.youtube.com/watch?v=,,1
-,,,,,https://www.youtube.com/watch?v=,,1
+,,,,,,,
 course_2,ch_2_05,les_2_05_01,topic_2_05_01_1,PSUR Overview & Requirements,https://www.youtube.com/watch?v=,,1
 course_2,ch_2_05,les_2_05_02,topic_2_05_02_1,DSUR Basics & Timelines,https://www.youtube.com/watch?v=,,1
 course_2,ch_2_05,les_2_05_03,topic_2_05_03_1,Data Aggregation for Reports,https://www.youtube.com/watch?v=,,1
