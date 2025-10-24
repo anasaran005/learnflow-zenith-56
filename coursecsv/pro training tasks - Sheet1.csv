@@ -1140,7 +1140,7 @@ Review the Reference Document (ICSR details below) to confirm potential errors (
 Identify 3-5 errors from Grok's output (e.g., missing MedDRA code, incorrect age format).
 Suggest corrections for each (e.g., add MedDRA code 10005329 for bleeding).
 Open OMEGA Word and paste it. Hit submit.",10
-course_2,,,,,,,,,,,,,,10
+,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 course_2,Pro Training in Pharmacovigilance,,ch_2_04,Signal Detection & Risk Management,les_2_04_01,Signal Detection Overview,task_2_04_01_1,Signal Detection Overview,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in Europe. You are tasked with querying global PV databases for an AE from an ICSR based on a spontaneous report from a clinic in India. The report details a patient who experienced hepatotoxicity after taking paracetamol for fever. Using the official VigiAccess website (vigiaccess.org) from WHO, you will query for paracetamol-hepatotoxicity data and enter a simple signal summary in OMEGA Word for submission, ensuring compliance with regulatory authorities like EMA (Europe), CDSCO (India), FDA, MHRA.
 
@@ -1174,7 +1174,7 @@ Analyze this ICSR narrative qualitatively for signals: A 65-year-old male with h
 Review the Reference Document (ICSR details below) to confirm the narrative context.
 Identify 3-5 key points from Grok's output (e.g., temporal pattern, lack of alternatives).
 Suggest a follow-up action (e.g., integrate with quantitative data).
-Open OMEGA Word and create a new document titled ""Qualitative SD Summary Entry - Case ID HP-2025-IN-001"".
+Open OMEGA Word 
 Enter the 3-5 points and follow-up in OMEGA Word.
 Submit in OMEGA Word within 24 hours.",10
 course_2,Pro Training in Pharmacovigilance,,ch_2_04,Signal Detection & Risk Management,les_2_04_04,AI for Signal Noise Reduction,task_2_04_04_1,AI for Signal Noise Reduction,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in India. You are tasked with reducing noise in a signal dataset for an AE from an ICSR based on a spontaneous report from a clinic in Europe. The report details a patient who experienced edema after taking valsartan for hypertension. Using Grok (grok.com), you will process the noisy dataset, filter 3-5 duplicates/false positives, and enter a simple cleaned signal summary in OMEGA Word for submission, ensuring compliance with regulatory authorities like CDSCO (India), EMA (Europe), FDA, MHRA.
