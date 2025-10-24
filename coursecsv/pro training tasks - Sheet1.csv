@@ -1257,7 +1257,7 @@ Suggest a follow-up action (e.g., measure via patient feedback surveys).
 Open OMEGA Word and create a new document titled ""RMS Design Summary Entry - Case ID HP-2025-EU-001"".
 Enter the description, 3 points, and follow-up in OMEGA Word.
 Submit in OMEGA Word within 24 hours.",10
-course_2,ch_2_04,les_2_04_10,task_2_04_10_1,Pro Training in Pharmacovigilance,,Signal Detection & Risk Management,Signal Dashboards,Omegamentorship,,,,,,
+course_2,ch_2_04,les_2_04_10,task_2_04_10_1,Pro Training in Pharmacovigilance,,Signal Detection & Risk Management,Signal Dashboards,No task,,,,,,
 course_2,ch_2_05,les_2_05_01,task_2_05_01_1,Pro Training in Pharmacovigilance,,Aggregate Safety Reporting,PSUR Overview & Requirements,PSUR Overview & Requirements,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in India. You are tasked with preparing a PSUR overview for a potential safety issue from an ICSR based on a spontaneous report from a clinic in Europe. The report details a patient who experienced gastrointestinal bleeding after taking ibuprofen for pain. Using the official VigiAccess website (vigiaccess.org) from WHO, you will query for ibuprofen-gastrointestinal bleeding data (e.g., report count, trends), then use Grok (grok.com) to generate a creative mini-PSUR storyboard (e.g., a text-based ""comic strip"" narrative of safety summary and benefit-risk), and enter a simple PSUR storyboard summary in OMEGA Word for submission, ensuring compliance with regulatory authorities like CDSCO (India), EMA (Europe), FDA, MHRA.
 
 Deliverables
@@ -2102,4 +2102,5 @@ course_6,ch_6_12,les_6_12_07,task_6_12_07_1,Pro Training in Clinical Data Manage
 course_6,ch_6_12,les_6_12_08,task_6_12_08_1,Pro Training in Clinical Data Management,,,,,,,,,,
 course_6,ch_6_12,les_6_12_09,task_6_12_09_1,Pro Training in Clinical Data Management,,,,,,,,,,
 course_6,ch_6_12,les_6_12_10,task_6_12_10_1,Pro Training in Clinical Data Management,,,,,,,,,,
+
 
