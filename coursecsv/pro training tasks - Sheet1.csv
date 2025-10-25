@@ -117,7 +117,7 @@ Resolve OOS: Use Deviation RCA for CAPA drafting.
 Open “Fillable Document” (CAPA Command Template).
 Fill CAPA Template: Reference Deviation ID, draft corrective/preventive actions, plan verification/closure. Submit via “Answer Portal”.
 Tip: Dashboard is your crisis command center—link IDs across forms for traceability. Prioritize patient safety (OOS) for audit readiness.",10
-,,,,,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,,,,,,,,,
+,,,,,,,,,,,,,,
 course_1,ch_1_02,les_1_02_01,task_1_02_01_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,Hospital Quality Command Protocols,Entering the Ward Zone – Hospital QMS Framework & Accreditation Codes,Ward QMS Compliance Audit,"You are a Junior Quality Control Analyst at Zenith Hospital, reporting to Dr. Meera Nair, Quality Assurance Lead. During a routine ward audit in Ward 3 (General Medicine), you review the Hand Hygiene Compliance Log (LOG-2025-027) against SOP-QA-010 (Hand Hygiene Protocol). 
 You find that 6 out of 10 shift logs lack hand hygiene verification entries, violating SOP-QA-010 and NABH Standard AAC.5 (Access to Care and Continuity). Dr. Nair instructs you to document the non-compliance and recommend improvements using the Compliance Verification Form to prepare for an upcoming NABH audit.
 
@@ -157,7 +157,7 @@ Compare SOP-QA-013 (requires clear prescription labeling) to LOG-2025-030 (misre
 Open “Fillable Document” (Deviation and Incident Report Form).
 Fill the form: Describe the incident (medication error), classify severity (moderate), note immediate actions (e.g., monitor patient, notify doctor), provide preliminary RCA (e.g., unclear label design), and propose CAPA (e.g., retrain staff, redesign labels).
 Submit via “Answer Portal”.",10
-course_1,ch_1_02,les_1_02_05,task_1_02_05_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,Hospital Quality Command Protocols,First Hospital Drill – Ward & Facility Compliance Sweep,Infection Control and Isolation Audit,"You are a Junior Quality Control Analyst at Zenith Hospital, reporting to Dr. Meera Nair, QA Lead. During a routine audit in Ward 7 (Infectious Diseases Unit), you review the Isolation Room Compliance Log (LOG-2025-031) against SOP-QA-014 (Infection Control and Isolation Protocol). You find that 3 out of 5 isolation rooms lack proper signage for contact precautions, violating NABH Standard IPC.3 (Infection Prevention and Control) and increasing HAI risk. Dr. Nair instructs you to document the findings and recommend improvements using the Audit & Inspection Form to prepare for an upcoming NABH audit.
+course_1,ch_1_02,les_1_02_05,task_1_02_05_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,Hospital Quality Command Protocols,Biohazard Defense – Infection Control Protocols & Isolation Measures,Infection Control and Isolation Audit,"You are a Junior Quality Control Analyst at Zenith Hospital, reporting to Dr. Meera Nair, QA Lead. During a routine audit in Ward 7 (Infectious Diseases Unit), you review the Isolation Room Compliance Log (LOG-2025-031) against SOP-QA-014 (Infection Control and Isolation Protocol). You find that 3 out of 5 isolation rooms lack proper signage for contact precautions, violating NABH Standard IPC.3 (Infection Prevention and Control) and increasing HAI risk. Dr. Nair instructs you to document the findings and recommend improvements using the Audit & Inspection Form to prepare for an upcoming NABH audit.
 
 Deliverables 
 
@@ -166,7 +166,7 @@ Compare SOP-QA-014 (requires contact precaution signage) to LOG-2025-031 (missin
 Open “Fillable Document” (Audit & Inspection Form).
 Fill the form: Check criteria (e.g., Safety protocols followed: NO), provide REMARKS (e.g., missing signage), and recommend improvements in Others/Additional Observations (e.g., install signage, retrain staff).
 Submit via “Answer Portal”.",10
-course_1,ch_1_02,les_1_02_06,task_1_02_06_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,Hospital Quality Command Protocols,Biohazard Defense – Infection Control Protocols & Isolation Measures,EMR/EHR Data Integrity and Access Log Audit,"You are a Junior Quality Control Analyst at Zenith Hospital, reporting to Dr. Priya Sharma, QA Supervisor. During a routine EMR audit in Ward 8 (Cardiology Unit), you review the EMR Access Log (LOG-2025-032) against SOP-QA-015 (EMR Data Management Protocol). 
+course_1,ch_1_02,les_1_02_06,task_1_02_06_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,Hospital Quality Command Protocols,Guard the Records – EMR/EHR Data Integrity & Access Logs,EMR/EHR Data Integrity and Access Log Audit,"You are a Junior Quality Control Analyst at Zenith Hospital, reporting to Dr. Priya Sharma, QA Supervisor. During a routine EMR audit in Ward 8 (Cardiology Unit), you review the EMR Access Log (LOG-2025-032) against SOP-QA-015 (EMR Data Management Protocol). 
 You find that 4 out of 10 patient record entries have delayed timestamps (entered 2–3 hours after patient interaction), violating SOP-QA-015’s ALCOA+ Contemporaneous principle and NABH Standard HIC.2 (Hospital Infection Control). 
 Dr. Sharma instructs you to document the findings and recommend improvements using the Compliance Verification Form to prepare for an upcoming NABH audit.
 
@@ -177,7 +177,7 @@ Compare SOP-QA-015 (requires contemporaneous EMR entries) to LOG-2025-032 (delay
 Open “Fillable Document” (Compliance Verification Form).
 Fill the form: Check criteria (e.g., Documentation complete and accurate: B - FAIL), provide REMARKS (e.g., delayed timestamps), detail deviation, and suggest improvements (e.g., retrain staff, implement real-time alerts).
 Submit via “Answer Portal”.",10
-course_1,ch_1_02,les_1_02_07,task_1_02_07_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,Hospital Quality Command Protocols,Guard the Records – EMR/EHR Data Integrity & Access Logs,Ward & Facility Compliance Sweep,"You are a Junior Quality Control Analyst at Zenith Hospital, reporting to Dr. Anil Gupta, QA Manager. During a routine compliance sweep in Ward 9 (Orthopedic Unit), you review the Disinfection Compliance Log (LOG-2025-033) against SOP-QA-016 (Ward Hygiene and Disinfection Protocol). 
+course_1,ch_1_02,les_1_02_07,task_1_02_07_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,Hospital Quality Command Protocols,First Hospital Drill – Ward & Facility Compliance Sweep,Ward & Facility Compliance Sweep,"You are a Junior Quality Control Analyst at Zenith Hospital, reporting to Dr. Anil Gupta, QA Manager. During a routine compliance sweep in Ward 9 (Orthopedic Unit), you review the Disinfection Compliance Log (LOG-2025-033) against SOP-QA-016 (Ward Hygiene and Disinfection Protocol). 
 
 You find that 5 out of 10 daily disinfection logs lack staff signatures, classified as a major non-compliance issue violating NABH Standard HIC.3 (Hospital Infection Control). Dr. Gupta instructs you to document the findings and recommend improvements using the Audit & Inspection Form to prepare for an upcoming NABH audit.
 
@@ -1140,7 +1140,7 @@ Review the Reference Document (ICSR details below) to confirm potential errors (
 Identify 3-5 errors from Grok's output (e.g., missing MedDRA code, incorrect age format).
 Suggest corrections for each (e.g., add MedDRA code 10005329 for bleeding).
 Open OMEGA Word and paste it. Hit submit.",10
-,,,,,,,,,,,,,,
+course_2,ch_2_03,les_2_03_10,task_2_03_10_1,Pro Training in Pharmacovigilance,,Global PV Systems & Databases,PV System Integration,no-task,,,,,,
 course_2,ch_2_04,les_2_04_01,task_2_04_01_1,Pro Training in Pharmacovigilance,,Signal Detection & Risk Management,Signal Detection Overview,Signal Detection Overview,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in Europe. You are tasked with querying global PV databases for an AE from an ICSR based on a spontaneous report from a clinic in India. The report details a patient who experienced hepatotoxicity after taking paracetamol for fever. Using the official VigiAccess website (vigiaccess.org) from WHO, you will query for paracetamol-hepatotoxicity data and enter a simple signal summary in OMEGA Word for submission, ensuring compliance with regulatory authorities like EMA (Europe), CDSCO (India), FDA, MHRA.
 
 Deliverables
