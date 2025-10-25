@@ -263,46 +263,46 @@ course_1,ch_1_02,les_1_02_04,topic_1_02_04_01,quiz_1_02_04_5,What is a common fa
 B) Delayed reporting  |
 C) Overuse of digital forms |
 D) frequent audits",B
-course_1,ch_1_02,les_1_02_05,topic_1_02_05_01,quiz_1_02_05_1,What is a critical component of standard precautions for all patients?,"A) Following WHO 6 Moments for Hand Hygiene |
-B) Adhering to WHO 5 Moments for Hand Hygiene |
-C) Implementing WHO 4 Moments for Hand Hygiene |
-D) Using WHO 3 Moments for Hand Hygiene",A
-course_1,ch_1_02,les_1_02_05,topic_1_02_05_01,quiz_1_02_05_2,Which precaution is used for multidrug-resistant organisms like MRSA?,"A) Droplet precautions with patient spacing |
-B) Airborne precautions with N95 masks |
-C) Contact precautions with gloves and gowns |
-D) Protective precautions with restricted access",C
-course_1,ch_1_02,les_1_02_05,topic_1_02_05_01,quiz_1_02_05_3,What must a QA/QC officer verify in an isolation room setup?,"A) PPE station inside the room |
-B) Isolation signage and PPE station outside |
-C) Disinfectant logs inside the room |
-D) Dedicated equipment storage outside",B
+course_1,ch_1_02,les_1_02_05,topic_1_02_05_01,quiz_1_02_05_1,Which of the following best describes the core learning objective of this module?,"A) To focus solely on administrative tasks in QAQC |
+B) To master the IPC framework, explain protocols, apply isolation measures, and audit ward readiness |
+C) To train on financial compliance only |
+D) To review general hospital housekeeping routines",B
+course_1,ch_1_02,les_1_02_05,topic_1_02_05_01,quiz_1_02_05_2,"According to the module, what is a key reason infection control is crucial in QAQC?","A) To improve staff morale through cleaning schedules |
+B) To prevent HAIs, avoid NABH/JCI/WHO penalties, and maintain patient trust |
+C) To reduce equipment costs via waste recycling |
+D) To schedule routine maintenance without disruptions",B
+course_1,ch_1_02,les_1_02_05,topic_1_02_05_01,quiz_1_02_05_3,Which standard precaution involves following the WHO’s 5 Moments and is essential for all patients?,"A) Hand Hygiene |
+B) Sharps Safety |
+C) Airborne Precautions |
+D) Waste Segregation",A
 course_1,ch_1_02,les_1_02_05,topic_1_02_05_01,quiz_1_02_05_4,What is a frequent infection control failure point in hospitals?,"A) Missing PPE usage logs |
 B) Incomplete waste segregation logs |
 C) Inconsistent hand hygiene logs |
-D) Unverified isolation room logs",C
-course_1,ch_1_02,les_1_02_05,topic_1_02_05_01,quiz_1_02_05_5,"A ward reports a spike in MRSA infections due to improper PPE use during patient transfers. As a QA/QC officer, which approach best ensures infection control compliance and prevents recurrence?","A) Enforce double verification of PPE donning/doffing and audit compliance |
-B) Mandate PPE usage checks and monitor with weekly audits |
-C) Implement PPE training drills and verify compliance during transfers |
-D) Revise PPE protocols and track adherence with daily audits",A
-course_1,ch_1_02,les_1_02_06,topic_1_02_06_01,quiz_1_02_06_1,What distinguishes an EMR from an EHR in a hospital?,"A) EMR is shared across facilities, EHR is internal only |
-B) EMR is a digital patient chart for one facility, EHR is shared across providers |
-C) EMR is for external providers, EHR is for internal use |
-D) EMR and EHR are identical in scope and access",B
-course_1,ch_1_02,les_1_02_06,topic_1_02_06_01,quiz_1_02_06_2,Which ALCOA+ principle ensures data is recorded at the time of activity?,"A) Attributable, linking data to the recorder |
-B) Contemporaneous, ensuring real-time entry |
-C) Accurate, ensuring no errors |
-D) Original, ensuring unaltered records",B
-course_1,ch_1_02,les_1_02_06,topic_1_02_06_01,quiz_1_02_06_3,"A hospital detects multiple unauthorized EMR accesses to a patient’s record by non-treating staff. As a QA/QC officer, which approach best ensures data integrity and prevents recurrence?","A) Implement weekly access log audits and enforce 2FA for all accounts |
-B) Conduct biweekly access log reviews and mandate 2FA compliance |
-C) Perform monthly access log audits and require 2FA for sensitive records |
-D) Audit access logs quarterly and enable 2FA for key users",B
-course_1,ch_1_02,les_1_02_06,topic_1_02_06_01,quiz_1_02_06_4,What is a common threat to EMR/EHR data integrity?,"A) Staff using personal devices for access |
-B) Unauthorized access with another’s login |
-C) Sharing login credentials with patients |
-D) Using unverified external software",A
-course_1,ch_1_02,les_1_02_06,topic_1_02_06_01,quiz_1_02_06_5,What is a key step in auditing EMR/EHR access logs?,"A) Checking patient treatment plans |
-B) Reviewing access by role to detect unauthorized use |
-C) Verifying staff training records |
-D) Flagging odd-hour access attempts",B
+D) Unverified isolation room logs",B
+course_1,ch_1_02,les_1_02_05,topic_1_02_05_01,quiz_1_02_05_5,What is one of the five steps in the QAQC officer’s field protocol for IPC oversight?,"A) Schedule annual vacations for staff |
+B) Update hospital website content |
+C) Review patient meal plans |
+D) Conduct at least two unannounced IPC audits per month ",D
+course_1,ch_1_02,les_1_02_06,topic_1_02_06_01,quiz_1_02_06_1,Which of the following best describes the core learning objective of this module?,"A) To focus on general hospital financial audits and budgeting |
+B) To train on patient admission procedures and bed allocation |
+C) To review equipment maintenance schedules and vendor contracts |
+D) To master EMR/EHR security, detect breaches, and audit access logs for compliance",D
+course_1,ch_1_02,les_1_02_06,topic_1_02_06_01,quiz_1_02_06_2,"According to the module, what is a primary consequence of an EMR/EHR data breach in a hospital?","A) Enhanced marketing opportunities via patient data sharing |
+B) Simplified inventory tracking for medical supplies |
+C) Loss of accreditation from NABH/JCI and legal penalties under HIPAA/PDPB/GDPR |
+D) Improved staff efficiency through faster data entry",C
+course_1,ch_1_02,les_1_02_06,topic_1_02_06_01,quiz_1_02_06_3,Which ALCOA+ principle ensures that data is recorded at the time of the activity and remains readable?,"A) Original and Available |
+B) Accurate and Consistent |
+C) Attributable and Enduring |
+D) Legible and Contemporaneous",D
+course_1,ch_1_02,les_1_02_06,topic_1_02_06_01,quiz_1_02_06_4,What is the key difference in scope between EMR and EHR as outlined in the comparison table?,"A) EMR focuses on billing records only, while EHR includes clinical notes exclusively |
+B) EMR requires external provider access, while EHR limits it to internal staff |
+C) EMR is shared across multiple facilities for coordinated care |
+D) EMR is facility-specific like a hospital's internal chart, while EHR enables broader sharing",D
+course_1,ch_1_02,les_1_02_06,topic_1_02_06_01,quiz_1_02_06_5,"In the QAQC officer’s field protocol, what is a required weekly task for maintaining EMR/EHR security?","A) Schedule routine staff performance evaluations |
+B) Update hospital marketing brochures and flyers |
+C) Review patient meal preferences and dietary logs |
+D) Audit EMR/EHR access logs for unauthorized activity",D
 course_1,ch_1_02,les_1_02_07,topic_1_02_07_01,quiz_1_02_07_1,"During a compliance sweep, a ward is found with expired drugs in a crash cart and missing sterilization logs. As a QA/QC officer, which approach best addresses these issues to ensure compliance and patient safety?","A) Remove expired drugs, update sterilization SOPs, and audit logs regularly |
 B) Replace crash cart drugs, revise sterilization protocols, and monitor weekly |
 C) Discard expired drugs, train staff on sterilization, and check logs monthly |
