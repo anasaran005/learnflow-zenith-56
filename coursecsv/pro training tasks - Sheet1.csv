@@ -931,7 +931,7 @@ course_2,ch_2_02,les_2_02_06,task_2_02_06_1,Pro Training in Pharmacovigilance,,I
 Deliverables
 
 A basic scoring entry in OMEGA Word, including scores for each Naranjo question, total score, causality classification (Definite >9, Probable 5-8, Possible 1-4, Doubtful <1), and a short justification.
-A brief follow-up suggestion.",https://drive.google.com/file/d/1LK3Bv3uKG0ZVDOQNnbTJxCgo5G0Ku9W3/view?usp=sharing,omegaword,https://drive.google.com/file/d/1nRuZFkwNWiJJTOSATxSOQHiS7aRdo8aT/view?usp=drive_link,"Access Grok at Tools Section and input this prompt:
+A brief follow-up suggestion.",https://drive.google.com/file/d/1LK3Bv3uKG0ZVDOQNnbTJxCgo5G0Ku9W3/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/1nRuZFkwNWiJJTOSATxSOQHiS7aRdo8aT/view?usp=drive_link,"Access Grok at Tools Section and input this prompt:
     
   *""Analyze the following adverse event data using the Naranjo algorithm: A 55-year-old male with type 2 diabetes started metformin 500 mg orally twice daily on June 15, 2025, and reported nausea starting July 10, 2025. No other medications or gastrointestinal conditions reported, no dechallenge or rechallenge performed, nausea is a known side effect of metformin per literature, no toxic levels or placebo test. Suggest scores for each of the 10 Naranjo questions (Yes/No/Don't Know with corresponding points) and explain key factors.""*
     
@@ -951,7 +951,7 @@ Deliverables
 
 A basic coding entry in OMEGA Word, including the verbatim term, LLT, PT, SOC, and a short justification for the coding choice.
 A brief follow-up suggestion if more information is needed.
-",https://drive.google.com/file/d/1b0Q7IcYMYYwuzxAhWGzqPj87Q7pT_t-N/view?usp=sharing,omegaword,https://drive.google.com/file/d/15AUISoXUb09aPE5iJ5lPql9K_uu51zhj/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
+",https://drive.google.com/file/d/1b0Q7IcYMYYwuzxAhWGzqPj87Q7pT_t-N/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/15AUISoXUb09aPE5iJ5lPql9K_uu51zhj/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
 ""Code the following verbatim adverse event description using MedDRA: 'Patient experienced severe burning pain in the stomach after taking the drug.' Suggest the appropriate Lowest Level Term (LLT), Preferred Term (PT), and System Organ Class (SOC), and explain why this coding fits.""
 Review the Reference Document (ICSR details below) to confirm the verbatim description and context.
 Code the verbatim term based on Grok’s output and your evaluation:
@@ -973,7 +973,7 @@ Deliverables
 
 A simple QC note in OMEGA Word, listing 3-5 identified errors from the ICSR and suggested corrections.
 A brief follow-up suggestion for resolving any ambiguities.
-",https://drive.google.com/file/d/1RTlYJREElYPDr3LKeU2Kmy6XJkeRHpQg/view?usp=sharing,omegaword,https://drive.google.com/file/d/1dHzMAlo3osOOCu65ZiUCqyLLd0Phxjil/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
+",https://drive.google.com/file/d/1RTlYJREElYPDr3LKeU2Kmy6XJkeRHpQg/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/1dHzMAlo3osOOCu65ZiUCqyLLd0Phxjil/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
 ""Review this ICSR data for quality check errors in patient info, drug details, AE details, narrative, seriousness, and coding: Patient: Male, 55 years, type 2 diabetes. Drug: Metformin 500 mg oral twice daily, started June 15, 2025. AE: Nausea onset July 10, 2025, non-serious, ongoing. Narrative: Patient reported stomach pain. No concomitant drugs. Suggest 3-5 errors and corrections.""
 Review the Reference Document (ICSR data below) to confirm potential errors (e.g., mismatch in narrative, missing details).
 Identify 3-5 errors based on Grok’s output and your evaluation, such as inconsistencies in narrative vs AE description or missing seriousness validation.
@@ -988,7 +988,7 @@ course_2,ch_2_02,les_2_02_09,task_2_02_09_1,Pro Training in Pharmacovigilance,,I
 Deliverables
 
 A basic timeline entry in OMEGA Word, including Day 0, submission deadline, follow-up deadline (if applicable), and a short note on compliance.
-",https://drive.google.com/file/d/1yZvTNUgUQGf0Etev7-l1G4KPc2FNLrf8/view?usp=sharing,omegaword,https://drive.google.com/file/d/10cTxA7IWx2WzIOZVRI27qjnOCRJS1XWk/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
+",https://drive.google.com/file/d/1yZvTNUgUQGf0Etev7-l1G4KPc2FNLrf8/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/10cTxA7IWx2WzIOZVRI27qjnOCRJS1XWk/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
 ""Calculate ICSR submission timelines for this case: Day 0 is September 20, 2025, for a serious non-fatal AE. Provide the 15-day submission deadline and any follow-up deadline, mapping them to a simple calendar format with dates.""
 Review the Reference Document (ICSR details below) to confirm Day 0 and seriousness.
 Calculate deadlines based on Grok’s output:
@@ -1005,7 +1005,7 @@ Deliverables
 
 A basic closure status entry in OMEGA Word, stating if the case is ready for closure, listing 2-3 missing items if not, and a short follow-up suggestion.
 Submit the entry in OMEGA Word to your supervisor, ensuring an audit trail per ICH E2B(R3).
-",https://drive.google.com/file/d/1NB9YTJSNzp2UdYL4hnXyAsUa9yzkPEuj/view?usp=sharing,omegaword,https://drive.google.com/file/d/1IOPMDb6bAdH2l0-CHsPzPNi9J0hhMOqR/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
+",https://drive.google.com/file/d/1NB9YTJSNzp2UdYL4hnXyAsUa9yzkPEuj/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/1IOPMDb6bAdH2l0-CHsPzPNi9J0hhMOqR/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
 ""Evaluate this ICSR data for closure readiness based on pharmacovigilance checklist: Patient: Male, 55 years, type 2 diabetes. Drug: Metformin 500 mg oral twice daily, started June 15, 2025. AE: Nausea onset July 10, 2025, non-serious, ongoing. Narrative complete, MedDRA coded, causality possible. Submission done, ACK received. Suggest if ready for closure or 2-3 missing items.""
 Review the Reference Document (ICSR data below) to confirm checklist items (e.g., submission ACK, coding, narrative).
 Determine closure readiness based on Grok’s output and your evaluation: Ready (yes/no), and list 2-3 missing items if no.
@@ -1020,7 +1020,7 @@ course_2,ch_2_03,les_2_03_01,task_2_03_01_1,Pro Training in Pharmacovigilance,,G
 Deliverables
 
 A basic signal summary entry in OMEGA Word, listing 3-5 trends from VigiBase query and reconciliation with FAERS/EudraVigilance.
-A brief follow-up suggestion for career application or further analysis.",https://drive.google.com/file/d/1TRg4jZek0iTup8whU0a9Q3uQMrJPWaGX/view?usp=sharing,omegaword,https://drive.google.com/file/d/1Tf8IxG9fSZrDICcgoZxxSXwEKdqvLo86/view?usp=drive_link,"Access the ZANE VigiBase and input queries like ""metformin nausea reports"" and ""metformin nausea trends"" to retrieve data.
+A brief follow-up suggestion for career application or further analysis.",https://drive.google.com/file/d/1TRg4jZek0iTup8whU0a9Q3uQMrJPWaGX/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/1Tf8IxG9fSZrDICcgoZxxSXwEKdqvLo86/view?usp=drive_link,"Access the ZANE VigiBase and input queries like ""metformin nausea reports"" and ""metformin nausea trends"" to retrieve data.
 Access Grok at Tools Section and input this prompt:
     
  ""Summarize FAERS and EudraVigilance data on metformin-related nausea, including report counts, demographics, and trends.""
@@ -1035,7 +1035,7 @@ course_2,ch_2_03,les_2_03_02,task_2_03_02_1,Pro Training in Pharmacovigilance,,G
 
 Deliverables
 
-A completed ICSR form in OMEGA.",https://drive.google.com/file/d/1SF1URWgZgyjLtqwjiTo7GxrRrcazc_bL/view?usp=sharing,omegaword,https://drive.google.com/file/d/1TQXGcPzOn4KMI8cICs_YxI8zhwmlxexE/view?usp=drive_link,"Access the ICSR form in forms section and  fill in the form fields based on the reference document. (e.g., patient age, sex, AE description, drug name).
+A completed ICSR form in OMEGA.",https://drive.google.com/file/d/1SF1URWgZgyjLtqwjiTo7GxrRrcazc_bL/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/1TQXGcPzOn4KMI8cICs_YxI8zhwmlxexE/view?usp=drive_link,"Access the ICSR form in forms section and  fill in the form fields based on the reference document. (e.g., patient age, sex, AE description, drug name).
 Access Grok at tools section and input this prompt:
       ""Validate this filled E2B(R3) ICSR form for completeness: Patient: Male, 55 years. Suspected Drug: Metformin, dose 500 mg oral twice daily, start June 15, 2025. AE: Nausea, onset July 10, 2025, non-serious. Confirm if mandatory fields are filled.""
     
@@ -1049,7 +1049,7 @@ course_2,ch_2_03,les_2_03_03,task_2_03_03_1,Pro Training in Pharmacovigilance,,G
 Deliverables
 
 A basic case search summary entry in OMEGA Word, listing 3-5 key details from the VigiBase search on warfarin-bleeding ICSRs.
-A brief follow-up suggestion for case review.",https://drive.google.com/file/d/1gOOjCokke5riHvTdlQwmXrf7iP_5hECy/view?usp=sharing,omegaword,https://drive.google.com/file/d/1aGtpE3M_3iJdssK6SVbNEdsXtaMEGJQ_/view?usp=sharing,"Access the ZANE VigiBase and input queries like ""warfarin bleeding reports"" and ""warfarin bleeding trends"" to retrieve ICSR data.
+A brief follow-up suggestion for case review.",https://drive.google.com/file/d/1gOOjCokke5riHvTdlQwmXrf7iP_5hECy/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/1aGtpE3M_3iJdssK6SVbNEdsXtaMEGJQ_/view?usp=sharing,"Access the ZANE VigiBase and input queries like ""warfarin bleeding reports"" and ""warfarin bleeding trends"" to retrieve ICSR data.
 Review the Reference Document (ICSR details below) to confirm the AE context.
 Summarize 3-5 key details from the simulator's output (e.g., number of cases, seriousness levels).
 Suggest a follow-up action (e.g., export for signal detection).
@@ -1063,7 +1063,7 @@ course_2,ch_2_03,les_2_03_04,task_2_03_04_1,Pro Training in Pharmacovigilance,,G
 Deliverables
 
 A basic reconciliation summary entry in OMEGA Word, listing 3-5 discrepancies and suggested corrections.
-A brief follow-up suggestion for resolution.",https://drive.google.com/file/d/1sSk2D2DCdLgHBtVMeVEx8mnn-iRoU2vT/view?usp=sharing,omegaword,https://drive.google.com/file/d/18I6pcQXA73m3KkPm4lVWajoI9xEOxDiG/view?usp=sharing,"Access the ZANE FAERS and Navigate to ICSR Database  input drug name ""warfarin"" to retrieve discrepancies.
+A brief follow-up suggestion for resolution.",https://drive.google.com/file/d/1sSk2D2DCdLgHBtVMeVEx8mnn-iRoU2vT/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/18I6pcQXA73m3KkPm4lVWajoI9xEOxDiG/view?usp=sharing,"Access the ZANE FAERS and Navigate to ICSR Database  input drug name ""warfarin"" to retrieve discrepancies.
 Review the Reference Document (internal ICSR and simulated FAERS data below) to confirm discrepancies.
 Identify 3-5 discrepancies from the simulator's output (e.g., seriousness mismatch, missing fields).
 Suggest corrections for each (e.g., update FAERS with correct seriousness).
@@ -1076,7 +1076,7 @@ course_2,ch_2_03,les_2_03_05,task_2_03_05_1,Pro Training in Pharmacovigilance,,G
 Deliverables
 
 A basic signal summary entry in OMEGA Word, listing 3-5 trends from the VigiBase query and reconciliation with FAERS/EudraVigilance.
-A brief follow-up suggestion for further analysis.",https://drive.google.com/file/d/1oNiPgyiFmOpWFP8Np4xezAF7mB5n6Vd2/view?usp=sharing,omegaword,https://drive.google.com/file/d/1rxvhdLlRJk6ObaUfOrGo3JEWPZVqf5UB/view?usp=sharing,"Access the ZANE VigiBase and input queries like ""aspirin tinnitus reports"" and ""aspirin tinnitus trends"" to retrieve data. Do the same with EudraVigilance.
+A brief follow-up suggestion for further analysis.",https://drive.google.com/file/d/1oNiPgyiFmOpWFP8Np4xezAF7mB5n6Vd2/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/1rxvhdLlRJk6ObaUfOrGo3JEWPZVqf5UB/view?usp=sharing,"Access the ZANE VigiBase and input queries like ""aspirin tinnitus reports"" and ""aspirin tinnitus trends"" to retrieve data. Do the same with EudraVigilance.
 Access Grok at Tools Section and reconcile.
 Review the Reference Document (ICSR details below) to confirm the AE context.
 Combine ZANE VigiBase outputs & FAERS/EudraVigilance summaries, analyzing 3-5 trends (e.g., report count, demographics).
@@ -1089,7 +1089,7 @@ course_2,ch_2_03,les_2_03_06,task_2_03_06_1,Pro Training in Pharmacovigilance,,G
 Deliverables
 
 A basic case entry summary entry in OMEGA Word, including the validated ICSR fields from the Argus simulator.
-A brief follow-up suggestion for medical review.",https://drive.google.com/file/d/1PToIFl-_EVWUcJZBe1evyA-QOfggKMjI/view?usp=sharing,omegaword,https://drive.google.com/file/d/1v4aP-Yfjv3eYrWYJnKxRO-hAIVQCVaLe/view?usp=sharing,"Access the ZANE Argus and fill the ICSR. (Use reference document)
+A brief follow-up suggestion for medical review.",https://drive.google.com/file/d/1PToIFl-_EVWUcJZBe1evyA-QOfggKMjI/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/1v4aP-Yfjv3eYrWYJnKxRO-hAIVQCVaLe/view?usp=sharing,"Access the ZANE Argus and fill the ICSR. (Use reference document)
 After entering all the information from the reference document and clicking “Create Case,” copy the case details and verify them using Grok.
 Access Grok at Tools Section and input this prompt:
     
@@ -1104,7 +1104,7 @@ course_2,ch_2_03,les_2_03_07,task_2_03_07_1,Pro Training in Pharmacovigilance,,G
 Deliverables
 
 A basic case entry summary entry in OMEGA Word, including the validated ICSR fields from the ARISg simulator.
-A brief follow-up suggestion for medical review.",https://drive.google.com/file/d/1-wDxJY_9UfFHyoI4zx4nzGFOt9IH4AHb/view?usp=sharing,omegaword,https://drive.google.com/file/d/14F_nD6i8WwuRACyJlUyO2hmxq-2TNH_P/view?usp=sharing,"Access the ZANE ARISg and navigate to  Case Intake in sidebar then enter case fields like ""patient age: 60, sex: male, AE: myalgia, drug: atorvastatin, onset: September 20, 2025, seriousness: non-serious"".
+A brief follow-up suggestion for medical review.",https://drive.google.com/file/d/1-wDxJY_9UfFHyoI4zx4nzGFOt9IH4AHb/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/14F_nD6i8WwuRACyJlUyO2hmxq-2TNH_P/view?usp=sharing,"Access the ZANE ARISg and navigate to  Case Intake in sidebar then enter case fields like ""patient age: 60, sex: male, AE: myalgia, drug: atorvastatin, onset: September 20, 2025, seriousness: non-serious"".
 After entering all the information from the reference document and clicking “Create Case,” copy the case details and verify them using Grok.
 Access Grok at Tools Section and input this prompt:
     
@@ -1119,7 +1119,7 @@ course_2,ch_2_03,les_2_03_08,task_2_03_08_1,Pro Training in Pharmacovigilance,,G
 Deliverables
 
 A basic privacy check summary entry in OMEGA Word, listing 3-5 privacy risks and suggested corrections.
-A brief follow-up suggestion for compliance.",https://drive.google.com/file/d/1bcQ6Br4YHPevNgqofRBiunq-YFd8D-1G/view?usp=sharing,omegaword,https://drive.google.com/file/d/1ejUXUYYUXy65qbO4zmhaa5WqWYur3cV0/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
+A brief follow-up suggestion for compliance.",https://drive.google.com/file/d/1bcQ6Br4YHPevNgqofRBiunq-YFd8D-1G/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/1ejUXUYYUXy65qbO4zmhaa5WqWYur3cV0/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
     
 ""Analyze this ICSR for GDPR/HIPAA privacy risks: Patient: Male, 50 years, hypertension, full name John Doe. Drug: Enalapril 10 mg oral daily, start September 15, 2025. AE: Dizziness, onset September 20, 2025, non-serious. Reporter: Dr. Jane Smith, phone +1-555-123-4567, email jane.smith@email.com. Suggest 3-5 risks and corrections.""
     
@@ -1134,7 +1134,7 @@ course_2,ch_2_03,les_2_03_09,task_2_03_09_1,Pro Training in Pharmacovigilance,,G
 Deliverables
 
 A basic error handling summary entry in OMEGA Word, listing 3-5 errors and suggested corrections.
-A brief follow-up suggestion for prevention.",https://drive.google.com/file/d/1hI4DRHUxIdEGMQ3_YmbyyV3Vay0jBIEO/view?usp=sharing,omegaword,https://drive.google.com/file/d/1UExpnMj3aXS5QmRdH75Lx1s3gSaa7c-8/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
+A brief follow-up suggestion for prevention.",https://drive.google.com/file/d/1hI4DRHUxIdEGMQ3_YmbyyV3Vay0jBIEO/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/1UExpnMj3aXS5QmRdH75Lx1s3gSaa7c-8/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
 Analyze this ICSR data for database errors like missing fields or incorrect formats:  Patient: Male, 70 years (age missing unit). Drug: Clopidogrel 75 mg oral daily, start September 15, 2025 (end date missing). AE: Bleeding, onset September 20, 2025, non-serious (MedDRA code missing).Narrative: Patient reported bleeding. No concomitant drugs.Suggest 3-5 errors and corrections.
 Review the Reference Document (ICSR details below) to confirm potential errors (e.g. missing codes, formats).
 Identify 3-5 errors from Grok's output (e.g., missing MedDRA code, incorrect age format).
@@ -1146,7 +1146,7 @@ course_2,ch_2_04,les_2_04_01,task_2_04_01_1,Pro Training in Pharmacovigilance,,S
 Deliverables
 
 A basic signal summary entry in OMEGA Word, listing 3-5 trends from the VigiAccess query and reconciliation with FAERS.
-A brief follow-up suggestion for further analysis.",https://drive.google.com/file/d/1h2dALsdDrO0WjO24Fn-kJ0evOf2co89p/view?usp=sharing,omegaword,https://drive.google.com/file/d/1CyrUwSTeH7pOGFkyXcIQG146PkJ0UNLV/view?usp=drive_link,"Access the official VigiAccess website at vigiaccess.org and search for ""paracetamol"" (or ""acetaminophen"" if needed), then navigate to hepatotoxicity-related ADRs to retrieve data (e.g., report count, categories).
+A brief follow-up suggestion for further analysis.",https://drive.google.com/file/d/1h2dALsdDrO0WjO24Fn-kJ0evOf2co89p/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/1CyrUwSTeH7pOGFkyXcIQG146PkJ0UNLV/view?usp=drive_link,"Access the official VigiAccess website at vigiaccess.org and search for ""paracetamol"" (or ""acetaminophen"" if needed), then navigate to hepatotoxicity-related ADRs to retrieve data (e.g., report count, categories).
 Review the Reference Document (ICSR details below) to confirm the AE context.
 Open OMEGA Word & Enter the 3-5 trends and follow-up in OMEGA Word.
 Submit in OMEGA Word within 24 hours.",10
@@ -1155,7 +1155,7 @@ course_2,ch_2_04,les_2_04_02,task_2_04_02_1,Pro Training in Pharmacovigilance,,S
 Deliverables
 
 A basic signal analysis summary entry in OMEGA Word, listing 3-5 key points from the PRR/ROR/IC calculations.
-A brief follow-up suggestion for validation.",https://drive.google.com/file/d/16iYoUSG7HHwfRZzLl73anSheXD8UmmGK/view?usp=sharing,omegaword,https://drive.google.com/file/d/1nnVpPE9waHL38ubdEETE793pdstOKQkj/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
+A brief follow-up suggestion for validation.",https://drive.google.com/file/d/16iYoUSG7HHwfRZzLl73anSheXD8UmmGK/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/1nnVpPE9waHL38ubdEETE793pdstOKQkj/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
 Calculate PRR, ROR, and IC for this AE dataset: Drug A (rosuvastatin) with AE: 50 cases, without AE: 950; All other drugs with AE: 100 cases, without AE: 9000. Interpret the results for signal detection.
 Review the Reference Document (dataset details below) to confirm the calculation context.
 Analyze 3-5 key points from Grok's output (e.g., PRR value, signal strength).
@@ -1168,7 +1168,7 @@ course_2,ch_2_04,les_2_04_03,task_2_04_03_1,Pro Training in Pharmacovigilance,,S
 Deliverables
 
 A basic narrative review summary entry in OMEGA Word, listing 3-5 key qualitative points from the analysis.
-A brief follow-up suggestion for validation.",https://drive.google.com/file/d/1Bmpm6-yP3E7LVmch9pOB4mOyRNPpQbZr/view?usp=sharing,omegaword,https://drive.google.com/file/d/1UrG_kLHzZ3YZywr3keAG-XwQ5hk8bat-/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
+A brief follow-up suggestion for validation.",https://drive.google.com/file/d/1Bmpm6-yP3E7LVmch9pOB4mOyRNPpQbZr/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/1UrG_kLHzZ3YZywr3keAG-XwQ5hk8bat-/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
 Analyze this ICSR narrative qualitatively for signals: A 65-year-old male with hypertension started losartan 50 mg oral daily on September 15, 2025, and reported hyperkalemia on September 20, 2025, with potassium level 5.8 mEq/L, non-serious, ongoing. No concomitant drugs, no renal issues noted. Identify 3-5 key qualitative points like patterns or clinical relevance.
 Review the Reference Document (ICSR details below) to confirm the narrative context.
 Identify 3-5 key points from Grok's output (e.g., temporal pattern, lack of alternatives).
@@ -1181,7 +1181,7 @@ course_2,ch_2_04,les_2_04_04,task_2_04_04_1,Pro Training in Pharmacovigilance,,S
 Deliverables
 
 A basic cleaned signal summary entry in OMEGA Word, listing 3-5 filtered items (duplicates/false positives) and the remaining signals.
-A brief follow-up suggestion for further validation.",https://drive.google.com/file/d/1zsGco1ILxaJ1U0MImShkGqS4bts4yHe6/view?usp=sharing,omegaword,https://drive.google.com/file/d/1_ffCWX4YtVP156RyHM3ILBv2dWDNYFFS/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
+A brief follow-up suggestion for further validation.",https://drive.google.com/file/d/1zsGco1ILxaJ1U0MImShkGqS4bts4yHe6/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/1_ffCWX4YtVP156RyHM3ILBv2dWDNYFFS/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
 Process this noisy AE dataset for valsartan-related edema: Dataset: Report 1: Edema after valsartan, serious; Report 2: Duplicate of Report 1; Report 3: Non-related headache; Report 4: Edema after valsartan, non-serious; Report 5: Low-quality, missing data; Report 6: Edema after valsartan, serious; Report 7: False positive, unrelated to drug. Filter 3-5 duplicates/false positives and summarize remaining signals.
 Review the Reference Document (ICSR details below) to confirm the AE context.
 Filter 3-5 items from Grok's output (e.g., duplicates, false positives).
@@ -1195,7 +1195,7 @@ course_2,ch_2_04,les_2_04_05,task_2_04_05_1,Pro Training in Pharmacovigilance,,S
 Deliverables
 
 A basic privacy check summary entry in OMEGA Word, listing 3-5 privacy risks and suggested corrections.
-A brief follow-up suggestion for compliance.",https://drive.google.com/file/d/1Mjk9-eisgKQBs22UqLeidVW9PZlvfKS6/view?usp=sharing,omegaword,https://drive.google.com/file/d/1e6DrHiTYcwbaAHOqvl_TnfcOLf6470DA/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
+A brief follow-up suggestion for compliance.",https://drive.google.com/file/d/1Mjk9-eisgKQBs22UqLeidVW9PZlvfKS6/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/1e6DrHiTYcwbaAHOqvl_TnfcOLf6470DA/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
 Review this ICSR for GDPR/HIPAA privacy risks: Patient: Male, 50 years, hypertension. Drug: Lisinopril 10 mg oral daily, start September 15, 2025. AE: Cough, onset September 20, 2025, non-serious. Suggest 3-5 risks and corrections.
 Review the Reference Document (ICSR details below) to confirm potential risks (e.g., non-anonymized data).
 Identify 3-5 risks
@@ -1208,7 +1208,7 @@ course_2,ch_2_04,les_2_04_06,task_2_04_06_1,Pro Training in Pharmacovigilance,,S
 Deliverables
 
 A basic signal validation summary entry in OMEGA Word, stating if confirmed (yes/no) and listing 3-5 key reasons.
-A brief follow-up suggestion for action.",https://drive.google.com/file/d/1L0I7FnfsL0AmB5VOOUOpYLU7_uuc9SBx/view?usp=sharing,omegaword,https://drive.google.com/file/d/1O_rrOYJuPYm49YgPqm8Wvjxa9HHAcoHd/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
+A brief follow-up suggestion for action.",https://drive.google.com/file/d/1L0I7FnfsL0AmB5VOOUOpYLU7_uuc9SBx/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/1O_rrOYJuPYm49YgPqm8Wvjxa9HHAcoHd/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
 Evaluate this potential signal for confirmation: A 55-year-old male with hypertension started ramipril 5 mg oral daily on September 15, 2025, and reported dry cough on September 20, 2025, non-serious, ongoing. No concomitant drugs, no respiratory issues noted. Determine if confirmed (yes/no) and provide 3-5 key reasons based on temporal relationship, plausibility, and data quality.
 Review the Reference Document (ICSR details below) to confirm the signal context.
 Determine confirmation status and list 3-5 reasons from Grok's output (e.g., temporal pattern, known class effect).
@@ -1221,7 +1221,7 @@ course_2,ch_2_04,les_2_04_07,task_2_04_07_1,Pro Training in Pharmacovigilance,,S
 Deliverables
 
 A basic DPA summary entry in OMEGA Word, listing 3-5 key points from the PRR/ROR/IC calculations.
-A brief follow-up suggestion for validation.",https://drive.google.com/file/d/1m99fUOBePRBhYKMjxW9dFR2WhmI4jpT0/view?usp=sharing,omegaword,https://drive.google.com/file/d/1__y6ZJvvo3J7VmeWBO-niLjENTzLhf2O/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
+A brief follow-up suggestion for validation.",https://drive.google.com/file/d/1m99fUOBePRBhYKMjxW9dFR2WhmI4jpT0/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/1__y6ZJvvo3J7VmeWBO-niLjENTzLhf2O/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
 Calculate PRR, ROR, and IC for this AE dataset: Drug A (lisinopril) with AE: 30 cases, without AE: 970; All other drugs with AE: 50 cases, without AE: 9500. Interpret the results for signal detection.
 Review the Reference Document (ICSR details below) to confirm the calculation context.
 Analyze 3-5 key points from Grok's output (e.g., PRR value, signal strength).
@@ -1234,7 +1234,7 @@ course_2,ch_2_04,les_2_04_08,task_2_04_08_1,Pro Training in Pharmacovigilance,,S
 Deliverables
 
 A basic signal report summary entry in OMEGA Word, including 3-5 key elements from the VigiAccess query and draft report.
-A brief follow-up suggestion for regulatory action.",https://drive.google.com/file/d/1LqADSI28jM6FUXKt7VV7LEQjDJNHEjTY/view?usp=sharing,omegaword,https://drive.google.com/file/d/1VNynKLlWsFCy2lViYYn0Z2cwF-331SZZ/view?usp=sharing,"Access the official VigiAccess website at vigiaccess.org and search for ""atorvastatin"" (or ""statin"" if needed), then navigate to hepatotoxicity-related ADRs to retrieve data (e.g., report count, categories) – take screenshots or note key stats creatively to build your report.
+A brief follow-up suggestion for regulatory action.",https://drive.google.com/file/d/1LqADSI28jM6FUXKt7VV7LEQjDJNHEjTY/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/1VNynKLlWsFCy2lViYYn0Z2cwF-331SZZ/view?usp=sharing,"Access the official VigiAccess website at vigiaccess.org and search for ""atorvastatin"" (or ""statin"" if needed), then navigate to hepatotoxicity-related ADRs to retrieve data (e.g., report count, categories) – take screenshots or note key stats creatively to build your report.
 Access Grok at Tools Section and input this prompt:
 Draft a mock signal report for atorvastatin-related hepatotoxicity: Include signal description, data sources (VigiBase stats), assessment (seriousness, causality), and recommendations (e.g., RMP update). Summarize in 3-5 key points.
 Review the Reference Document (ICSR details below) to confirm the AE context.
@@ -1248,7 +1248,7 @@ course_2,ch_2_04,les_2_04_09,task_2_04_09_1,Pro Training in Pharmacovigilance,,S
 Deliverables
 
 A basic RMS design summary entry in OMEGA Word, describing the creative intervention and 3 key data points from VigiAccess that justify it.
-A brief follow-up suggestion for effectiveness measurement.",https://drive.google.com/file/d/1qv0Arw4w46Ynr5aTHm4L7yucaFfl38zh/view?usp=sharing,omegaword,https://drive.google.com/file/d/1TTHryW1_JxIZq6F52e19JjIBVQyHIM5T/view?usp=sharing,"Access the official VigiAccess website at vigiaccess.org and search for ""terbinafine"" (or ""lamisil"" if needed), then navigate to hepatotoxicity-related ADRs to retrieve data (e.g., report count, categories) – note 3 key points creatively to inform your design.
+A brief follow-up suggestion for effectiveness measurement.",https://drive.google.com/file/d/1qv0Arw4w46Ynr5aTHm4L7yucaFfl38zh/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/1TTHryW1_JxIZq6F52e19JjIBVQyHIM5T/view?usp=sharing,"Access the official VigiAccess website at vigiaccess.org and search for ""terbinafine"" (or ""lamisil"" if needed), then navigate to hepatotoxicity-related ADRs to retrieve data (e.g., report count, categories) – note 3 key points creatively to inform your design.
 Access Grok at Tools Section and input this prompt:
 Design a creative RMS intervention (e.g., patient app or HCP toolkit) for terbinafine-related hepatotoxicity based on this data: [paste your 3 VigiAccess points]. Make it practical and engaging.
 Review the Reference Document (ICSR details below) to confirm the AE context.
@@ -1263,7 +1263,7 @@ course_2,ch_2_05,les_2_05_01,task_2_05_01_1,Pro Training in Pharmacovigilance,,A
 Deliverables
 
 A basic PSUR storyboard summary entry in OMEGA Word, including 3 key data points from VigiAccess and the creative storyboard text from Grok.
-A brief follow-up suggestion for full PSUR submission.",https://drive.google.com/file/d/1WGttyR9Vfvx0eJ1EKhKi8t5jcdDT5vNS/view?usp=sharing,omegaword,https://drive.google.com/file/d/1Ajof6vizWRt8RLoS5jcHTZWfDCZcED4r/view?usp=sharing,"Access the official VigiAccess website at vigiaccess.org and search for ""ibuprofen"" (or ""NSAID"" if needed), then navigate to gastrointestinal bleeding-related ADRs to retrieve data (e.g., report count, categories) – note 3 key points to inform your storyboard.
+A brief follow-up suggestion for full PSUR submission.",https://drive.google.com/file/d/1WGttyR9Vfvx0eJ1EKhKi8t5jcdDT5vNS/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/1Ajof6vizWRt8RLoS5jcHTZWfDCZcED4r/view?usp=sharing,"Access the official VigiAccess website at vigiaccess.org and search for ""ibuprofen"" (or ""NSAID"" if needed), then navigate to gastrointestinal bleeding-related ADRs to retrieve data (e.g., report count, categories) – note 3 key points to inform your storyboard.
 Access Grok at Tools Section and input this prompt:
 Generate a creative mini-PSUR storyboard in text form (like a comic strip narrative) for ibuprofen-related gastrointestinal bleeding: Include sections for safety summary, benefit-risk assessment, and conclusions, based on this data: [paste your 3 VigiAccess points]. Make it engaging and story-like.
 Review the Reference Document (ICSR details below) to confirm the AE context.
@@ -1277,7 +1277,7 @@ course_2,ch_2_05,les_2_05_02,task_2_05_02_1,Pro Training in Pharmacovigilance,,A
 Deliverables
 
 A basic DSUR timeline summary entry in OMEGA Word, including the calculated timeline and creative infographic text from Grok.
-A brief follow-up suggestion for data inclusion.",https://drive.google.com/file/d/1329IQ-VkcYWx1_LjOaai2LwRE4-aSVR6/view?usp=sharing,omegaword,https://drive.google.com/file/d/1-x7lcirQSMQGSOCcZRdzootNToFSp5d0/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
+A brief follow-up suggestion for data inclusion.",https://drive.google.com/file/d/1329IQ-VkcYWx1_LjOaai2LwRE4-aSVR6/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/1-x7lcirQSMQGSOCcZRdzootNToFSp5d0/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
 Calculate DSUR timelines for this clinical trial: IND approval date September 15, 2025, for sofosbuvir in hepatitis C trials. Provide annual submission deadlines and generate a creative text-based infographic (e.g., a visual timeline description) for the first 2 years.
 Review the Reference Document (ICSR details below) to confirm the trial context.
 Calculate timelines from Grok's output (e.g., first DSUR due November 15, 2026).
@@ -1291,7 +1291,7 @@ course_2,ch_2_05,les_2_05_03,task_2_05_03_1,Pro Training in Pharmacovigilance,,A
 Deliverables
 
 A basic aggregated data summary entry in OMEGA Word, including a tabulated AE frequency summary (e.g., table of seriousness counts) and 3 key trends.
-A brief follow-up suggestion for PSUR inclusion.",https://drive.google.com/file/d/1XPYAcis1MVPhNgN5liB6UedN6NPax9ta/view?usp=sharing,omegaword,https://drive.google.com/file/d/1vKesT01VER71-q2NcqKoVF9XkG9y0nLo/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
+A brief follow-up suggestion for PSUR inclusion.",https://drive.google.com/file/d/1XPYAcis1MVPhNgN5liB6UedN6NPax9ta/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/1vKesT01VER71-q2NcqKoVF9XkG9y0nLo/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
 Clean this ICSR dataset for aggregation: [paste the full Reference Document dataset]. Remove duplicates, fix missing fields (e.g., assume seriousness 'Non-serious' if missing), standardize MedDRA codes, then tabulate AE frequencies by seriousness and age group. Summarize 3 key trends.
 Review the Reference Document (dataset below) to confirm the data context.
 Clean and tabulate based on Grok's output (e.g., table of myalgia cases by seriousness).
@@ -1305,7 +1305,7 @@ course_2,ch_2_05,les_2_05_04,task_2_05_04_1,Pro Training in Pharmacovigilance,,A
 Deliverables
 
 A revised PSUR section entry in OMEGA Word, including the AI-drafted text and 1-2 human edits with explanations.
-A brief follow-up suggestion for quality review.",https://drive.google.com/file/d/1EMuqyO0pCzlbNM0Y6bjIwhgCbD4f9VUj/view?usp=sharing,omegaword,https://drive.google.com/file/d/1OfpYt5XG5WtAVjqd5dgMwPuymbwG1IWE/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
+A brief follow-up suggestion for quality review.",https://drive.google.com/file/d/1EMuqyO0pCzlbNM0Y6bjIwhgCbD4f9VUj/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/1OfpYt5XG5WtAVjqd5dgMwPuymbwG1IWE/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
 Draft a PSUR 'Summary of Safety Concerns' section for valsartan-related angioedema: Include known risks, potential risks, and missing information, based on this data: 300 reports, 70% serious, onset average 2 weeks, higher in females. Make it concise and regulatory-style.
 Review the Reference Document (ICSR details below) to confirm the AE context.
 Edit the Grok draft by adding 1-2 refinements (e.g., add a clinical note or correct a detail for accuracy).
@@ -1319,7 +1319,7 @@ course_2,ch_2_05,les_2_05_05,task_2_05_05_1,Pro Training in Pharmacovigilance,,A
 Deliverables
 
 A revised Summary Tabulation entry in OMEGA Word, including the AI-drafted text and 1-2 human edits with explanations.
-A brief follow-up suggestion for quality review.",https://drive.google.com/file/d/1dp2god4RLsTzQcbscszDHxCjedmApp51/view?usp=sharing,omegaword,https://drive.google.com/file/d/1BO-SkiQtd20KBiqwfWfegD9m3o-6zhyK/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
+A brief follow-up suggestion for quality review.",https://drive.google.com/file/d/1dp2god4RLsTzQcbscszDHxCjedmApp51/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/1BO-SkiQtd20KBiqwfWfegD9m3o-6zhyK/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
 Draft a Summary Tabulation section for ibuprofen-related gastrointestinal bleeding: Include counts and percentages by seriousness, age groups, sex, outcomes, and trends, based on this data: 200 reports, 60% serious, age distribution (20% under 18, 50% 18-65, 30% over 65), 55% female, outcomes (70% recovered, 20% ongoing, 10% fatal). Make it concise and regulatory-style, using MedDRA terminology.
 Review the Reference Document (sample line listing details below) to confirm the AE context and aggregation.
 Edit the Grok draft by adding 1-2 refinements (e.g., add a note on MedDRA coding or adjust for demographic trends for accuracy).
@@ -1333,7 +1333,7 @@ course_2,ch_2_05,les_2_05_06,task_2_05_06_1,Pro Training in Pharmacovigilance,,A
 Deliverables
 
 A revised PSUR Quality Check Summary entry in OMEGA Word, including the AI-drafted text and 1-2 human edits with explanations.
-A brief follow-up suggestion for quality review.",https://drive.google.com/file/d/1g_ZIz1wZbvYQq6LKe6SqK_RSBEFKXxbW/view?usp=sharing,omegaword,https://drive.google.com/file/d/14AhGYHS1a_OKKV4qWwEYaKlH2wiDy3q4/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
+A brief follow-up suggestion for quality review.",https://drive.google.com/file/d/1g_ZIz1wZbvYQq6LKe6SqK_RSBEFKXxbW/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/14AhGYHS1a_OKKV4qWwEYaKlH2wiDy3q4/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
 Draft a PSUR Quality Check Summary for atorvastatin-related myopathy: Include verification of data accuracy, completeness, consistency, regulatory compliance, and key trends, based on this data: 150 reports, 65% serious, age distribution (15% under 18, 55% 18-65, 30% over 65), 60% male, outcomes (75% recovered, 15% ongoing, 10% fatal). Make it concise and regulatory-style, referencing MedDRA coding.
 Review the Reference Document (sample PSUR details below) to confirm the quality check context.
 Edit the Grok draft by adding 1-2 refinements (e.g., add a note on duplicate detection or adjust for consistency in terminology for accuracy).
@@ -1347,7 +1347,7 @@ course_2,ch_2_05,les_2_05_07,task_2_05_07_1,Pro Training in Pharmacovigilance,,A
 Deliverables
 
 A revised Signal Detection and Risk Evaluation entry in OMEGA Word, including the AI-drafted text and 1-2 human edits with explanations.
-A brief follow-up suggestion for quality review.",https://drive.google.com/file/d/1r1-S4_g7WYzEFcK6GGHoENUBxbPfyaUD/view?usp=sharing,omegaword,https://drive.google.com/file/d/1-Jp2n_taiKr9qQb9XOW_ZEHnReH6BnvK/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
+A brief follow-up suggestion for quality review.",https://drive.google.com/file/d/1r1-S4_g7WYzEFcK6GGHoENUBxbPfyaUD/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/1-Jp2n_taiKr9qQb9XOW_ZEHnReH6BnvK/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
 Draft a DSUR 'Signal Detection and Risk Evaluation' section for Cardiostimab-related elevated liver enzymes: Include signal identification, causality assessment, risk evaluation, and recommendations, based on this data: 100 reports, 50% serious, incidence rate 5 per 100 patient-years, higher in Phase III, temporal association average 4 weeks, dose-response observed. Make it concise and regulatory-style, using MedDRA terminology.
 Review the Reference Document (sample DSUR case details below) to confirm the analysis context.
 Edit the Grok draft by adding 1-2 refinements (e.g., add a note on benefit-risk implications or adjust for confounding factors for accuracy).
@@ -1361,7 +1361,7 @@ course_2,ch_2_05,les_2_05_08,task_2_05_08_1,Pro Training in Pharmacovigilance,,A
 Deliverables
 
 A revised Key Considerations for Submission entry in OMEGA Word, including the AI-drafted text and 1-2 human edits with explanations.
-A brief follow-up suggestion for quality review.",https://drive.google.com/file/d/1TFlcNSXy5TYhQbr1Jo8idNtp0lsr7kPH/view?usp=sharing,omegaword,https://drive.google.com/file/d/1Fs0IP2lkAuBGjM30C-qzM6qRmzE0IDB6/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
+A brief follow-up suggestion for quality review.",https://drive.google.com/file/d/1TFlcNSXy5TYhQbr1Jo8idNtp0lsr7kPH/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/1Fs0IP2lkAuBGjM30C-qzM6qRmzE0IDB6/view?usp=sharing,"Access Grok at Tools Section and input this prompt:
 Draft a 'Key Considerations for Submission' section for a regulatory report on metformin-related lactic acidosis: Include data quality, compliance, traceability, and recommendations, based on this data: 120 reports, 70% serious, age distribution (10% under 18, 60% 18-65, 30% over 65), 50% female, outcomes (65% recovered, 25% ongoing, 10% fatal). Make it concise and regulatory-style, referencing MedDRA coding.
 Review the Reference Document (sample regulatory report details below) to confirm the submission context.
 Edit the Grok draft by adding 1-2 refinements (e.g., add a note on data privacy compliance or adjust for regional variations for accuracy).
@@ -1375,7 +1375,7 @@ course_2,ch_2_05,les_2_05_09,task_2_05_09_1,Pro Training in Pharmacovigilance,,A
 Deliverables
 
 A completed Query Matching Table in OMEGA Word, showing matched queries, strategies, and rationales.
-A brief explanation of one ""aha"" moment from the puzzle (e.g., why a certain match was tricky or insightful).",https://drive.google.com/file/d/1FEMuWP1hLn8hlVOjeOf6fVXtqRYHWUHQ/view?usp=sharing,omegaword,https://drive.google.com/file/d/1xRK493g2qjJGht2BDRpzM60oW1xeZPGv/view?usp=sharing,"Review the Reference Document (sample queries and options below) to familiarize yourself with the puzzle elements.
+A brief explanation of one ""aha"" moment from the puzzle (e.g., why a certain match was tricky or insightful).",https://drive.google.com/file/d/1FEMuWP1hLn8hlVOjeOf6fVXtqRYHWUHQ/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/1xRK493g2qjJGht2BDRpzM60oW1xeZPGv/view?usp=sharing,"Review the Reference Document (sample queries and options below) to familiarize yourself with the puzzle elements.
 Analyze each query: Identify its focus (e.g., discrepancy, missing data) based on the study document's guidance on query nature.
 Match to strategies: Select the best handling strategy (A-E) and rationale (1-5) from the lists provided.
 Build the table: Use a simple table format in OMEGA Word with columns for Query Number, Matched Strategy (letter), Matched Rationale (number), and Brief Justification.
@@ -1383,13 +1383,13 @@ Add your insight: Note one interesting takeaway from the matching process.
 Open OMEGA Word and create a new document titled ""PSUR Query Matching Puzzle - Case ID HP-2025-UK-US-001"".
 Enter the table and insight in OMEGA Word.
 Submit in OMEGA Word within 24 hours.",10
-,,,,,,,,,,,,,,
+course_2,ch_2_05,les_2_05_10,task_2_05_10_1,Pro Training in Pharmacovigilance,,Aggregate Safety Reporting,Periodic Report Automation,omegamentorship,,,,,,
 course_2,ch_2_06,les_2_06_01,task_2_06_01_1,Pro Training in Pharmacovigilance,,MedDRA Coding & Case Quality,MedDRA Hierarchy Overview,MedDRA Hierarchy Overview,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in the UK. Your team is preparing a PSUR for paracetamol-related adverse events. In this ""Quick Code Quest,"" you’ll use the Zane MedDRA Simulation Tool (accessible at Tools Section ) to code three simple patient-reported adverse events into MedDRA Preferred Terms (PTs). You’ll verify one PT for accuracy and write a brief note for the PSUR, ensuring compliance with authorities like EMA (EU), FDA (USA), MHRA (UK), and CDSCO (India).
 
 Deliverables
 
 A MedDRA Coding Note in OMEGA Word, listing the three descriptions, their PTs, one verification note, and a brief PSUR comment.
-A one-sentence reflection on using the tool.",https://drive.google.com/file/d/1YKkljzQjj33BzHYbyNPUGokHsv5I4eqh/view?usp=sharing,omegaword,https://drive.google.com/file/d/1YXkVQ4SgContbfF_kOdkMX7tmdhM3icF/view?usp=sharing,"Access the Zane MedDRA in tools section with your trainee credentials.
+A one-sentence reflection on using the tool.",https://drive.google.com/file/d/1YKkljzQjj33BzHYbyNPUGokHsv5I4eqh/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/1YXkVQ4SgContbfF_kOdkMX7tmdhM3icF/view?usp=sharing,"Access the Zane MedDRA in tools section with your trainee credentials.
 Review the Reference Document (three adverse event descriptions below) for input.
 Input each description into the tool’s “Adverse Event Coder” field, using the latest MedDRA version (e.g., 27.0), to generate the PT.
 Verify one PT: Check if the tool’s PT for the first description makes sense (e.g., matches the symptom logically).
@@ -1403,7 +1403,7 @@ course_2,ch_2_06,les_2_06_02,task_2_06_02_1,Pro Training in Pharmacovigilance,,M
 Deliverables
 
 An Adventure Log in OMEGA Word, listing the four adverse event descriptions, their LLT, PT, and SOC codes from the tool, and a one-sentence PSUR note on their value.
-A one-sentence ""Explorer’s Insight"" on what made the coding fun or clear.",https://drive.google.com/file/d/1W-N3ZdkQKTV1CFZET_aSLdWezCeMJ--R/view?usp=sharing,omegaword,https://drive.google.com/file/d/1Wt5Y3Ee1Fuwir0iXtjwzGkdQbU6Za9Bc/view?usp=sharing,"Access the Zane MedDRA in tools section with your trainee credentials.
+A one-sentence ""Explorer’s Insight"" on what made the coding fun or clear.",https://drive.google.com/file/d/1W-N3ZdkQKTV1CFZET_aSLdWezCeMJ--R/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/1Wt5Y3Ee1Fuwir0iXtjwzGkdQbU6Za9Bc/view?usp=sharing,"Access the Zane MedDRA in tools section with your trainee credentials.
 Review the Reference Document (four adverse event descriptions below) to prepare your inputs.
 Input each description: Enter the exact text into the tool's ""Adverse Event Coder"" field, select MedDRA version 27.0, and generate the LLT, PT, and SOC.
 Log the codes: Record the tool's output for each description (LLT, PT, SOC) in a table.
@@ -1417,7 +1417,7 @@ course_2,ch_2_06,les_2_06_03,task_2_06_03_1,Pro Training in Pharmacovigilance,,M
 Deliverables
 
 An AI Code Quest Report in OMEGA Word, listing the four descriptions, their auto-generated LLT, PT, and SOC codes, a validation note for one code, and a one-sentence PSUR note.
-A one-sentence ""Coder’s Spark"" on what made the AI coding process exciting or clear.",https://drive.google.com/file/d/1PGMkUSLQ550iU-UtM-vdOhrbY3rp8KD3/view?usp=sharing,omegaword,https://drive.google.com/file/d/16yv_N_bgWOABGKAZQSusvwXuB9vkf2fK/view?usp=sharing,"Access the Zane MedDRA in tools section with your trainee credentials.
+A one-sentence ""Coder’s Spark"" on what made the AI coding process exciting or clear.",https://drive.google.com/file/d/1PGMkUSLQ550iU-UtM-vdOhrbY3rp8KD3/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/16yv_N_bgWOABGKAZQSusvwXuB9vkf2fK/view?usp=sharing,"Access the Zane MedDRA in tools section with your trainee credentials.
 Review the Reference Document (four adverse event descriptions below) to prepare inputs.
 Input each description: Enter the exact text into the tool’s “Adverse Event Coder” field, select MedDRA version 27.0, and generate LLT, PT, and SOC codes.
 Validate one code: For the first description, check if the tool’s LLT and PT match the reported symptom (e.g., does “tummy upset” map to “Abdominal discomfort” logically?).
@@ -1431,7 +1431,7 @@ course_2,ch_2_06,les_2_06_04,task_2_06_04_1,Pro Training in Pharmacovigilance,,M
 Deliverables
 
 A Code Check Agent’s Report in OMEGA Word, listing the three descriptions, their LLT, PT, and SOC codes, an accuracy check note for one code, and a one-sentence PSUR comment.
-A one-sentence ""Agent’s Clue"" on what made the accuracy check interesting or useful.",https://drive.google.com/file/d/1lW3e4gG42a7JXPVQDt6v7jb7wYkb3oub/view?usp=sharing,omegaword,https://drive.google.com/file/d/1lpqLPjP-WKdkED2LHndwiptWZD6Qcul0/view?usp=sharing,"Access the Zane MedDRA in tools section with your trainee credentials.
+A one-sentence ""Agent’s Clue"" on what made the accuracy check interesting or useful.",https://drive.google.com/file/d/1lW3e4gG42a7JXPVQDt6v7jb7wYkb3oub/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/1lpqLPjP-WKdkED2LHndwiptWZD6Qcul0/view?usp=sharing,"Access the Zane MedDRA in tools section with your trainee credentials.
 Review the Reference Document (three adverse event descriptions below) to prepare inputs.
 Input each description: Enter the exact text into the tool’s “Adverse Event Coder” field, select MedDRA version 27.0, and generate LLT, PT, and SOC codes.
 Perform accuracy check: For the first description, verify if the tool’s LLT and PT match the reported symptom (e.g., does “bad tummy pain” align with “Abdominal pain”?) and note any issues.
@@ -1445,7 +1445,7 @@ course_2,ch_2_06,les_2_06_05,task_2_06_05_1,Pro Training in Pharmacovigilance,,M
 Deliverables
 
 A Complex Case Coding Case File in OMEGA Word, listing the two descriptions, their LLT, PT, and SOC codes, an accuracy check note for one case, and a one-sentence PSUR comment.
-A one-sentence ""Detective’s Insight"" on what made the coding process interesting or clear.",https://drive.google.com/file/d/1G__hU4iatiZZT5BkHGUCSmU7E3i4gzKK/view?usp=sharing,omegaword,https://drive.google.com/file/d/1_PVykqwb_BEmunr5oWAzIw9oWG8c2SQ-/view?usp=sharing,"Access the Zane MedDRA in tools section with your trainee credentials.
+A one-sentence ""Detective’s Insight"" on what made the coding process interesting or clear.",https://drive.google.com/file/d/1G__hU4iatiZZT5BkHGUCSmU7E3i4gzKK/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/1_PVykqwb_BEmunr5oWAzIw9oWG8c2SQ-/view?usp=sharing,"Access the Zane MedDRA in tools section with your trainee credentials.
 Review the Reference Document (two complex adverse event descriptions below) to prepare inputs.
 Input each description: Enter the exact text into the tool’s “Adverse Event Coder” field, select MedDRA version 27.0, and generate LLT, PT, and SOC codes for each symptom.
 Perform accuracy check: For the first description, verify if the tool’s LLTs and PTs logically match the reported symptoms (e.g., do “muscle soreness” and “tummy trouble” align with correct PTs?)
@@ -1459,7 +1459,7 @@ course_2,ch_2_06,les_2_06_06,task_2_06_06_1,Pro Training in Pharmacovigilance,,M
 Deliverables
 
 A Narrative Detective Case Summary in OMEGA Word, listing the two narratives, their LLT, PT, and SOC codes, a brief quality check note for one narrative, and a one-sentence PSUR comment.
-A one-sentence ""Detective’s Discovery"" on what made the narrative coding or quality check fun or clear.",https://drive.google.com/file/d/1m8TsElYKtWcWyXQmEyU2qn1-upnI7OEQ/view?usp=sharing,omegaword,https://drive.google.com/file/d/1MYBEUnPtDaewaXZztXMlEd0CtJFZJAeG/view?usp=sharing,"Access the Zane MedDRA in tools section with your trainee credentials.
+A one-sentence ""Detective’s Discovery"" on what made the narrative coding or quality check fun or clear.",https://drive.google.com/file/d/1m8TsElYKtWcWyXQmEyU2qn1-upnI7OEQ/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/1MYBEUnPtDaewaXZztXMlEd0CtJFZJAeG/view?usp=sharing,"Access the Zane MedDRA in tools section with your trainee credentials.
 Review the Reference Document (two simplified patient narratives below) to prepare inputs.
 Input adverse events: For each narrative, identify the adverse event(s), enter them into the tool’s “Adverse Event Coder” field, select MedDRA version 27.0, and generate LLT, PT, and SOC codes.
 Perform quality check: For the first narrative, verify if the coded terms and narrative details (e.g., outcome, causality) align with ICH E2B(R3) standards (e.g., clear, complete).
@@ -1473,7 +1473,7 @@ course_2,ch_2_06,les_2_06_07,task_2_06_07_1,Pro Training in Pharmacovigilance,,M
 Deliverables
 
 A Case Update Log in OMEGA Word, listing the two follow-up case reports, their updated LLT, PT, and SOC codes, an accuracy check note for one case, and a one-sentence PSUR comment.
-A one-sentence ""Agent’s Insight"" on what made the follow-up coding or verification process fun or clear.",https://drive.google.com/file/d/1M7HGggrtjveZu7WILunDMYCqx3cVkG0o/view?usp=sharing,omegaword,https://drive.google.com/file/d/1cYsmDzLVu0F9ycmUpsoXW9DOEMYCqlZ7/view?usp=sharing,"Access the Zane MedDRA in tools section with your trainee credentials.
+A one-sentence ""Agent’s Insight"" on what made the follow-up coding or verification process fun or clear.",https://drive.google.com/file/d/1M7HGggrtjveZu7WILunDMYCqx3cVkG0o/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/1cYsmDzLVu0F9ycmUpsoXW9DOEMYCqlZ7/view?usp=sharing,"Access the Zane MedDRA in tools section with your trainee credentials.
 Review the Reference Document (two follow-up case reports below) to identify new adverse event details for coding.
 Input updated adverse events: For each report, enter the new or updated adverse event(s) into the tool’s “Adverse Event Coder” field, select MedDRA version 27.0, and generate LLT, PT, and SOC codes.
 Perform accuracy check: For the first case, verify if the coded terms and updated details (e.g., outcome, new symptom) align with ICH E2B(R3) standards (e.g., complete, accurate).
@@ -1487,7 +1487,7 @@ course_2,ch_2_06,les_2_06_08,task_2_06_08_1,Pro Training in Pharmacovigilance,,M
 Deliverables
 
 A Code Fix Mission Report in OMEGA Word, listing the three descriptions, their correct LLT, PT, and SOC codes, a correction note for the identified error, and a one-sentence PSUR comment.
-A one-sentence ""Agent’s Breakthrough"" on what made spotting or fixing the error interesting or clear.",https://drive.google.com/file/d/1olyRp_tiTHRGPGSjwTr2YJizey5SxOJs/view?usp=sharing,omegaword,https://drive.google.com/file/d/1-Ik-Z3c_CimXan7P_4czeC-cWEYQrkmG/view?usp=sharing,"Access the Zane MedDRA in tools section with your trainee credentials.
+A one-sentence ""Agent’s Breakthrough"" on what made spotting or fixing the error interesting or clear.",https://drive.google.com/file/d/1olyRp_tiTHRGPGSjwTr2YJizey5SxOJs/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/1-Ik-Z3c_CimXan7P_4czeC-cWEYQrkmG/view?usp=sharing,"Access the Zane MedDRA in tools section with your trainee credentials.
 Review the Reference Document (three adverse event descriptions and initial codes below) to identify the coding error.
 Input each description: Enter the exact text into the tool’s “Adverse Event Coder” field, select MedDRA version 27.0, and generate correct LLT, PT, and SOC codes.
 Identify and correct error: Compare the tool’s output to the initial codes in the Reference Document; spot the error (one description has an incorrect PT) and note the correction.
@@ -1501,7 +1501,7 @@ course_2,ch_2_06,les_2_06_09,task_2_06_09_1,Pro Training in Pharmacovigilance,,M
 Deliverables
 
 A Version Update Log in OMEGA Word, listing the three descriptions, their LLT, PT, and SOC codes from MedDRA 27.0, a comparison note for one code against version 26.0, and a one-sentence PSUR comment.
-A one-sentence ""Explorer’s Insight"" on what made the version update process interesting or clear.",https://drive.google.com/file/d/1QMO7EEVsZoX4hKd703R62qVdkXllKA_0/view?usp=sharing,omegaword,https://drive.google.com/file/d/1Fse7ZwpmevVtZ_g2Codtkdi0mCNOTpbW/view?usp=sharing,"Access the Zane MedDRA in tools section with your trainee credentials.
+A one-sentence ""Explorer’s Insight"" on what made the version update process interesting or clear.",https://drive.google.com/file/d/1QMO7EEVsZoX4hKd703R62qVdkXllKA_0/view?usp=sharing,https://tally.so/r/n021q6,https://drive.google.com/file/d/1Fse7ZwpmevVtZ_g2Codtkdi0mCNOTpbW/view?usp=sharing,"Access the Zane MedDRA in tools section with your trainee credentials.
 Review the Reference Document (three adverse event descriptions and version 26.0 codes below) to prepare inputs.
 Input each description: Enter the exact text into the tool’s “Adverse Event Coder” field, select MedDRA version 27.0, and generate LLT, PT, and SOC codes.
 Compare versions: For the first description, compare the tool’s version 27.0 PT to the version 26.0 PT provided in the Reference Document to identify any term update (e.g., a refined PT).
@@ -1510,7 +1510,7 @@ Add your insight: Note one interesting or clear aspect of the version update pro
 Open OMEGA Word and create a document titled ""Version Update Adventure Log - Case ID HP-2025-UK-EU-012"".
 Enter the Update Log and insight in OMEGA Word.
 Submit in OMEGA Word within 24 hours.",10
-course_2,ch_2_06,les_2_06_10,task_2_06_10_1,Pro Training in Pharmacovigilance,,MedDRA Coding & Case Quality,MedDRA Version Updates,Omegamentership,,,,,,
+course_2,ch_2_06,les_2_06_10,task_2_06_10_1,Pro Training in Pharmacovigilance,,MedDRA Coding & Case Quality,MedDRA Version Updates,omegamentorship,,,,,,
 ,,,,,,,,,,,,,,
 course_2,ch_2_07,les_2_07_01,task_2_07_01_1,Pro Training in Pharmacovigilance,,PV Audits & Inspections,PV Audit Overview,PV Audit Overview,,,,,,10
 course_2,ch_2_07,les_2_07_02,task_2_07_02_1,Pro Training in Pharmacovigilance,,PV Audits & Inspections,Preparing for FDA PV Inspections,Preparing for FDA PV Inspections,,,,,,10
@@ -1578,71 +1578,1134 @@ course_2,ch_2_12,les_2_12_08,task_2_12_08_1,Pro Training in Pharmacovigilance,,C
 course_2,ch_2_12,les_2_12_09,task_2_12_09_1,Pro Training in Pharmacovigilance,,Capstone Integration & Career Prep,Emerging PV Regulations,Emerging PV Regulations,,,,,,10
 course_2,ch_2_12,les_2_12_10,task_2_12_10_1,Pro Training in Pharmacovigilance,,Capstone Integration & Career Prep,Final PV Capstone Sim,Final PV Capstone Sim,,,,,,10
 ,,,,,,,,,,,,,,
-course_3,ch_3_01,les_3_01_01,task_3_01_01_1,Pro Training in Clinical Research,Understand and execute end-to-end clinical trial operations with scientific rigor and ethical precision.,Foundations of Clinical Research & GCP Basics,What is Clinical Research?,,,,,,,10
-course_3,ch_3_01,les_3_01_02,task_3_01_02_1,Pro Training in Clinical Research,,Foundations of Clinical Research & GCP Basics,History & Evolution of Clinical Trials.,,,,,,,10
-course_3,ch_3_01,les_3_01_03,task_3_01_03_1,Pro Training in Clinical Research,,Foundations of Clinical Research & GCP Basics,Roles in a Clinical Trial Team.,,,,,,,10
-course_3,ch_3_01,les_3_01_04,task_3_01_04_1,Pro Training in Clinical Research,,Foundations of Clinical Research & GCP Basics,Introduction to Good Clinical Practice (GCP).,,,,,,,10
-course_3,ch_3_01,les_3_01_05,task_3_01_05_1,Pro Training in Clinical Research,,Foundations of Clinical Research & GCP Basics,Ethical Considerations in Trials.,,,,,,,10
-course_3,ch_3_01,les_3_01_06,task_3_01_06_1,Pro Training in Clinical Research,,Foundations of Clinical Research & GCP Basics,"Regulatory Bodies Overview (FDA, EMA, etc.).",,,,,,,10
-course_3,ch_3_01,les_3_01_07,task_3_01_07_1,Pro Training in Clinical Research,,Foundations of Clinical Research & GCP Basics,"Trial Types & Designs (RCTs, Observational).",,,,,,,10
-course_3,ch_3_01,les_3_01_08,task_3_01_08_1,Pro Training in Clinical Research,,Foundations of Clinical Research & GCP Basics,Basics of Trial Documentation.,,,,,,,10
-course_3,ch_3_01,les_3_01_09,task_3_01_09_1,Pro Training in Clinical Research,,Foundations of Clinical Research & GCP Basics,Introduction to AI in Clinical Research.,,,,,,,10
-course_3,ch_3_01,les_3_01_10,task_3_01_10_1,Pro Training in Clinical Research,,Foundations of Clinical Research & GCP Basics,GCP Audit Trails Basics.,,,,,,,
+course_3,ch_3_01,les_3_01_01,task_3_01_01_1,Pro Training in Clinical Research,Understand and execute end-to-end clinical trial operations with scientific rigor and ethical precision.,Foundations of Clinical Research & GCP Basics,Introduction to Clinical Research.,Write a Study Synopsis for the AstmaClear Phase II Trial,"You've just received an email from your supervisor at the CRO: ""Hey team, we're gearing up for the AstmaClear Phase II Trial. This is a key step to evaluate the efficacy of AstmaClear—an oral anti-inflammatory tablet designed to reduce airway inflammation—in reducing asthma symptoms and its overall safety compared to a placebo. 
+
+We'll target adults aged 18-65 with moderate asthma, who've been diagnosed for at least one year and have no recent hospitalizations. The intervention involves participants taking a 10 mg AstmaClear tablet daily for 12 weeks, or a matching placebo. Key stakeholders include ClearPharma as the sponsor, our Apex CRO team, the site investigators, and of course, the enrolled patients. We're expecting outcomes like reduced asthma symptoms (think less wheezing and shortness of breath) and decreased reliance on rescue inhalers, all with minimal side effects such as mild nausea. 
+
+Prepare a Study Synopsis for the site investigator's review—keep it professional and concise.""
+
+Instructions: Using the provided Study Synopsis Template, write a 150-200 word summary for the AstmaClear trial. Extract and organize the details from the supervisor's email to include the study’s phase, objective, target population, intervention, key stakeholders, and expected outcomes.
+
+Deliverables
+
+A completed Study Synopsis (150-200 words) submitted in OMEGA WORD.",https://drive.google.com/file/d/1TXmcFYMJnKbpa0wzSaODAQfIfsk7PXE6/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/12kMWdh7vkvzcxnskjEQK-MEoboQ2YQk1/view?usp=sharing,"Open the reference document & go through the template.
+Use the content in the scenario (Mail) to fill in the details.
+Paste the final draft in OMEGA & submit.",10
+course_3,ch_3_01,les_3_01_02,task_3_01_02_1,Pro Training in Clinical Research,,Foundations of Clinical Research & GCP Basics,History & Evolution of Clinical Trials.,Analyzing Historical Clinical Trial Impacts with Modern AI Tools,"You are a clinical research coordinator at MediTrial Solutions, a contract research organization (CRO). Your supervisor, Dr. Elena Carter, has tasked you with preparing a report for a new client, BioPharma Innovations, who is launching a Phase II trial for a novel diabetes drug, DiaCure. 
+
+The client wants to understand how historical clinical trial milestones shape today’s ethical and regulatory standards, and how AI tools can ensure compliance with Good Clinical Practice (GCP). 
+
+Your report will be used to educate the client’s trial team and ensure their study aligns with modern standards.
+
+
+Deliverables
+
+Write a concise report (300-400 words) in OMEGA WORD addressed to Dr. Elena Carter, summarizing your findings. Include:
+A brief overview of each milestone and its influence on GCP.
+A specific AI tool or approach (real or hypothetical) and how it addresses risks tied to these milestones.
+A closing statement on why understanding trial history is critical for the DiaCure trial’s success.",,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1FDu6jUl3HrT5El-Z18OqrIRGNZMjd_bQ/view?usp=sharing,"Historical Analysis: Select two key historical milestones in clinical trials (e.g., Nuremberg Code, Thalidomide Tragedy, Tuskegee Syphilis Study, ICH-GCP establishment) and explain their impact on modern GCP principles, such as informed consent, participant safety, or standardized protocols.
+AI Application: Propose how a modern AI tool could be used to prevent ethical or regulatory issues tied to your chosen milestones in the DiaCure trial. For example, how could AI ensure informed consent or monitor participant safety?
+How to do this task?
+
+Research using perplexity and other AI tools.  
+
+Open OMEGA WORD and paste your content.",10
+course_3,ch_3_01,les_3_01_03,task_3_01_03_1,Pro Training in Clinical Research,,Foundations of Clinical Research & GCP Basics,Roles in a Clinical Trial Team.,Coordinating Roles in a Clinical Trial Team,"You are a junior Clinical Research Coordinator (CRC) at VitalCRO Solutions, a contract research organization (CRO) managing a Phase III trial for a new heart failure drug, CardioVita, sponsored by PharmaCore Innovations. The trial involves multiple hospital sites, and your supervisor, Dr. Sarah Nguyen, has asked you to prepare a task assignment plan to ensure smooth collaboration among the trial team. Your plan will clarify roles and assign specific tasks to team members to support the trial’s success and compliance with Good Clinical Practice (GCP).
+
+Deliverables
+
+Write a concise task assignment plan (300-400 words) addressed to Dr. Sarah Nguyen, summarizing your findings. Include:
+
+A brief overview of the three roles and their responsibilities.
+One task per role and its importance to the trial.
+A collaboration plan with one challenge and solution.
+A closing statement on the importance of clear role assignments for the CardioVita trial.",,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1GEd2ZiVqW_QI6o6_cFsERs3Jd4rkiSYB/view?usp=sharing,"Role Identification: Identify three key roles in the CardioVita trial team (e.g., Sponsor, Principal Investigator, Clinical Research Associate, etc.) and briefly describe their primary responsibilities based on the lesson content.
+Task Assignment: Assign one specific task to each of the three roles that supports the trial’s operations (e.g., protocol design, patient recruitment, site monitoring). Explain how each task contributes to the trial’s success and GCP compliance.
+Collaboration Plan: Describe how these roles collaborate between the CRO (VitalCRO Solutions), the sponsor (PharmaCore Innovations), and hospital sites to ensure effective trial execution. Provide one example of a potential challenge in this collaboration and how it could be addressed.
+Go through the answer key if you need it.
+Resources ;
+ Internet verified info on clinical trial roles.
+ GCP guidelines for role responsibilities (available via ICH-GCP website).
+Submit the final draft in OMEGA WORD.",10
+course_3,ch_3_01,les_3_01_04,task_3_01_04_1,Pro Training in Clinical Research,,Foundations of Clinical Research & GCP Basics,Introduction to Good Clinical Practice (GCP).,Creating a GCP Checklist for a Clinical Trial,"You are a new Clinical Research Coordinator (CRC) at StarCRO, helping manage a Phase II trial for a new asthma drug, AstmaRelief, sponsored by HealthPharma. Your supervisor, Dr. Lisa Chen, wants you to create a simple GCP checklist to ensure the trial team follows Good Clinical Practice (GCP) standards. The checklist will guide the team in protecting participants and ensuring reliable data.
+
+Deliverables
+
+GCP checklist in OMEGA WORD.",,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1QogbLrls-iN4BWH3eyd6okTSE_va-CLY/view?usp=sharing,"You are a junior Clinical Research Coordinator (CRC) at EthiCRO Solutions, assisting with a Phase II trial for a new diabetes drug, DiaSafe, sponsored by MediPharm Inc. Your supervisor, Dr. Rachel Kim, has asked you to create an ethics checklist to ensure the trial follows Good Clinical Practice (GCP) and Belmont Report principles. The checklist will guide the trial team in protecting participants and maintaining ethical standards.
+
+Deliverable:
+
+Write a concise ethics checklist (200-300 words) addressed to Dr. Rachel Kim, formatted as a list with brief explanations. Include:
+
+Two Belmont Report principles with their application to DiaSafe.
+One potential ethical breach and a prevention method.
+Three informed consent elements.
+A brief closing on why ethics matter for DiaSafe.
+Length: 200-300 words.
+Deadline: Within 24 hrs
+Resources ;
+Lesson materials on the Belmont Report and GCP ethics.
+EthiCRO’s trial ethics guide (hypothetical for this task).",10
+course_3,ch_3_01,les_3_01_05,task_3_01_05_1,Pro Training in Clinical Research,,Foundations of Clinical Research & GCP Basics,Ethical Considerations in Trials.,Applying Ethical Principles in a Clinical Trial.,"You are a junior Clinical Research Coordinator (CRC) at EthiCRO Solutions, assisting with a Phase II trial for a new diabetes drug, DiaSafe, sponsored by MediPharm Inc. Your supervisor, Dr. Rachel Kim, has asked you to create an ethics checklist to ensure the trial follows Good Clinical Practice (GCP) and Belmont Report principles. The checklist will guide the trial team in protecting participants and maintaining ethical standards.
+
+Deliverables
+
+Write a concise ethics checklist (200-300 words) addressed to Dr. Rachel Kim, formatted as a list with brief explanations. Include:
+
+Two Belmont Report principles with their application to DiaSafe.
+One potential ethical breach and a prevention method.
+Three informed consent elements.
+A brief closing on why ethics matter for DiaSafe.
+Length: 200-300 words.
+Deadline: Within 24 hrs
+Resources ;
+Lesson materials on the Belmont Report and GCP ethics.
+EthiCRO’s trial ethics guide (hypothetical for this task).",,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1ADt0Z66sZD1xGEzaYtDEolDN3CfZlkpd/view?usp=sharing,"Ethical Principles: Select two Belmont Report principles (Respect for Persons, Beneficence, Justice) and explain how they will be applied in the DiaSafe trial to protect participants.
+Ethical Breach: Identify one common ethical breach (e.g., lack of informed consent, neglecting safety, unfair participant selection) that could occur in the DiaSafe trial and suggest one way to prevent it.
+Informed Consent: List three key elements that must be included in the DiaSafe trial’s informed consent form to ensure ethical compliance.",10
+course_3,ch_3_01,les_3_01_06,task_3_01_06_1,Pro Training in Clinical Research,,Foundations of Clinical Research & GCP Basics,"Regulatory Bodies Overview (FDA, EMA, etc.).",Summarizing Regulatory Guidelines for a Clinical Trial Protocol,"You are a Clinical Research Coordinator at Horizon Biotech, developing a new diabetes drug, GlucoVita. Your supervisor, Dr. Maria Lopez, needs a Clinical Trial Protocol Summary for a multinational Phase II trial (U.S., EU, Japan, UK). To align with regulatory expectations, you must summarize an FDA guidance document on clinical trial protocols and incorporate key points into the summary form.
+
+Deliverables
+
+A completed Clinical Trial Protocol Summary form, including the 200-word FDA guideline summary and 50-word AI summary comparison.",https://drive.google.com/file/d/1d3iAs9wh9XQ_8hLJBMWVzlNUri5ZuvQO/view?usp=sharing,https://tally.so/r/mR7VDJ,https://drive.google.com/file/d/1vzoD0Jkyk5smU25gBFxvUrOHv0PZpfws/view?usp=sharing,"Read the Reference Document: Review the mock FDA guidance document (see Reference Documents) on clinical trial protocol requirements (approx. 800 words).
+Summarize the Guideline: Using an AI tool (e.g., Grok), summarize the FDA guidance into a 200-word digest. Focus on protocol elements like objectives, endpoints, safety monitoring, and regulatory compliance.
+Complete the Protocol Summary Form: Fill out the Clinical Trial Protocol Summary form (template provided) for the GlucoVita trial, incorporating the summarized FDA guideline points. Include:
+    - Trial name: GlucoVita Phase II Study
+    - Indication: Type 2 diabetes
+    - Study population: Adults aged 18-65
+    - Primary endpoint: Reduction in HbA1c levels
+    - Regulatory bodies involved: FDA, EMA, PMDA, MHRA
+Compare Summaries: Note any gaps or differences between your AI-generated summary and the original FDA guidance.",10
+course_3,ch_3_01,les_3_01_07,task_3_01_07_1,Pro Training in Clinical Research,,Foundations of Clinical Research & GCP Basics,"Trial Types & Designs (RCTs, Observational).",Trial Design Classification,"You are a junior clinical research assistant at MediCore Labs, a company developing a new drug, DiabeSafe, for type 2 diabetes. Your team is designing a study to evaluate DiabeSafe and needs your help to classify the trial design and justify your reasoning. The study involves observing 1,500 patients already prescribed DiabeSafe by their doctors, tracking their blood sugar levels and side effects over 3 years, without assigning any patients to a placebo or control group.
+
+Deliverables
+
+An OMEGA WORD submission that contains,
+The classification of the DiabeSafe trial design.
+Two advantages and two limitations of the chosen design.
+A 150-200-word justification explaining your classification and why the design suits the study.
+Submission method: OMEGA SUBMISSION PORTAL
+
+Estimated Time: 30-45 minutes",https://drive.google.com/file/d/1vTpdQGtJ5kmG-yfFtD4eJt7IoolbAula/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1cEaDVw_Hl5mqwZspZWFYQ9OB7JTbtqeQ/view?usp=sharing,"Review the Scenario and Reference Document:
+    - Read the DiabeSafe trial scenario above and the attached DiabeSafe Trial Protocol Summary.
+    - Use the Lesson 7 video content to compare the study’s methodology to RCTs and Observational Studies.
+Classify the Trial Design:
+    - Determine if the DiabeSafe study is an RCT or an Observational Study based on randomization and intervention.
+List Advantages and Limitations:
+    - Identify two advantages and two limitations of the chosen trial design, specific to the DiabeSafe study, using Lesson 7 content.
+Write the Justification:
+    - In 150-200 words, explain:
+        - Why you classified the trial as RCT or Observational.
+        - How the design aligns with the study’s goals (e.g., long-term safety).
+        - Why this design is suitable, considering factors like ethics or budget.
+    - Reference the scenario and lesson content in simple language.
+Create the Deliverable:
+    - Open OMEGA WORD.
+    - Use this template for your submission:
+
+
+Student Name: [Your Name]
+
+1. Trial Design Classification:
+[State whether the DiabeSafe study is an RCT or Observational Study]
+
+2. Advantages:
+- [Advantage 1]
+- [Advantage 2]
+
+3. Limitations:
+- [Limitation 1]
+- [Limitation 2]
+
+4. Justification (150-200 words):
+[Write your explanation here]
+
+
+Submit the Deliverable.",10
+course_3,ch_3_01,les_3_01_08,task_3_01_08_1,Pro Training in Clinical Research,,Foundations of Clinical Research & GCP Basics,Basics of Trial Documentation.,Trial Documentation Organization and Timeline Sequencing,"You are a junior clinical research assistant at MediCore Labs, working on a clinical trial for DiabeSafe, a new drug for type 2 diabetes. Your team is setting up the electronic Trial Master File (eTMF) to store and organize essential trial documents. Your task is to categorize provided documents into the correct eTMF sections and reorder them based on their sequence in the trial timeline.
+
+Deliverables
+
+A Word document containing:
+   Categorization of the five documents into their eTMF sections.
+   Ordered list of the five documents based on the trial timeline.
+   A 150-200-word explanation of the purpose of trial documentation and the compliance role of one document.
+
+Estimated Time: 35-50 minutes",https://drive.google.com/file/d/1m_I_rqZTlidjRScINtuaVaV404Zl8MUC/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1hv0evcgi1kGS5icUm44ZwGyFZFJ3QAkl/view?usp=sharing,"Review the Reference Document:
+    - Open the attached DiabeSafe eTMF Document List PDF.
+    - Note the five documents listed and their descriptions.
+Categorize the Documents:
+    - Using Lesson 8 video content, match each document to one of the following eTMF sections: Protocol, Informed Consent Forms (ICFs), Investigator’s Brochure (IB), Case Report Forms (CRFs), or Regulatory Approvals.
+    - List each document under its correct section.
+Reorder the Documents by Trial Timeline:
+    - Arrange the five documents in the order they would be prepared or used in the trial process (e.g., from obtaining approvals to collecting data).
+    - Consider which documents are needed to start the trial (e.g., for regulatory approval or planning) versus those used later (e.g., for data collection).
+Write the Explanation:
+    - In 150-200 words, explain:
+        - The overall purpose of trial documentation (e.g., compliance, transparency, audit readiness).
+        - Why one specific document from the list is critical for compliance (e.g., how it ensures GCP standards or supports audits).
+    - Use simple language and reference Lesson 8 content or the scenario.
+Create the Deliverable:
+    - Open OMEGA WORD.
+    - Use this template for your submission:
+            
+        Student Name: [Your Name]
+        
+        1. Document Categorization:
+        Protocol:
+        - [Document Name]
+        Informed Consent Forms (ICFs):
+        - [Document Name]
+        Investigator’s Brochure (IB):
+        - [Document Name]
+        Case Report Forms (CRFs):
+        - [Document Name]
+        Regulatory Approvals:
+        - [Document Name]
+        
+        2. Timeline Sequence:
+        1. [Document Name]
+        2. [Document Name]
+        3. [Document Name]
+        4. [Document Name]
+        5. [Document Name]
+        
+        3. Explanation (150-200 words):
+        [Write your explanation here]
+Submit the Deliverable.",10
+course_3,ch_3_01,les_3_01_09,task_3_01_09_1,Pro Training in Clinical Research,,Foundations of Clinical Research & GCP Basics,Introduction to AI in Clinical Research.,AI in Clinical Research Application,"You are a junior clinical research assistant at MediCore Labs, working on a clinical trial for DiabeSafe, a new drug for type 2 diabetes. Your team uses an AI tool to support trial operations, including analyzing data and ensuring Good Clinical Practice (GCP) compliance. You’ve been given a report from the AI tool summarizing its findings on the DiabeSafe trial, and your task is to analyze its role in maintaining compliance.
+
+Deliverables
+
+A Word document containing:
+   A 150-200-word explanation of AI’s role in clinical research and how one use case ensures GCP compliance.
+Submission method: OMEGA WORD.
+
+Estimated Time: 30-45 minutes",https://drive.google.com/file/d/1bIlyGZpG_kow2aFAXrPapqpUAPht8YZI/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1Lm9C1MAXYQH8bh1OLUQ21U60OklDHK0V/view?usp=sharing,"Review the Reference Document:
+    - Open the attached DiabeSafe AI Tool Report PDF.
+    - Note the AI tool’s findings and applications described in the report.
+Write the Explanation:
+    - In 150-200 words, explain:
+        - The overall role of AI in clinical research (e.g., automation, efficiency, compliance).
+        - How one of the identified use cases from the report helps ensure GCP compliance (e.g., by flagging deviations or ensuring data integrity).
+    - Use simple language and reference Lesson 9 content or the scenario.
+Create the Deliverable:
+    - Open OMEGA WORD.
+    - Paste & submit the document.
+Submit the Deliverable.",10
+course_3,ch_3_01,les_3_01_10,task_3_01_10_1,Pro Training in Clinical Research,,Foundations of Clinical Research & GCP Basics,GCP Audit Trails Basics.,GCP Audit Trail Entry,"You are a junior clinical research assistant at MediCore Labs, working on a clinical trial for DiabeSafe, a new drug for type 2 diabetes. Your team uses an electronic Trial Master File (eTMF) with an AI-supported audit trail system to track all trial actions. You’ve been tasked with filling out an audit trail document after correcting a data entry error in a patient’s Case Report Form (CRF) for an incorrect blood sugar level and explaining the importance of audit trails.
+
+Deliverables
+
+A Word document containing:
+   The completed audit trail entry with all key components (User ID, Action, Timestamp, Reason).
+   A 150-200-word explanation of the purpose of audit trails and the compliance role of one component.
+
+Estimated Time: 30-45 minutes",https://drive.google.com/file/d/1o-Ck29UgdR9wvrAdR6atk9I3_-5G20YG/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/12cUjbbE5CaHX_D22X4HKYn-c7aAnkBw7/view?usp=sharing,"Review the Reference Document:
+    - Open the attached DiabeSafe Audit Trail Form PDF.
+Write the Explanation:
+    - In 150-200 words, explain:
+        - The overall purpose of audit trails in clinical trials (e.g., transparency, compliance, fraud prevention).
+        - Why one specific component of your audit trail entry (e.g., Reason, Timestamp) is critical for GCP compliance.
+    - Use simple language and reference Lesson 10 content or the scenario.
+Submit the Deliverable:
+    - Paste the final draft in OMEGA WORD & submit.",
 ,,,,Pro Training in Clinical Research,,,,,,,,,,10
-course_3,ch_3_02,les_3_02_01,task_3_02_01_1,Pro Training in Clinical Research,,Clinical Trial Protocol Development,Protocol Structure Overview.,,,,,,,10
-course_3,ch_3_02,les_3_02_02,task_3_02_02_1,Pro Training in Clinical Research,,Clinical Trial Protocol Development,Objectives & Endpoints.,,,,,,,10
-course_3,ch_3_02,les_3_02_03,task_3_02_03_1,Pro Training in Clinical Research,,Clinical Trial Protocol Development,Study Population & Inclusion/Exclusion.,,,,,,,10
-course_3,ch_3_02,les_3_02_04,task_3_02_04_1,Pro Training in Clinical Research,,Clinical Trial Protocol Development,Interventions & Dosing.,,,,,,,10
-course_3,ch_3_02,les_3_02_05,task_3_02_05_1,Pro Training in Clinical Research,,Clinical Trial Protocol Development,Schedule of Assessments.,,,,,,,10
-course_3,ch_3_02,les_3_02_06,task_3_02_06_1,Pro Training in Clinical Research,,Clinical Trial Protocol Development,Risk Assessment in Protocols.,,,,,,,10
-course_3,ch_3_02,les_3_02_07,task_3_02_07_1,Pro Training in Clinical Research,,Clinical Trial Protocol Development,AI-Assisted Protocol Writing.,,,,,,,10
-course_3,ch_3_02,les_3_02_08,task_3_02_08_1,Pro Training in Clinical Research,,Clinical Trial Protocol Development,Protocol Amendments.,,,,,,,10
-course_3,ch_3_02,les_3_02_09,task_3_02_09_1,Pro Training in Clinical Research,,Clinical Trial Protocol Development,Statistical Considerations in Protocols.,,,,,,,10
-course_3,ch_3_02,les_3_02_10,task_3_02_10_1,Pro Training in Clinical Research,,Clinical Trial Protocol Development,Protocol Review & Approval.,,,,,,,10
+course_3,ch_3_02,les_3_02_01,task_3_02_01_1,Pro Training in Clinical Research,,Clinical Trial Protocol Development,Protocol Structure Overview.,Protocol Summary Submission,"You are a junior clinical research assistant at VitaHealth Solutions, working on a clinical trial for CardioVita, a new drug to lower blood pressure in patients with hypertension. Your team is developing the trial protocol, the official blueprint for the study, and needs you to complete a protocol summary to outline key elements of the trial.
+
+Deliverables
+
+A completed Clinical Trial Protocol Summary Submission containing:
+   Filled fields for Study Title, Phase, Objectives, Population and Criteria, Intervention/Methods, Endpoints.
+   A 150-200-word explanation in the Full Protocol Summary section.
+   A completed Self-Assessment Checklist confirming alignment with the scenario.
+Submission method: Via the course platform or provided digital link.
+
+Estimated Time: 30-45 minutes",https://drive.google.com/file/d/1HnMGJLii9QdMilPlLzklflpGpjpraZFY/view?usp=sharing,https://tally.so/r/mDlZkq | https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1gZQE_qjuenmTjHWlvidgHra5O2A-sOxt/view?usp=sharing,"Review the Reference Document:
+    - Open the attached CardioVita Trial Details PDF.
+    - Note the trial details for Study Title, Phase, Objectives, Population and Criteria, Intervention/Methods, and Endpoints.
+Create the Protocol Summary:
+    - Complete the following fields using the reference document:
+        Study Title: The name of the CardioVita trial.
+        Phase: Select the appropriate trial phase (Phase I, II, III, or IV).
+        Objectives: State primary and secondary objectives (1-2 sentences each).
+        Population and Criteria: Describe the participant eligibility criteria.
+        Intervention/Methods: Detail the treatment and procedures.
+        Endpoints: List primary and secondary endpoints.
+        Full Protocol Summary: Write a 150-200-word explanation of the purpose of a clinical trial protocol and why one section (e.g., Objectives, Safety/Ethics) is critical for the CardioVita trial.
+        Self-Assessment Checklist: Check all applicable boxes (Includes phase and objectives, Details population and criteria, Covers intervention and endpoints, Aligns with lesson scenario).
+    - Ensure entries are accurate, concise, and aligned with Lesson 11 content.
+Submit the Deliverable in OMEGA WORD.",10
+course_3,ch_3_02,les_3_02_02,task_3_02_02_1,Pro Training in Clinical Research,,Clinical Trial Protocol Development,Objectives & Endpoints.,Objectives and Endpoints Summary,"You are a junior clinical research assistant at NexaPharma, working on a clinical trial for PulseCalm, a new drug to manage hypertension. Your team is designing the trial protocol and needs you to define the trial’s objectives and endpoints, ensuring they meet the SMART criteria, and summarize them in a protocol submission form.
+
+Deliverables
+
+A completed Clinical Trial Protocol Summary Submission Form
+",https://drive.google.com/file/d/1x1te-hEFihOFwsp9WC5RUykx91MmG9gZ/view?usp=sharing,https://tally.so/r/mDlZkq,https://drive.google.com/file/d/1SKwQBDTsZNFqa14v1vUYrdPcVeYH1kZ2/view?usp=sharing,"Review the Reference Document:
+    - Open the attached PulseCalm Trial Details PDF.
+    - Note the trial details for Study Title, Phase, Objectives, Population and Criteria, Intervention/Methods, and Endpoints.
+Fill Out the Protocol Summary Form:
+    - Access the digital Clinical Trial Protocol Summary Submission Form via the course platform or provided link.
+    - Complete the following fields using the reference document:
+        Study Title: The name of the PulseCalm trial.
+        Phase: Select the appropriate trial phase (Phase I, II, III, or IV).
+        Objectives: State primary and secondary objectives (1-2 sentences each), ensuring they meet SMART criteria.
+        Population and Criteria: Describe the participant eligibility criteria.
+        Intervention/Methods: Detail the treatment and procedures.
+        Endpoints: List primary and secondary endpoints tied to the objectives.
+        Full Protocol Summary: Write a 150-200-word explanation of the purpose of trial objectives and endpoints and why SMART criteria are critical for the PulseCalm trial.
+        Self-Assessment Checklist: Check all applicable boxes (Includes phase and objectives, Details population and criteria, Covers intervention and endpoints, Aligns with lesson scenario).
+    - Ensure entries are concise, measurable, and aligned with Lesson 12 content.
+Submit the Deliverable:
+    - Submit the completed digital form via the course platform or provided link (e.g., Google Forms, course portal).
+    - Ensure the form is fully completed and submitted by the deadline.",10
+course_3,ch_3_02,les_3_02_03,task_3_02_03_1,Pro Training in Clinical Research,,Clinical Trial Protocol Development,Study Population & Inclusion/Exclusion.,Study Population Screening,"You are a junior clinical research assistant at BioSynth Labs, working on a clinical trial for NeuroRelief, a new drug to reduce migraine frequency in adults. Your team is defining the trial’s study population and needs you to apply inclusion and exclusion criteria to screen mock patient data and summarize the results in a protocol submission form.
+
+Deliverables
+
+A completed Clinical Trial Protocol Summary Submission Form.",https://drive.google.com/file/d/1Lb8Gd1atLTkCCbWL_XnYDuSpYNFSOVmz/view?usp=sharing,https://tally.so/r/mDlZkq,https://drive.google.com/file/d/1oFNywQYrwwABZnRHwwbTuzTSti-wRPBo/view?usp=sharing,"Review the Reference Document:
+    - Open the attached NeuroRelief Patient Screening Data PDF.
+    - Note the trial details (Study Title, Phase, Population and Criteria) and the mock patient profiles to screen.
+Fill Out the Protocol Summary Form:
+    - Access the digital Clinical Trial Protocol Summary Submission Form via the course platform or provided link.
+    - Complete the following fields using the reference document:
+        Study Title: The name of the NeuroRelief trial.
+        Phase: Select the appropriate trial phase (Phase I, II, III, or IV).
+        Objectives: State primary and secondary objectives (1-2 sentences each).
+        Population and Criteria: Describe the inclusion and exclusion criteria, and summarize screening results (e.g., number of patients included/excluded).
+        Intervention/Methods: Detail the treatment and procedures.
+        Endpoints: List primary and secondary endpoints.
+        Full Protocol Summary: Write a 150-200-word explanation of the purpose of inclusion and exclusion criteria and why they are critical for the NeuroRelief trial’s safety.
+        Self-Assessment Checklist: Check all applicable boxes (Includes phase and objectives, Details population and criteria, Covers intervention and endpoints, Aligns with lesson scenario).
+    - Ensure entries are concise, accurate, and aligned with Lesson 13 content.
+Submit the Deliverable:
+    - Submit the completed digital form via the course platform or provided link (e.g., Google Forms, course portal).
+    - Ensure the form is fully completed and submitted by the deadline.",10
+course_3,ch_3_02,les_3_02_04,task_3_02_04_1,Pro Training in Clinical Research,,Clinical Trial Protocol Development,Interventions & Dosing.,Dosing Schedule Documentation,"You are a junior clinical research assistant at TruMed Innovations, working on a clinical trial for OsteoFlex, a new drug to improve joint mobility in patients with osteoarthritis. Your team is developing the trial protocol and needs you to document the intervention and dosing schedule using a provided form, based on trial details, to ensure safe and consistent administration.
+
+Deliverables
+
+A completed Dosing Schedule Form",https://drive.google.com/file/d/1E1pboPHPmgw0Cp4w4Yn-CI9laMAGTAuw/view?usp=sharing,https://tally.so/r/mZx1d0,https://drive.google.com/file/d/1Mb-ZRprJhSLsCT9lS2t4uz4HN_qctHJt/view?usp=sharing,"Review the Reference Document:
+    - Open the attached OsteoFlex Trial Details PDF.
+    - Note the trial details for the intervention, dosing schedule, and participant parameters.
+Fill Out the Dosing Schedule Form:
+    - Access the digital Dosing Schedule Form via the course platform or provided link.
+    - Complete the following fields using the reference document:
+        Study Title: The name of the OsteoFlex trial.
+        Intervention Type: Specify the type of intervention (e.g., drug, device, behavioral).
+        Intervention Details: Describe the intervention (e.g., drug name, form, dose).
+        Dosing Schedule: Detail the dose, frequency, and duration.
+        Participant Parameters: Note key participant characteristics affecting dosing (e.g., age, weight).
+        Comments: Write a 150-200-word explanation of the purpose of dosing schedules and their importance for the OsteoFlex trial’s safety.
+    - Ensure entries are concise, accurate, and aligned with Lesson 14 content.
+Submit the Deliverable:
+    - Submit the completed digital form via the course platform or provided link (e.g., Google Forms, course portal).
+    - Ensure the form is fully completed and submitted by the deadline.",10
+course_3,ch_3_02,les_3_02_05,task_3_02_05_1,Pro Training in Clinical Research,,Clinical Trial Protocol Development,Schedule of Assessments.,Assessment Schedule Creation,"You are a junior clinical research assistant at BioSynth Labs, working on a clinical trial for NeuroRelief, a new drug to reduce migraine frequency in adults. Your team is defining the trial’s study population and needs you to apply inclusion and exclusion criteria to screen mock patient data and summarize the results in a protocol submission form.
+
+Deliverables
+
+A completed Clinical Trial Protocol Summary Submission Form.",https://drive.google.com/file/d/1gzToQAEjnV2jiWgqI2ecTDANs0PpzjNf/view?usp=sharing,https://tally.so/r/w7QaeR,https://drive.google.com/file/d/1rqwVRLaOYBbo_uvlMSknJ6xqKNZ2j99I/view?usp=sharing,"Review the Reference Document:
+    - Open the attached LungEase Trial Details PDF.
+    - Note the trial details for assessment types (Screening, Baseline, Follow-Up, Safety) and their timing.
+Fill Out the Assessment Schedule Form:
+    - Access the digital Assessment Schedule Form via the course platform or provided link.
+    - Complete the following fields using the reference document:
+        Study Title: The name of the LungEase trial.
+        Assessment Type: Specify the type (e.g., Screening, Baseline, Follow-Up, Safety).
+        Timing: Detail when each assessment occurs (e.g., Week 0, Weeks 2–12).
+        Details: Describe what data is collected (e.g., lung function test, adverse events).
+        Comments: Write a 150-200-word explanation of the purpose of a schedule of assessments and its importance for the LungEase trial’s data quality.
+    - Ensure entries are concise, accurate, and aligned with Lesson 15 content.
+Submit the Deliverable:
+    - Submit the completed digital form via the course platform or provided link (e.g., Google Forms, course portal).
+    - Ensure the form is fully completed and submitted by the deadline.",10
+course_3,ch_3_02,les_3_02_06,task_3_02_06_1,Pro Training in Clinical Research,,Clinical Trial Protocol Development,Risk Assessment in Protocols.,Risk Assessment Documentation.,"You are a junior clinical research assistant at NovaCure Therapeutics, working on a clinical trial for SleepWell, a new drug to improve breathing in patients with sleep apnea. Your team is developing the trial protocol and needs you to identify and categorize potential risks using a risk assessment form, based on provided trial data, to ensure participant safety and trial integrity.
+
+Deliverables
+
+A completed Risk Assessment Form.",https://drive.google.com/file/d/1T2ctdSuD8YUGJi8dAYrMlJWcdacz0lty/view?usp=sharing,https://tally.so/r/nPobye,https://drive.google.com/file/d/1ky8ki9x7t11vTWeTlnDyZMmgH3AUf1AX/view?usp=sharing,"Review the Reference Document:
+    - Open the attached SleepWell Trial Risk Data PDF.
+    - Note the trial details and identified risks, including their types (safety, data, protocol) and potential severity.
+Fill Out the Risk Assessment Form:
+    - Access the digital Risk Assessment Form via the course platform or provided link.
+    - Complete the following fields using the reference document:
+        Study Title: The name of the SleepWell trial.
+        Risk Type: Specify the risk type (e.g., Participant Safety, Data, Protocol).
+        Risk Description: Describe the specific risk (e.g., mild drowsiness).
+        Risk Level: Categorize as Low, Moderate, or High.
+        Mitigation Strategy: Propose a way to address the risk (e.g., monitor side effects).
+        Comments: Write a 150-200-word explanation of the purpose of risk assessment and its importance for the SleepWell trial’s safety.
+    - Ensure entries are concise, accurate, and aligned with Lesson 16 content.
+Submit the Deliverable:
+    - Submit the completed digital form via the course platform.",10
+course_3,ch_3_02,les_3_02_07,task_3_02_07_1,Pro Training in Clinical Research,,Clinical Trial Protocol Development,AI-Assisted Protocol Writing.,AI-Assisted Protocol Drafting,"You are a junior clinical research assistant at VitaCore Biotech, working on a clinical trial for GlucoClear, a new drug to manage blood glucose levels in patients with type 2 diabetes. Your team is using an AI tool (e.g., ChatGPT, Grok) to draft and refine the Study Design section of the trial protocol. You'll use AI to create a draft, refine it for accuracy, specificity, and ethical compliance, and submit the final version.
+
+Deliverables
+
+OMEGA WORD doc In 100-150 words, explaining
+   How AI helped make the study document proper (e.g., initial structure, refinements).
+   Why ethical considerations are critical for the GlucoClear trial (e.g., preventing bias, ensuring compliance).
+Use simple language and reference Lesson 17 content or the scenario.",https://drive.google.com/file/d/1u-34jvjcwyJtiCYr6M6QoRgPF3g_L_p2/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1k-zA9hwpy3zK4D4H4CfWGIMpqVtJcPVm/view?usp=sharing,"Review the Reference Document:
+    - Open the attached GlucoClear Trial Basics PDF.
+    - Note the trial details (phase, population, objectives, etc.) to use in your AI prompt.
+Draft with AI:
+    - Craft a prompt for an AI tool (e.g., ""Draft a Study Design section for a Phase II randomized controlled trial testing GlucoClear in 150 adults with type 2 diabetes over 12 weeks, including trial type, randomization, and blinding."").
+    - Use the AI tool to generate the initial draft of the Study Design section.
+Refine the Draft:
+    - Use the AI tool again to refine the draft (e.g., prompt: ""Improve this Study Design draft for clarity, specificity, and ethical compliance: [paste draft]"").
+    - Make further manual edits to ensure it is accurate, specific (e.g., detail randomization), and ethically sound (e.g., avoid bias in population description, align with GCP).
+    - The final section should be concise, professional, and ready for a protocol.
+Write the Reflection:
+    - In 100-150 words, explain:
+        - How AI helped make the study document proper (e.g., initial structure, refinements).
+        - Why ethical considerations are critical for the GlucoClear trial (e.g., preventing bias, ensuring compliance).
+    - Use simple language and reference Lesson 17 content or the scenario.
+Create the Deliverable & submit in OMEGA WORD.",10
+course_3,ch_3_02,les_3_02_08,task_3_02_08_1,Pro Training in Clinical Research,,Clinical Trial Protocol Development,Protocol Amendments.,AI-Assisted Protocol Amendment Pitch,"You’re a junior clinical research assistant at ArtiCure Labs, working on a clinical trial for FlexiJoint, a new drug for arthritis pain relief. After noticing 25% of participants reporting nausea, your team proposes reducing the dose from 20 mg to 15 mg. You’re tasked with using an AI tool (e.g., ChatGPT, Grok, Claude) to draft a compelling protocol amendment pitch to the ethics board, convincing them of the change’s necessity, and refining it for clarity and compliance.
+
+Deliverables
+
+A single omega doc In 100-150 words, explain:
+How AI helped craft a compelling pitch (e.g., structure, phrasing).
+Why ethical considerations are critical for the FlexiJoint amendment (e.g., participant safety, regulatory trust).",https://drive.google.com/file/d/12z4RmMY6vxb1UkWe-hfIQzaOyXFTt0o5/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1PgWmG8maCuXVtoA6NeVJC7MnI-iO-QzK/view?usp=sharing,"Review the Reference Document:
+    - Open the attached FlexiJoint Amendment Context PDF.
+    - Note the trial details, dose change rationale, and ethical considerations for crafting the pitch.
+Draft with AI:
+    - Craft a prompt for an AI tool (e.g., “Draft a 200-300 word protocol amendment pitch to an ethics board for reducing the FlexiJoint dose from 20 mg to 15 mg due to nausea in 25% of participants, emphasizing safety and GCP compliance.”).
+    - Use the AI tool to generate the initial pitch.
+Refine the Pitch:
+    - Use the AI tool again to improve the draft (e.g., prompt: “Refine this amendment pitch for clarity, persuasiveness, and GCP compliance: [paste draft]”).
+    - Make manual edits to ensure:
+        - Persuasiveness (e.g., strong safety rationale, clear justification).
+        - Clarity (e.g., specific participant group, dose details).
+        - Ethical/GCP compliance (e.g., mention IRB/FDA submission, updated consent forms).
+    - Keep the final pitch concise (200-300 words) and professional, like a memo to an IRB.
+Write the Reflection:
+    - In 100-150 words, explain:
+        - How AI helped craft a compelling pitch (e.g., structure, phrasing).
+        - Why ethical considerations are critical for the FlexiJoint amendment (e.g., participant safety, regulatory trust).
+    - Use simple language and reference Lesson 18 content or the scenario.
+Create the Deliverable and submit in OMEGA WORD.",10
+course_3,ch_3_02,les_3_02_09,task_3_02_09_1,Pro Training in Clinical Research,,Clinical Trial Protocol Development,Statistical Considerations in Protocols.,AI-Assisted Statistical Report Creation,"You are a junior clinical research assistant at MediPulse Pharma, working on a clinical trial for CholestAway, a new drug to lower cholesterol in adults with hyperlipidemia. Your team needs a comprehensive statistical report for the trial protocol, including sample size estimation, statistical tests, analysis plans, and visuals like graphs and pie charts to illustrate key concepts. You’ll use an AI tool (e.g., Perplexity, ChatGPT, Grok) to research, calculate, and generate the report, refining it for accuracy and GCP compliance.
+
+Deliverables
+ File Name: Stat_Report_[YourName].pdf
+ The PDF must include:
+    1. Final Statistical Report (400–500 words)
+         Sample size estimation
+         Statistical tests and analysis plan
+         Power analysis graph (power vs. sample size)
+         Pie chart for participant demographics
+         GCP compliance details (e.g., ITT approach, handling missing data)
+   2.Reflection (100–150 words)
+         Explanation of how AI was used for research, calculation, and refinement of the report",https://drive.google.com/file/d/1iXm8yaIwTo7785_gTKSk8HoPbi8VmQmw/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1vuebxKt4GD5y1mh2TNlqR78LajnY2fMx/view?usp=sharing,"Review the Reference Document:
+    - Open the attached CholestAway Trial Basics PDF.
+    - Note the trial details, statistical parameters, and suggested AI prompts for research and generation.
+Research and Generate with AI:
+    - Use Perplexity AI.
+    - Craft a prompt for an AI tool (e.g., “Design a statistical report for a Phase III trial testing CholestAway to detect a 10% LDL reduction, including sample size calculation with 80% power, 5% significance, analysis plan, and generate a graph for power vs sample size and a pie chart for demographics.”).
+    - Use the AI tool to generate the initial report, calculations, and visuals (e.g., request base64 encoded images or code to create graphs).
+Refine the Report:
+    - Use the AI tool again to improve the report (e.g., prompt: “Refine this statistical report for advanced details, accuracy, and GCP compliance, adding a power curve graph and demographics pie chart: [paste draft]”).
+    - Make manual edits to ensure:
+        - Advanced elements (e.g., power analysis graph, hypothesis testing specifics).
+        - Accuracy (e.g., correct sample size, appropriate statistical test).
+        - GCP compliance (e.g., intention-to-treat, handling missing data).
+    - Include at least two visuals (e.g., graph for power vs sample size, pie chart for participant demographics).
+    - Keep the final report organized (400-500 words) and professional.
+Create the Deliverable:
+    - In a text editor, compile:
+        - The final refined statistical report (400-500 words, with embedded visuals).
+        - Your reflection (100-150 words).
+    - Export as a PDF named `Stat_Report_[YourName].pdf`.
+Submit the Deliverable:
+    - Upload the PDF in ΩMEGA WORD",10
+course_3,ch_3_02,les_3_02_10,task_3_02_10_1,Pro Training in Clinical Research,,Clinical Trial Protocol Development,Protocol Review & Approval.,omegamentorship,,,,,,10
 ,,,,Pro Training in Clinical Research,,,,,,,,,,
-course_3,ch_3_03,les_3_03_01,task_3_03_01_1,Pro Training in Clinical Research,,Site Selection & Study Start-Up,Site Selection Criteria.,,,,,,,
-course_3,ch_3_03,les_3_03_02,task_3_03_02_1,Pro Training in Clinical Research,,Site Selection & Study Start-Up,Feasibility Assessments.,,,,,,,
-course_3,ch_3_03,les_3_03_03,task_3_03_03_1,Pro Training in Clinical Research,,Site Selection & Study Start-Up,Investigator Qualification.,,,,,,,
-course_3,ch_3_03,les_3_03_04,task_3_03_04_1,Pro Training in Clinical Research,,Site Selection & Study Start-Up,Site Contracts & Budgeting.,,,,,,,
-course_3,ch_3_03,les_3_03_05,task_3_03_05_1,Pro Training in Clinical Research,,Site Selection & Study Start-Up,Regulatory Submissions for Sites.,,,,,,,
-course_3,ch_3_03,les_3_03_06,task_3_03_06_1,Pro Training in Clinical Research,,Site Selection & Study Start-Up,Study Start-Up Meetings (SSUM).,,,,,,,
-course_3,ch_3_03,les_3_03_07,task_3_03_07_1,Pro Training in Clinical Research,,Site Selection & Study Start-Up,AI in Site Feasibility.,,,,,,,
-course_3,ch_3_03,les_3_03_08,task_3_03_08_1,Pro Training in Clinical Research,,Site Selection & Study Start-Up,Training Site Staff.,,,,,,,
-course_3,ch_3_03,les_3_03_09,task_3_03_09_1,Pro Training in Clinical Research,,Site Selection & Study Start-Up,Site Activation Checklists.,,,,,,,
-course_3,ch_3_03,les_3_03_10,task_3_03_10_1,Pro Training in Clinical Research,,Site Selection & Study Start-Up,Common Start-Up Pitfalls.,,,,,,,
+course_3,ch_3_03,les_3_03_01,task_3_03_01_1,Pro Training in Clinical Research,,Site Selection & Study Start-Up,Site Selection Criteria.,Site Selection Criteria Task,"As a Clinical Research Coordinator at Zenith Clinical Solutions, you are tasked with evaluating three shortlisted sites for a Phase III clinical trial of OncoVax, an immunotherapy for Stage II colorectal cancer. Dr. Emily Chen, your supervisor, requires a data-driven recommendation to select the most suitable site based on standardized criteria.
+
+Deliverables
+
+Scorecard: A Google Docs spreadsheet containing scores, weighted calculations, total scores, rankings, and justifications for each site.
+Recommendation Report: A 250–300-word Google Docs document, professionally formatted and addressed to Dr. Chen.
+OMEGA Submission: Links to the scorecard and report, plus a 50-word reflection, uploaded to OMEGA Word",https://drive.google.com/file/d/1y8PYXeRTp7SUesrklzmY365mcYJoPknq/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/16Er8OiQ_JYPyYvJ4gUj9lV6sRVbizEvs/view?usp=sharing,"Review Reference Document: Consult the attached PDF for the OncoVax trial requirements, detailed site profiles, and scorecard template. Ensure you understand the trial’s specific needs before proceeding.
+Evaluate Sites: For each site, assign a score (1–5, where 1 is poor and 5 is excellent) for each criterion (Patient Pool, Staff Expertise, Facilities & Infrastructure, Past Performance, Location & Accessibility) based on how well it meets the trial requirements. Provide a 1–2 sentence justification for each score, referencing specific data from the site profiles.
+Complete Scorecard: Copy the scorecard template from the reference document into a Google Docs spreadsheet. For each criterion:
+    - Enter the score (1–5).
+    - Calculate the weighted score: Score × (Weight ÷ 100). For example, a Patient Pool score of 4 with a 30% weight yields 4 × 0.30 = 1.2.
+    - Sum the weighted scores for a total (out of 5) per site.
+    - Rank sites from highest to lowest total score.
+Draft Recommendation Report: In a Google Docs document, write a 250–300-word report addressed to Dr. Chen. Include:
+    - A summary of the trial’s key requirements.
+    - A comparison of the sites based on scorecard results.
+    - A recommended site with a clear, data-supported justification.
+    - One strategy to mitigate any identified risks (e.g., addressing past compliance issues).
+Write Reflection: In 50 words, describe how the weighted scorecard facilitated or challenged your decision-making process.
+Submit via OMEGA: Upload links to your scorecard and report, along with the reflection, to the OMEGA Word Portal",
+course_3,ch_3_03,les_3_03_02,task_3_03_02_1,Pro Training in Clinical Research,,Site Selection & Study Start-Up,Feasibility Assessments.,Feasibility Assessments Task,"As a Clinical Research Coordinator at Zenith Clinical Solutions, you are evaluating a site for a Phase II oncology trial for LungVita, a novel therapy for non-small cell lung cancer (NSCLC). Dr. Sarah Patel, your supervisor, has provided data on one potential site and requests a feasibility assessment to determine its suitability. Your task is to assess the site’s readiness using standardized criteria and recommend whether it should proceed to site selection.
+
+Deliverables
+
+Feasibility Questionnaire: A Google Docs table with site responses, Pass/Fail evaluations, and justifications for each criterion.
+Recommendation Report: A 200–250-word Google Docs document, professionally formatted and addressed to Dr. Patel.
+Prophecy Submission: Links to the questionnaire and report, plus a 50-word reflection, uploaded to OMEGA.",https://drive.google.com/file/d/1hsTJaH3YgpKGlx2iMhahOImd6hWwQZnf/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1t9BFh5JpZ6UYKELl3HJ7GIdDKKzv5o4K/view?usp=sharing,"Review Reference Document: Consult the attached PDF for the LungVita trial requirements, site profile, and feasibility questionnaire template. Familiarize yourself with the trial’s specific needs before proceeding.
+Complete Feasibility Questionnaire: Using the site profile in the reference document, fill out the questionnaire in a Google Docs table. For each criterion (Recruitment Potential, Staff & Capacity, Facilities, Regulatory Compliance, Past Experience):
+    - Record the site’s response based on the provided data.
+    - Evaluate each criterion as Pass or Fail by comparing the response to the trial requirements.
+    - Provide a 1–2 sentence justification for each Pass/Fail decision, referencing specific data.
+Determine Site Feasibility: Based on the questionnaire, decide if the site is feasible (all criteria Pass) or not feasible (any criterion Fails). Justify your overall decision in 2–3 sentences, summarizing key strengths or deficiencies.
+Draft Recommendation Report: In a Google Docs document, write a 200–250-word report addressed to Dr. Patel. Include:
+    - A summary of the LungVita trial requirements.
+    - Key findings from the feasibility questionnaire.
+    - Your recommendation (feasible or not feasible) with data-supported justification.
+    - One suggestion to address any identified risks or deficiencies (e.g., additional training for staff).
+Write Reflection: In 50 words, describe how completing the questionnaire with clear criteria helped or challenged your assessment process.
+Submit via Omega  portal: Upload links to your questionnaire table, recommendation report, and reflection to the omega word portal.",
+course_3,ch_3_03,les_3_03_03,task_3_03_03_1,Pro Training in Clinical Research,,Site Selection & Study Start-Up,Investigator Qualification.,Investigator Qualification Task,"As a Clinical Research Coordinator at Zenith Clinical Solutions, you are reviewing the CV of Dr. Maria Lopez for the role of Principal Investigator (PI) in a Phase II cardiovascular trial for CardioVita, a new therapy for hypertension. Dr. Sarah Patel, your supervisor, requires an assessment to confirm Dr. Lopez’s qualifications meet the trial’s needs.
+
+Deliverables
+
+Qualification Table: A Google Docs table with Pass/Fail evaluations and justifications for each criterion.
+Recommendation Report: A 150–200-word Google Docs document, professionally formatted and addressed to Dr. Patel.
+Prophecy Submission: Links to the qualification table and report, uploaded to OMEGA.",https://drive.google.com/file/d/1CXQBClnP02D_c9x6L9bfBjkjE69Hw6r2/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1siQ_YdFXdUZRdsiYrnPOhGGYqAEQZ6wt/view?usp=sharing,"Review Reference Document: Consult the attached PDF for the CardioVita trial requirements, Dr. Lopez’s CV, and PI qualification criteria.
+Evaluate CV: Compare Dr. Lopez’s CV to the trial’s PI qualification criteria (Education, Experience, Licensing & Certification, Availability, Regulatory & Compliance Knowledge). For each criterion:
+    - Assign a Pass or Fail based on whether the CV meets the requirement.
+    - Provide a 1–2 sentence justification, citing specific CV details.
+Complete Qualification Table: In a Google Docs table, record the Pass/Fail evaluation and justification for each criterion. Use the template provided in the reference document.
+Draft Recommendation Report: In a Google Docs document, write a 150–200-word report addressed to Dr. Patel. Include:
+    - A summary of the CardioVita trial’s PI requirements.
+    - Key findings from the CV evaluation.
+    - A recommendation on whether Dr. Lopez is qualified as a PI or better suited as a Sub-Investigator, with justification.
+    - One suggestion to address any identified gaps (e.g., training updates).
+Submit via Prophecy: Upload links to the qualification table and recommendation report to the Prophecy platform.",
+course_3,ch_3_03,les_3_03_04,task_3_03_04_1,Pro Training in Clinical Research,,Site Selection & Study Start-Up,Site Contracts & Budgeting.,Site Contracts & Budgeting Task,"As a Clinical Research Coordinator at Zenith Clinical Solutions, you are preparing a site budget for a Phase II diabetes trial, DiabetaCare, testing a new oral medication. Dr. Sarah Patel, your supervisor, has tasked you with completing a digital budget form for a site expected to enroll 100 patients. The budget will support contract negotiations with the sponsor, ensuring financial clarity and resource availability.
+
+Deliverables
+
+Budget Form: A completed digital form with estimated costs, justifications, student name, and auto-calculated total budget.",https://drive.google.com/file/d/1qjRW3-X0W3r3m8EkkkSj6NSYjPLMZsqJ/view?usp=sharing,https://tally.so/r/nGMOve,https://drive.google.com/file/d/1ZIdh5iFXrrv0DCS1ctuZNgjxE41RwS2x/view?usp=sharing,"Review Reference Document: Consult the attached PDF for the DiabetaCare trial requirements, site responsibilities, and instructions to access the digital budget form.
+Complete Digital Budget Form: Access the digital budget form via the link in the reference document. For each budget category (Staff Salaries, Equipment & Supplies, Participant Costs, Institutional Overheads, Contingency):
+    - Enter a realistic estimated cost in USD based on trial needs and site responsibilities.
+    - Provide a 1–2 sentence justification for each cost, explaining its necessity for the trial.
+    - Enter your name in the student information field.
+    - The form will auto-calculate the total budget.
+Submit via ZANE OMEGA: Save the digital form submission confirmation (link or screenshot) and upload it to the  OMEGA WORD ",
+course_3,ch_3_03,les_3_03_05,task_3_03_05_1,Pro Training in Clinical Research,,Site Selection & Study Start-Up,Regulatory Submissions for Sites.,Regulatory Submissions for Sites Task,"As a Clinical Research Coordinator at Zenith Clinical Solutions, you are preparing a mock Investigational New Drug (IND) submission package for a Phase II diabetes trial, DiabetaCare, testing a new oral medication. Dr. Sarah Patel, your supervisor, has tasked you with using AI to generate summaries for the submission components for a site enrolling 100 patients.
+
+Deliverables
+
+Submission Form: A completed digital form with your name and four ChatGPT-generated summaries for the IND submission components.
+",https://drive.google.com/file/d/1UllMZD81s3NbiWF1M9wLUjxTrueSVOo9/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/12sR5cisRU-yM2bFhPHNIL1VeFYsb6Q5u/view?usp=sharing,"Review Reference Document: Consult the attached PDF for the DiabetaCare trial requirements, IND submission components, and ChatGPT prompt guidelines.
+Use ChatGPT: Access ChatGPT (chatgpt.com). For each IND submission component (Study Protocol, Investigator Qualifications, Preclinical/Clinical Safety Data, Ethics Approvals):
+    - Use the provided prompts in the reference document to generate a concise summary (50–75 words each).
+    - Copy each summary into the digital submission form (link in the reference document).
+    - Ensure summaries align with trial requirements and are suitable for an IND submission.
+Complete Digital Submission Form: Access the digital form via the link in the reference document. Enter:
+    - Your name in the student information field.
+    - The four ChatGPT-generated summaries for the IND components.
+    - The form will auto-save your entries.
+Submit via ZANE OMEGA: Save the digital form submission confirmation (link or screenshot) and upload it to the OMEGA WORD ",
+course_3,ch_3_03,les_3_03_06,task_3_03_06_1,Pro Training in Clinical Research,,Site Selection & Study Start-Up,Study Start-Up Meetings (SSUM).,Study Start-Up Meetings (SSUM) Task,"As a Clinical Research Coordinator at Zenith Clinical Solutions, you are preparing for a Study Start-Up Meeting (SSUM) for a Phase II diabetes trial, DiabetaCare, testing a new oral medication. Dr. Sarah Patel, your supervisor, has tasked you with role-playing as the site coordinator in a virtual SSUM, using ChatGPT to respond to sponsor/CRO prompts and receive feedback for a site enrolling 100 patients.
+
+Deliverables
+
+Submission Form: A completed SSUM form.",https://drive.google.com/file/d/1Qgt1v4zioTR2XorAzTej2HXKoVhSMQeb/view?usp=sharing,https://tally.so/r/nGMOaZ,https://drive.google.com/file/d/1R3ZhOM14oJsgfzC-gOn4hH8TykfAZ5BL/view?usp=sharing,"Review Reference Document: Consult the attached PDF for the DiabetaCare trial requirements, SSUM agenda items, and ChatGPT prompt guidelines.
+Use ChatGPT for SSUM Simulation: Access ChatGPT. Input the provided SSUM simulation prompts from the reference document to role-play as the site coordinator. For each prompt (covering Protocol Review, Recruitment Plans, Site Readiness, Safety & Reporting):
+    - Provide a concise response (50–75 words each) addressing the prompt as if speaking to the sponsor/CRO.
+    - Ask ChatGPT for feedback on your response’s clarity, completeness, and professionalism using the feedback prompt in the reference document.
+    - Copy your response and ChatGPT’s feedback into the digital form (link in the reference document).
+Complete Digital Submission Form: Access the digital form via the link in the reference document. Enter:
+    - Your name in the student information field.
+    - The four responses and corresponding ChatGPT feedback for the SSUM prompts.
+    - The form will auto-save your entries.
+Submit via ZANE OMEGA: Save the digital form submission confirmation (link or screenshot) and upload it to the ZANE OMEGA platform.",
+course_3,ch_3_03,les_3_03_07,task_3_03_07_1,Pro Training in Clinical Research,,Site Selection & Study Start-Up,AI in Site Feasibility.,AI in Site Feasibility Task,"As a Clinical Research Coordinator at Zenith Clinical Solutions, you are evaluating three sites for a Phase II diabetes trial, DiabetaCare, testing a new oral medication. Dr. Sarah Patel, your supervisor, has tasked you with using the free version of ChatGPT to simulate an AI-driven feasibility assessment, ranking the sites based on provided datasets and recommending the top two for selection.
+
+Deliverables
+
+Submission Form: A completed OMEGA WORD DOC with your name, feasibility scores, rationales for each site, and a recommendation for the top two sites.",https://drive.google.com/file/d/1nD6F02HIanhDjpOQv_Du1qsS-Z7vsxJH/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1AFOdhSIe6_T8PLMsKEpRGnvQx3nDdY9f/view?usp=sharing,"Review Reference Document: Consult the attached PDF for the DiabetaCare trial requirements, site datasets, and ChatGPT prompt guidelines.
+Use ChatGPT for Feasibility Simulation: Access ChatGPT. For each site (Site A, Site B, Site C):
+    - Input the provided prompt with the site’s dataset (from the reference document) to generate a feasibility score (0–100) and a brief rationale (50–75 words).
+    - Rank the sites from highest to lowest score.
+    - Copy & paste the scores, rationales, and your top two site recommendations into OMEGA WORD and submit.",
+course_3,ch_3_03,les_3_03_08,task_3_03_08_1,Pro Training in Clinical Research,,Site Selection & Study Start-Up,Training Site Staff.,Training Site Staff Task,"As a Clinical Research Coordinator at Zenith Clinical Solutions, you are preparing a staff training log for a Phase II diabetes trial, DiabetaCare, testing a new oral medication. Dr. Sarah Patel, your supervisor, has tasked you with using the free version of ChatGPT to create a training log for a site enrolling 100 patients, including AI-generated quiz questions to assess staff competency.
+
+Deliverables
+
+Submission Form: A completed digital input in OMEGA WORD with your name and four training log entries, each including staff details, a ChatGPT-generated quiz question, and result.",https://drive.google.com/file/d/1GVdRqFG3kVn39rtPGG_Jo9sW3BMeUF0I/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1R5E9AdYHLQT0WUFWVEtrbJcF7125mtDR/view?usp=sharing,"Review Reference Document: Consult the attached PDF for the DiabetaCare trial requirements, training module details, and ChatGPT prompt guidelines.
+Use ChatGPT for Training Log: Access the free version of ChatGPT (chatgpt.com). For each training module (Protocol Training, GCP Training, Data Collection, Safety Reporting):
+    - Use the provided prompts in the reference document to generate one multiple-choice quiz question (with four answer options and the correct answer) to assess staff competency.
+    - Create a training log entry for a sample staff member, including their name, role, module completion date, and quiz result (e.g., Pass: 100%).
+    - Copy the log entries (staff details and quiz questions) into the digital form (link in the reference document).
+Complete & submit in OMEGA WORD.",
+course_3,ch_3_03,les_3_03_09,task_3_03_09_1,Pro Training in Clinical Research,,Site Selection & Study Start-Up,Site Activation Checklists.,Site Activation Checklists Task,"As a Clinical Research Coordinator at Zenith Clinical Solutions, you are validating a site activation checklist for a Phase II diabetes trial, DiabetaCare, testing a new oral medication. Dr. Sarah Patel, your supervisor, has tasked you with using the free version of ChatGPT to review a mock checklist for a site enrolling 100 patients, identifying any gaps and confirming readiness.
+
+Deliverables
+
+A completed word doc in OMEGA WORD with your name, validation status for each checklist item, rationales for Incomplete items, and overall site readiness status.",https://drive.google.com/file/d/1Ogg4ms7SdSSZDvk-K3J3h9Pg36lCV8pw/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1IMbA9cKumghhvD-XmN-ZzlYfB8UMY2L2/view?usp=sharing,"Review Reference Document: Consult the attached PDF for the DiabetaCare trial requirements, mock checklist, and ChatGPT prompt guidelines.
+Use ChatGPT for Checklist Validation: Access ChatGPT. Input the provided prompt with the mock checklist data from the reference document to:
+    - Validate each checklist item (Regulatory Approvals, Contracts, Staff Training, Facilities & Equipment, Protocol Ready, Essential Documents, System Access) as Complete or Incomplete.
+    - Generate a brief rationale (50–75 words) for any Incomplete items, explaining the gap.
+    - Confirm overall site readiness (Ready or Not Ready).
+    - Copy the validation results, rationales, and readiness status into the digital form (link in the reference document).
+Submit in OMEGA WORD ",
+course_3,ch_3_03,les_3_03_10,task_3_03_10_1,Pro Training in Clinical Research,,Site Selection & Study Start-Up,Common Start-Up Pitfalls.,Common Start-Up Pitfalls Task,"As a Clinical Research Coordinator at Zenith Clinical Solutions, you are troubleshooting a delayed site for a Phase II diabetes trial, DiabetaCare, testing a new oral medication. Dr. Sarah Patel, your supervisor, has tasked you with using a free web-based AI text generator to diagnose start-up pitfalls for a site enrolling 100 patients and propose solutions to ensure readiness.
+
+Deliverables
+
+A completed DOC with your name, up to three start-up pitfalls with AI-generated solutions, and a one-sentence prevention recommendation.",https://drive.google.com/file/d/1087DJIY1svLM0YfOLfVhlaJBUOUjhKRI/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/13AuG8rrnUjae2bfcaQDq7iQPYJi-pJDC/view?usp=sharing,"Review Reference Document: Consult the attached PDF for the DiabetaCare trial requirements, mock delayed site scenario, and AI text generator prompt guidelines.
+Use AI Text Generator for Diagnosis: Access a free web-based AI text generator (e.g., via a search for ""free AI text generator""). Input the provided prompt with the mock delayed site scenario from the reference document to:
+    - Identify up to three start-up pitfalls (e.g., regulatory delays, incomplete training).
+    - Generate a brief solution (50–75 words each) for each pitfall, explaining how to address it.
+    - Paste the pitfalls and solutions into OMEGA WORD.
+ Submit in OMEGA WORD ",
 ,,,,Pro Training in Clinical Research,,,,,,,,,,
-course_3,ch_3_04,les_3_04_01,task_3_04_01_1,Pro Training in Clinical Research,,Patient Recruitment & Informed Consent,Recruitment Strategies Overview.,,,,,,,
-course_3,ch_3_04,les_3_04_02,task_3_04_02_1,Pro Training in Clinical Research,,Patient Recruitment & Informed Consent,Patient Eligibility Screening.,,,,,,,
-course_3,ch_3_04,les_3_04_03,task_3_04_03_1,Pro Training in Clinical Research,,Patient Recruitment & Informed Consent,Informed Consent Process.,,,,,,,
-course_3,ch_3_04,les_3_04_04,task_3_04_04_1,Pro Training in Clinical Research,,Patient Recruitment & Informed Consent,Diversity & Inclusion in Recruitment.,,,,,,,
-course_3,ch_3_04,les_3_04_05,task_3_04_05_1,Pro Training in Clinical Research,,Patient Recruitment & Informed Consent,Retention Techniques.,,,,,,,
-course_3,ch_3_04,les_3_04_06,task_3_04_06_1,Pro Training in Clinical Research,,Patient Recruitment & Informed Consent,AI-Powered Patient Matching.,,,,,,,
-course_3,ch_3_04,les_3_04_07,task_3_04_07_1,Pro Training in Clinical Research,,Patient Recruitment & Informed Consent,Consent Documentation.,,,,,,,
-course_3,ch_3_04,les_3_04_08,task_3_04_08_1,Pro Training in Clinical Research,,Patient Recruitment & Informed Consent,Handling Recruitment Challenges.,,,,,,,
-course_3,ch_3_04,les_3_04_09,task_3_04_09_1,Pro Training in Clinical Research,,Patient Recruitment & Informed Consent,Metrics & Reporting Recruitment.,,,,,,,
-course_3,ch_3_04,les_3_04_10,task_3_04_10_1,Pro Training in Clinical Research,,Patient Recruitment & Informed Consent,Ethical AI in Recruitment.,,,,,,,
+course_3,ch_3_04,les_3_04_01,task_3_04_01_1,Pro Training in Clinical Research,,Patient Recruitment & Informed Consent,Recruitment Strategies Overview.,Designing a Recruitment Strategy for a Phase II Oncology Trial,"You are the clinical trial coordinator for a Phase II clinical trial evaluating a new immunotherapy drug for patients with non-small cell lung cancer (NSCLC) in the United States. The trial requires 150 participants aged 18–75 with stage III or IV NSCLC who have not responded to first-line chemotherapy. The trial is conducted across five sites in urban and suburban areas. Recruitment has been slow, with only 30 participants enrolled after three months, against a target completion within six months. The sponsor has allocated a modest budget for recruitment activities, and you must ensure compliance with FDA regulations and ethical guidelines.
+
+Deliverables
+
+A recruitment strategy plan (1–2 pages) that includes:
+   Target population definition.
+   Proposed recruitment channels (traditional and modern).
+   Budget allocation considerations.
+   Ethical and regulatory considerations.
+A sample recruitment advertisement (e.g., flyer, social media post, or radio script) tailored to the target population.
+A brief monitoring plan to track recruitment progress and adapt strategies if needed.",https://drive.google.com/file/d/1D1B6XksBJO4IcfBvca6SU4oODGKLumg0/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1peVhrc_NI0dK-RbTL9iIuluMEbLSvsKX/view?usp=sharing,"Review Trial Protocol: Analyze the inclusion/exclusion criteria (age 18–75, stage III/IV NSCLC, failed first-line chemotherapy) and sample size (150 participants) to understand recruitment needs.
+Define Target Population: Specify demographics (age, disease stage, geographic location) and patient characteristics (e.g., health literacy, access to care).
+Select Recruitment Channels:
+    - Choose at least two traditional strategies (e.g., physician referrals, community outreach).
+    - Choose at least two modern strategies (e.g., social media ads, clinical trial registries).
+    - Justify selections based on the target population and budget constraints.
+Address Ethical/Regulatory Requirements:
+    - Ensure recruitment materials align with FDA and IRB guidelines (e.g., no coercive language, clear risk/benefit disclosure).
+    - Incorporate privacy protections (e.g., HIPAA compliance).
+    - Promote diversity and equity in recruitment.
+Develop Recruitment Advertisement:
+    - Create a concise, IRB-compliant advertisement for one chosen channel (e.g., a Facebook post or clinic flyer).
+    - Include trial purpose, eligibility criteria, benefits/risks, and contact information.
+Design Monitoring Plan:
+    - Define metrics (e.g., enrollment rate, source of participants).
+    - Outline a process for reviewing progress (e.g., weekly reports) and adjusting strategies if targets are not met.
+Compile Deliverables:
+    - Write the recruitment strategy plan (1–2 pages, structured with headings).
+    - Attach the sample advertisement.
+    - Include the monitoring plan as a subsection or table.",
+course_3,ch_3_04,les_3_04_02,task_3_04_02_1,Pro Training in Clinical Research,,Patient Recruitment & Informed Consent,Patient Eligibility Screening.,Assessing Patient Eligibility for a Phase III Hypertension Trial,"You are a clinical research coordinator at a trial site conducting a Phase III clinical trial evaluating a new antihypertensive drug for patients with uncontrolled hypertension. The trial requires 200 participants aged 30–70 years with a confirmed diagnosis of hypertension (blood pressure ≥140/90 mmHg). The trial is conducted across three urban sites in the United States, with a screening period of four weeks. Your role is to assess three potential participants’ medical records to determine their eligibility based on the trial’s inclusion and exclusion criteria, create an eligibility checklist, and verify which patients qualify for the trial while ensuring compliance with FDA regulations.
+
+Deliverables
+
+An eligibility checklist template designed for the trial, listing all inclusion and exclusion criteria.
+Completed eligibility checklists for three hypothetical participants, indicating whether each is eligible or ineligible based on their medical records.
+A brief narrative (200–300 words) explaining the screening process, ethical considerations, and documentation requirements applied in assessing the three participants.
+4. Submit in OMEGA WORD.
+",https://drive.google.com/file/d/1gltwp1_M6mX2PRSwHnD8xptPi5k65wHD/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1qrqxc7zdPbMHuCoXl3tN9WmeTS638w9Z/view?usp=sharing,"Review Trial Protocol: Examine the inclusion and exclusion criteria provided in the reference document to understand eligibility requirements.
+Create Eligibility Checklist Template:
+    - Design a checklist with sections for inclusion and exclusion criteria based on the trial protocol.
+    - Include fields for participant ID, checkboxes for each criterion, final eligibility decision, and comments.
+Analyze Participant Data: Use the provided hypothetical participant data (Reference 1) to assess eligibility for each of the three participants against the checklist.
+Complete Eligibility Checklists:
+- For each participant, fill out the checklist, marking whether they meet each inclusion and exclusion criterion.
+- Indicate the final eligibility decision (eligible or ineligible) with a brief justification in the comments section.
+Write Narrative:
+- Describe the screening process applied to the three participants (e.g., informed consent, medical history review, tests).
+- Address ethical considerations (e.g., informed consent timing, data confidentiality).
+- Explain documentation requirements (e.g., source documents, audit readiness).
+- Ensure the narrative is concise, professional, and aligned with regulatory standards.
+Compile Deliverables: 
+- Paste everything into OMEGA WORD.
+- Submit the eligibility checklist template.
+- Include completed checklists for all three participants.
+- Attach the narrative as a separate section.",
+course_3,ch_3_04,les_3_04_03,task_3_04_03_1,Pro Training in Clinical Research,,Patient Recruitment & Informed Consent,Informed Consent Process.,Reviewing an Informed Consent Form for a Phase II Diabetes Trial,"You are a clinical research coordinator at a trial site conducting a Phase II clinical trial evaluating a new oral medication for type 2 diabetes. The trial requires 100 participants aged 18–65 years with uncontrolled diabetes (HbA1c ≥7%). As part of the trial setup, you are tasked with reviewing a draft informed consent form (ICF) to ensure it meets regulatory requirements before submission to the Institutional Review Board (IRB).
+
+Deliverables
+
+A list of missing or incomplete elements in the provided draft ICF, based on ICH-GCP requirements.
+A brief explanation (100–150 words) of why the identified elements are critical for ethical and regulatory compliance.
+PASTE ON OMEGA WORD.",https://drive.google.com/file/d/1gA-S1p-kYwH5hkQ6teKt2Qa0sDJCAJrD/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1_cNhNQCi6hX99rA-Du6AraFmnL5hn1rj/view?usp=sharing,"Review ICH-GCP Requirements: Refer to the reference document summarizing ICH-GCP guidelines for essential ICF elements.
+Analyze Draft ICF: Examine the provided draft ICF (Reference 1) and compare it against the ICH-GCP requirements.
+Identify Missing/Incomplete Elements:
+    - List any essential elements (e.g., study purpose, risks, participant rights) that are absent or inadequately addressed in the draft ICF.
+    - Note specific issues (e.g., vague language, missing contact information).
+Write Explanation:
+    - Explain why the identified missing or incomplete elements are critical for ethical and regulatory compliance.
+    - Keep the explanation concise, professional, and focused on participant protection and trial integrity.
+Compile Deliverables:
+    - Submit the list of missing/incomplete elements.
+    - Include the brief explanation as a separate section.",
+course_3,ch_3_04,les_3_04_04,task_3_04_04_1,Pro Training in Clinical Research,,Patient Recruitment & Informed Consent,Diversity & Inclusion in Recruitment.,Enhancing Diversity in Recruitment for a Phase III Asthma Trial,"You are a clinical research coordinator for a Phase III clinical trial evaluating a new inhaler for adults with moderate-to-severe asthma. The trial aims to enroll 150 participants aged 18–70 years across three urban and two rural sites in the United States. The sponsor has noted that previous asthma trials underrepresented ethnic minorities and rural populations, impacting the generalizability of results. Your task is to review the trial’s recruitment plan to identify barriers to diverse recruitment and propose strategies to improve inclusion.
+
+Deliverables
+
+A list of two barriers to recruiting ethnic minorities and rural populations for the trial.
+A brief proposal (100–150 words) recommending two specific strategies to address the identified barriers, ensuring inclusivity and regulatory compliance.",https://drive.google.com/file/d/1bKeYsT9gQHij6hg7WDrWz2qRKDxM6Mrh/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1M4JiwsQOAHffUJuvewmmKLuM-lM4FuFh/view?usp=sharing,"Review Trial Context: Examine the trial details and recruitment challenges outlined in the reference document.
+Identify Barriers:
+    - List two specific barriers to recruiting ethnic minorities and rural populations, based on the reference document’s information.
+    - Ensure barriers are realistic and relevant to the trial scenario.
+Propose Strategies:
+    - Recommend two specific, practical strategies to overcome the identified barriers.
+    - Ensure strategies align with regulatory expectations (e.g., FDA Diversity Action Plan) and promote inclusivity.
+Write Proposal:
+    - Explain how each strategy addresses a barrier and supports diverse recruitment.
+    - Keep the proposal concise, professional, and focused on participant access and equity.
+Compile Deliverables:
+    - Submit the list of two barriers.
+    - Include the brief proposal as a separate section.
+    - Paste them all inside OMEGA WORD.",
+course_3,ch_3_04,les_3_04_05,task_3_04_05_1,Pro Training in Clinical Research,,Patient Recruitment & Informed Consent,Retention Techniques.,Improving Participant Retention in a Phase III Cardiovascular Trial,"You are a clinical research coordinator for a Phase III clinical trial evaluating a new cholesterol-lowering drug for adults with high cardiovascular risk. The trial requires 200 participants aged 40–75 years to attend monthly clinic visits for 12 months across three urban sites in the United States. After three months, the trial team notices a 15% dropout rate, primarily due to participants citing long travel times to clinic visits as a barrier. Your task is to identify this retention challenge and propose a practical solution to improve participant retention.
+
+Deliverables
+
+A brief identification of the retention challenge based on the trial scenario.
+A short proposal (100–150 words) recommending one specific retention strategy to address the challenge, ensuring ethical and regulatory compliance.
+Submit in OMEGA WORD.",https://drive.google.com/file/d/1ila8UblpHI7n496t7uzcIHoue1hoOw45/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1DcWtHa01zki-VyEIAovndcw6N4Oyno-S/view?usp=sharing,"Review Trial Context: Examine the trial details and retention challenge outlined in the reference document.
+Identify Retention Challenge:
+    - Clearly state the primary reason for participant dropouts (e.g., long travel times to clinic visits).
+    - Ensure the challenge is specific and relevant to the trial scenario.
+Propose Retention Strategy:
+    - Recommend one practical, patient-centered strategy to address the identified challenge.
+    - Ensure the strategy aligns with ethical and regulatory principles (e.g., IRB approval, non-coercive).
+Write Proposal:
+    - Explain how the strategy addresses the retention challenge and supports participant engagement.
+    - Keep the proposal concise, professional, and focused on participant retention and trial integrity.
+Compile Deliverables:
+    - Submit the identified retention challenge.
+    - Include the brief proposal as a separate section.",
+course_3,ch_3_04,les_3_04_06,task_3_04_06_1,Pro Training in Clinical Research,,Patient Recruitment & Informed Consent,AI-Powered Patient Matching.,Simulating AI-Powered Patient Matching for a Phase II Oncology Trial,"You are a clinical research coordinator at a trial site in Ireland conducting a Phase II clinical trial evaluating a new targeted therapy for patients with metastatic breast cancer. The trial requires 80 participants aged 18–70 years with HER2-positive breast cancer who have progressed after first-line treatment. Using an AI-powered patient matching tool, you need to review a set of de-identified patient records from electronic health records (EHRs) at Irish hospitals to identify potential matches for the trial.
+
+Deliverables
+
+A list of eligible patients from the provided records, based on the trial criteria.
+A brief explanation (100–150 words) of how AI improves the matching process in this scenario, including ethical considerations.
+Submit in OMEGA WORD.",https://drive.google.com/file/d/105wil-XnHSessRqc9ycxqowK7Aq80DNG/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1c9hdy-ln4cyHOS6cgQwyXx7qjhlu0I8-/view?usp=sharing,"Review Trial Criteria: Examine the inclusion and exclusion criteria provided in the reference document.
+Analyze Patient Data: Use the hypothetical patient data (Reference 1) to compare each patient's profile against the trial criteria, simulating the AI matching workflow (input criteria, data mining, NLP processing, matching algorithm).
+Identify Matches:
+    - List the patient IDs that match the criteria (eligible) and briefly note why others do not.
+Write Explanation:
+    - Describe how AI enhances efficiency, accuracy, and diversity in matching.
+    - Address ethical considerations (e.g., data privacy, bias risks).
+    - Keep the explanation concise, professional, and aligned with regulatory standards.
+Compile Deliverables:
+    - Submit the list of eligible patients.
+    - Include the brief explanation as a separate section.
+    - All into OMEGA WORD.",
+course_3,ch_3_04,les_3_04_07,task_3_04_07_1,Pro Training in Clinical Research,,Patient Recruitment & Informed Consent,Consent Documentation.,Reviewing Consent Documentation for a Phase III Diabetes Trial,"You are a clinical research coordinator at a trial site in the United Kingdom conducting a Phase III clinical trial evaluating a new insulin therapy for patients with type 1 diabetes. The trial requires 120 participants aged 18–65 years. As part of an internal audit preparation, you are tasked with reviewing a sample informed consent form (ICF) and associated documentation to ensure compliance with regulatory standards and best practices.
+
+Deliverables
+
+A list of errors or deficiencies in the provided consent documentation sample.
+A brief explanation (100–150 words) of why correcting these issues is critical for regulatory and ethical compliance.
+Submit in OMEGA WORD.",https://drive.google.com/file/d/1tk6cyTC0JcfnD_bZSGtrQMpHc3OpMVfz/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1tmFLISi5nYe9Fp5HbtSAX_jwKEzpQ8Mu/view?usp=sharing,"Review Regulatory Requirements: Examine the reference document outlining ICH-GCP, EU Clinical Trial Regulation, and best practices for consent documentation.
+Analyze Consent Documentation: Review the sample ICF and associated records (Reference 1) to identify any errors or deficiencies (e.g., missing signatures, incomplete dates).
+List Errors/Deficiencies:
+    - Identify specific issues in the documentation, referencing the regulatory standards and best practices.
+    - Ensure the list is clear and relevant to the trial context.
+Write Explanation:
+    - Explain why the identified issues could compromise ethical or regulatory compliance.
+    - Keep the explanation concise, professional, and focused on participant protection and trial integrity.
+Compile Deliverables:
+    - Submit the list of errors or deficiencies.
+    - Include the brief explanation as a separate section.",
+course_3,ch_3_04,les_3_04_08,task_3_04_08_1,Pro Training in Clinical Research,,Patient Recruitment & Informed Consent,Handling Recruitment Challenges.,Addressing Recruitment Challenges for a Phase II Alzheimer’s Trial,"You are a clinical research coordinator at a trial site in India conducting a Phase II clinical trial evaluating a new drug for early-stage Alzheimer’s disease. The trial aims to enroll 100 participants aged 50–75 years with mild cognitive impairment across three sites in Mumbai, Delhi, and Bangalore. After two months, only 20 participants have been enrolled due to low awareness of clinical trials among potential participants and their families. Your task is to identify this recruitment challenge and propose a practical solution to improve enrollment.
+
+Deliverables
+
+A brief identification of the recruitment challenge based on the trial scenario.
+A short proposal (100–150 words) recommending one specific strategy to address the challenge, ensuring ethical and regulatory compliance. Submit in OMEGA WORD.",https://drive.google.com/file/d/1coTg89CypGLvB-j3p2lTScLpd6KjMgoW/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1WYtXTMfpSjquO1u40tbOTxWiwGQTWP-6/view?usp=sharing,"Review Trial Context: Examine the trial details and recruitment challenge outlined in the reference document.
+Identify Recruitment Challenge:
+    - Clearly state the primary reason for low enrollment (e.g., low awareness of clinical trials).
+    - Ensure the challenge is specific and relevant to the trial scenario in India.
+Propose Strategy:
+    - Recommend one practical, culturally appropriate strategy to address the identified challenge.
+    - Ensure the strategy aligns with ethical and regulatory principles (e.g., DCGI requirements, non-coercive).
+Write Proposal:
+    - Explain how the strategy addresses the recruitment challenge and supports enrollment.
+    - Keep the proposal concise, professional, and focused on participant engagement and trial success.
+Compile Deliverables:
+    - Submit the identified recruitment challenge.
+    - Include the brief proposal as a separate section.",
+course_3,ch_3_04,les_3_04_09,task_3_04_09_1,Pro Training in Clinical Research,,Patient Recruitment & Informed Consent,Metrics & Reporting Recruitment.,Analyzing Recruitment Metrics for a Phase III Cardiovascular Trial,"You are a clinical research coordinator at a trial site in Ireland conducting a Phase III clinical trial evaluating a new anticoagulant drug for patients with atrial fibrillation. The trial aims to enroll 150 participants aged 40–80 years across four sites in Dublin, Cork, Galway, and Limerick. After three months, recruitment is lagging, and you need to review the recruitment metrics to identify a specific issue and propose a solution to improve performance.
+
+Deliverables
+
+A brief identification of one recruitment metric issue based on the trial’s recruitment data.
+A short proposal (100–150 words) recommending one specific strategy to address the identified issue, ensuring alignment with regulatory and ethical standards.
+Submit in OMEGA WORD or upload a pdf into OMEGA.",https://drive.google.com/file/d/13PhzpwN0sDGC8rvpLNWAZvvmN4a6xfxw/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1JW-EqfTpz5q8Jc-fWJBoejaKSOuIbXBv/view?usp=sharing,"Review Trial Data: Examine the recruitment metrics and trial details provided in the reference document.
+Identify Recruitment Metric Issue:
+    - Select one specific issue from the metrics (e.g., high screen failure rate, low enrollment rate).
+    - Ensure the issue is clear, relevant, and supported by the data provided.
+Propose Strategy:
+    - Recommend one practical, evidence-based strategy to address the identified metric issue.
+    - Ensure the strategy complies with ethical and regulatory requirements (e.g., ICH-GCP, EU Clinical Trial Regulation).
+Write Proposal:
+    - Explain how the strategy addresses the metric issue and improves recruitment.
+    - Keep the proposal concise, professional, and focused on trial progress.
+Compile Deliverables:
+    - Submit the identified recruitment metric issue.
+    - Include the brief proposal as a separate section.",
+course_3,ch_3_04,les_3_04_10,task_3_04_10_1,Pro Training in Clinical Research,,Patient Recruitment & Informed Consent,Ethical AI in Recruitment.,Auditing Ethical AI Recruitment for a Phase II Parkinson’s Trial,"You are a clinical research coordinator at a trial site in London, UK, managed by Parexel International, a leading contract research organization (CRO) with offices in Uxbridge, London. The Phase II clinical trial evaluates a new neuroprotective drug for early-stage Parkinson’s disease, aiming to enroll 90 participants aged 40–70 years across three sites: London (King’s College Hospital), Manchester (Salford Royal Hospital), and Birmingham (Queen Elizabeth Hospital). An AI-powered recruitment tool, NeuroMatch AI, is being used to screen electronic health records (EHRs) for eligible patients. Your task is to audit the tool’s deployment plan to identify one ethical risk and propose a specific improvement to ensure ethical compliance.
+
+Deliverables
+
+Identification of one ethical risk in the AI recruitment tool’s deployment based on the provided plan.
+A short proposal (100–150 words) recommending one specific improvement to mitigate the identified risk, ensuring alignment with ethical and regulatory standards.
+Submit in OMEGA WORD or upload a pdf into OMEGA.",https://drive.google.com/file/d/1Gly7pr1XrDHMx7MvRBY1XA7MVyUl9u6k/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1LKoIDZNY5hMTt0OjVkpJSFuEVWGUbtMk/view?usp=sharing,"Review Deployment Plan: Examine the AI recruitment tool’s deployment details and ethical considerations outlined in the reference document.
+Identify Ethical Risk:
+    - Select one specific ethical risk (e.g., bias, transparency) relevant to the trial context and ethical AI principles.
+Propose Improvement:
+    - Recommend one practical, targeted improvement to address the identified risk.
+    - Ensure compliance with regulatory guidelines (e.g., EMA, GDPR, MHRA) and ethical principles like fairness and transparency.
+Write Proposal:
+    - Explain how the improvement mitigates the risk and supports ethical recruitment.
+    - Keep the proposal concise, professional, and focused on participant trust and trial integrity.
+Compile Deliverables:
+    - Submit the identified ethical risk.
+    - Include the brief proposal as a separate section.
+    - Submit in OMEGA WORD or upload a pdf into OMEGA.",
 ,,,,Pro Training in Clinical Research,,,,,,,,,,
-course_3,ch_3_05,les_3_05_01,task_3_05_01_1,Pro Training in Clinical Research,,Data Collection & Case Report Forms (CRFs),CRF Design Principles.,,,,,,,
-course_3,ch_3_05,les_3_05_02,task_3_05_02_1,Pro Training in Clinical Research,,Data Collection & Case Report Forms (CRFs),"Data Collection Methods (EDC, Paper).",,,,,,,
-course_3,ch_3_05,les_3_05_03,task_3_05_03_1,Pro Training in Clinical Research,,Data Collection & Case Report Forms (CRFs),Source Data Verification (SDV).,,,,,,,
-course_3,ch_3_05,les_3_05_04,task_3_05_04_1,Pro Training in Clinical Research,,Data Collection & Case Report Forms (CRFs),Query Management.,,,,,,,
-course_3,ch_3_05,les_3_05_05,task_3_05_05_1,Pro Training in Clinical Research,,Data Collection & Case Report Forms (CRFs),Data Cleaning Basics.,,,,,,,
-course_3,ch_3_05,les_3_05_06,task_3_05_06_1,Pro Training in Clinical Research,,Data Collection & Case Report Forms (CRFs),AI in CRF Automation.,,,,,,,
-course_3,ch_3_05,les_3_05_07,task_3_05_07_1,Pro Training in Clinical Research,,Data Collection & Case Report Forms (CRFs),Handling Missing Data.,,,,,,,
-course_3,ch_3_05,les_3_05_08,task_3_05_08_1,Pro Training in Clinical Research,,Data Collection & Case Report Forms (CRFs),Data Security & Confidentiality.,,,,,,,
-course_3,ch_3_05,les_3_05_09,task_3_05_09_1,Pro Training in Clinical Research,,Data Collection & Case Report Forms (CRFs),CRF Amendments & Versions.,,,,,,,
-course_3,ch_3_05,les_3_05_10,task_3_05_10_1,Pro Training in Clinical Research,,Data Collection & Case Report Forms (CRFs),Intro to EDC Systems.,,,,,,,
+course_3,ch_3_05,les_3_05_01,task_3_05_01_1,Pro Training in Clinical Research,,Data Collection & Case Report Forms (CRFs),CRF Design Principles.,Reviewing CRF Design for a Phase III Hypertension Trial,"You are a clinical research coordinator at a trial site in Dublin, Ireland, managed by ICOM Clinical Solutions, a contract research organization with offices in Sandyford, Dublin. The Phase III clinical trial evaluates a new antihypertensive drug for patients with uncontrolled hypertension, aiming to enroll 120 participants aged 30–70 years across three sites: Dublin (St. James’s Hospital), Cork (Cork University Hospital), and Galway (University Hospital Galway). As part of CRF development, you are tasked with reviewing a draft electronic Case Report Form (eCRF) to identify one design flaw and propose a correction to ensure data accuracy and compliance.
+
+Deliverables
+
+Identification of one design flaw in the draft eCRF based on the provided sample.
+A short proposal (100–150 words) recommending one specific correction to address the flaw, ensuring alignment with CRF design principles and regulatory standards.",https://drive.google.com/file/d/1JWWGFtcZZ3wk9fWWpWSERgkyhoPD1kvd/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1-hZR-A890jOkQWaoutWGvE4KeEXLN72N/view?usp=sharing,"Review CRF Sample: Examine the draft eCRF details and design principles outlined in the reference document.
+Identify Design Flaw:
+    - Select one specific flaw (e.g., unclear field, missing edit check) that impacts data accuracy or usability.
+    - Ensure the flaw is relevant to the trial context and CRF design principles.
+Propose Correction:
+    - Recommend one practical correction to improve the eCRF’s clarity, consistency, or compliance.
+    - Ensure alignment with ICH-GCP, 21 CFR Part 11, and CDISC/CDASH standards.
+Write Proposal:
+    - Explain how the correction addresses the flaw and supports data integrity.
+    - Keep the proposal concise, professional, and focused on trial data quality.
+Compile Deliverables:
+    - Submit the identified design flaw.
+    - Include the brief proposal as a separate section.
+    - Submit in OMEGA WORD or upload a pdf into OMEGA.",
+course_3,ch_3_05,les_3_05_02,task_3_05_02_1,Pro Training in Clinical Research,,Data Collection & Case Report Forms (CRFs),"Data Collection Methods (EDC, Paper).",Selecting Data Collection Method for a Phase II Diabetes Trial,"You are a clinical research coordinator at a trial site in Mumbai, India, managed by Apex Clinical Research Pvt. Ltd., a contract research organization with offices in Bandra, Mumbai. The Phase II clinical trial evaluates a new oral antidiabetic drug for patients with type 2 diabetes, aiming to enroll 80 participants aged 18–65 years across two sites: Mumbai (Jaslok Hospital) and Pune (Ruby Hall Clinic). You are tasked with recommending whether to use a paper-based Case Report Form (CRF) or an Electronic Data Capture (EDC) system for data collection, considering the trial’s needs and site capabilities.
+
+Deliverables
+
+A recommendation of one data collection method (paper CRF or EDC) for the trial.
+A short justification (100–150 words) explaining why the chosen method is suitable, addressing trial requirements and regulatory compliance.",https://drive.google.com/file/d/1vToes-OTT88nwSy2x8uLq0Sc4NS0oGrh/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1X7Ddkw7xVLo-AUG6QMY-mYIL5_wR6pjH/view?usp=sharing,"Review Trial Context: Examine the trial details, site capabilities, and regulatory requirements outlined in the reference document.
+Select Data Collection Method:
+    - Choose either paper CRF or EDC based on the trial’s scope, site infrastructure, and data needs.
+    - Ensure the choice is practical and relevant to the trial context in India.
+Write Justification:
+    - Explain why the selected method is appropriate, considering factors like cost, site capabilities, data accuracy, and regulatory compliance (e.g., ICH-GCP, CDSCO).
+    - Keep the justification concise, professional, and focused on trial efficiency and data quality.
+Compile Deliverables:
+    - The recommended data collection method.
+    - Include the brief justification as a separate section.
+    - Submit in OMEGA WORD or upload a pdf into OMEGA.",
+course_3,ch_3_05,les_3_05_03,task_3_05_03_1,Pro Training in Clinical Research,,Data Collection & Case Report Forms (CRFs),Source Data Verification (SDV).,Performing Source Data Verification for a Phase III Oncology Trial,"You are a clinical research associate (CRA) at a trial site in London, UK, managed by Precision Clinical Research Ltd., a contract research organization with offices in Bloomsbury, London. The Phase III clinical trial evaluates a new chemotherapy drug for patients with metastatic colorectal cancer, aiming to enroll 150 participants aged 18–75 years at King’s College Hospital, London. During a monitoring visit, you are tasked with performing Source Data Verification (SDV) by comparing a sample Electronic Data Capture (EDC) entry with source documents to identify one discrepancy and propose a resolution.
+
+Deliverables
+
+Identification of one discrepancy between the EDC entry and source documents based on the provided sample.
+A short proposal (100–150 words) recommending one specific resolution to address the discrepancy, ensuring alignment with SDV best practices and regulatory standards.",https://drive.google.com/file/d/1o2W90I5oWgKbCaxB8k4N7XyxFH5Ai7mp/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1SENrzlsHlprCW6xAt-xHqXOWOs_UFBdL/view?usp=sharing,"Review Sample Data: Examine the EDC entry and source document details provided in the reference document.
+Identify Discrepancy:
+    - Select one specific discrepancy between the EDC entry and source documents (e.g., mismatched data, missing entry).
+    - Ensure the discrepancy is relevant to the trial context and SDV principles.
+Propose Resolution:
+    - Recommend one practical resolution to correct the discrepancy, such as issuing a query or updating the EDC.
+    - Ensure compliance with ICH-GCP, 21 CFR Part 11, and EU Clinical Trial Regulation standards.
+Write Proposal:
+    - Explain how the resolution addresses the discrepancy and ensures data integrity.
+    - Keep the proposal concise, professional, and focused on trial data quality.
+Compile Deliverables:
+    - Include the brief proposal as a separate section.
+    - Submit in OMEGA WORD or upload a pdf into OMEGA.",
+course_3,ch_3_05,les_3_05_04,task_3_05_04_1,Pro Training in Clinical Research,,Data Collection & Case Report Forms (CRFs),Query Management.,Drafting a Query for a Phase III Asthma Trial,"You are a clinical research associate (CRA) at a trial site in Manchester, UK, managed by Novellum Clinical Research Ltd., a contract research organization with offices in Didsbury, Manchester. The Phase III clinical trial evaluates a new inhaled corticosteroid for patients with moderate-to-severe asthma, aiming to enroll 100 participants aged 18–65 years at Salford Royal Hospital, Manchester. During a data review, you identify a discrepancy in an Electronic Data Capture (EDC) entry compared to source documents. Your task is to draft a query to resolve this discrepancy and ensure data accuracy.
+
+Deliverables
+
+A draft query addressing one specific discrepancy identified in the EDC entry.
+A short explanation (100–150 words) justifying the query’s clarity and urgency, ensuring alignment with query management best practices and regulatory standards.
+Submit in OMEGA WORD or upload a pdf into OMEGA.",https://drive.google.com/file/d/1KXCotZG3bEGBVye3C0p4B59JRoJRj4un/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1Bd7-Gm4k_vgWYS5aq7VQ86ni0xmN5WIy/view?usp=sharing,"Review Data Discrepancy: Examine the EDC entry and source document details provided in the reference document to identify the discrepancy.
+Draft Query:
+    - Write a concise, clear query addressing the specific discrepancy, directed to the site coordinator.
+    - Include the patient ID, visit details, and a precise question to resolve the issue.
+Write Explanation:
+    - Justify why the query is clear, precise, and urgent (if applicable), referencing best practices.
+    - Ensure compliance with ICH-GCP, 21 CFR Part 11, and EU Clinical Trial Regulation standards.
+    - Keep the explanation professional, concise, and focused on data quality.
+Compile Deliverables:
+    - Make the draft query.
+    - Include the brief explanation as a separate section.
+    - Submit in OMEGA WORD or upload a pdf into OMEGA.",
+course_3,ch_3_05,les_3_05_05,task_3_05_05_1,Pro Training in Clinical Research,,Data Collection & Case Report Forms (CRFs),Data Cleaning Basics.,Cleaning a Dataset for a Phase II Rheumatoid Arthritis Trial,"You are a clinical data manager at a trial site in Birmingham, UK, managed by VitaCore Clinical Research Ltd., a contract research organization with offices in Edgbaston, Birmingham. The Phase II clinical trial evaluates a new biologic drug for rheumatoid arthritis, aiming to enroll 60 participants aged 18–70 years at Queen Elizabeth Hospital, Birmingham. During a data cleaning review, you are tasked with examining a sample Electronic Data Capture (EDC) dataset, identifying one error, and correcting it to ensure data accuracy.
+
+Deliverables
+
+A corrected dataset entry for one identified error in the provided EDC sample.
+A short justification (100–150 words) explaining the error, the correction, and its importance for data quality and regulatory compliance.",https://drive.google.com/file/d/10h9lRirMZ1mLfQ6h_jR5I0r1Qs3vV_d9/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1-9BnP850KWF8_gofGjEZZGqfBEHubEsk/view?usp=sharing,"Review Dataset: Examine the EDC dataset and source document details in the reference document to identify one error.
+Correct Error:
+    - Specify the erroneous data point and provide the corrected value in a table format.
+    - Ensure the correction aligns with source data and trial requirements.
+Write Justification:
+    - Explain the identified error, how the correction was determined, and why it’s critical for data quality.
+    - Ensure compliance with ICH-GCP, 21 CFR Part 11, and EU Clinical Trial Regulation standards.
+    - Keep the justification concise, professional, and focused on data integrity.
+Compile Deliverables:
+    - Make the corrected dataset entry as a table.
+    - Include the brief justification as a separate section.
+    - Submit in OMEGA WORD or upload a pdf into OMEGA.",
+course_3,ch_3_05,les_3_05_06,task_3_05_06_1,Pro Training in Clinical Research,,Data Collection & Case Report Forms (CRFs),AI in CRF Automation.,Evaluating AI-Generated CRF for a Phase II Oncology Trial,"You are a clinical data manager at a trial site in Dublin, Ireland, managed by Synergex Clinical Research Ltd., a contract research organization with offices in Ballsbridge, Dublin. The Phase II clinical trial evaluates a new targeted therapy for non-small cell lung cancer (NSCLC), aiming to enroll 80 participants aged 18–70 years at St. Vincent’s University Hospital, Dublin. An AI tool, CRFGenix, is used to auto-generate the trial’s electronic Case Report Form (eCRF) from the protocol. Your task is to review the AI-generated eCRF output, identify one limitation, and propose an enhancement to improve its functionality.
+
+Deliverables
+
+Identification of one limitation in the AI-generated eCRF output based on the provided sample.
+A short proposal (100–150 words) recommending one specific enhancement to address the limitation, ensuring alignment with AI-CRF automation principles and regulatory standards.",https://drive.google.com/file/d/10NjijtVPO66V0FCceA6nMYuF7-S2ZbOu/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1Zngb9_B2IhKkqaIvkmbfFa_rXNsk--FX/view?usp=sharing,"Review AI-Generated eCRF: Examine the eCRF output and trial details in the reference document to identify one limitation.
+Identify Limitation:
+    - Select one specific limitation (e.g., missing field, unclear instruction) that impacts functionality or compliance.
+    - Ensure the limitation is relevant to the trial context and AI-CRF principles.
+Propose Enhancement:
+    - Recommend one practical enhancement to improve the eCRF’s usability, accuracy, or compliance.
+    - Ensure alignment with ICH-GCP, 21 CFR Part 11, and EU Clinical Trial Regulation standards.
+Write Proposal:
+    - Explain how the enhancement addresses the limitation and supports trial data quality.
+    - Keep the proposal concise, professional, and focused on AI-driven efficiency.
+Compile Deliverables:
+    - Make the identified limitation.
+    - Include the brief proposal as a separate section.
+    - Submit in OMEGA WORD or upload a pdf into OMEGA.",
+course_3,ch_3_05,les_3_05_07,task_3_05_07_1,Pro Training in Clinical Research,,Data Collection & Case Report Forms (CRFs),Handling Missing Data.,Handling Missing Data for a Phase III Heart Failure Trial,"You are a clinical data manager at a trial site in Galway, Ireland, managed by Galvita Clinical Research Ltd., a contract research organization with offices in Salthill, Galway. The Phase III clinical trial evaluates a new heart failure drug, aiming to enroll 100 participants aged 40–80 years at University Hospital Galway. During a data review, you identify missing data in a sample Electronic Data Capture (EDC) dataset. Your task is to select an appropriate statistical method to address one instance of missing data and justify its suitability.
+
+Deliverables
+
+A table specifying one missing data point in the dataset and the selected statistical method to address it, including a brief rationale.
+A short justification (100–150 words) explaining why the chosen method is appropriate for the missing data type and aligns with regulatory standards.",https://drive.google.com/file/d/1QdvU84o-fZ4a21ylqTXGcgAXpxqtlt76/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1cRm3i_Zo9kegaDDWRtU5g2ABUMiGGT9w/view?usp=sharing,"Review Dataset: Examine the EDC dataset and source details in the reference document to identify one missing data point and its context.
+Select Statistical Method:
+    - Choose one statistical method (e.g., multiple imputation, LOCF) to address the missing data point.
+    - Provide a brief rationale for the choice in a table, considering the type of missing data (MCAR, MAR, MNAR).
+Write Justification:
+    - Explain why the method suits the missing data type and trial context, ensuring compliance with ICH-GCP, EU Clinical Trial Regulation, and regulatory expectations.
+    - Keep the justification concise, professional, and focused on data integrity.
+Compile Deliverables:
+    - Make the table with the missing data point, method, and rationale.
+    - Include the brief justification as a separate section.
+    - Submit in OMEGA WORD or upload a pdf into OMEGA.",
+course_3,ch_3_05,les_3_05_08,task_3_05_08_1,Pro Training in Clinical Research,,Data Collection & Case Report Forms (CRFs),Data Security & Confidentiality.,Assessing Data Security for a Phase III Cardiovascular Trial,"You are a clinical data manager at a trial site in Galway, Ireland, managed by SecuraVita Clinical Research Ltd., a contract research organization with offices in Newcastle, Galway. The Phase III clinical trial evaluates a new anticoagulant drug for patients with atrial fibrillation, aiming to enroll 120 participants aged 40–80 years at University Hospital Galway. During a compliance review, you are tasked with evaluating the trial’s data security protocol to identify one vulnerability and propose a safeguard to ensure data confidentiality and integrity.
+
+Deliverables
+
+A risk assessment table identifying one data security vulnerability in the trial’s protocol and a proposed safeguard.
+A short justification (100–150 words) explaining why the vulnerability poses a risk and how the safeguard ensures compliance with regulatory standards.
+Submit in OMEGA WORD or upload a pdf into OMEGA.",https://drive.google.com/file/d/1NopzutmGjqwT6mgmd4lKgi0w2kZKAR9U/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1vdHir0hQhH-u_qxHdV203CAIzaNnfCQi/view?usp=sharing,"Review Security Protocol: Examine the data security protocol and trial details in the reference document to identify one vulnerability.
+Document Vulnerability and Safeguard:
+    - Create a table specifying the vulnerability and a proposed safeguard to mitigate it.
+    - Ensure the safeguard is practical and aligns with best practices for data security.
+Write Justification:
+    - Explain the risk posed by the vulnerability and how the safeguard addresses it, referencing ICH-GCP, GDPR, and EU Clinical Trial Regulation standards.
+    - Keep the justification concise, professional, and focused on data protection.
+Compile Deliverables:
+    - Include the brief justification as a separate section.
+    - Submit in OMEGA WORD or upload a pdf into OMEGA.",
+course_3,ch_3_05,les_3_05_09,task_3_05_09_1,Pro Training in Clinical Research,,Data Collection & Case Report Forms (CRFs),CRF Amendments & Versions.,Documenting a CRF Amendment for a Phase II Asthma Trial,"You are a clinical data manager at a trial site in Belfast, UK, managed by Novex Clinical Research Ltd., a contract research organization with offices in Lisburn Road, Belfast. The Phase II clinical trial evaluates a new bronchodilator for patients with moderate asthma, aiming to enroll 70 participants aged 18–65 years at Royal Victoria Hospital, Belfast. Following a protocol amendment, the CRF requires an update to include a new field. Your task is to document this change in a CRF Amendment Log entry.
+
+Deliverables
+
+A CRF Amendment Log entry documenting the CRF change, including version details and rationale, in a table format.
+A short explanation (100–150 words) justifying the log entry’s clarity and its role in ensuring compliance with version control practices.
+Submit in OMEGA WORD or upload a pdf into OMEGA.",https://drive.google.com/file/d/1xluuvxRK4kbTgL0ryJpidr0SIH_rveae/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1zZI7bljV8Wq3jmDFT8_Ws8bmVdwwJNQ4/view?usp=sharing,"Review Amendment Details: Examine the CRF amendment details and trial context in the reference document.
+Document CRF Amendment Log Entry:
+    - Create a table entry specifying the CRF version, change description, date, approver, and rationale.
+    - Ensure the entry is concise, clear, and aligned with version control standards.
+Write Explanation:
+    - Justify the log entry’s clarity and its importance for traceability and regulatory compliance (e.g., ICH-GCP, EU Clinical Trial Regulation).
+    - Keep the explanation professional, concise, and focused on version control.
+Compile Deliverables:
+    - Include the brief explanation as a separate section.
+    - Submit in OMEGA WORD or upload a pdf into OMEGA.",
+course_3,ch_3_05,les_3_05_10,task_3_05_10_1,Pro Training in Clinical Research,,Data Collection & Case Report Forms (CRFs),Intro to EDC Systems.,Creating an EDC User Access Plan for a Phase II Asthma Trial,"You are a clinical data manager at a trial site in Limerick, Ireland, managed by Limerix Clinical Research Ltd., a contract research organization with offices in Castletroy, Limerick. The Phase II clinical trial evaluates a new inhaled corticosteroid for moderate asthma, aiming to enroll 50 participants aged 18–65 years at University Hospital Limerick. As part of the EDC system setup, you are tasked with creating a user access plan to assign roles and permissions for the trial team, ensuring secure and compliant data entry.
+
+Deliverables
+
+An EDC user access plan table specifying roles, permissions, and team members for the trial.
+A short explanation (100–150 words) describing how the access plan ensures secure data management and regulatory compliance.
+Submit in OMEGA WORD or upload a pdf into OMEGA.",https://drive.google.com/file/d/11MyLIiFUlxjZLYd4gywUl7tPNEoEexSQ/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1F9GwlynAfbLuWS-FNcs5YY8vYwAMvHUd/view?usp=sharing,"Review Trial Context: Examine the trial details and EDC requirements in the reference document to understand the team structure and data needs.
+Create User Access Plan:
+    - Design a table listing three team member roles (e.g., investigator, CRA, data manager), their permissions (e.g., data entry, query resolution), and assigned personnel.
+    - Ensure permissions align with trial roles and security needs.
+Write Explanation:
+    - Explain how the access plan ensures secure data management and complies with ICH-GCP, 21 CFR Part 11, and EU Clinical Trial Regulation standards.
+    - Keep the explanation concise, professional, and focused on data security.
+Compile Deliverables:
+    - Make the EDC user access plan table.
+    - Include the brief explanation as a separate section.
+    - Submit in OMEGA WORD or upload a pdf into OMEGA.",
 ,,,,Pro Training in Clinical Research,,,,,,,,,,
-course_3,ch_3_06,les_3_06_01,task_3_06_01_1,Pro Training in Clinical Research,,Monitoring & Site Management,Monitoring Plan Development.,,,,,,,
-course_3,ch_3_06,les_3_06_02,task_3_06_02_1,Pro Training in Clinical Research,,Monitoring & Site Management,On-Site vs. Remote Monitoring.,,,,,,,
-course_3,ch_3_06,les_3_06_03,task_3_06_03_1,Pro Training in Clinical Research,,Monitoring & Site Management,Site Visits & Inspections.,,,,,,,
-course_3,ch_3_06,les_3_06_04,task_3_06_04_1,Pro Training in Clinical Research,,Monitoring & Site Management,Deviation & Non-Compliance Management.,,,,,,,
-course_3,ch_3_06,les_3_06_05,task_3_06_05_1,Pro Training in Clinical Research,,Monitoring & Site Management,Investigator Oversight.,,,,,,,
-course_3,ch_3_06,les_3_06_06,task_3_06_06_1,Pro Training in Clinical Research,,Monitoring & Site Management,AI-Driven Monitoring Alerts.,,,,,,,
-course_3,ch_3_06,les_3_06_07,task_3_06_07_1,Pro Training in Clinical Research,,Monitoring & Site Management,Central vs. Local Monitoring.,,,,,,,
-course_3,ch_3_06,les_3_06_08,task_3_06_08_1,Pro Training in Clinical Research,,Monitoring & Site Management,Escalation Procedures.,,,,,,,
-course_3,ch_3_06,les_3_06_09,task_3_06_09_1,Pro Training in Clinical Research,,Monitoring & Site Management,Monitoring Reports.,,,,,,,
-course_3,ch_3_06,les_3_06_10,task_3_06_10_1,Pro Training in Clinical Research,,Monitoring & Site Management,Close-Out Monitoring.,,,,,,,
+course_3,ch_3_06,les_3_06_01,task_3_06_01_1,Pro Training in Clinical Research,,Monitoring & Site Management,Monitoring Plan Development.,Creating a Monitoring Visit Schedule for a Phase III Diabetes Trial,"You are a clinical research associate (CRA) at a trial site in Dublin, Ireland, managed by Dublinary Clinical Research Ltd., a contract research organization with offices in Temple Bar, Dublin. The Phase III clinical trial evaluates a new insulin therapy for patients with type 1 diabetes, aiming to enroll 100 participants aged 18–65 years at St. James’s Hospital, Dublin. Your task is to create a monitoring visit schedule for the site, specifying the timing and type of visits to ensure data quality and participant safety.
+
+Deliverables
+
+A monitoring visit schedule table for St. James’s Hospital, listing the type, timing, and purpose of three monitoring visits.
+A short explanation (100–150 words) justifying how the schedule supports trial oversight and regulatory compliance.
+Submit in OMEGA WORD or upload a pdf into OMEGA.",https://drive.google.com/file/d/1HnR09TKkcXaI_XBvH4MfgNgHVv03Ymy5/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/19usIkLvmHj9rWm0WebDvtcj_Acf9HxmC/view?usp=sharing,"Review Trial Context: Examine the trial details and monitoring requirements in the reference document to understand the site’s needs.
+Create Monitoring Visit Schedule:
+    - Design a table listing three monitoring visits (e.g., initiation, routine, close-out), including visit type, timing (e.g., specific weeks or milestones), and purpose.
+    - Ensure the schedule aligns with trial needs and risk-based monitoring principles.
+Write Explanation:
+    - Justify how the schedule ensures effective oversight, data quality, and compliance with ICH-GCP, EU Clinical Trial Regulation, and MHRA standards.
+    - Keep the explanation concise, professional, and focused on trial monitoring goals.
+Compile Deliverables:
+    - Make the monitoring visit schedule table.
+    - Include the brief explanation as a separate section.
+    - Submit in OMEGA WORD or upload a pdf into OMEGA.",
+course_3,ch_3_06,les_3_06_02,task_3_06_02_1,Pro Training in Clinical Research,,Monitoring & Site Management,On-Site vs. Remote Monitoring.,Allocating Monitoring Activities for a Phase III Oncology Trial,"You are a clinical research associate (CRA) at a trial site in Manchester, UK, managed by Mancura Clinical Research Ltd., a contract research organization with offices in Chorlton, Manchester. The Phase III clinical trial evaluates a new immunotherapy drug for metastatic melanoma, aiming to enroll 120 participants aged 18–75 years at Salford Royal Hospital, Manchester. Given the trial’s high-risk safety profile due to potential immune-related adverse events (irAEs), you are tasked with recommending how to allocate on-site and remote monitoring activities to ensure effective oversight.
+
+Deliverables
+
+A one-sentence recommendation for allocating on-site and remote monitoring activities for the trial, based on its safety profile.
+A short explanation (100–150 words) justifying how the allocation balances safety oversight with efficiency and complies with regulatory standards.
+Submit in OMEGA WORD or upload a pdf into OMEGA.",https://drive.google.com/file/d/1qlsMC6rmMqiAt1FAA9_-MguEoYnoA1pB/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1WRG4FJjbQtpxGAixXg-ZCsoPHfEQxcet/view?usp=sharing,"Review Trial Context: Examine the trial details and monitoring needs in the reference document, focusing on the high-risk safety profile.
+Draft Recommendation:
+    - Write a single sentence recommending how to allocate on-site and remote monitoring activities, prioritizing safety oversight.
+    - Ensure the recommendation is specific and aligned with risk-based monitoring principles.
+Write Explanation:
+    - Justify how the allocation addresses safety concerns, ensures data quality, and complies with ICH-GCP, EU Clinical Trial Regulation, and MHRA standards.
+    - Keep the explanation concise, professional, and focused on trial monitoring goals.
+Compile Deliverables:
+    - Make the one-sentence recommendation.
+    - Include the brief explanation as a separate section.
+    - Submit in OMEGA WORD or upload a pdf into OMEGA.",
+course_3,ch_3_06,les_3_06_03,task_3_06_03_1,Pro Training in Clinical Research,,Monitoring & Site Management,Site Visits & Inspections.,Preparing a Routine Monitoring Visit Checklist for a Phase III Oncology Trial,"You are a clinical research associate (CRA) at a trial site in Limerick, Ireland, managed by Limerix Clinical Solutions Ltd., a contract research organization with offices in Raheen, Limerick. The Phase III clinical trial evaluates a new chemotherapy drug for patients with advanced breast cancer, aiming to enroll 100 participants aged 18–75 years at University Hospital Limerick. Your task is to prepare a checklist for a routine monitoring visit to ensure compliance and data quality.
+
+Deliverables
+
+A routine monitoring visit checklist table listing three key activities to be performed at the site, including their purpose.
+A short explanation (100–150 words) justifying how the checklist supports effective monitoring and regulatory compliance.
+Submit in OMEGA WORD or upload a pdf into OMEGA.",https://drive.google.com/file/d/12l6flpl-BrtofGALWY8ydcwAkCqK8lMT/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1iGGnwtj6Gzx7NsTpCYDOJovHX0C6Njbh/view?usp=sharing,"Review Trial Context: Examine the trial details and monitoring requirements in the reference document to understand the site’s needs.
+Create Checklist:
+    - Design a table listing three key routine monitoring visit activities (e.g., SDV, consent review) and their purpose.
+    - Ensure activities align with trial needs and focus on critical data/processes.
+Write Explanation:
+    - Justify how the checklist ensures effective oversight, data quality, and compliance with ICH-GCP, EU Clinical Trial Regulation, and MHRA standards.
+    - Keep the explanation concise, professional, and focused on monitoring goals.
+Compile Deliverables:
+    - Make the routine monitoring visit checklist table.
+    - Include the brief explanation as a separate section.
+    - Submit in OMEGA WORD or upload a pdf into OMEGA.",
+course_3,ch_3_06,les_3_06_04,task_3_06_04_1,Pro Training in Clinical Research,,Monitoring & Site Management,Deviation & Non-Compliance Management.,Completing a Deviation Report Form for a Phase III Cardiovascular Trial,"You are a clinical research coordinator at a trial site in Belfast, UK, managed by Belfex Clinical Research Ltd., a contract research organization with offices in Malone, Belfast. The Phase III clinical trial evaluates a new anticoagulant drug for patients with atrial fibrillation, aiming to enroll 120 participants aged 40–80 years at Royal Victoria Hospital, Belfast. During a routine review on 19 September 2025, you identify a protocol deviation. Your task is to complete a Deviation Report Form to document the deviation and propose corrective and preventive actions (CAPA).
+
+Deliverables
+
+A completed Deviation Report Form table documenting the deviation, including impact level, actions, and responsible persons.
+A short explanation (100–150 words) justifying the form’s completeness and its role in ensuring regulatory compliance.
+Submit in OMEGA WORD or upload a pdf into OMEGA.",https://drive.google.com/file/d/1PWop1PveI-q6DnyMUD_uAOQ8rzoYwrhu/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1Qq4GmXyOcn8P3VKLwy0t4EP-IePB-KH_/view?usp=sharing,"Review Deviation Scenario: Examine the deviation details and trial context in the reference document.
+Complete Deviation Report Form:
+    - Fill out a condensed version of the form, including date, name/role, incident description, impact level, immediate action, root cause, CAPA details (corrective and preventive), responsible persons, follow-up dates, and closure status.
+    - Ensure entries are clear, concise, and aligned with deviation management principles.
+Write Explanation:
+    - Justify the form’s completeness and its role in ensuring traceability and compliance with ICH-GCP, EU Clinical Trial Regulation, and MHRA standards.
+    - Keep the explanation professional, concise, and focused on deviation management.
+Compile Deliverables:
+    - Make the Deviation Report Form.
+    - Include the brief explanation as a separate section.
+    - Submit in OMEGA WORD or upload a pdf into OMEGA.",
+course_3,ch_3_06,les_3_06_05,task_3_06_05_1,Pro Training in Clinical Research,,Monitoring & Site Management,Investigator Oversight.,Creating an Investigator Oversight Checklist for a Phase III Diabetes Trial,"You are a clinical research associate (CRA) at a trial site in Edinburgh, UK, managed by EdinVita Clinical Research Ltd., a contract research organization with offices in Leith, Edinburgh. The Phase III clinical trial evaluates a new insulin therapy for patients with type 2 diabetes, aiming to enroll 100 participants aged 18–65 years at Western General Hospital, Edinburgh. Your task is to create a checklist for the Principal Investigator (PI) to ensure effective oversight of the informed consent process, a critical responsibility area.
+
+Deliverables
+
+An investigator oversight checklist table listing three key tasks for the PI to oversee the informed consent process, including their purpose.
+A short explanation (100–150 words) justifying how the checklist supports effective oversight and regulatory compliance.
+Submit in OMEGA WORD or upload a pdf into OMEGA.",https://drive.google.com/file/d/1PxTQMOcvRJyfUHYC0rnUzfowogftmw-F/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1fgZ-q1_wsTAG5bXadPh1d9BFkjyjvblX/view?usp=sharing,"Review Trial Context: Examine the trial details and oversight requirements in the reference document, focusing on the informed consent process.
+Create Oversight Checklist:
+    - Design a table listing three key tasks for the PI to oversee the informed consent process, including the purpose of each task.
+    - Ensure tasks are specific, practical, and aligned with PI responsibilities.
+Write Explanation:
+    - Justify how the checklist ensures robust oversight, participant safety, and compliance with ICH-GCP, EU Clinical Trial Regulation, and MHRA standards.
+    - Keep the explanation concise, professional, and focused on investigator oversight.
+Compile Deliverables:
+    - Make the investigator oversight checklist table.
+    - Include the brief explanation as a separate section.
+    - Submit in OMEGA WORD or upload a pdf into OMEGA.",
+course_3,ch_3_06,les_3_06_06,task_3_06_06_1,Pro Training in Clinical Research,,Monitoring & Site Management,AI-Driven Monitoring Alerts.,Prioritizing an AI-Driven Monitoring Alert for a Phase III Oncology Trial,"You are a clinical research associate (CRA) at a trial site in Dublin, Ireland, managed by DubliCore Clinical Research Ltd., a contract research organization with offices in Temple Bar, Dublin. The Phase III clinical trial evaluates a new immunotherapy drug for metastatic colorectal cancer, aiming to enroll 100 participants aged 18–75 years at St. Vincent’s University Hospital, Dublin. The trial uses an AI-driven monitoring system that generates alerts for potential issues. Your task is to review a set of alerts and prioritize one for immediate action, justifying its urgency.
+
+Deliverables
+
+A prioritized alert statement identifying one AI-driven monitoring alert from the provided scenarios and a one-sentence rationale for its priority.
+A short explanation (100–150 words) justifying why the selected alert is the most urgent and how addressing it ensures trial compliance and participant safety.
+Submit in OMEGA WORD or upload a pdf into OMEGA.",https://drive.google.com/file/d/1M1W-uNIM8TyOk3I2cwINdhHnwVx4RncP/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1vyAIUavNd341RHPtzy3k2BLuYxiyJP53/view?usp=sharing,"Review Alert Scenarios: Examine the AI-driven alert scenarios and trial context in the reference document.
+Prioritize Alert:
+    - Select one alert from the provided scenarios and state it with a one-sentence rationale for why it is the most urgent.
+    - Ensure the choice reflects the alert’s impact on safety, data integrity, or compliance.
+Write Explanation:
+- Justify the alert’s urgency and how addressing it supports trial oversight, referencing ICH-GCP, EU Clinical Trial Regulation, and MHRA standards.
+- Keep the explanation concise, professional, and focused on trial monitoring goals.
+Compile Deliverables:
+- Make the prioritized alert statement with its rationale.
+- Include the brief explanation as a separate section.
+- Submit in OMEGA WORD or upload a pdf into OMEGA.",
+course_3,ch_3_06,les_3_06_07,task_3_06_07_1,Pro Training in Clinical Research,,Monitoring & Site Management,Central vs. Local Monitoring.,Recommending Central and Local Monitoring Activities for a Phase III Oncology Trial,"You are a clinical research associate (CRA) at a trial site in Glasgow, UK, managed by GlasVita Clinical Research Ltd., a contract research organization with offices in Kelvinbridge, Glasgow. The Phase III clinical trial evaluates a new targeted therapy for metastatic lung cancer, aiming to enroll 150 participants aged 18–75 years at Glasgow Royal Infirmary. Given the trial’s high-risk safety profile due to potential severe adverse events (SAEs), you are tasked with recommending one central monitoring activity and one local monitoring activity to ensure effective oversight.
+
+Deliverables
+
+A monitoring recommendation table specifying one central monitoring activity and one local monitoring activity, each with a brief rationale.
+A short explanation (100–150 words) justifying how the recommended activities balance safety oversight and efficiency while ensuring regulatory compliance.
+Submit in OMEGA WORD or upload a pdf into OMEGA.",https://drive.google.com/file/d/1pl5ttpmhKnRZiRwBYk3aUBz3eEoUlNty/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1Z4pv67Hoc_YtvNSmMzsWuRzsOsi4NjKn/view?usp=sharing,"Review Trial Context: Examine the trial details and monitoring needs in the reference document, focusing on the high-risk safety profile.
+Recommend Monitoring Activities:
+    - Create a table recommending one central monitoring activity and one local monitoring activity, each with a one-sentence rationale.
+    - Ensure activities address the trial’s safety concerns and align with risk-based monitoring principles.
+Write Explanation:
+    - Justify how the activities ensure effective oversight, participant safety, and compliance with ICH-GCP, EU Clinical Trial Regulation, and MHRA standards.
+    - Keep the explanation concise, professional, and focused on monitoring goals.
+Compile Deliverables:
+    - Make the monitoring recommendation table.
+    - Include the brief explanation as a separate section.
+    - Submit in OMEGA WORD or upload a pdf into OMEGA.",
+course_3,ch_3_06,les_3_06_08,task_3_06_08_1,Pro Training in Clinical Research,,Monitoring & Site Management,Escalation Procedures.,Drafting an Escalation Notification for a Phase III Cardiovascular Trial,"You are a clinical research associate (CRA) at a trial site in Belfast, UK, managed by BelfiCore Clinical Research Ltd., a contract research organization with offices in Ormeau Road, Belfast. The Phase III clinical trial evaluates a new anticoagulant drug for patients with atrial fibrillation, aiming to enroll 120 participants aged 40–80 years at Royal Victoria Hospital, Belfast. During a routine monitoring visit on 19 September 2025, you identify a critical issue requiring escalation. Your task is to draft a one-sentence escalation notification and specify the escalation level to ensure timely resolution.
+
+Deliverables
+
+An escalation notification statement (one sentence) identifying the issue and specifying the escalation level (Site, Sponsor/CRO, Oversight Committees, Regulatory Authorities).
+A short explanation (100–150 words) justifying the notification’s clarity and urgency, and how it aligns with regulatory requirements.
+Submit in OMEGA WORD or upload a pdf into OMEGA.",https://drive.google.com/file/d/1YfFpapvoyyuZgGtRMerIDsWToq2_sq4x/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1WX39mByOhZd2aoWxb5CLUa4ZzerYVRuS/view?usp=sharing,"Review Issue Scenario: Examine the issue details and trial context in the reference document to understand the escalation need.
+Draft Notification:
+    - Write a one-sentence notification clearly describing the issue and specifying the escalation level.
+    - Ensure the notification is concise and aligned with escalation procedures.
+Write Explanation:
+    - Justify the notification’s clarity, urgency, and chosen escalation level, referencing ICH-GCP, EU Clinical Trial Regulation, and MHRA standards.
+    - Keep the explanation professional, concise, and focused on escalation goals.
+Compile Deliverables:
+    - Make the escalation notification statement with the escalation level.
+    - Include the brief explanation as a separate section.
+    - Submit in OMEGA WORD or upload a pdf into OMEGA.",
+course_3,ch_3_06,les_3_06_09,task_3_06_09_1,Pro Training in Clinical Research,,Monitoring & Site Management,Monitoring Reports.,Drafting a Monitoring Visit Report Summary for a Phase III Cardiovascular Trial,"You are a clinical research associate (CRA) at a trial site in Galway, Ireland, managed by GalviCore Clinical Research Ltd., a contract research organization with offices in Salthill, Galway. The Phase III clinical trial evaluates a new anticoagulant drug for patients with atrial fibrillation, aiming to enroll 120 participants aged 40–80 years at University Hospital Galway. Following a routine monitoring visit on 19 September 2025, you are tasked with drafting a summary section for the Monitoring Visit Report (MVR) to document key findings and actions.
+
+Deliverables
+
+A one-paragraph MVR summary (3–5 sentences) outlining the key findings and actions from the routine monitoring visit.
+A short explanation (100–150 words) justifying the summary’s clarity and its role in ensuring regulatory compliance and trial oversight.
+Submit in OMEGA WORD or upload a pdf into OMEGA.",https://drive.google.com/file/d/1jLqCA7-D4UbTKJTB29nSgWSrkgNl-zxR/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1aHxtwv9JsEGwpXgsx-SJTOtOVe7UFdlx/view?usp=sharing,"Review Visit Details: Examine the monitoring visit findings and trial context in the reference document.
+Draft MVR Summary:
+    - Write a concise paragraph (3–5 sentences) summarizing the key findings (e.g., deviations, consent issues) and actions taken or required.
+    - Ensure the summary is clear, factual, and aligned with MVR components.
+Write Explanation:
+    - Justify the summary’s clarity and its role in documenting oversight, referencing ICH-GCP, EU Clinical Trial Regulation, and MHRA standards.
+    - Keep the explanation professional, concise, and focused on monitoring report objectives.
+Compile Deliverables:
+    - Make the MVR summary paragraph.
+    - Include the brief explanation as a separate section.
+    - Submit in OMEGA WORD or upload a pdf into OMEGA.",
+course_3,ch_3_06,les_3_06_10,task_3_06_10_1,Pro Training in Clinical Research,,Monitoring & Site Management,Close-Out Monitoring.,Resolving a Close-Out Complication in a Phase II Asthma Trial,"You are the Principal Investigator (PI) at a trial site in Dublin, Ireland, managed by DubliVita Clinical Research Ltd., a contract research organization with offices in Sandyford, Dublin. The Phase II clinical trial evaluating a new inhaled corticosteroid for moderate asthma concluded enrollment on 15 September 2025, with 60 participants at St. James’s Hospital, Dublin. During the close-out monitoring visit on 19 September 2025, the CRA identified a complication: a critical query on Patient ID IRE-001's Week 12 FEV1 data is unresolved due to a lost source document (spirometry report), and the site must resolve it before database lock on 30 September 2025 to avoid trial delays. As PI, you must simulate an email to the CRA and sponsor outlining your resolution plan, prioritizing actions to ensure compliance and closure.
+
+Deliverables
+
+A simulated email response (3–5 sentences) to the CRA and sponsor, detailing your prioritized resolution plan for the complication.
+A short explanation (100–150 words) justifying the plan’s creativity in addressing the issue while ensuring regulatory compliance and trial closure.
+Submit in OMEGA WORD or upload a pdf into OMEGA.",https://drive.google.com/file/d/10xtCEvSyAi9tn0zFWNiPqsHayIzbpoEc/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1fZ4jo2RkBVlBnQFyLvCxVGzesvEQA7fF/view?usp=sharing,"Review Complication Details: Examine the close-out complication and trial context in the reference document.
+Draft Simulated Email:
+    - Write a concise email (3–5 sentences) as the PI, addressing the CRA and sponsor, outlining a prioritized resolution plan (e.g., reconstruct data, verify alternatives, document actions).
+    - Make the plan creative, using available resources to resolve the lost document issue.
+Write Explanation:
+    - Justify the plan’s creativity, feasibility, and alignment with ICH-GCP, EU Clinical Trial Regulation, and MHRA standards for close-out.
+    - Keep the explanation professional, concise, and focused on effective resolution.
+Compile Deliverables:
+    - Make the appropriate email response.
+    - Include the brief explanation as a separate section.
+    - Submit in OMEGA WORD or upload a pdf into OMEGA.",
 ,,,,Pro Training in Clinical Research,,,,,,,,,,
 course_3,ch_3_07,les_3_07_01,task_3_07_01_1,Pro Training in Clinical Research,,Adverse Events (AE) & Safety Reporting,AE Definitions & Classification.,,,,,,,
 course_3,ch_3_07,les_3_07_02,task_3_07_02_1,Pro Training in Clinical Research,,Adverse Events (AE) & Safety Reporting,SAE Reporting Timelines.,,,,,,,
@@ -1861,7 +2924,7 @@ course_5,ch_5_02,les_5_02_07,task_5_02_07_1,Pro Training in Medical Affairs,,,,,
 course_5,ch_5_02,les_5_02_08,task_5_02_08_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_02,les_5_02_09,task_5_02_09_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_02,les_5_02_10,task_5_02_10_1,Pro Training in Medical Affairs,,,,,,,,,,
-,,,,Pro Training in Medical Affairs,,,,,,,,,,
+,,,,,,,,,,,,,,
 course_5,ch_5_03,les_5_03_01,task_5_03_01_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_03,les_5_03_02,task_5_03_02_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_03,les_5_03_03,task_5_03_03_1,Pro Training in Medical Affairs,,,,,,,,,,
@@ -1872,7 +2935,7 @@ course_5,ch_5_03,les_5_03_07,task_5_03_07_1,Pro Training in Medical Affairs,,,,,
 course_5,ch_5_03,les_5_03_08,task_5_03_08_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_03,les_5_03_09,task_5_03_09_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_03,les_5_03_10,task_5_03_10_1,Pro Training in Medical Affairs,,,,,,,,,,
-,,,,Pro Training in Medical Affairs,,,,,,,,,,
+,,,,,,,,,,,,,,
 course_5,ch_5_04,les_5_04_01,task_5_04_01_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_04,les_5_04_02,task_5_04_02_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_04,les_5_04_03,task_5_04_03_1,Pro Training in Medical Affairs,,,,,,,,,,
@@ -1883,7 +2946,7 @@ course_5,ch_5_04,les_5_04_07,task_5_04_07_1,Pro Training in Medical Affairs,,,,,
 course_5,ch_5_04,les_5_04_08,task_5_04_08_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_04,les_5_04_09,task_5_04_09_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_04,les_5_04_10,task_5_04_10_1,Pro Training in Medical Affairs,,,,,,,,,,
-,,,,Pro Training in Medical Affairs,,,,,,,,,,
+,,,,,,,,,,,,,,
 course_5,ch_5_05,les_5_05_01,task_5_05_01_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_05,les_5_05_02,task_5_05_02_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_05,les_5_05_03,task_5_05_03_1,Pro Training in Medical Affairs,,,,,,,,,,
@@ -1894,7 +2957,7 @@ course_5,ch_5_05,les_5_05_07,task_5_05_07_1,Pro Training in Medical Affairs,,,,,
 course_5,ch_5_05,les_5_05_08,task_5_05_08_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_05,les_5_05_09,task_5_05_09_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_05,les_5_05_10,task_5_05_10_1,Pro Training in Medical Affairs,,,,,,,,,,
-,,,,Pro Training in Medical Affairs,,,,,,,,,,
+,,,,,,,,,,,,,,
 course_5,ch_5_06,les_5_06_01,task_5_06_01_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_06,les_5_06_02,task_5_06_02_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_06,les_5_06_03,task_5_06_03_1,Pro Training in Medical Affairs,,,,,,,,,,
