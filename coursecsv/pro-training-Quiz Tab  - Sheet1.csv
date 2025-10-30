@@ -2184,306 +2184,381 @@ course_2,ch_2_12,les_2_12_10,topic_2_12_10_01,quiz_2_12_10_2,,,
 course_2,ch_2_12,les_2_12_10,topic_2_12_10_01,quiz_2_12_10_3,,,
 course_2,ch_2_12,les_2_12_10,topic_2_12_10_01,quiz_2_12_10_4,,,
 course_2,ch_2_12,les_2_12_10,topic_2_12_10_01,quiz_2_12_10_5,,,
-course_3,ch_3_01,les_3_01_01,topic_3_01_01_01,quiz_3_01_01_1,,,
-course_3,ch_3_01,les_3_01_01,topic_3_01_01_01,quiz_3_01_01_2,,,
-course_3,ch_3_01,les_3_01_01,topic_3_01_01_01,quiz_3_01_01_3,,,
-course_3,ch_3_01,les_3_01_01,topic_3_01_01_01,quiz_3_01_01_4,,,
-course_3,ch_3_01,les_3_01_01,topic_3_01_01_01,quiz_3_01_01_5,,,
-course_3,ch_3_01,les_3_01_02,topic_3_01_02_01,quiz_3_01_02_1,,,
-course_3,ch_3_01,les_3_01_02,topic_3_01_02_01,quiz_3_01_02_2,,,
-course_3,ch_3_01,les_3_01_02,topic_3_01_02_01,quiz_3_01_02_3,,,
-course_3,ch_3_01,les_3_01_02,topic_3_01_02_01,quiz_3_01_02_4,,,
-course_3,ch_3_01,les_3_01_02,topic_3_01_02_01,quiz_3_01_02_5,,,
-course_3,ch_3_01,les_3_01_03,topic_3_01_03_01,quiz_3_01_03_1,,,
-course_3,ch_3_01,les_3_01_03,topic_3_01_03_01,quiz_3_01_03_2,,,
-course_3,ch_3_01,les_3_01_03,topic_3_01_03_01,quiz_3_01_03_3,,,
-course_3,ch_3_01,les_3_01_03,topic_3_01_03_01,quiz_3_01_03_4,,,
-course_3,ch_3_01,les_3_01_03,topic_3_01_03_01,quiz_3_01_03_5,,,
-course_3,ch_3_01,les_3_01_04,topic_3_01_04_01,quiz_3_01_04_1,,,
-course_3,ch_3_01,les_3_01_04,topic_3_01_04_01,quiz_3_01_04_2,,,
-course_3,ch_3_01,les_3_01_04,topic_3_01_04_01,quiz_3_01_04_3,,,
-course_3,ch_3_01,les_3_01_04,topic_3_01_04_01,quiz_3_01_04_4,,,
-course_3,ch_3_01,les_3_01_04,topic_3_01_04_01,quiz_3_01_04_5,,,
-course_3,ch_3_01,les_3_01_05,topic_3_01_05_01,quiz_3_01_05_1,,,
-course_3,ch_3_01,les_3_01_05,topic_3_01_05_01,quiz_3_01_05_2,,,
-course_3,ch_3_01,les_3_01_05,topic_3_01_05_01,quiz_3_01_05_3,,,
-course_3,ch_3_01,les_3_01_05,topic_3_01_05_01,quiz_3_01_05_4,,,
-course_3,ch_3_01,les_3_01_05,topic_3_01_05_01,quiz_3_01_05_5,,,
-course_3,ch_3_01,les_3_01_06,topic_3_01_06_01,quiz_3_01_06_1,,,
-course_3,ch_3_01,les_3_01_06,topic_3_01_06_01,quiz_3_01_06_2,,,
-course_3,ch_3_01,les_3_01_06,topic_3_01_06_01,quiz_3_01_06_3,,,
-course_3,ch_3_01,les_3_01_06,topic_3_01_06_01,quiz_3_01_06_4,,,
-course_3,ch_3_01,les_3_01_06,topic_3_01_06_01,quiz_3_01_06_5,,,
-course_3,ch_3_01,les_3_01_07,topic_3_01_07_01,quiz_3_01_07_1,,,
-course_3,ch_3_01,les_3_01_07,topic_3_01_07_01,quiz_3_01_07_2,,,
-course_3,ch_3_01,les_3_01_07,topic_3_01_07_01,quiz_3_01_07_3,,,
-course_3,ch_3_01,les_3_01_07,topic_3_01_07_01,quiz_3_01_07_4,,,
-course_3,ch_3_01,les_3_01_07,topic_3_01_07_01,quiz_3_01_07_5,,,
-course_3,ch_3_01,les_3_01_08,topic_3_01_08_01,quiz_3_01_08_1,,,
-course_3,ch_3_01,les_3_01_08,topic_3_01_08_01,quiz_3_01_08_2,,,
-course_3,ch_3_01,les_3_01_08,topic_3_01_08_01,quiz_3_01_08_3,,,
-course_3,ch_3_01,les_3_01_08,topic_3_01_08_01,quiz_3_01_08_4,,,
-course_3,ch_3_01,les_3_01_08,topic_3_01_08_01,quiz_3_01_08_5,,,
-course_3,ch_3_01,les_3_01_09,topic_3_01_09_01,quiz_3_01_09_1,,,
-course_3,ch_3_01,les_3_01_09,topic_3_01_09_01,quiz_3_01_09_2,,,
-course_3,ch_3_01,les_3_01_09,topic_3_01_09_01,quiz_3_01_09_3,,,
-course_3,ch_3_01,les_3_01_09,topic_3_01_09_01,quiz_3_01_09_4,,,
-course_3,ch_3_01,les_3_01_09,topic_3_01_09_01,quiz_3_01_09_5,,,
-course_3,ch_3_01,les_3_01_10,topic_3_01_10_01,quiz_3_01_10_1,,,
-course_3,ch_3_01,les_3_01_10,topic_3_01_10_01,quiz_3_01_10_2,,,
-course_3,ch_3_01,les_3_01_10,topic_3_01_10_01,quiz_3_01_10_3,,,
-course_3,ch_3_01,les_3_01_10,topic_3_01_10_01,quiz_3_01_10_4,,,
-course_3,ch_3_01,les_3_01_10,topic_3_01_10_01,quiz_3_01_10_5,,,
-course_3,ch_3_02,les_3_02_01,topic_3_02_01_01,quiz_3_02_01_1,,,
-course_3,ch_3_02,les_3_02_01,topic_3_02_01_01,quiz_3_02_01_2,,,
-course_3,ch_3_02,les_3_02_01,topic_3_02_01_01,quiz_3_02_01_3,,,
-course_3,ch_3_02,les_3_02_01,topic_3_02_01_01,quiz_3_02_01_4,,,
-course_3,ch_3_02,les_3_02_01,topic_3_02_01_01,quiz_3_02_01_5,,,
-course_3,ch_3_02,les_3_02_02,topic_3_02_02_01,quiz_3_02_02_1,,,
-course_3,ch_3_02,les_3_02_02,topic_3_02_02_01,quiz_3_02_02_2,,,
-course_3,ch_3_02,les_3_02_02,topic_3_02_02_01,quiz_3_02_02_3,,,
-course_3,ch_3_02,les_3_02_02,topic_3_02_02_01,quiz_3_02_02_4,,,
-course_3,ch_3_02,les_3_02_02,topic_3_02_02_01,quiz_3_02_02_5,,,
-course_3,ch_3_02,les_3_02_03,topic_3_02_03_01,quiz_3_02_03_1,,,
-course_3,ch_3_02,les_3_02_03,topic_3_02_03_01,quiz_3_02_03_2,,,
-course_3,ch_3_02,les_3_02_03,topic_3_02_03_01,quiz_3_02_03_3,,,
-course_3,ch_3_02,les_3_02_03,topic_3_02_03_01,quiz_3_02_03_4,,,
-course_3,ch_3_02,les_3_02_03,topic_3_02_03_01,quiz_3_02_03_5,,,
-course_3,ch_3_02,les_3_02_04,topic_3_02_04_01,quiz_3_02_04_1,,,
-course_3,ch_3_02,les_3_02_04,topic_3_02_04_01,quiz_3_02_04_2,,,
-course_3,ch_3_02,les_3_02_04,topic_3_02_04_01,quiz_3_02_04_3,,,
-course_3,ch_3_02,les_3_02_04,topic_3_02_04_01,quiz_3_02_04_4,,,
-course_3,ch_3_02,les_3_02_04,topic_3_02_04_01,quiz_3_02_04_5,,,
-course_3,ch_3_02,les_3_02_05,topic_3_02_05_01,quiz_3_02_05_1,,,
-course_3,ch_3_02,les_3_02_05,topic_3_02_05_01,quiz_3_02_05_2,,,
-course_3,ch_3_02,les_3_02_05,topic_3_02_05_01,quiz_3_02_05_3,,,
-course_3,ch_3_02,les_3_02_05,topic_3_02_05_01,quiz_3_02_05_4,,,
-course_3,ch_3_02,les_3_02_05,topic_3_02_05_01,quiz_3_02_05_5,,,
-course_3,ch_3_02,les_3_02_06,topic_3_02_06_01,quiz_3_02_06_1,,,
-course_3,ch_3_02,les_3_02_06,topic_3_02_06_01,quiz_3_02_06_2,,,
-course_3,ch_3_02,les_3_02_06,topic_3_02_06_01,quiz_3_02_06_3,,,
-course_3,ch_3_02,les_3_02_06,topic_3_02_06_01,quiz_3_02_06_4,,,
-course_3,ch_3_02,les_3_02_06,topic_3_02_06_01,quiz_3_02_06_5,,,
-course_3,ch_3_02,les_3_02_07,topic_3_02_07_01,quiz_3_02_07_1,,,
-course_3,ch_3_02,les_3_02_07,topic_3_02_07_01,quiz_3_02_07_2,,,
-course_3,ch_3_02,les_3_02_07,topic_3_02_07_01,quiz_3_02_07_3,,,
-course_3,ch_3_02,les_3_02_07,topic_3_02_07_01,quiz_3_02_07_4,,,
-course_3,ch_3_02,les_3_02_07,topic_3_02_07_01,quiz_3_02_07_5,,,
-course_3,ch_3_02,les_3_02_08,topic_3_02_08_01,quiz_3_02_08_1,,,
-course_3,ch_3_02,les_3_02_08,topic_3_02_08_01,quiz_3_02_08_2,,,
-course_3,ch_3_02,les_3_02_08,topic_3_02_08_01,quiz_3_02_08_3,,,
-course_3,ch_3_02,les_3_02_08,topic_3_02_08_01,quiz_3_02_08_4,,,
-course_3,ch_3_02,les_3_02_08,topic_3_02_08_01,quiz_3_02_08_5,,,
-course_3,ch_3_02,les_3_02_09,topic_3_02_09_01,quiz_3_02_09_1,,,
-course_3,ch_3_02,les_3_02_09,topic_3_02_09_01,quiz_3_02_09_2,,,
-course_3,ch_3_02,les_3_02_09,topic_3_02_09_01,quiz_3_02_09_3,,,
-course_3,ch_3_02,les_3_02_09,topic_3_02_09_01,quiz_3_02_09_4,,,
-course_3,ch_3_02,les_3_02_09,topic_3_02_09_01,quiz_3_02_09_5,,,
-course_3,ch_3_02,les_3_02_10,topic_3_02_10_01,quiz_3_02_10_1,,,
-course_3,ch_3_02,les_3_02_10,topic_3_02_10_01,quiz_3_02_10_2,,,
-course_3,ch_3_02,les_3_02_10,topic_3_02_10_01,quiz_3_02_10_3,,,
-course_3,ch_3_02,les_3_02_10,topic_3_02_10_01,quiz_3_02_10_4,,,
-course_3,ch_3_02,les_3_02_10,topic_3_02_10_01,quiz_3_02_10_5,,,
-course_3,ch_3_03,les_3_03_01,topic_3_03_01_01,quiz_3_03_01_1,,,
-course_3,ch_3_03,les_3_03_01,topic_3_03_01_01,quiz_3_03_01_2,,,
-course_3,ch_3_03,les_3_03_01,topic_3_03_01_01,quiz_3_03_01_3,,,
-course_3,ch_3_03,les_3_03_01,topic_3_03_01_01,quiz_3_03_01_4,,,
-course_3,ch_3_03,les_3_03_01,topic_3_03_01_01,quiz_3_03_01_5,,,
-course_3,ch_3_03,les_3_03_02,topic_3_03_02_01,quiz_3_03_02_1,,,
-course_3,ch_3_03,les_3_03_02,topic_3_03_02_01,quiz_3_03_02_2,,,
-course_3,ch_3_03,les_3_03_02,topic_3_03_02_01,quiz_3_03_02_3,,,
-course_3,ch_3_03,les_3_03_02,topic_3_03_02_01,quiz_3_03_02_4,,,
-course_3,ch_3_03,les_3_03_02,topic_3_03_02_01,quiz_3_03_02_5,,,
-course_3,ch_3_03,les_3_03_03,topic_3_03_03_01,quiz_3_03_03_1,,,
-course_3,ch_3_03,les_3_03_03,topic_3_03_03_01,quiz_3_03_03_2,,,
-course_3,ch_3_03,les_3_03_03,topic_3_03_03_01,quiz_3_03_03_3,,,
-course_3,ch_3_03,les_3_03_03,topic_3_03_03_01,quiz_3_03_03_4,,,
-course_3,ch_3_03,les_3_03_03,topic_3_03_03_01,quiz_3_03_03_5,,,
-course_3,ch_3_03,les_3_03_04,topic_3_03_04_01,quiz_3_03_04_1,,,
-course_3,ch_3_03,les_3_03_04,topic_3_03_04_01,quiz_3_03_04_2,,,
-course_3,ch_3_03,les_3_03_04,topic_3_03_04_01,quiz_3_03_04_3,,,
-course_3,ch_3_03,les_3_03_04,topic_3_03_04_01,quiz_3_03_04_4,,,
-course_3,ch_3_03,les_3_03_04,topic_3_03_04_01,quiz_3_03_04_5,,,
-course_3,ch_3_03,les_3_03_05,topic_3_03_05_01,quiz_3_03_05_1,,,
-course_3,ch_3_03,les_3_03_05,topic_3_03_05_01,quiz_3_03_05_2,,,
-course_3,ch_3_03,les_3_03_05,topic_3_03_05_01,quiz_3_03_05_3,,,
-course_3,ch_3_03,les_3_03_05,topic_3_03_05_01,quiz_3_03_05_4,,,
-course_3,ch_3_03,les_3_03_05,topic_3_03_05_01,quiz_3_03_05_5,,,
-course_3,ch_3_03,les_3_03_06,topic_3_03_06_01,quiz_3_03_06_1,,,
-course_3,ch_3_03,les_3_03_06,topic_3_03_06_01,quiz_3_03_06_2,,,
-course_3,ch_3_03,les_3_03_06,topic_3_03_06_01,quiz_3_03_06_3,,,
-course_3,ch_3_03,les_3_03_06,topic_3_03_06_01,quiz_3_03_06_4,,,
-course_3,ch_3_03,les_3_03_06,topic_3_03_06_01,quiz_3_03_06_5,,,
-course_3,ch_3_03,les_3_03_07,topic_3_03_07_01,quiz_3_03_07_1,,,
-course_3,ch_3_03,les_3_03_07,topic_3_03_07_01,quiz_3_03_07_2,,,
-course_3,ch_3_03,les_3_03_07,topic_3_03_07_01,quiz_3_03_07_3,,,
-course_3,ch_3_03,les_3_03_07,topic_3_03_07_01,quiz_3_03_07_4,,,
-course_3,ch_3_03,les_3_03_07,topic_3_03_07_01,quiz_3_03_07_5,,,
-course_3,ch_3_03,les_3_03_08,topic_3_03_08_01,quiz_3_03_08_1,,,
-course_3,ch_3_03,les_3_03_08,topic_3_03_08_01,quiz_3_03_08_2,,,
-course_3,ch_3_03,les_3_03_08,topic_3_03_08_01,quiz_3_03_08_3,,,
-course_3,ch_3_03,les_3_03_08,topic_3_03_08_01,quiz_3_03_08_4,,,
-course_3,ch_3_03,les_3_03_08,topic_3_03_08_01,quiz_3_03_08_5,,,
-course_3,ch_3_03,les_3_03_09,topic_3_03_09_01,quiz_3_03_09_1,,,
-course_3,ch_3_03,les_3_03_09,topic_3_03_09_01,quiz_3_03_09_2,,,
-course_3,ch_3_03,les_3_03_09,topic_3_03_09_01,quiz_3_03_09_3,,,
-course_3,ch_3_03,les_3_03_09,topic_3_03_09_01,quiz_3_03_09_4,,,
-course_3,ch_3_03,les_3_03_09,topic_3_03_09_01,quiz_3_03_09_5,,,
-course_3,ch_3_03,les_3_03_10,topic_3_03_10_01,quiz_3_03_10_1,,,
-course_3,ch_3_03,les_3_03_10,topic_3_03_10_01,quiz_3_03_10_2,,,
-course_3,ch_3_03,les_3_03_10,topic_3_03_10_01,quiz_3_03_10_3,,,
-course_3,ch_3_03,les_3_03_10,topic_3_03_10_01,quiz_3_03_10_4,,,
-course_3,ch_3_03,les_3_03_10,topic_3_03_10_01,quiz_3_03_10_5,,,
-course_3,ch_3_04,les_3_04_01,topic_3_04_01_01,quiz_3_04_01_1,,,
-course_3,ch_3_04,les_3_04_01,topic_3_04_01_01,quiz_3_04_01_2,,,
-course_3,ch_3_04,les_3_04_01,topic_3_04_01_01,quiz_3_04_01_3,,,
-course_3,ch_3_04,les_3_04_01,topic_3_04_01_01,quiz_3_04_01_4,,,
-course_3,ch_3_04,les_3_04_01,topic_3_04_01_01,quiz_3_04_01_5,,,
-course_3,ch_3_04,les_3_04_02,topic_3_04_02_01,quiz_3_04_02_1,,,
-course_3,ch_3_04,les_3_04_02,topic_3_04_02_01,quiz_3_04_02_2,,,
-course_3,ch_3_04,les_3_04_02,topic_3_04_02_01,quiz_3_04_02_3,,,
-course_3,ch_3_04,les_3_04_02,topic_3_04_02_01,quiz_3_04_02_4,,,
-course_3,ch_3_04,les_3_04_02,topic_3_04_02_01,quiz_3_04_02_5,,,
-course_3,ch_3_04,les_3_04_03,topic_3_04_03_01,quiz_3_04_03_1,,,
-course_3,ch_3_04,les_3_04_03,topic_3_04_03_01,quiz_3_04_03_2,,,
-course_3,ch_3_04,les_3_04_03,topic_3_04_03_01,quiz_3_04_03_3,,,
-course_3,ch_3_04,les_3_04_03,topic_3_04_03_01,quiz_3_04_03_4,,,
-course_3,ch_3_04,les_3_04_03,topic_3_04_03_01,quiz_3_04_03_5,,,
-course_3,ch_3_04,les_3_04_04,topic_3_04_04_01,quiz_3_04_04_1,,,
-course_3,ch_3_04,les_3_04_04,topic_3_04_04_01,quiz_3_04_04_2,,,
-course_3,ch_3_04,les_3_04_04,topic_3_04_04_01,quiz_3_04_04_3,,,
-course_3,ch_3_04,les_3_04_04,topic_3_04_04_01,quiz_3_04_04_4,,,
-course_3,ch_3_04,les_3_04_04,topic_3_04_04_01,quiz_3_04_04_5,,,
-course_3,ch_3_04,les_3_04_05,topic_3_04_05_01,quiz_3_04_05_1,,,
-course_3,ch_3_04,les_3_04_05,topic_3_04_05_01,quiz_3_04_05_2,,,
-course_3,ch_3_04,les_3_04_05,topic_3_04_05_01,quiz_3_04_05_3,,,
-course_3,ch_3_04,les_3_04_05,topic_3_04_05_01,quiz_3_04_05_4,,,
-course_3,ch_3_04,les_3_04_05,topic_3_04_05_01,quiz_3_04_05_5,,,
-course_3,ch_3_04,les_3_04_06,topic_3_04_06_01,quiz_3_04_06_1,,,
-course_3,ch_3_04,les_3_04_06,topic_3_04_06_01,quiz_3_04_06_2,,,
-course_3,ch_3_04,les_3_04_06,topic_3_04_06_01,quiz_3_04_06_3,,,
-course_3,ch_3_04,les_3_04_06,topic_3_04_06_01,quiz_3_04_06_4,,,
-course_3,ch_3_04,les_3_04_06,topic_3_04_06_01,quiz_3_04_06_5,,,
-course_3,ch_3_04,les_3_04_07,topic_3_04_07_01,quiz_3_04_07_1,,,
-course_3,ch_3_04,les_3_04_07,topic_3_04_07_01,quiz_3_04_07_2,,,
-course_3,ch_3_04,les_3_04_07,topic_3_04_07_01,quiz_3_04_07_3,,,
-course_3,ch_3_04,les_3_04_07,topic_3_04_07_01,quiz_3_04_07_4,,,
-course_3,ch_3_04,les_3_04_07,topic_3_04_07_01,quiz_3_04_07_5,,,
-course_3,ch_3_04,les_3_04_08,topic_3_04_08_01,quiz_3_04_08_1,,,
-course_3,ch_3_04,les_3_04_08,topic_3_04_08_01,quiz_3_04_08_2,,,
-course_3,ch_3_04,les_3_04_08,topic_3_04_08_01,quiz_3_04_08_3,,,
-course_3,ch_3_04,les_3_04_08,topic_3_04_08_01,quiz_3_04_08_4,,,
-course_3,ch_3_04,les_3_04_08,topic_3_04_08_01,quiz_3_04_08_5,,,
-course_3,ch_3_04,les_3_04_09,topic_3_04_09_01,quiz_3_04_09_1,,,
-course_3,ch_3_04,les_3_04_09,topic_3_04_09_01,quiz_3_04_09_2,,,
-course_3,ch_3_04,les_3_04_09,topic_3_04_09_01,quiz_3_04_09_3,,,
-course_3,ch_3_04,les_3_04_09,topic_3_04_09_01,quiz_3_04_09_4,,,
-course_3,ch_3_04,les_3_04_09,topic_3_04_09_01,quiz_3_04_09_5,,,
-course_3,ch_3_04,les_3_04_10,topic_3_04_10_01,quiz_3_04_10_1,,,
-course_3,ch_3_04,les_3_04_10,topic_3_04_10_01,quiz_3_04_10_2,,,
-course_3,ch_3_04,les_3_04_10,topic_3_04_10_01,quiz_3_04_10_3,,,
-course_3,ch_3_04,les_3_04_10,topic_3_04_10_01,quiz_3_04_10_4,,,
-course_3,ch_3_04,les_3_04_10,topic_3_04_10_01,quiz_3_04_10_5,,,
-course_3,ch_3_05,les_3_05_01,topic_3_05_01_01,quiz_3_05_01_1,,,
-course_3,ch_3_05,les_3_05_01,topic_3_05_01_01,quiz_3_05_01_2,,,
-course_3,ch_3_05,les_3_05_01,topic_3_05_01_01,quiz_3_05_01_3,,,
-course_3,ch_3_05,les_3_05_01,topic_3_05_01_01,quiz_3_05_01_4,,,
-course_3,ch_3_05,les_3_05_01,topic_3_05_01_01,quiz_3_05_01_5,,,
-course_3,ch_3_05,les_3_05_02,topic_3_05_02_01,quiz_3_05_02_1,,,
-course_3,ch_3_05,les_3_05_02,topic_3_05_02_01,quiz_3_05_02_2,,,
-course_3,ch_3_05,les_3_05_02,topic_3_05_02_01,quiz_3_05_02_3,,,
-course_3,ch_3_05,les_3_05_02,topic_3_05_02_01,quiz_3_05_02_4,,,
-course_3,ch_3_05,les_3_05_02,topic_3_05_02_01,quiz_3_05_02_5,,,
-course_3,ch_3_05,les_3_05_03,topic_3_05_03_01,quiz_3_05_03_1,,,
-course_3,ch_3_05,les_3_05_03,topic_3_05_03_01,quiz_3_05_03_2,,,
-course_3,ch_3_05,les_3_05_03,topic_3_05_03_01,quiz_3_05_03_3,,,
-course_3,ch_3_05,les_3_05_03,topic_3_05_03_01,quiz_3_05_03_4,,,
-course_3,ch_3_05,les_3_05_03,topic_3_05_03_01,quiz_3_05_03_5,,,
-course_3,ch_3_05,les_3_05_04,topic_3_05_04_01,quiz_3_05_04_1,,,
-course_3,ch_3_05,les_3_05_04,topic_3_05_04_01,quiz_3_05_04_2,,,
-course_3,ch_3_05,les_3_05_04,topic_3_05_04_01,quiz_3_05_04_3,,,
-course_3,ch_3_05,les_3_05_04,topic_3_05_04_01,quiz_3_05_04_4,,,
-course_3,ch_3_05,les_3_05_04,topic_3_05_04_01,quiz_3_05_04_5,,,
-course_3,ch_3_05,les_3_05_05,topic_3_05_05_01,quiz_3_05_05_1,,,
-course_3,ch_3_05,les_3_05_05,topic_3_05_05_01,quiz_3_05_05_2,,,
-course_3,ch_3_05,les_3_05_05,topic_3_05_05_01,quiz_3_05_05_3,,,
-course_3,ch_3_05,les_3_05_05,topic_3_05_05_01,quiz_3_05_05_4,,,
-course_3,ch_3_05,les_3_05_05,topic_3_05_05_01,quiz_3_05_05_5,,,
-course_3,ch_3_05,les_3_05_06,topic_3_05_06_01,quiz_3_05_06_1,,,
-course_3,ch_3_05,les_3_05_06,topic_3_05_06_01,quiz_3_05_06_2,,,
-course_3,ch_3_05,les_3_05_06,topic_3_05_06_01,quiz_3_05_06_3,,,
-course_3,ch_3_05,les_3_05_06,topic_3_05_06_01,quiz_3_05_06_4,,,
-course_3,ch_3_05,les_3_05_06,topic_3_05_06_01,quiz_3_05_06_5,,,
-course_3,ch_3_05,les_3_05_07,topic_3_05_07_01,quiz_3_05_07_1,,,
-course_3,ch_3_05,les_3_05_07,topic_3_05_07_01,quiz_3_05_07_2,,,
-course_3,ch_3_05,les_3_05_07,topic_3_05_07_01,quiz_3_05_07_3,,,
-course_3,ch_3_05,les_3_05_07,topic_3_05_07_01,quiz_3_05_07_4,,,
-course_3,ch_3_05,les_3_05_07,topic_3_05_07_01,quiz_3_05_07_5,,,
-course_3,ch_3_05,les_3_05_08,topic_3_05_08_01,quiz_3_05_08_1,,,
-course_3,ch_3_05,les_3_05_08,topic_3_05_08_01,quiz_3_05_08_2,,,
-course_3,ch_3_05,les_3_05_08,topic_3_05_08_01,quiz_3_05_08_3,,,
-course_3,ch_3_05,les_3_05_08,topic_3_05_08_01,quiz_3_05_08_4,,,
-course_3,ch_3_05,les_3_05_08,topic_3_05_08_01,quiz_3_05_08_5,,,
-course_3,ch_3_05,les_3_05_09,topic_3_05_09_01,quiz_3_05_09_1,,,
-course_3,ch_3_05,les_3_05_09,topic_3_05_09_01,quiz_3_05_09_2,,,
-course_3,ch_3_05,les_3_05_09,topic_3_05_09_01,quiz_3_05_09_3,,,
-course_3,ch_3_05,les_3_05_09,topic_3_05_09_01,quiz_3_05_09_4,,,
-course_3,ch_3_05,les_3_05_09,topic_3_05_09_01,quiz_3_05_09_5,,,
-course_3,ch_3_05,les_3_05_10,topic_3_05_10_01,quiz_3_05_10_1,,,
-course_3,ch_3_05,les_3_05_10,topic_3_05_10_01,quiz_3_05_10_2,,,
-course_3,ch_3_05,les_3_05_10,topic_3_05_10_01,quiz_3_05_10_3,,,
-course_3,ch_3_05,les_3_05_10,topic_3_05_10_01,quiz_3_05_10_4,,,
-course_3,ch_3_05,les_3_05_10,topic_3_05_10_01,quiz_3_05_10_5,,,
-course_3,ch_3_06,les_3_06_01,topic_3_06_01_01,quiz_3_06_01_1,,,
-course_3,ch_3_06,les_3_06_01,topic_3_06_01_01,quiz_3_06_01_2,,,
-course_3,ch_3_06,les_3_06_01,topic_3_06_01_01,quiz_3_06_01_3,,,
-course_3,ch_3_06,les_3_06_01,topic_3_06_01_01,quiz_3_06_01_4,,,
-course_3,ch_3_06,les_3_06_01,topic_3_06_01_01,quiz_3_06_01_5,,,
-course_3,ch_3_06,les_3_06_02,topic_3_06_02_01,quiz_3_06_02_1,,,
-course_3,ch_3_06,les_3_06_02,topic_3_06_02_01,quiz_3_06_02_2,,,
-course_3,ch_3_06,les_3_06_02,topic_3_06_02_01,quiz_3_06_02_3,,,
-course_3,ch_3_06,les_3_06_02,topic_3_06_02_01,quiz_3_06_02_4,,,
-course_3,ch_3_06,les_3_06_02,topic_3_06_02_01,quiz_3_06_02_5,,,
-course_3,ch_3_06,les_3_06_03,topic_3_06_03_01,quiz_3_06_03_1,,,
-course_3,ch_3_06,les_3_06_03,topic_3_06_03_01,quiz_3_06_03_2,,,
-course_3,ch_3_06,les_3_06_03,topic_3_06_03_01,quiz_3_06_03_3,,,
-course_3,ch_3_06,les_3_06_03,topic_3_06_03_01,quiz_3_06_03_4,,,
-course_3,ch_3_06,les_3_06_03,topic_3_06_03_01,quiz_3_06_03_5,,,
-course_3,ch_3_06,les_3_06_04,topic_3_06_04_01,quiz_3_06_04_1,,,
-course_3,ch_3_06,les_3_06_04,topic_3_06_04_01,quiz_3_06_04_2,,,
-course_3,ch_3_06,les_3_06_04,topic_3_06_04_01,quiz_3_06_04_3,,,
-course_3,ch_3_06,les_3_06_04,topic_3_06_04_01,quiz_3_06_04_4,,,
-course_3,ch_3_06,les_3_06_04,topic_3_06_04_01,quiz_3_06_04_5,,,
-course_3,ch_3_06,les_3_06_05,topic_3_06_05_01,quiz_3_06_05_1,,,
-course_3,ch_3_06,les_3_06_05,topic_3_06_05_01,quiz_3_06_05_2,,,
-course_3,ch_3_06,les_3_06_05,topic_3_06_05_01,quiz_3_06_05_3,,,
-course_3,ch_3_06,les_3_06_05,topic_3_06_05_01,quiz_3_06_05_4,,,
-course_3,ch_3_06,les_3_06_05,topic_3_06_05_01,quiz_3_06_05_5,,,
-course_3,ch_3_06,les_3_06_06,topic_3_06_06_01,quiz_3_06_06_1,,,
-course_3,ch_3_06,les_3_06_06,topic_3_06_06_01,quiz_3_06_06_2,,,
-course_3,ch_3_06,les_3_06_06,topic_3_06_06_01,quiz_3_06_06_3,,,
-course_3,ch_3_06,les_3_06_06,topic_3_06_06_01,quiz_3_06_06_4,,,
-course_3,ch_3_06,les_3_06_06,topic_3_06_06_01,quiz_3_06_06_5,,,
-course_3,ch_3_06,les_3_06_07,topic_3_06_07_01,quiz_3_06_07_1,,,
-course_3,ch_3_06,les_3_06_07,topic_3_06_07_01,quiz_3_06_07_2,,,
-course_3,ch_3_06,les_3_06_07,topic_3_06_07_01,quiz_3_06_07_3,,,
-course_3,ch_3_06,les_3_06_07,topic_3_06_07_01,quiz_3_06_07_4,,,
-course_3,ch_3_06,les_3_06_07,topic_3_06_07_01,quiz_3_06_07_5,,,
-course_3,ch_3_06,les_3_06_08,topic_3_06_08_01,quiz_3_06_08_1,,,
-course_3,ch_3_06,les_3_06_08,topic_3_06_08_01,quiz_3_06_08_2,,,
-course_3,ch_3_06,les_3_06_08,topic_3_06_08_01,quiz_3_06_08_3,,,
-course_3,ch_3_06,les_3_06_08,topic_3_06_08_01,quiz_3_06_08_4,,,
-course_3,ch_3_06,les_3_06_08,topic_3_06_08_01,quiz_3_06_08_5,,,
-course_3,ch_3_06,les_3_06_09,topic_3_06_09_01,quiz_3_06_09_1,,,
-course_3,ch_3_06,les_3_06_09,topic_3_06_09_01,quiz_3_06_09_2,,,
-course_3,ch_3_06,les_3_06_09,topic_3_06_09_01,quiz_3_06_09_3,,,
-course_3,ch_3_06,les_3_06_09,topic_3_06_09_01,quiz_3_06_09_4,,,
-course_3,ch_3_06,les_3_06_09,topic_3_06_09_01,quiz_3_06_09_5,,,
-course_3,ch_3_06,les_3_06_10,topic_3_06_10_01,quiz_3_06_10_1,,,
-course_3,ch_3_06,les_3_06_10,topic_3_06_10_01,quiz_3_06_10_2,,,
-course_3,ch_3_06,les_3_06_10,topic_3_06_10_01,quiz_3_06_10_3,,,
-course_3,ch_3_06,les_3_06_10,topic_3_06_10_01,quiz_3_06_10_4,,,
-course_3,ch_3_06,les_3_06_10,topic_3_06_10_01,quiz_3_06_10_5,,,
+course_3,ch_3_01,les_3_01_01,topic_3_01_01_01,quiz_3_01_01_1,What is the primary goal of Phase 1 clinical trials?,A) To confirm the drug's effectiveness in a large group | B) To test the drug's safety in healthy volunteers | C) To monitor long-term effects after market approval | D) To compare the drug to existing treatments,B
+course_3,ch_3_01,les_3_01_01,topic_3_01_01_01,quiz_3_01_01_2,"In Phase 2 trials, which group of participants is typically involved?",A) Thousands of patients globally | B) Healthy volunteers only | C) Patients with the targeted condition | D) Millions of users post-approval,C
+course_3,ch_3_01,les_3_01_01,topic_3_01_01_01,quiz_3_01_01_3,Approximately what percentage of drugs successfully pass Phase 3 trials?,A) 70 percent | B) One-third | C) 25 to 30 percent | D) Nearly all that enter,C
+course_3,ch_3_01,les_3_01_01,topic_3_01_01_01,quiz_3_01_01_4,What occurs during Phase 4 of clinical research?,A) Initial safety testing in small groups | B) Post-marketing surveillance for long-term effects | C) Preclinical lab experiments on cells or animals | D) Regulatory review by agencies like the FDA,B
+course_3,ch_3_01,les_3_01_01,topic_3_01_01_01,quiz_3_01_01_5,"How long does the entire drug development process typically take, including all phases?",A) A few months to a year | B) 10 to 15 years | C) Under five years | D) Several decades for most drugs,B
+course_3,ch_3_01,les_3_01_02,topic_3_01_02_01,quiz_3_01_02_1,Which event directly led to the creation of the 1974 National Research Act in the U.S.?,A) The sulfanilamide disaster of 1937 | B) Exposure of the Tuskegee syphilis study | C) James Lind’s scurvy trial in 1747 | D) Introduction of electronic data systems in the 2000s,B
+course_3,ch_3_01,les_3_01_02,topic_3_01_02_01,quiz_3_01_02_2,What was the primary innovation in James Lind’s 1747 experiment that distinguished it from earlier medical tests?,A) Use of artificial intelligence for data analysis | B) Dividing patients into groups with different treatments | C) Requiring informed consent from participants | D) Monitoring patients remotely using wearable devices,B
+course_3,ch_3_01,les_3_01_02,topic_3_01_02_01,quiz_3_01_02_3,The 1962 Kefauver-Harris Amendments in the U.S. introduced a new requirement for drugs beyond just proving safety. What was it?,A) Large-scale global testing | B) Proof of efficacy | C) Use of placebos in all trials | D) Long-term Phase 4 monitoring,B
+course_3,ch_3_01,les_3_01_02,topic_3_01_02_01,quiz_3_01_02_4,"Which development in the 1990s was driven by patient advocacy groups, particularly those affected by HIV-AIDS?",A) The Declaration of Helsinki | B) Randomized controlled trials (RCTs) | C) Accelerated approval processes | D) Electronic data capture systems,C
+course_3,ch_3_01,les_3_01_02,topic_3_01_02_01,quiz_3_01_02_5,"In modern AI-powered clinical trials, what is a key challenge mentioned regarding the use of artificial intelligence?",A) Inability to analyze genetic data | B) Ensuring data privacy and avoiding algorithmic bias | C) Lack of internet connectivity in rural areas | D) High cost of wearable monitoring devices,B
+course_3,ch_3_01,les_3_01_03,topic_3_01_03_01,quiz_3_01_03_1,Who is primarily responsible for designing the trial protocol and funding the study drug?,A) Clinical Research Coordinator | B) Principal Investigator | C) Sponsor | D) Regulatory Affairs Specialist,C
+course_3,ch_3_01,les_3_01_03,topic_3_01_03_01,quiz_3_01_03_2,Which role acts as the “quality control expert” by visiting trial sites to verify compliance with protocol and regulations?,A) Biostatistician | B) Data Manager | C) Clinical Research Associate (CRA) | D) Pharmacist,C
+course_3,ch_3_01,les_3_01_03,topic_3_01_03_01,quiz_3_01_03_3,"In a clinical trial, who ensures that all blood test results and side effect reports are accurately tracked and cleaned using software?",A) Principal Investigator | B) Medical Monitor | C) Data Manager | D) Clinical Research Coordinator,C
+course_3,ch_3_01,les_3_01_03,topic_3_01_03_01,quiz_3_01_03_4,Which team member uses statistical methods to determine whether a new diabetes drug significantly lowers blood sugar compared to a placebo?,A) Biostatistician | B) Sponsor’s Project Manager | C) Regulatory Affairs Specialist | D) Lab Technician,A
+course_3,ch_3_01,les_3_01_03,topic_3_01_03_01,quiz_3_01_03_5,"Who at the trial site manages patient recruitment, scheduling, and ensures informed consent is properly obtained?",A) Principal Investigator | B) Clinical Research Coordinator (CRC) | C) Clinical Research Associate | D) Pharmacist,B
+course_3,ch_3_01,les_3_01_04,topic_3_01_04_01,quiz_3_01_04_1,Which entity sets the global standard for Good Clinical Practice (GCP)?,A) FDA | B) European Medicines Agency | C) World Health Organization | D) International Council for Harmonisation (ICH),D
+course_3,ch_3_01,les_3_01_04,topic_3_01_04_01,quiz_3_01_04_2,"Before a clinical trial begins, GCP requires that risks are justified by reviewing what type of prior evidence?",A) Preclinical data from lab or animal studies | B) Phase 3 trial results from similar drugs | C) Patient testimonials from earlier treatments | D) Economic cost-benefit analysis,A
+course_3,ch_3_01,les_3_01_04,topic_3_01_04_01,quiz_3_01_04_3,"In GCP, who must approve the detailed trial plan known as the protocol?",A) Principal Investigator | B) Institutional Review Board (IRB) or ethics committee | C) Clinical Research Associate | D) Sponsor’s project manager,B
+course_3,ch_3_01,les_3_01_04,topic_3_01_04_01,quiz_3_01_04_4,What does GCP mandate when a participant reports a headache during a trial?,A) Summarize it in weekly team meetings | B) Record it exactly as reported in source documents | C) Report it only if it persists for 48 hours | D) Anonymize it immediately before recording,B
+course_3,ch_3_01,les_3_01_04,topic_3_01_04_01,quiz_3_01_04_5,Which GCP principle ensures that trial results—positive or negative—are reported accurately and shared with regulators and the public?,A) Transparency | B) Quality control | C) Confidentiality | D) Qualified personnel,A
+course_3,ch_3_01,les_3_01_05,topic_3_01_05_01,quiz_3_01_05_1,"Which historical document, published in 1979, established the three core ethical principles for clinical trials?",A) Declaration of Helsinki | B) Belmont Report | C) Good Clinical Practice (GCP) guidelines | D) Tuskegee Study Final Report,B
+course_3,ch_3_01,les_3_01_05,topic_3_01_05_01,quiz_3_01_05_2,"In a pediatric vaccine trial, when parents give consent but the child is old enough to understand, what additional ethical step is recommended under respect for persons?",A) Require a second physician’s approval | B) Obtain the child’s assent | C) Use only placebo for children | D) Seek the child’s assent,D
+course_3,ch_3_01,les_3_01_05,topic_3_01_05_01,quiz_3_01_05_3,A new cancer drug shows life-extending potential but causes severe fatigue in early tests. Which ethical principle requires researchers to weigh this benefit against the harm before continuing?,A) Beneficence | B) Justice | C) Confidentiality | D) Transparency,A
+course_3,ch_3_01,les_3_01_05,topic_3_01_05_01,quiz_3_01_05_4,"To uphold justice in an expensive HIV drug trial in a low-income community, GCP guidelines suggest researchers should:",A) Exclude participants over 50 | B) Limit recruitment to 100 people | C) Provide post-trial access or other benefits | D) Use only anonymized data from the start,C
+course_3,ch_3_01,les_3_01_05,topic_3_01_05_01,quiz_3_01_05_5,"According to the Belmont Report, when is it ethically acceptable to use a placebo in a trial for a new headache drug?",A) If participants are paid extra | B) If no standard effective treatment exists and participants are informed | C) Only in Phase 1 trials | D) When the drug is already FDA-approved,B
+course_3,ch_3_01,les_3_01_06,topic_3_01_06_01,quiz_3_01_06_1,Which regulatory body is responsible for approving drugs across the 27 member countries of the European Union?,A) European Medicines Agency (EMA) | B) Medicines and Healthcare products Regulatory Agency (MHRA) | C) Pharmaceuticals and Medical Devices Agency (PMDA) | D) National Medical Products Administration (NMPA),A
+course_3,ch_3_01,les_3_01_06,topic_3_01_06_01,quiz_3_01_06_2,"In Japan, why might a blood pressure drug already approved in the U.S. require additional trials before PMDA approval?",A) To reduce manufacturing costs | B) To align with ICH Phase 4 requirements | C) To confirm efficacy in Japanese patients with different genetics or lifestyles | D) To include pediatric participants only,C
+course_3,ch_3_01,les_3_01_06,topic_3_01_06_01,quiz_3_01_06_3,Which agency reviews trial protocols for a new diabetes drug in the United States and monitors post-approval side effects through Phase 4 studies?,A) World Health Organization (WHO) | B) FDA | C) Central Drugs Standard Control Organisation (CDSCO) | D) International Council for Harmonisation (ICH),B
+course_3,ch_3_01,les_3_01_06,topic_3_01_06_01,quiz_3_01_06_4,"In India, the CDSCO ensures that a malaria drug trial across rural and urban areas protects participants’ rights by following guidelines set by:",A) FDA and EMA jointly | B) PMDA and NMPA | C) ICH exclusively | D) WHO,D
+course_3,ch_3_01,les_3_01_06,topic_3_01_06_01,quiz_3_01_06_5,"Although the WHO does not approve drugs, what critical global function does it perform for regulatory bodies worldwide?",A) Funds all Phase 3 trials | B) Conducts final drug manufacturing inspections | C) Sets ethical and scientific standards like the Declaration of Helsinki | D) Replaces national agencies in low-income countries,C
+course_3,ch_3_01,les_3_01_07,topic_3_01_07_01,quiz_3_01_07_1,What is the primary purpose of randomization in a randomized controlled trial (RCT)?,A) To increase trial cost efficiency | B) To allow participants to choose their group | C) To reduce bias by making treatment and control groups similar | D) To eliminate the need for blinding,C
+course_3,ch_3_01,les_3_01_07,topic_3_01_07_01,quiz_3_01_07_2,"In a double-blind RCT for a painkiller, who remains unaware of which participants receive the drug versus placebo until the study ends?",A) Both participants and researchers | B) Only the data analysts | C) Only the sponsor | D) Participants and the ethics board,A
+course_3,ch_3_01,les_3_01_07,topic_3_01_07_01,quiz_3_01_07_3,Which trial design has each participant act as their own control by receiving both the treatment and placebo at different times?,A) Observational cohort study | B) Open-label trial | C) Case-control study | D) Crossover trial,D
+course_3,ch_3_01,les_3_01_07,topic_3_01_07_01,quiz_3_01_07_4,Why are observational studies less able to prove cause and effect compared to RCTs?,"A) They require more funding | B) They lack randomization, so group differences may skew results | C) They are always single-blind | D) They prohibit placebo use entirely",B
+course_3,ch_3_01,les_3_01_07,topic_3_01_07_01,quiz_3_01_07_5,When might researchers choose an open-label trial instead of a double-blind RCT?,"A) When a placebo would be unethical, such as denying care in a life-saving cancer drug study | B) When the drug is already market-approved | C) When only 10 participants are available | D) When real-world cost data is the primary outcome",A
+course_3,ch_3_01,les_3_01_08,topic_3_01_08_01,quiz_3_01_08_1,"Which document serves as the detailed blueprint outlining trial goals, participant criteria, dosing, and data collection methods?",A) Investigator’s brochure | B) Trial protocol | C) Case report form | D) Safety report,B
+course_3,ch_3_01,les_3_01_08,topic_3_01_08_01,quiz_3_01_08_2,"In the eTMF, what happens when a revised dosing schedule is submitted to the PMDA?",A) It is stored only in paper format | B) It is flagged for deletion | C) It is entered as a new C.R.F. | D) The updated protocol is uploaded with regulatory submission records,D
+course_3,ch_3_01,les_3_01_08,topic_3_01_08_01,quiz_3_01_08_3,What role does the eTMF workflow play when an IRB reviews the trial protocol?,"A) It tracks review comments, approvals, and timestamps digitally | B) It automatically generates consent forms | C) It assigns participants to treatment groups | D) It calculates statistical significance",A
+course_3,ch_3_01,les_3_01_08,topic_3_01_08_01,quiz_3_01_08_4,Which document in the eTMF captures a participant’s reported headache and pain score during a painkiller trial?,A) Informed consent form | B) Investigator’s brochure | C) Case report form (C.R.F.) | D) Regulatory submission,C
+course_3,ch_3_01,les_3_01_08,topic_3_01_08_01,quiz_3_01_08_5,Why is the eTMF considered superior to traditional paper files during an FDA audit?,"A) It is searchable, secure, and provides a complete, organized digital record in one place | B) It eliminates the need for informed consent | C) It automatically approves trial changes | D) It stores only safety data",A
+course_3,ch_3_01,les_3_01_09,topic_3_01_09_01,quiz_3_01_09_1,"In a heart drug trial, what early AI function would flag a blood pressure reading of 500 mmHg as an error?",A) Predictive analytics for patient response | B) Adaptive dose adjustment | C) Real-time wearable monitoring | D) Data entry error detection,D
+course_3,ch_3_01,les_3_01_09,topic_3_01_09_01,quiz_3_01_09_2,How does AI improve patient recruitment for a new insulin trial?,A) By scheduling clinic visits automatically | B) By scanning medical records to identify eligible participants | C) By designing the trial protocol | D) By replacing informed consent forms,B
+course_3,ch_3_01,les_3_01_09,topic_3_01_09_01,quiz_3_01_09_3,"In an Alzheimer’s drug trial, AI uses genetic data to predict which patients will respond best. This is an example of:",A) Predictive analytics | B) Natural language processing | C) Case report form entry | D) Regulatory submission automation,A
+course_3,ch_3_01,les_3_01_09,topic_3_01_09_01,quiz_3_01_09_4,"During a painkiller trial, AI analyzes early results and suggests testing a higher dose sooner. This supports which trial type?",A) Observational cohort study | B) Open-label trial | C) Adaptive trial | D) Crossover design,C
+course_3,ch_3_01,les_3_01_09,topic_3_01_09_01,quiz_3_01_09_5,Why must AI systems anonymize patient data using codes like “Patient 123” in a trial?,A) To comply with EMA and GCP privacy regulations | B) To reduce trial costs | C) To speed up data entry | D) To allow public access to raw data,A
+course_3,ch_3_01,les_3_01_10,topic_3_01_10_01,quiz_3_01_10_1,"In a diabetes drug trial, when a researcher corrects a blood sugar value in the eTMF, what must the audit trail capture to remain GCP-compliant?","A) Only the final corrected value | B) The sponsor’s approval signature | C) Original entry, correction, user, timestamp, and reason for change | D) Only the date of correction",C
+course_3,ch_3_01,les_3_01_10,topic_3_01_10_01,quiz_3_01_10_2,What is the primary purpose of an audit trail in clinical trial systems like the eTMF?,"A) To ensure transparency, accountability, and tamper-proof documentation of all actions | B) To automatically generate case report forms | C) To replace informed consent documentation | D) To reduce the number of regulatory submissions",A
+course_3,ch_3_01,les_3_01_10,topic_3_01_10_01,quiz_3_01_10_3,"During an FDA inspection of a flu vaccine trial, how does the audit trail help verify that a side effect like dizziness was reported on time?",A) By showing participant recruitment logs | B) By displaying the protocol version history | C) By linking the safety report to ethics board submission with exact timestamps | D) By tracking only user login times,D
+course_3,ch_3_01,les_3_01_10,topic_3_01_10_01,quiz_3_01_10_4,Which area of audit trail coverage ensures that only authorized personnel view sensitive patient data in a heart drug trial?,A) Document management | B) User access tracking | C) Data export logs | D) Protocol amendment frequency,B
+course_3,ch_3_01,les_3_01_10,topic_3_01_10_01,quiz_3_01_10_5,Why is an audit trail described as “tamper-proof” under GCP?,A) Any attempt to alter it leaves a traceable record of the change | B) It is stored on paper only | C) It auto-deletes after 30 days | D) It requires physical signatures,A
+course_3,ch_3_02,les_3_02_01,topic_3_02_01_01,quiz_3_02_01_1,"In the sample migraine drug trial protocol, which section specifies that participants must be adults aged 18–65 with at least four migraines per month?",A) Study design | B) Inclusion and exclusion criteria | C) Safety monitoring plan | D) Statistical analysis plan,B
+course_3,ch_3_02,les_3_02_01,topic_3_02_01_01,quiz_3_02_01_2,What is the primary endpoint used to measure the main goal of reducing migraine frequency in the sample trial?,A) Weekly blood test results | B) Pain intensity scores on a 0–10 scale | C) Patient-reported side effects | D) Number of migraine-free days over a month,D
+course_3,ch_3_02,les_3_02_01,topic_3_02_01_01,quiz_3_02_01_3,Which protocol section describes the use of electronic case report forms (C.R.F.s) stored in an e.T.M.F. with participant codes like “Participant 123”?,A) Data collection and management | B) Treatment plan | C) Background and rationale | D) Ethical considerations,A
+course_3,ch_3_02,les_3_02_01,topic_3_02_01_01,quiz_3_02_01_4,"In the sample protocol, the double-blind RCT design with 200 participants split evenly between Drug X and placebo is detailed in which section?",A) Objectives and endpoints | B) Title and general information | C) Study design | D) Regulatory compliance,C
+course_3,ch_3_02,les_3_02_01,topic_3_02_01_01,quiz_3_02_01_5,Which protocol section outlines rules to stop the drug if weekly blood tests show liver function problems?,A) Safety monitoring plan | B) Statistical analysis plan | C) Inclusion criteria | D) Investigator contacts,A
+course_3,ch_3_02,les_3_02_02,topic_3_02_02_01,quiz_3_02_02_1,"In the hypotension trial, which objective type investigates whether the drug improves sleep quality?",A) Primary | B) Secondary | C) Clinical | D) Exploratory,D
+course_3,ch_3_02,les_3_02_02,topic_3_02_02_01,quiz_3_02_02_2,What is the primary endpoint used to measure the main goal of reducing blood pressure in the hypotension trial?,A) Average change in systolic blood pressure (mmHg) over 12 weeks | B) Percentage of patients reporting fewer headaches | C) Change in heart rate (beats per minute) | D) Quality-of-life survey score,A
+course_3,ch_3_02,les_3_02_02,topic_3_02_02_01,quiz_3_02_02_3,Which type of endpoint uses cholesterol levels as a stand-in for predicting heart attack risk?,A) Clinical | B) Surrogate | C) Patient-reported | D) Exploratory,B
+course_3,ch_3_02,les_3_02_02,topic_3_02_02_01,quiz_3_02_02_4,"In the sample trial, the secondary endpoint measuring the number of headache-free days is collected via:",A) Weekly blood pressure cuff readings | B) Standardized sleep duration logs | C) Patient diaries | D) Electrocardiogram (ECG) results,C
+course_3,ch_3_02,les_3_02_02,topic_3_02_02_01,quiz_3_02_02_5,Why do regulators like the FDA primarily focus on the primary endpoint when deciding drug approval?,A) It is the make-or-break result determining if the treatment works | B) It is always a patient-reported outcome | C) It is the only endpoint stored in the eTMF | D) It requires the least statistical analysis,A
+course_3,ch_3_02,les_3_02_03,topic_3_02_03_01,quiz_3_02_03_1,"In the Asthmacure trial, which group is part of the target study population?",A) Children under 12 with mild asthma | B) Adults aged 18–65 with moderate to severe asthma | C) Elderly patients over 75 with heart disease | D) Pregnant women experiencing asthma attacks,B
+course_3,ch_3_02,les_3_02_03,topic_3_02_03_01,quiz_3_02_03_2,A 25-year-old man with severe asthma for 5 years and no conflicting conditions is enrolled. Which criterion allowed his inclusion?,A) Experiencing at least two asthma attacks per month | B) Taking a beta-blocker for heart issues | C) Being pregnant | D) Having mild asthma diagnosed last month,D
+course_3,ch_3_02,les_3_02_03,topic_3_02_03_01,quiz_3_02_03_3,Why are pregnant women excluded from the Asthmacure trial?,A) To prevent unknown risks to the fetus | B) To reduce recruitment costs | C) To ensure faster lung function improvements | D) To limit the trial to male participants,A
+course_3,ch_3_02,les_3_02_03,topic_3_02_03_01,quiz_3_02_03_4,Which ethical guideline requires that inclusion–exclusion criteria do not unfairly exclude certain ethnic groups without scientific justification?,A) FDA Phase 3 requirements | B) ICH-GCP only | C) Declaration of Helsinki (WHO) | D) eTMF storage rules,C
+course_3,ch_3_02,les_3_02_03,topic_3_02_03_01,quiz_3_02_03_5,"During an EMA audit, how are inclusion–exclusion decisions verified for the Asthmacure trial?",A) By reviewing participant records and criteria in the eTMF | B) By re-measuring lung function of all 300 participants | C) By checking only the primary endpoint data | D) By interviewing the sponsor’s marketing team,A
+course_3,ch_3_02,les_3_02_04,topic_3_02_04_01,quiz_3_02_04_1,"In the JointEase trial, what is the specified dose and frequency of the intervention for participants in the treatment arm?",A) 10 mg twice daily | B) 20 mg once weekly | C) 20 mg once daily for 12 weeks | D) 40 mg every other day,C
+course_3,ch_3_02,les_3_02_04,topic_3_02_04_01,quiz_3_02_04_2,Why are JointEase and placebo tablets made identical in appearance during the trial?,A) To maintain double-blinding and reduce bias | B) To lower production costs | C) To allow dose adjustments without notice | D) To simplify pharmacy storage,A
+course_3,ch_3_02,les_3_02_04,topic_3_02_04_01,quiz_3_02_04_3,"According to the protocol, who prepares and dispenses the JointEase or placebo tablets at the trial site?",A) Principal Investigator | B) Data Safety Monitoring Board | C) Clinical Research Coordinator | D) Site pharmacist,D
+course_3,ch_3_02,les_3_02_04,topic_3_02_04_01,quiz_3_02_04_4,"If a participant reports severe nausea, what action might the protocol allow under the safety monitoring plan?",A) Increase dose to 30 mg | B) Reduce dose to 10 mg or stop the drug with PI approval | C) Switch to open-label immediately | D) Ignore unless it lasts over 48 hours,B
+course_3,ch_3_02,les_3_02_04,topic_3_02_04_01,quiz_3_02_04_5,How is participant adherence to the daily JointEase or placebo regimen tracked in the trial?,A) Via a patient diary logging intake and side effects | B) Through weekly blood tests only | C) By automatic wearable device alerts | D) Via sponsor phone surveys monthly,A
+course_3,ch_3_02,les_3_02_05,topic_3_02_05_01,quiz_3_02_05_1,What is the primary function of a schedule of assessments in a clinical trial?,"A) To assign participants to treatment groups | B) To map out all tasks, tests, and evaluations with precise timing | C) To calculate statistical endpoints | D) To store informed consent forms",B
+course_3,ch_3_02,les_3_02_05,topic_3_02_05_01,quiz_3_02_05_2,"In the asthma inhaler trial example, what happens when a patient misses a lung function test?",A) The trial is automatically terminated | B) The site is fined by the FDA | C) The schedule prompts rescheduling within three days | D) The schedule prompts rescheduling within three days,D
+course_3,ch_3_02,les_3_02_05,topic_3_02_05_01,quiz_3_02_05_3,Which group uses the schedule of assessments to verify that a vaccine is stored at 2–8°C during site visits?,A) Monitors | B) Data safety monitoring board | C) Pharmacists | D) Patients,A
+course_3,ch_3_02,les_3_02_05,topic_3_02_05_01,quiz_3_02_05_4,What is a recommended feature for making a schedule of assessments user-friendly and effective?,A) Using only text without tables | B) Listing tasks without specific timelines | C) Color-coded tables for quick reference | D) Requiring manual paper updates only,C
+course_3,ch_3_02,les_3_02_05,topic_3_02_05_01,quiz_3_02_05_5,"According to best practices, when should the schedule of assessments be built and who should be involved?","A) Early in study planning, involving all stakeholders | B) After the first patient visit, by the PI only | C) During FDA submission, by the sponsor alone | D) At the end of Phase 3, by site staff",A
+course_3,ch_3_02,les_3_02_06,topic_3_02_06_01,quiz_3_02_06_1,"In the OncoRelief trial, how is the risk of low white blood cell count classified using the risk matrix?","A) High likelihood, low impact | B) Low likelihood, low impact | C) Low likelihood, high impact | D) High likelihood, high impact",C
+course_3,ch_3_02,les_3_02_06,topic_3_02_06_01,quiz_3_02_06_2,What mitigation strategy does the protocol implement for the identified risk of nausea in the OncoRelief trial?,A) Allow anti-nausea medication and require daily symptom reporting | B) Increase drug dose to reduce nausea | C) Exclude all participants with prior nausea history | D) Perform monthly blood tests only,A
+course_3,ch_3_02,les_3_02_06,topic_3_02_06_01,quiz_3_02_06_3,"When a participant reports severe fatigue and blood tests show low white cell count, what immediate action does the protocol require?",A) Continue dosing and monitor weekly | B) Switch to placebo immediately | C) Notify sponsor only | D) Pause the drug per mitigation plan,D
+course_3,ch_3_02,les_3_02_06,topic_3_02_06_01,quiz_3_02_06_4,Which group is named in the protocol to review serious risks during the OncoRelief trial and recommend actions like stopping the study?,A) Clinical Research Coordinators | B) Data Safety Monitoring Board (DSMB) | C) Site Pharmacists | D) FDA auditors,B
+course_3,ch_3_02,les_3_02_06,topic_3_02_06_01,quiz_3_02_06_5,"How are data errors, such as a misrecorded lab result, mitigated in the OncoRelief trial?",A) Using electronic C.R.F.s in the eTMF with audit trails to track changes | B) Relying on paper forms with manual corrections | C) Allowing open edits without logging | D) Storing data only at the sponsor’s office,A
+course_3,ch_3_02,les_3_02_07,topic_3_02_07_01,quiz_3_02_07_1,What is the primary role of AI in drafting a clinical trial protocol?,A) Automatically approving the final version for FDA submission | B) Suggesting content like dosing schedules and flagging missing safety steps | C) Replacing the principal investigator’s oversight | D) Generating patient consent forms without review,B
+course_3,ch_3_02,les_3_02_07,topic_3_02_07_01,quiz_3_02_07_2,"In the heart medication trial example, how long did it take to finalize the AI-assisted protocol after team review?",A) Several weeks | B) One month | C) Several months | D) Days,D
+course_3,ch_3_02,les_3_02_07,topic_3_02_07_01,quiz_3_02_07_3,Which regulatory standard must AI tools comply with to ensure data security during protocol writing?,A) HIPAA | B) ICH-GCP only | C) FDA Phase 1 rules | D) eTMF storage guidelines,A
+course_3,ch_3_02,les_3_02_07,topic_3_02_07_01,quiz_3_02_07_4,What type of AI capability ensures protocol language is clear and avoids excessive jargon?,A) Predictive analytics | B) Statistical modeling | C) Natural language processing | D) Image recognition,C
+course_3,ch_3_02,les_3_02_07,topic_3_02_07_01,quiz_3_02_07_5,Why is human oversight still essential when using AI to draft a protocol?,A) AI might miss context-specific nuances or suggest impractical elements | B) AI automatically submits to the IRB | C) AI replaces the need for team collaboration | D) AI generates the entire protocol without input,A
+course_3,ch_3_02,les_3_02_08,topic_3_02_08_01,quiz_3_02_08_1,What might prompt a protocol amendment in a Phase 2 trial showing mild side effects from a 5 mg/kg drug dose?,A) Expand the age range to 18–70 | B) Retrain staff on unchanged procedures | C) Reduce the dose to 3 mg/kg | D) Ignore the side effects for efficacy,C
+course_3,ch_3_02,les_3_02_08,topic_3_02_08_01,quiz_3_02_08_2,"In the change control workflow, what is the first step when identifying a need for an amendment, such as slow recruitment?",A) Propose the change and trigger the workflow | B) Update the protocol document immediately | C) Log it in REDCap version 2 | D) Inform participants before review,A
+course_3,ch_3_02,les_3_02_08,topic_3_02_08_01,quiz_3_02_08_3,"During the documentation step of a protocol amendment, what must be included along with the rationale for a dosing change?",A) Only the new dosing schedule | B) A list of unaffected sites | C) The amendment's effective date | D) Impact on participant safety or data analysis,D
+course_3,ch_3_02,les_3_02_08,topic_3_02_08_01,quiz_3_02_08_4,Who is involved in reviewing a protocol amendment to ensure it aligns with ethical standards?,"A) Only the sponsor and FDA | B) Key stakeholders like the principal investigator, ethics committees, and regulatory bodies | C) Site nurses and participants | D) The WHO exclusively",B
+course_3,ch_3_02,les_3_02_08,topic_3_02_08_01,quiz_3_02_08_5,What does the tracking step in change control workflows use to create an audit trail for amendments?,"A) Systems like REDCap to log changes, reasons, and approvals | B) Verbal communications with staff | C) Unstructured email threads | D) Participant feedback forms",A
+course_3,ch_3_02,les_3_02_09,topic_3_02_09_01,quiz_3_02_09_1,"In a Phase 3 diabetes drug trial, what statistical method determines the required 500 participants?",A) Randomization assignment | B) T-test selection | C) Power calculations for meaningful blood sugar drop | D) P-value threshold setting,C
+course_3,ch_3_02,les_3_02_09,topic_3_02_09_01,quiz_3_02_09_2,"What is the primary endpoint in the diabetes drug trial example, and how is it measured?",A) Reducing hemoglobin A1c by 1% via blood tests at weeks 0 and 12 | B) Patient-reported side effects weekly | C) Heart rate changes via ECG | D) Cost-effectiveness ratio,A
+course_3,ch_3_02,les_3_02_09,topic_3_02_09_01,quiz_3_02_09_3,Which statistical test is named in the protocol to compare average blood sugar levels between drug and placebo groups?,A) Chi-square test | B) ANOVA | C) Regression analysis | D) T-test,D
+course_3,ch_3_02,les_3_02_09,topic_3_02_09_01,quiz_3_02_09_4,"If some patients drop out in the diabetes trial, what analysis method does the protocol specify to include their data?",A) Per-protocol analysis only | B) Intention-to-treat analysis | C) Case-control comparison | D) Exploratory subgroup review,B
+course_3,ch_3_02,les_3_02_09,topic_3_02_09_01,quiz_3_02_09_5,Why does the protocol set a significance level of 0.05 for p-values?,A) To confirm the drug’s effect is not due to random chance | B) To reduce sample size requirements | C) To speed up data entry | D) To eliminate the need for randomization,A
+course_3,ch_3_02,les_3_02_10,topic_3_02_10_01,quiz_3_02_10_1,"In the protocol review process, what is the primary focus of the Institutional Review Board (IRB)?","A) Verifying the study's timeline feasibility | B) Ensuring participant safety, rights, and clear consent processes | C) Checking compliance with ICH laws | D) Confirming statistical tests like t-tests",B
+course_3,ch_3_02,les_3_02_10,topic_3_02_10_01,quiz_3_02_10_2,"For a Phase 2 cancer drug trial, why might the principal investigator suggest extending recruitment during review?",A) To align with FDA endpoints | B) To ensure measurable tumor size reduction | C) To comply with EMA guidelines | D) To make the trial feasible by recruiting enough patients aged 18–65,D
+course_3,ch_3_02,les_3_02_10,topic_3_02_10_01,quiz_3_02_10_3,Which regulatory body is mentioned as reviewing protocols for compliance with international standards like those from ICH?,A) FDA or EMA | B) Principal Investigator | C) REDCap system administrators | D) Phase 2 trial sponsors,A
+course_3,ch_3_02,les_3_02_10,topic_3_02_10_01,quiz_3_02_10_4,"What happens after stakeholders provide feedback on a protocol draft, such as adding a safety check for heart conditions?",A) The study begins immediately | B) Approval is documented in REDCap | C) The team revises and resubmits for further review | D) The endpoint is changed to tumor reduction,C
+course_3,ch_3_02,les_3_02_10,topic_3_02_10_01,quiz_3_02_10_5,"In the review checklist, which element ensures the study is robust by specifying a significance level of 0.05?","A) Statistical plans, including tests like t-tests | B) Participant recruitment criteria | C) Drug dosing at 5 mg/kg | D) Consent form language",A
+course_3,ch_3_03,les_3_03_01,topic_3_03_01_01,quiz_3_03_01_1,"In the GlucoSafe trial, which criterion ensures the site has a qualified endocrinologist as the principal investigator and experienced CRCs?",A) Patient access | B) Infrastructure | C) Ethical compliance | D) Expertise and experience,D
+course_3,ch_3_03,les_3_03_01,topic_3_03_01_01,quiz_3_03_01_2,Why might a rural clinic be excluded from the GlucoSafe trial site selection?,A) It lacks an IRB | B) It has insufficient eligible type 2 diabetes patients for recruitment | C) It uses outdated eTMF systems | D) It is too close to the sponsor,V
+course_3,ch_3_03,les_3_03_01,topic_3_03_01_01,quiz_3_03_01_3,"For weekly glucose testing in the GlucoSafe trial, what site selection criterion requires reliable lab equipment and trained technicians?",A) Infrastructure | B) Operational capacity | C) Geographic diversity | D) Logistical proximity,A
+course_3,ch_3_03,les_3_03_01,topic_3_03_01_01,quiz_3_03_01_4,"Which regulatory body values site selection in the U.S., Europe, and Asia to ensure GlucoSafe results apply broadly across populations?",A) FDA only | B) PMDA exclusively | C) European Medicines Agency | D) WHO,C
+course_3,ch_3_03,les_3_03_01,topic_3_03_01_01,quiz_3_03_01_5,"In the scenario, why is the Tokyo research clinic selected alongside the Chicago hospital for GlucoSafe?",A) It offers strong operational capacity and contributes to geographic diversity | B) It has lower costs than U.S. sites | C) It replaces the need for an IRB | D) It is located near the PMDA,A
+course_3,ch_3_03,les_3_03_02,topic_3_03_02_01,quiz_3_03_02_1,"In the CardioVital trial, which feasibility factor is confirmed by a board-certified cardiologist with five prior trials serving as the principal investigator?",A) Investigator and staff expertise | B) Patient recruitment potential | C) Infrastructure and equipment | D) Logistical feasibility,A
+course_3,ch_3_03,les_3_03_02,topic_3_03_02_01,quiz_3_03_02_2,How does the Boston hospital demonstrate patient recruitment potential for enrolling 50 participants in three months?,A) It has an active IRB | B) It uses an eTMF system | C) Based on patient records showing 200 heart failure cases annually | D) It is located near the sponsor,C
+course_3,ch_3_03,les_3_03_02,topic_3_03_02_01,quiz_3_03_02_3,"For biweekly check-ups over six months in CardioVital, which factor ensures the site’s staff availability and scheduling can manage the workload?",A) Ethical and regulatory compliance | B) Operational capacity | C) Geographic diversity | D) Equipment certification,B
+course_3,ch_3_03,les_3_03_02,topic_3_03_02_01,quiz_3_03_02_4,What action might the sponsor take if a feasibility assessment reveals a site lacks an echocardiogram machine for CardioVital?,A) Automatically approve the site | B) Change the trial to Phase 2 | C) Reject the site or provide funding for new equipment | D) Reject the site or provide funding for new equipment,D
+course_3,ch_3_03,les_3_03_02,topic_3_03_02_01,quiz_3_03_02_5,Where are the Boston hospital’s feasibility assessment findings and audit trails logged for FDA review?,A) eTMF | B) Local pharmacy records | C) Participant consent forms | D) Sponsor’s marketing plan,A
+course_3,ch_3_03,les_3_03_03,topic_3_03_03_01,quiz_3_03_03_1,"In the ClearLung trial, which qualification confirms Dr. Jane Smith’s understanding of asthma biology and treatment?",A) GCP training certificate | B) Medical degree and board certification in pulmonology | C) Leadership in two prior trials | D) 20 hours weekly availability,B
+course_3,ch_3_03,les_3_03_03,topic_3_03_03_01,quiz_3_03_03_2,What prior experience does Dr. Smith have that meets GCP requirements for clinical trial leadership in the ClearLung trial?,A) General practice with no asthma focus | B) Completed ethics course only | C) Managed patient consent in non-trial settings | D) Led two previous asthma trials,D
+course_3,ch_3_03,les_3_03_03,topic_3_03_03_01,quiz_3_03_03_3,Which qualification ensures Dr. Smith can explain risks like wheezing and obtain informed consent per WHO guidelines?,A) Ethical training in GCP and IRB processes | B) Time commitment of 20 hours weekly | C) Communication with sponsor | D) Staff training on dosing,A
+course_3,ch_3_03,les_3_03_03,topic_3_03_03_01,quiz_3_03_03_4,"During feasibility assessment for ClearLung, how is Dr. Smith’s availability verified?",A) By reviewing her CV only | B) Through sponsor interview | C) Via a survey confirming 20 hours weekly dedication | D) By checking eTMF access logs,C
+course_3,ch_3_03,les_3_03_03,topic_3_03_03_01,quiz_3_03_03_5,"Where are Dr. Jane Smith’s CV, training records, and qualification audit trails stored for FDA and IRB review?",A) eTMF | B) Local hospital HR files | C) Participant diaries | D) Sponsor’s marketing database,A
+course_3,ch_3_03,les_3_03_04,topic_3_03_04_01,quiz_3_03_04_1,"In the Pressura trial, what does the site contract require the London hospital to submit within 48 hours of collection?",A) Participant stipends | B) Blood pressure cuff invoices | C) Trial data to the eTMF | D) IRB meeting minutes,C
+course_3,ch_3_03,les_3_03_04,topic_3_03_04_01,quiz_3_03_04_2,"Which budget component in the Pressura trial covers facility fees, typically 20–30% of direct costs?",A) Overhead | B) Staff time for PI and CRCs | C) Lab tests for blood draws | D) Participant travel stipends,A
+course_3,ch_3_03,les_3_03_04,topic_3_03_04_01,quiz_3_03_04_3,"During negotiation for the Chicago site in Pressura, why does the hospital counter with a higher lab test cost?",A) To include PI salary | B) To cover participant recruitment ads | C) To reduce overhead percentage | D) Due to local cost variations,D
+course_3,ch_3_03,les_3_03_04,topic_3_03_04_01,quiz_3_03_04_4,What allows the Chicago site to increase its lab test budget mid-trial if costs exceed the plan?,"A) Automatic FDA approval | B) Contract amendment with sponsor approval, logged in eTMF | C) IRB unilateral decision | D) Participant vote",B
+course_3,ch_3_03,les_3_03_04,topic_3_03_04_01,quiz_3_03_04_5,"How are the final Pressura contract and budget documents, including audit trails of negotiations, stored for EMA review?",A) eTMF | B) Local site pharmacy | C) Sponsor’s public website | D) Participant consent binders,A
+course_3,ch_3_03,les_3_03_05,topic_3_03_05_01,quiz_3_03_05_1,"In the TumorGuard trial, what key document submitted to the FDA in the IND outlines the 12-week study comparing TumorGuard to placebo?",A) Investigator’s brochure | B) Informed consent form | C) Site facility certification | D) Trial protocol,D
+course_3,ch_3_03,les_3_03_05,topic_3_03_05_01,quiz_3_03_05_2,"For the Berlin clinic in TumorGuard, which submission requires local ethics approval in addition to the protocol and preclinical data?",A) IND | B) CTA | C) IRB form | D) Feasibility questionnaire,B
+course_3,ch_3_03,les_3_03_05,topic_3_03_05_01,quiz_3_03_05_3,What does the IRB review in TumorGuard submissions to ensure participants understand risks like nausea in plain language?,A) Informed consent forms | B) Preclinical animal data | C) Principal investigator CV | D) Weekly tumor scan schedule,A
+course_3,ch_3_03,les_3_03_05,topic_3_03_05_01,quiz_3_03_05_4,Which site-specific document in TumorGuard submissions confirms the principal investigator is a qualified oncologist?,A) Lab test pricing | B) Recruitment advertisement | C) Principal investigator’s CV | D) Participant stipend plan,C
+course_3,ch_3_03,les_3_03_05,topic_3_03_05_01,quiz_3_03_05_5,"Where are all TumorGuard regulatory submissions, including audit trails of FDA/EMA clarifications on dosing, stored for review?",A) eTMF | B) Local pharmacy log | C) Sponsor’s public portal | D) Participant medical charts,A
+course_3,ch_3_03,les_3_03_06,topic_3_03_06_01,quiz_3_03_06_1,"In the PainFree trial Start-Up Meeting, what is reviewed to ensure sites understand the 15 mg daily dosing and migraine-free day endpoint?",A) Site budget negotiations | B) Protocol overview | C) Participant travel reimbursements | D) Post-trial marketing plans,B
+course_3,ch_3_03,les_3_03_06,topic_3_03_06_01,quiz_3_03_06_2,"During the PainFree virtual SIV, who confirms their team’s GCP training and asks about handling missed doses?",A) Sponsor pharmacist | B) CRO data manager | C) Tokyo site staff | D) London principal investigator,D
+course_3,ch_3_03,les_3_03_06,topic_3_03_06_01,quiz_3_03_06_3,Which role is assigned in the PainFree SIV to handle patient recruitment and logging pain scores in case report forms?,A) Clinical Research Coordinators (CRCs) | B) Principal Investigator | C) Sponsor medical monitor | D) IRB chairperson,A
+course_3,ch_3_03,les_3_03_06,topic_3_03_06_01,quiz_3_03_06_4,What logistical item is confirmed in the PainFree SIV to ensure sites can enroll 40 patients within three months?,A) Drug storage temperature | B) Blood pressure monitor availability | C) Recruitment feasibility | D) eTMF password reset,C
+course_3,ch_3_03,les_3_03_06,topic_3_03_06_01,quiz_3_03_06_5,Where are the PainFree Start-Up Meeting minutes and audit trails stored for EMA and IRB review?,A) eTMF | B) Local site pharmacy log | C) Sponsor’s public website | D) Participant consent binders,A
+course_3,ch_3_03,les_3_03_07,topic_3_03_07_01,quiz_3_03_07_1,"In the NeuroClear trial, which AI-analyzed factor scores a London hospital high due to 150 Alzheimer’s patients and a 10-year experienced principal investigator?",A) Patient recruitment potential and site expertise | B) Drug storage temperature compliance | C) Participant stipend levels | D) Post-trial marketing data,A
+course_3,ch_3_03,les_3_03_07,topic_3_03_07_01,quiz_3_03_07_2,How does the ML model predict a rural clinic will take nine months to recruit patients for NeuroClear?,A) Based on IRB approval speed | B) By analyzing past trial delays only | C) Using historical enrollment rates and low patient volume (20 eligible) | D) Via sponsor budget preferences,C
+course_3,ch_3_03,les_3_03_07,topic_3_03_07_01,quiz_3_03_07_3,Which infrastructure element does AI evaluate to confirm a site can handle NeuroClear’s monthly brain scans?,A) Blood pressure cuff availability | B) MRI machine presence | C) eTMF login frequency | D) Staff vacation schedules,B
+course_3,ch_3_03,les_3_03_07,topic_3_03_07_01,quiz_3_03_07_4,What ensures GCP compliance when using AI site feasibility predictions for NeuroClear?,A) Automatic FDA approval | B) Sponsor override of all scores | C) CRA verification during site visits | D) Human oversight and eTMF documentation,D
+course_3,ch_3_03,les_3_03_07,topic_3_03_07_01,quiz_3_03_07_5,"Where are the NeuroClear AI site scores (e.g., London 90/100) and audit trails of selection decisions stored for EMA review?",A) eTMF | B) Local clinic patient charts | C) Sponsor’s public dashboard | D) Participant consent binders,A
+course_3,ch_3_03,les_3_03_08,topic_3_03_08_01,quiz_3_03_08_1,"In the MoodLift trial, which training component teaches staff to report severe fatigue to the IRB within 24 hours?",A) Protocol dosing procedures | B) Participant consent discussions | C) Safety and adverse event reporting | D) eTMF password management,C
+course_3,ch_3_03,les_3_03_08,topic_3_03_08_01,quiz_3_03_08_2,"During MoodLift’s virtual SIV, what is practiced to ensure participants understand the 12-week duration and visit schedule?",A) Role-playing for informed consent | B) Blood test calibration | C) Sponsor budget review | D) Post-trial data archiving,A
+course_3,ch_3_03,les_3_03_08,topic_3_03_08_01,quiz_3_03_08_3,How are MoodLift depression scores logged accurately and confidentially using participant codes like “Patient 123”?,A) Paper case report forms | B) Sponsor email summaries | C) Local hospital EHR only | D) Electronic case report forms in the eTMF,D
+course_3,ch_3_03,les_3_03_08,topic_3_03_08_01,quiz_3_03_08_4,Who verifies MoodLift staff training completion during site visits before FDA audit?,A) IRB chairperson | B) Clinical Research Associates (CRAs) | C) Pharmacist | D) Data Safety Monitoring Board,B
+course_3,ch_3_03,les_3_03_08,topic_3_03_08_01,quiz_3_03_08_5,"Where are MoodLift staff GCP certificates, SIV attendance, and training audit trails stored for EMA review?",A) eTMF | B) Local staff HR files | C) Participant diaries | D) Sponsor’s marketing portal,A
+course_3,ch_3_03,les_3_03_09,topic_3_03_09_01,quiz_3_03_09_1,"In the GlucoEase trial, which checklist milestone requires the Miami clinic to have IRB-approved consent forms explaining hypoglycemia risks?",A) Staff training completion | B) Investigational product storage | C) Recruitment database access | D) Regulatory and ethics approvals,D
+course_3,ch_3_03,les_3_03_09,topic_3_03_09_01,quiz_3_03_09_2,"What does the GlucoEase site contract milestone finalize for the Miami clinic, including $20,000 for staff and $5,000 for lab tests?",A) GCP refresher schedule | B) Site contracts and budgets | C) Glucose meter calibration | D) Post-activation marketing,B
+course_3,ch_3_03,les_3_03_09,topic_3_03_09_01,quiz_3_03_09_3,"For GlucoEase, which checklist item confirms the principal investigator completed protocol-specific training on 10 mg dosing and glucose monitors?",A) Staff training | B) Pharmacy placebo matching | C) Patient support group outreach | D) eTMF password setup,A
+course_3,ch_3_03,les_3_03_09,topic_3_03_09_01,quiz_3_03_09_4,"During GlucoEase activation, what readiness milestone verifies the Miami pharmacy has 10 mg tablets and placebos stored at correct temperature?",A) Budget approval | B) CRA site visit | C) Investigational product readiness | D) FDA IND submission,C
+course_3,ch_3_03,les_3_03_09,topic_3_03_09_01,quiz_3_03_09_5,"Where are all GlucoEase Miami clinic checklist milestones, audit trails, and CRA verification records stored for FDA audit?",A) eTMF | B) Local clinic HR files | C) Participant consent binders | D) Sponsor’s public portal,A
+course_3,ch_3_03,les_3_03_10,topic_3_03_10_01,quiz_3_03_10_1,"In the FlexiJoint trial, which pitfall caused a three-month delay at the Chicago hospital due to missing preclinical safety data?",A) Delayed drug shipment | B) Incomplete regulatory submissions | C) Overestimated patient recruitment | D) Unsigned site budget,B
+course_3,ch_3_03,les_3_03_10,topic_3_03_10_01,quiz_3_03_10_2,What prevention strategy for FlexiJoint uses AI-driven tools to accurately predict a rural clinic’s low enrollment of only 10 arthritis patients?,A) Mandatory CRA visits | B) IRB consent review | C) eTMF password reset | D) Thorough site feasibility assessments,D
+course_3,ch_3_03,les_3_03_10,topic_3_03_10_01,quiz_3_03_10_3,"For FlexiJoint, incorrect 20 mg dosing instead of 10 mg resulted from which pitfall at a site?",A) Insufficient staff training | B) Contract negotiation disputes | C) Missing X-ray equipment | D) Placebo storage error,A
+course_3,ch_3_03,les_3_03_10,topic_3_03_10_01,quiz_3_03_10_4,Which FlexiJoint pitfall stalled the London clinic for two months over lab cost disputes?,A) GCP training skip | B) Incomplete CTA submission | C) Delayed contracts and budgets | D) Logistical drug delay,C
+course_3,ch_3_03,les_3_03_10,topic_3_03_10_01,quiz_3_03_10_5,"Where are FlexiJoint pitfall resolutions, like checklist fixes and AI feasibility findings, logged for EMA and IRB review?",A) eTMF | B) Local site pharmacy | C) Participant diaries | D) Sponsor’s marketing files,A
+course_3,ch_3_04,les_3_04_01,topic_3_04_01_01,quiz_3_04_01_1,"In a recruitment strategy for a life sciences role like a lab technician, what must-have qualification might be included in the job description?",A) Familiarity with data analysis tools | B) Experience in team collaboration | C) Degree in unrelated field | D) Certification or degree in biology,D
+course_3,ch_3_04,les_3_04_01,topic_3_04_01_01,quiz_3_04_01_2,Which recruitment approach involves using platforms like BioSpace to connect with specialized talent in life sciences?,A) Internal sourcing from current employees | B) External sourcing via industry-specific job boards | C) Networking at general job fairs | D) Employer branding on social media,B
+course_3,ch_3_04,les_3_04_01,topic_3_04_01_01,quiz_3_04_01_3,How can an organization build a strong employer brand to attract candidates who share its values in healthcare?,"A) Share stories on social media about team impact, like a new drug improving lives | B) Focus only on job postings with high salary offers | C) Attend diversity job fairs without outreach | D) Use AI chatbots for all candidate interactions",A
+course_3,ch_3_04,les_3_04_01,topic_3_04_01_01,quiz_3_04_01_4,"To promote diversity in recruitment for a research lab, what step should be taken when writing job descriptions?",A) Include biased terms like “rockstar” to attract ambitious candidates | B) Focus exclusively on must-have technical skills | C) Review for biased language and use terms like “team player” | D) Partner only with general organizations like NSBE,C
+course_3,ch_3_04,les_3_04_01,topic_3_04_01_01,quiz_3_04_01_5,"What is a key benefit of building a talent pipeline, such as through internships for nursing students at a hospital?",A) Having a pool of familiar candidates ready when positions open | B) Reducing the need for external job boards | C) Eliminating behavioral interviews | D) Automating all applicant tracking,A
+course_3,ch_3_04,les_3_04_02,topic_3_04_02_01,quiz_3_04_02_1,"In a cholesterol drug trial, what full screening step might confirm a patient’s cholesterol level is above 200 mg/dL?",A) Phone pre-screening for age | B) Online questionnaire for allergies | C) Blood test during medical evaluation | D) Social media advertisement review,C
+course_3,ch_3_04,les_3_04_02,topic_3_04_02_01,quiz_3_04_02_2,Which step in patient eligibility screening uses EHRs or software to automatically flag patients with a hemoglobin A1C above 7% for a diabetes study?,A) Leveraging technology in full screening | B) Defining inclusion criteria | C) Handling non-qualifying patients | D) Documenting decisions,A
+course_3,ch_3_04,les_3_04_02,topic_3_04_02_01,quiz_3_04_02_3,"For a pediatric vaccine trial limiting participants to children aged 2–12, what challenge does this criteria address?",A) Ensuring diversity in underrepresented groups | B) Excluding adults for ethical reasons | C) Broadening the study for more participants | D) Balancing inclusivity with precision for focused immune response,D
+course_3,ch_3_04,les_3_04_02,topic_3_04_02_01,quiz_3_04_02_4,"When a patient does not qualify for an asthma trial due to a conflicting condition, what is the recommended approach?",A) Ignore the exclusion and enroll them | B) Explain sensitively and offer alternatives like other trials or treatments | C) Require them to sign a waiver | D) Automatically refer them to the IRB,B
+course_3,ch_3_04,les_3_04_02,topic_3_04_02_01,quiz_3_04_02_5,What is the final step in patient eligibility screening that ensures transparency and compliance with WHO guidelines?,A) Documenting every inclusion/exclusion decision for audits | B) Advertising through patient advocacy groups | C) Setting age-based exclusion criteria | D) Conducting pre-screening calls,A
+course_3,ch_3_04,les_3_04_03,topic_3_04_03_01,quiz_3_04_03_1,"In a diabetes medication trial, what informed consent step explains the goal of lowering hemoglobin A1C below 7% and daily pill intake?",A) Discussing alternatives like standard care | B) Providing clear information on purpose and procedures | C) Confirming voluntary withdrawal rights | D) Using e-consent video modules,B
+course_3,ch_3_04,les_3_04_03,topic_3_04_03_01,quiz_3_04_03_2,"For a new heart stent trial, which step ensures patients know they can continue with medication instead of participating?",A) Addressing cultural concerns | B) Recording signed form details | C) Ensuring understanding via teach-back | D) Explaining alternatives,D
+course_3,ch_3_04,les_3_04_03,topic_3_04_03_01,quiz_3_04_03_3,"How is patient understanding confirmed in the informed consent process, such as explaining “CT scan” as a detailed X-ray?",A) Asking patients to repeat back key points in plain language | B) Requiring guardian assent for adults | C) Skipping jargon only in e-consent | D) Documenting risks at 5% allergic reaction,A
+course_3,ch_3_04,les_3_04_03,topic_3_04_03_01,quiz_3_04_03_4,"In emergency trauma research where prior consent is impossible, what is required before proceeding?",A) Community leader partnership | B) Child assent addition | C) Ethics board approval with later family notification | D) Eighth-grade reading level form only,C
+course_3,ch_3_04,les_3_04_03,topic_3_04_03_01,quiz_3_04_03_5,"What is the final step in the informed consent process that records discussions, questions, and signed forms for regulatory compliance?",A) Documentation | B) Voluntary participation emphasis | C) Risk-benefit discussion | D) Cultural sensitivity tailoring,A
+course_3,ch_3_04,les_3_04_04,topic_3_04_04_01,quiz_3_04_04_1,"In recruitment for a biotech lab, which step sets a specific goal like 30% of new hires from underrepresented racial groups within two years?",A) Expanding outreach to HBCUs | B) Setting clear diversity goals aligned with mission | C) Blind resume screening | D) Sharing employee stories on website,B
+course_3,ch_3_04,les_3_04_04,topic_3_04_04_01,quiz_3_04_04_2,What recruitment step uses text analysis software to flag biased words like “aggressive” in job descriptions?,A) Training team on unconscious bias | B) Leveraging ATS for applicant management | C) Fostering inclusive workplace culture | D) Reviewing process for bias,D
+course_3,ch_3_04,les_3_04_04,topic_3_04_04_01,quiz_3_04_04_3,"To attract diverse STEM candidates, which outreach example partners with the National Society of Black Engineers (NSBE)?",A) Posting only on LinkedIn | B) Attending Society of Women Engineers job fairs | C) Using general job boards | D) Internal promotions only,A
+course_3,ch_3_04,les_3_04_04,topic_3_04_04_01,quiz_3_04_04_4,"Which bias-reduction technique in recruitment uses structured interviews where every candidate answers the same question, like “Describe a time you solved a complex problem”?",A) Applicant Tracking System keyword filters | B) Employer branding via social media | C) Training hiring managers | D) Blind resume screening,C
+course_3,ch_3_04,les_3_04_04,topic_3_04_04_01,quiz_3_04_04_5,"How is progress measured in diversity recruitment, such as tracking that only 10% of research role applicants are women?","A) Tracking and reporting application, hire, and promotion data | B) Offering mentorship programs | C) Highlighting nurse leadership stories | D) Partnering with NAACP chapters",A
+course_3,ch_3_04,les_3_04_05,topic_3_04_05_01,quiz_3_04_05_1,"In a life sciences lab, which retention step offers training in CRISPR gene editing to help a technician grow professionally?",A) Competitive compensation with tuition reimbursement | B) Wellness programs like yoga classes | C) Providing growth opportunities | D) Exit interviews for departing staff,C
+course_3,ch_3_04,les_3_04_05,topic_3_04_05_01,quiz_3_04_05_2,What retention technique allows a nurse to choose shifts that fit their family life or a data analyst to work from home two days a week?,A) Supporting work-life balance with flexible policies | B) Recognizing contributions via Employee of the Month | C) Using HR software to track satisfaction surveys | D) Forming employee resource groups for women in STEM,A
+course_3,ch_3_04,les_3_04_05,topic_3_04_05_01,quiz_3_04_05_3,How does a hospital foster a positive work environment by celebrating the completion of a major clinical trial?,A) Offering mental health therapy coverage | B) Conducting structured exit interviews | C) Encouraging open communication through team meetings | D) Fostering a positive work environment,D
+course_3,ch_3_04,les_3_04_05,topic_3_04_05_01,quiz_3_04_05_4,Which step helps a biotech company retain underrepresented talent by creating groups for women in STEM to share experiences?,A) Monitoring workloads to prevent burnout | B) Diversity and inclusion through employee resource groups | C) Bonuses for completing diagnostic tests | D) Suggestion boxes for lab efficiency ideas,B
+course_3,ch_3_04,les_3_04_05,topic_3_04_05_01,quiz_3_04_05_5,"What is the final retention step that learns why a pharmacist left due to feeling undervalued, to improve for remaining staff?",A) Conducting exit interviews | B) Offering extra vacation days as rewards | C) Clear career paths from coordinator to manager | D) One-on-one check-ins on employee values,A
+course_3,ch_3_04,les_3_04_06,topic_3_04_06_01,quiz_3_04_06_1,"In AI-powered patient matching for a rare genetic disorder trial, what technology scans electronic health records to identify patients with the exact mutation?",A) Generative models for outcome simulation | B) Machine learning algorithms analyzing anonymized data | C) Federated databases only | D) FHIR integration standards,B
+course_3,ch_3_04,les_3_04_06,topic_3_04_06_01,quiz_3_04_06_2,"According to the material, what is a primary benefit of AI in patient matching that addresses the issue of 85% of trials failing to meet enrollment goals?",A) Eliminating all data privacy concerns | B) Automating informed consent forms | C) Predicting patient responses pre-trial | D) Enrolling patients faster and improving success rates,D
+course_3,ch_3_04,les_3_04_06,topic_3_04_06_01,quiz_3_04_06_3,"In the matching process for an oncology trial, which AI technique reads unstructured doctor notes about ""mild hypertension"" to match breast cancer patients by tumor genetics like HER2-positive?",A) Natural language processing | B) Cloud-based processing of millions of records | C) Explainability features for validation | D) Predictive analytics for condition development,A
+course_3,ch_3_04,les_3_04_06,topic_3_04_06_01,quiz_3_04_06_4,What challenge in AI-powered patient matching might overlook rural patients if training data underrepresents them?,A) Legacy system integration with FHIR | B) Ethical consent for data use | C) Bias in datasets leading to skewed matches | D) Human oversight in validation,C
+course_3,ch_3_04,les_3_04_06,topic_3_04_06_01,quiz_3_04_06_5,"In the real-world COVID vaccine booster trial example, how does AI enable faster matching of thousands of patients by age, comorbidities, and vaccination status?","A) By analyzing vast EHRs, lab results, and wearables in days instead of months | B) Through generative models simulating responses | C) Via eTMF storage of matching scores | D) Using Antidote platforms exclusively",A
+course_3,ch_3_04,les_3_04_07,topic_3_04_07_01,quiz_3_04_07_1,"In a cancer trial consent form, what must be summarized at an eighth-grade reading level, including tumor-shrinking goals and risks like nausea?","A) Clinician’s personal notes | B) Purpose, risks, benefits, alternatives, and rights | C) Patient’s prior medical bills | D) Trial sponsor’s marketing plan",B
+course_3,ch_3_04,les_3_04_07,topic_3_04_07_01,quiz_3_04_07_2,"During consent for a diabetes study, how is a patient’s question about blood test frequency recorded?",A) In a secure patient portal only | B) In a discussion log as part of the informed consent process | C) Via e-consent quiz scores | D) On the assent form for guardians,B
+course_3,ch_3_04,les_3_04_07,topic_3_04_07_01,quiz_3_04_07_3,"For a 10-year-old in a vaccine trial, what additional simplified document captures their agreement alongside parental consent?",A) Assent form | B) HIPAA waiver | C) Updated CT scan addendum | D) Audit trail report,A
+course_3,ch_3_04,les_3_04_07,topic_3_04_07_01,quiz_3_04_07_4,"In emergency trauma research where a patient is unconscious, how is the consent exception documented for IRB review?",A) With a new signature after recovery | B) By noting waiver approval and later family notification | C) Through interactive e-consent video | D) Via community liaison explanation,B
+course_3,ch_3_04,les_3_04_07,topic_3_04_07_01,quiz_3_04_07_5,"Where are long-term arthritis trial consent forms, discussion logs, and audit trails stored securely for 15+ years under HIPAA?",A) EHR systems with encryption | B) Paper cabinets in public areas | C) Patient’s personal email | D) Sponsor’s public website,A
+course_3,ch_3_04,les_3_04_08,topic_3_04_08_01,quiz_3_04_08_1,"For hiring a lab technician in a talent-short field like bioinformatics, what solution widens the net by offering internships to biomedical engineering majors?",A) Structured interviews with deadline questions | B) Partnering with universities for early recruitment | C) AI chatbots for 24/7 salary queries | D) Blind resume screening for PCR experience,B
+course_3,ch_3_04,les_3_04_08,topic_3_04_08_01,quiz_3_04_08_2,"To reduce unconscious bias when hiring a trial manager, which technique removes names and photos to focus only on PCR machine experience?",A) Applicant Tracking System keyword filtering | B) Exit interviews for departing employees | C) Inclusive language like “team player” | D) Blind resume screening,D
+course_3,ch_3_04,les_3_04_08,topic_3_04_08_01,quiz_3_04_08_3,How can a hospital streamline hiring for in-demand nurses to avoid losing them to competitors within a week?,A) Aim for application-to-offer in 2–3 weeks using ATS for “clinical experience” keywords | B) Offer sabbaticals after five years | C) Share LinkedIn stories about CRISPER projects | D) Conduct diversity job fairs only,A
+course_3,ch_3_04,les_3_04_08,topic_3_04_08_01,quiz_3_04_08_4,What improves candidate experience for a clinical coordinator by communicating “follow up within five days” and polite rejection emails?,A) Over-relying on AI for all decisions | B) Highlighting mission impact on Alzheimer’s patients | C) Improving candidate experience with clear timelines | D) Partnering with NSBE for engineers,C
+course_3,ch_3_04,les_3_04_08,topic_3_04_08_01,quiz_3_04_08_5,Where does a biotech company learn from a bad hire by analyzing if the job description overemphasized a Ph.D. over practical experience?,A) Learning from mistakes via exit interviews and feedback | B) Global virtual career fairs | C) Wellness program perks | D) Human oversight of AI suggestions,A
+course_3,ch_3_04,les_3_04_09,topic_3_04_09_01,quiz_3_04_09_1,"In a hospital hiring nurses, which metric tracks the average days from job posting to offer acceptance, aiming for under 45 days?",A) Cost-per-hire including ad fees | B) Applicant Net Promoter Score | C) Time-to-hire | D) Sourcing from university partnerships,C
+course_3,ch_3_04,les_3_04_09,topic_3_04_09_01,quiz_3_04_09_2,"For quality of hire in a biotech lab, what metric measures if 80% of new lab techs remain after one year?","A) First-year retention rate | B) Diversity percentage in interviews | C) Drop-off rate in applications | D) Cost-per-hire average of $4,000",A
+course_3,ch_3_04,les_3_04_09,topic_3_04_09_01,quiz_3_04_09_3,"To monitor diversity in life sciences research roles targeting 40% women hires, which metric compares applications, interviews, and offers by demographics?",A) Employee referral success rate | B) Cultural fit survey responses | C) Time-to-hire reduction to 40 days | D) Diversity and inclusion metrics,D
+course_3,ch_3_04,les_3_04_09,topic_3_04_09_01,quiz_3_04_09_4,"In monthly recruitment reports, what visualizes trends like diversity hires up 10% or applications boosted 25% by new ads?",A) Exit interview summaries | B) Dashboards in Tableau or Google Data Studio | C) Predictive analytics for shortages | D) HIPAA-compliant data privacy logs,B
+course_3,ch_3_04,les_3_04_09,topic_3_04_09_01,quiz_3_04_09_5,Where does a healthcare organization benchmark its 42-day average time-to-hire against SHRM industry standards?,A) Benchmarking and goal-setting | B) Applicant experience NPS above 50 | C) Sourcing effectiveness from job fairs | D) Continuous improvement loop,A
+course_3,ch_3_04,les_3_04_10,topic_3_04_10_01,quiz_3_04_10_1,"For screening clinical research candidates with PCR experience, which ethical AI step defines the tool’s goal to improve efficiency without sacrificing fairness?",A) Continuous monitoring for bias | B) Understanding the AI’s purpose | C) Engaging diversity committee | D) Secure HIPAA-compliant systems,B
+course_3,ch_3_04,les_3_04_10,topic_3_04_10_01,quiz_3_04_10_2,"To prevent AI from favoring mostly male historical hires in biotech, what step trains the system on resumes from varied universities and regions?","A) Human oversight of flagged candidates | B) Transparency statements on career site | C) Blind screening hiding personal details | D) Using high-quality, diverse data",D
+course_3,ch_3_04,les_3_04_10,topic_3_04_10_01,quiz_3_04_10_3,"How does ethical AI ensure candidates know it prioritizes Python proficiency for a data analyst role, with human review?",A) Ensuring transparency | B) Bias-detection for resume gaps | C) Explainability features in Workable | D) Stakeholder training sessions,A
+course_3,ch_3_04,les_3_04_10,topic_3_04_10_01,quiz_3_04_10_4,"When AI might disadvantage caregivers with resume gaps, which step adjusts algorithms to focus on skills like EHR experience instead of proxies?",A) Choosing platforms like Greenhouse | B) Auditing for rural candidate undervaluation | C) Minimizing bias with detection tools | D) Consent forms for data use,C
+course_3,ch_3_04,les_3_04_10,topic_3_04_10_01,quiz_3_04_10_5,Where does a hospital’s diversity committee review AI screening for nurses to avoid undervaluing rural candidates?,A) Engaging stakeholders | B) Continuous improvement updates | C) EEOC regulatory alignment | D) Publication record prioritization,A
+course_3,ch_3_05,les_3_05_01,topic_3_05_01_01,quiz_3_05_01_1,"In a diabetes drug trial CRF, which principle ensures focus on hemoglobin A1C levels rather than unrelated data like eye color?",A) Ensuring data quality with range checks | B) Accommodating diverse global users | C) Aligning with the study protocol | D) Using electronic auto-calculations,C
+course_3,ch_3_05,les_3_05_01,topic_3_05_01_01,quiz_3_05_01_2,"For a cancer trial CRF, what design principle groups tumor measurements and adverse events under clear headings like “Lab Results”?",A) Structuring for ease of use | B) Regulatory compliance for FDA | C) Clarity with plain language | D) Testing via pilot with coordinators,A
+course_3,ch_3_05,les_3_05_01,topic_3_05_01_01,quiz_3_05_01_3,"To prevent errors in an arthritis trial CRF, which principle sets a pain score scale of 0–10 and requires month-day-year date format?",A) Accommodating patient symptom diaries | B) Technology with REDCap dropdowns | C) Clarity avoiding “hypertension” jargon | D) Ensuring data quality with validation rules,D
+course_3,ch_3_05,les_3_05_01,topic_3_05_01_01,quiz_3_05_01_4,"In a global vaccine trial CRF, what principle provides translations and uses “electrocardiogram” instead of “EKG” for consistency?",A) Regulatory ICH adverse event fields | B) Accommodating diverse users | C) Pilot testing for joint pain clarity | D) Auto-BMI calculation in eCRFs,B
+course_3,ch_3_05,les_3_05_01,topic_3_05_01_01,quiz_3_05_01_5,Where does a heart stent trial CRF include fields for informed consent dates and bleeding complications to meet FDA standards?,A) Regulatory compliance | B) Simplicity with concise questions | C) Real-time eCRF monitoring | D) Checkbox smoking status,A
+course_3,ch_3_05,les_3_05_02,topic_3_05_02_01,quiz_3_05_02_1,"In a large multi-site cancer therapy trial tracking tumor sizes in real time, which method is ideal due to high data volume across locations?",A) Paper CRFs with weekly manual checks | B) EDC systems like Medidata | C) Hybrid scanning of handwritten forms | D) Single-site wound care paper forms,B
+course_3,ch_3_05,les_3_05_02,topic_3_05_02_01,quiz_3_05_02_2,"For a small single-site wound care study, what step justifies using paper CRFs due to low data volume and nearby staff?",A) Real-time analytics for fatigue trends | B) Validation rules for heart rate 40–120 | C) Hybrid weekly uploads to EDC | D) Understanding study needs for size and resources,D
+course_3,ch_3_05,les_3_05_02,topic_3_05_02_01,quiz_3_05_02_3,"In a diabetes trial, which EDC design feature includes dropdowns for side effects and ensures heart rate entries between 40–120 bpm?",A) Designing the data collection tool with validation rules | B) Manual transcription from paper to database | C) Locked cabinet storage for HIPAA | D) Pilot testing with one rural site,A
+course_3,ch_3_05,les_3_05_02,topic_3_05_02_01,quiz_3_05_02_4,"During an asthma inhaler trial, what EDC step flags a missing lab result instantly or alerts for temperature entered as 200°F instead of 98.6?",A) Training on month-day-year dates | B) Secure encryption for authorized access | C) Data entry and monitoring with real-time checks | D) ICH-compliant adverse event fields,C
+course_3,ch_3_05,les_3_05_02,topic_3_05_02_01,quiz_3_05_02_5,"Where does a vaccine study hybrid approach use paper CRFs on-site in rural clinics with spotty internet, then scan weekly to EDC?",A) Choosing the right mix | B) Veeva EDC EHR integration | C) Manual 10% weekly paper review | D) Costly Medidata setup,A
+course_3,ch_3_05,les_3_05_03,topic_3_05_03_01,quiz_3_05_03_1,"In a diabetes trial, which SDV step prioritizes verifying HbA1C levels over non-critical data using ICH-guided risk-based monitoring?",A) Resolving discrepancies in dose entries | B) Documenting 95% adverse event matches | C) Performing verification by comparing CRF to thermometer log | D) Selecting data for verification focusing on primary endpoints,D
+course_3,ch_3_05,les_3_05_03,topic_3_05_03_01,quiz_3_05_03_2,"For a heart drug trial, what SDV step identifies original EHR nurse notes or lab printouts showing glucose 150 mg/dL as the source for CRF weight entries?",A) Identifying source documents | B) Remote EDC secure access | C) Training on consistent date formats | D) Flagging 200 bpm heart rate,A
+course_3,ch_3_05,les_3_05_03,topic_3_05_03_01,quiz_3_05_03_3,"During a vaccine trial, how does a monitor resolve a CRF reporting 10 mg dose when the source says 5 mg?","A) Pilot testing with one site | B) Secure HIPAA storage of reports | C) Investigating and correcting with site, documenting audit trail | D) Using Veeva EDC auto-integration",C
+course_3,ch_3_05,les_3_05_03,topic_3_05_03_01,quiz_3_05_03_4,"In a global asthma inhaler trial, what SDV step ensures monitors in different countries verify tumor response rates the same way?",A) Risk-based 100% verification | B) Training and oversight on protocol procedures | C) Manual scanning of handwritten notes | D) Real-time analytics for fatigue trends,B
+course_3,ch_3_05,les_3_05_03,topic_3_05_03_01,quiz_3_05_03_5,"Where does an EDC system like REDCap flag a suspicious heart rate of 200 bpm, prompting a check against the patient’s chart?",A) Technology in SDV with built-in alerts | B) Paper CRF weekly 10% review | C) Hybrid rural clinic scanning | D) FDA inspection preparation,A
+course_3,ch_3_05,les_3_05_04,topic_3_05_04_01,quiz_3_05_04_1,"In a cancer trial, which query management step raises a clear query about an impossible CT scan date of February 30?",A) Monitoring 95% resolution within five days | B) Identifying queries during SDV data review | C) Escalating ignored adverse event queries | D) Reviewing patterns of 30% missing labs,B
+course_3,ch_3_05,les_3_05_04,topic_3_05_04_01,quiz_3_05_04_2,"For a diabetes drug trial with CRF dose listed as 50 mg but source showing 5 mg, what step creates the specific query “Please confirm the correct dose”?",A) Resolving with lab slip evidence | B) Sending via EDC secure messaging | C) Monitoring resolution within a week | D) Creating the query with clear wording,D
+course_3,ch_3_05,les_3_05_04,topic_3_05_04_01,quiz_3_05_04_3,"In a vaccine study, how does EDC like REDCap automate flagging a cholesterol level of 900 mg/dL as outside normal ranges?",A) Technology in query management with instant alerts | B) Manual spreadsheet for paper trials | C) HIPAA-secure audit trail storage | D) Site training on EHR lookup,A
+course_3,ch_3_05,les_3_05_04,topic_3_05_04_01,quiz_3_05_04_4,"During an asthma inhaler trial, what step tracks that 95% of inhaler dose queries were resolved within five days, escalating delays if needed?",A) Learning from 30% missing lab patterns | B) Documenting who raised the query | C) Monitoring query resolution | D) Using ICH-compliant templates,C
+course_3,ch_3_05,les_3_05_04,topic_3_05_04_01,quiz_3_05_04_5,Where does a heart stent trial query about a missing consent date show the added date was verified and recorded for FDA audit?,A) Ensuring compliance and documentation | B) Prompt sending within days | C) Vague query confusion avoidance | D) Hybrid paper-EDC hybrid,A
+course_3,ch_3_05,les_3_05_05,topic_3_05_05_01,quiz_3_05_05_1,"In a clinical trial, when handling Missing at Random data where older patients tend to skip surveys, which approach is recommended over simple deletion if the missing proportion exceeds 5%?",A) Delete records | B) Impute using mean age from similar patients | C) Ignore blanks | D) Flag as outlier,B
+course_3,ch_3_05,les_3_05_05,topic_3_05_05_01,quiz_3_05_05_2,A cancer trial using AI for data cleaning achieved a 30% reduction in cleaning time primarily by:,A) Predicting common typos across sites | B) Manually reviewing every CRF | C) Standardizing gender entries | D) Running range checks on ages,A
+course_3,ch_3_05,les_3_05_05,topic_3_05_05_01,quiz_3_05_05_3,"According to ICH E6 guidelines, what must be logged for every data correction such as fixing a lab value typo?","A) Site coordinator name only | B) Who made change, when, and rationale | C) Patient ID and timestamp | D) Software version used",B
+course_3,ch_3_05,les_3_05_05,topic_3_05_05_01,quiz_3_05_05_4,"During validation, a 2024 trial identified 10% more errors than manual review alone by:",A) Cross-validating eCRF with hospital records | B) Using scatter plots for duplicates | C) Converting all weights to kilograms | D) Training site staff on entry,A
+course_3,ch_3_05,les_3_05_05,topic_3_05_05_01,quiz_3_05_05_5,Which error type would an automated edit check in Medidata Rave flag in real time if a temperature is entered as 200°F?,A) Duplicate patient ID | B) Inconsistent date format | C) Out-of-range value | D) Missing visit date,C
+course_3,ch_3_05,les_3_05_06,topic_3_05_06_01,quiz_3_05_06_1,Which AI capability enables real-time detection of inconsistent lab values during data entry in eCRFs?,A) Protocol scanning | B) Real-time validation | C) Synthetic data generation | D) Source data verification,B
+course_3,ch_3_05,les_3_05_06,topic_3_05_06_01,quiz_3_05_06_2,"In imaging-heavy trials for Alzheimer’s drugs, what does AI do directly within the eCRF workflow?",A) Generates drop-down fatigue scales | B) Highlights changes in brain scans in real time | C) Anonymizes patient data per GDPR | D) Predicts site dropout rates,B
+course_3,ch_3_05,les_3_05_06,topic_3_05_06_01,quiz_3_05_06_3,"According to the material, what is a key regulatory requirement that AI systems must comply with during CRF automation?",A) Using only urban patient data | B) Ironclad security and anonymization per GDPR | C) Eliminating all human oversight | D) Generating synthetic data for live trials,B
+course_3,ch_3_05,les_3_05_06,topic_3_05_06_01,quiz_3_05_06_4,Which company’s platform is cited for automating source data verification and reducing errors by up to 30%?,A) Saama | B) IQVIA | C) Castor | D) Clinion,C
+course_3,ch_3_05,les_3_05_06,topic_3_05_06_01,quiz_3_05_06_5,"What specific trial outcome was improved by 45% using AI-driven automation, as reported by Veeva?",A) Patient enrollment speed | B) Site activation time | C) Imaging review accuracy | D) Data cleanup duration,D
+course_3,ch_3_05,les_3_05_07,topic_3_05_07_01,quiz_3_05_07_1,Which missing data mechanism requires domain knowledge to detect because the missingness depends directly on the unobserved values themselves?,A) Missing at Random | B) Missing Completely at Random | C) Missing Not at Random | D) Pattern-Mixture Models,C
+course_3,ch_3_05,les_3_05_07,topic_3_05_07_01,quiz_3_05_07_2,"In a cardiovascular study, which method revealed a treatment effect that single imputation failed to detect?",A) Last Observation Carried Forward | B) Multiple Imputation | C) Mean Imputation | D) Listwise Deletion,B
+course_3,ch_3_05,les_3_05_07,topic_3_05_07_01,quiz_3_05_07_3,What statistical rule is used to pool results across multiple imputed datasets to obtain valid estimates and confidence intervals?,A) Little's Test | B) Rubin's Rules | C) Hot-Deck Matching | D) K-Nearest Neighbors,B
+course_3,ch_3_05,les_3_05_07,topic_3_05_07_01,quiz_3_05_07_4,Which AI-driven imputation technique uses decision trees to predict missing values while automatically handling variable interactions?,A) Variational Autoencoders | B) Random Forests | C) Autoencoders | D) Generative Adversarial Networks,B
+course_3,ch_3_05,les_3_05_07,topic_3_05_07_01,quiz_3_05_07_5,"According to ICH E9 Addendum, what must be clearly defined when analyzing trials with missing data?",A) Estimands | B) Sensitivity thresholds | C) Imputation iterations | D) Heatmap clustering,A
+course_3,ch_3_05,les_3_05_08,topic_3_05_08_01,quiz_3_05_08_1,"Which core principle requires collecting only the essential variables for a trial, such as blood pressure without unrelated dietary details?",A) Access control | B) Data minimization | C) Encryption at rest | D) Multi-factor authentication,B
+course_3,ch_3_05,les_3_05_08,topic_3_05_08_01,quiz_3_05_08_2,"In a 2024 pilot, which emerging technology reduced audit times by 25% through tamper-proof logging of trial data changes?",A) AI anomaly detection | B) Blockchain | C) Token-based APIs | D) Penetration testing,B
+course_3,ch_3_05,les_3_05_08,topic_3_05_08_01,quiz_3_05_08_3,"Under GDPR, within how many hours must a data breach be notified to regulators after discovery?",A) 24 | B) 48 | C) 72 | D) 96,C
+course_3,ch_3_05,les_3_05_08,topic_3_05_08_01,quiz_3_05_08_4,"Which platform example is cited for enforcing access logs that track user ID, timestamp, and specific eCRF field changes like dose adjustments?",A) OpenClinica | B) AWS Cloud | C) Veeva Vault | D) Medidata,C
+course_3,ch_3_05,les_3_05_08,topic_3_05_08_01,quiz_3_05_08_5,What standard encryption algorithm is explicitly named in the material as the benchmark for high-security data scrambling?,A) AES-256 | B) RSA-2048 | C) SHA-512 | D) DES-128,A
+course_3,ch_3_05,les_3_05_09,topic_3_05_09_01,quiz_3_05_09_1,"In a Phase 3 vaccine trial example, what immediate system action prevented accidental use of the old CRF after adding an antibody level field?",A) Email notification to sites | B) Locking version 1 | C) Webinar training | D) Real-time AI suggestion,B
+course_3,ch_3_05,les_3_05_09,topic_3_05_09_01,quiz_3_05_09_2,"According to ICH guideline E6, what must accompany every CRF amendment in the documentation?",A) Statistical imputation plan | B) Rationale and date | C) Site-specific budget | D) AI prediction report,B
+course_3,ch_3_05,les_3_05_09,topic_3_05_09_01,quiz_3_05_09_3,Which eCRF platform is cited for auto-generating version histories and flagging data entered on outdated CRFs?,A) Medi-data Rave | B) Oracle Clinical | C) Veeva Vault | D) OpenClinica,C
+course_3,ch_3_05,les_3_05_09,topic_3_05_09_01,quiz_3_05_09_4,A 2023 study found that poorly planned CRF amendments caused delays in what percentage of trials?,A) 10% | B) 15% | C) 20% | D) 25%,C
+course_3,ch_3_05,les_3_05_09,topic_3_05_09_01,quiz_3_05_09_5,"When a new field is added in version 2, how should data from prior visits (now missing the new field) be addressed in the analysis plan?",A) Retroactively collect from sites | B) Use multiple imputation or note in plan | C) Ignore in final dataset | D) Revert all sites to version 1,B
+course_3,ch_3_05,les_3_05_10,topic_3_05_10_01,quiz_3_05_10_1,"In a 2024 diabetes trial, integration of EDC with which device reduced data entry time by 40% through auto-population of eCRF fields?",A) Glucose monitors | B) Wearable step counters | C) Blood pressure cuffs | D) Mobile symptom apps,A
+course_3,ch_3_05,les_3_05_10,topic_3_05_10_01,quiz_3_05_10_2,Which EDC platform is highlighted for open-source flexibility and suitability for academic trials with limited budgets?,A) Medidata Rave | B) OpenClinica | C) Veeva Vault | D) Castor,B
+course_3,ch_3_05,les_3_05_10,topic_3_05_10_01,quiz_3_05_10_3,"According to a 2022 study, paper-based trials showed how many more data errors compared to EDC systems?",A) 10% | B) 15% | C) 20% | D) 25%,C
+course_3,ch_3_05,les_3_05_10,topic_3_05_10_01,quiz_3_05_10_4,"In a 2023 AI-enhanced EDC pilot, what percentage of data entry errors were detected before reaching final analysis?",A) 70% | B) 80% | C) 90% | D) 95%,C
+course_3,ch_3_05,les_3_05_10,topic_3_05_10_01,quiz_3_05_10_5,"Which ICH guideline is explicitly cited as requiring EDC systems to maintain data integrity through encryption, access controls, and audit trails?",A) E6 | B) E8 | C) E9 | D) E10,A
+course_3,ch_3_06,les_3_06_01,topic_3_06_01_01,quiz_3_06_01_1,"In Step 4 of monitoring plan development, what frequency is recommended for high-risk areas such as patient safety?",A) Monthly | B) Every two weeks | C) Weekly | D) Quarterly,B
+course_3,ch_3_06,les_3_06_01,topic_3_06_01_01,quiz_3_06_01_2,Which role is explicitly assigned to review electronic case report forms weekly in the diabetes drug trial example?,A) Clinical research associate | B) Safety officer | C) Data team | D) Study coordinator,C
+course_3,ch_3_06,les_3_06_01,topic_3_06_01_01,quiz_3_06_01_3,"According to the material, within how many hours must a serious patient safety concern be escalated to the IRB?",A) 12 | B) 24 | C) 48 | D) 72,B
+course_3,ch_3_06,les_3_06_01,topic_3_06_01_01,quiz_3_06_01_4,"In Step 1, what specific example is given for a monitoring objective related to drug dosing in a heart disease trial?",A) No patient exceeds 5 mg/kg daily | B) All consent forms signed within 7 days | C) Data accuracy above 95% | D) Enrollment target met by week 8,A
+course_3,ch_3_06,les_3_06_01,topic_3_06_01_01,quiz_3_06_01_5,Which step in monitoring plan development involves creating templates for documenting findings and deciding escalation pathways?,A) Step 2: Identify what needs monitoring | B) Step 3: Assign roles | C) Step 4: Set methods and schedule | D) Step 5: Plan for reporting and follow-up,D
+course_3,ch_3_06,les_3_06_02,topic_3_06_02_01,quiz_3_06_02_1,What is a key characteristic of on-site monitoring?,A) It is done entirely through digital tools | B) It involves physically visiting the study site | C) It eliminates the need for interviewing staff | D) It can only be performed once a year,B
+course_3,ch_3_06,les_3_06_02,topic_3_06_02_01,quiz_3_06_02_2,Remote monitoring offers which main advantage compared to on-site monitoring?,A) Better observation of physical procedures | B) More frequent checks with no travel required | C) Stronger relationship building with site staff | D) Guaranteed perfect data accuracy,B
+course_3,ch_3_06,les_3_06_02,topic_3_06_02_01,quiz_3_06_02_3,Which type of study would most likely require more on-site monitoring?,A) Low-risk observational study | B) Phase 3 trial involving experimental drugs | C) Study with limited funding and resources | D) A site with excellent digital data systems,B
+course_3,ch_3_06,les_3_06_02,topic_3_06_02_01,quiz_3_06_02_4,What is one limitation of remote monitoring mentioned in the material?,A) It always costs more than on-site visits | B) It cannot review data entries | C) It depends heavily on accurate data entry by the site | D) It always replaces on-site visits,C
+course_3,ch_3_06,les_3_06_02,topic_3_06_02_01,quiz_3_06_02_5,"When choosing between on-site and remote monitoring, which factor should be considered?","A) Only the location of the site | B) Project complexity, budget, and technology | C) How many staff members like visitors | D) Whether the study is interesting",B
+course_3,ch_3_06,les_3_06_03,topic_3_06_03_01,quiz_3_06_03_1,Which statement best describes the difference between a site visit and an inspection?,A) Site visits are informal checks by monitors | B) Inspections are usually done by regulatory authorities like the FDA | C) Site visits always focus on legal compliance only | D) Inspections are less formal than site visits,B
+course_3,ch_3_06,les_3_06_03,topic_3_06_03_01,quiz_3_06_03_2,What is one key reason site visits are important in clinical trials?,A) They help spot problems early | B) They approve new treatments directly | C) They replace regulatory inspections | D) They eliminate the need for trained staff,A
+course_3,ch_3_06,les_3_06_03,topic_3_06_03_01,quiz_3_06_03_3,"In the preparation phase of a site visit, what is recommended?",A) Avoid making checklists | B) Schedule with the site in advance | C) Keep important records unorganized | D) Rely on memory instead of written plans,B
+course_3,ch_3_06,les_3_06_03,topic_3_06_03_01,quiz_3_06_03_4,"During the execution phase of an inspection, what might regulators ask for?",A) Institutional Review Board approvals | B) Party planning details | C) Only equipment storage temperatures | D) Nothing related to documentation,A
+course_3,ch_3_06,les_3_06_03,topic_3_06_03_01,quiz_3_06_03_5,"After a site visit, what should be done when issues are found?",A) Ignore them if they seem small | B) Write a report and suggest corrective actions | C) Wait indefinitely to respond | D) Avoid sharing findings with the site,B
+course_3,ch_3_06,les_3_06_04,topic_3_06_04_01,quiz_3_06_04_1,What best describes a deviation in a clinical study?,A) A complete failure to follow regulatory standards | B) A minor unintentional departure from the study protocol | C) A deliberate violation reported to the FDA | D) The total shutdown of a study,B
+course_3,ch_3_06,les_3_06_04,topic_3_06_04_01,quiz_3_06_04_2,Which situation represents non-compliance?,A) A patient misses one scheduled visit by one day | B) Equipment calibration is recorded properly | C) A serious adverse event is not reported to the IRB within the required timeframe | D) Staff attend scheduled retraining sessions,C
+course_3,ch_3_06,les_3_06_04,topic_3_06_04_01,quiz_3_06_04_3,"After identifying a deviation, what is the next appropriate step?",A) Ignore it if the patient seems fine | B) Immediately notify the media | C) Assess the impact on safety and data quality | D) Shut down the study site,C
+course_3,ch_3_06,les_3_06_04,topic_3_06_04_01,quiz_3_06_04_4,Which action is part of Step 3: Corrective Action Planning?,A) Conducting interviews with patients | B) Writing clear actions with deadlines and responsibilities | C) Removing all staff involved in the issue | D) Ending the clinical trial early,B
+course_3,ch_3_06,les_3_06_04,topic_3_06_04_01,quiz_3_06_04_5,Why must non-compliance be handled quickly and formally?,A) To avoid having to use digital reporting tools | B) Because it typically has no effect on patient safety | C) It can lead to regulatory penalties or study disruptions if ignored | D) It is optional for most clinical studies,C
+course_3,ch_3_06,les_3_06_05,topic_3_06_05_01,quiz_3_06_05_1,Which of the following best describes investigator oversight?,A) Handling only paperwork while staff manage the study entirely | B) The principal investigator supervising all study activities at the site | C) Allowing the sponsor to make all protocol decisions | D) Conducting only post-study data reviews,B
+course_3,ch_3_06,les_3_06_05,topic_3_06_05_01,quiz_3_06_05_2,Why is strong investigator oversight important in clinical trials?,A) It ensures participants receive correct treatment and accurate data is collected | B) It eliminates the need for IRB approvals | C) It guarantees zero deviations ever occur | D) It replaces Good Clinical Practice guidelines entirely,A
+course_3,ch_3_06,les_3_06_05,topic_3_06_05_01,quiz_3_06_05_3,What is the first essential step an investigator must take before a study begins?,A) Conduct weekly meetings with the sponsor immediately | B) Understand the protocol and applicable regulations | C) Approve all patient healthcare costs personally | D) Skip training for experienced staff,B
+course_3,ch_3_06,les_3_06_05,topic_3_06_05_01,quiz_3_06_05_4,Which action represents proper oversight for data and safety reporting?,A) Reporting adverse events only at the end of a study | B) Reviewing electronic case report forms regularly for errors | C) Allowing untrained staff to enter clinical data | D) Ignoring missed patient visits if outcomes look normal,B
+course_3,ch_3_06,les_3_06_05,topic_3_06_05_01,quiz_3_06_05_5,Which responsibility falls under investigator communication duties?,A) Reporting deviations to the sponsor and proposing corrective actions | B) Avoiding contact with the IRB unless asked | C) Only discussing issues after the study ends | D) Telling staff not to report minor mistakes,A
+course_3,ch_3_06,les_3_06_06,topic_3_06_06_01,quiz_3_06_06_1,What is the primary function of AI-driven monitoring alerts in clinical trials?,"A) To manually review every patient report |
+B) To automatically detect patterns or anomalies in real-time data |
+C) To replace clinical investigators entirely |
+D) To store paper records securely",B
+course_3,ch_3_06,les_3_06_06,topic_3_06_06_01,quiz_3_06_06_2,Which of the following best describes a high-priority alert threshold?,"A) A single overdue entry in a non-essential field |
+B) A slight delay in patient follow-up scheduling |
+C) An adverse event not reported within 24 hours to the IRB |
+D) A duplicate phone number in patient profile",C
+course_3,ch_3_06,les_3_06_06,topic_3_06_06_01,quiz_3_06_06_3,Why is human oversight still needed even when using AI-driven alerts?,"A) AI cannot be connected to digital tools |
+B) Humans must validate alerts and take corrective action |
+C) AI cannot scan multiple sites |
+D) Humans are faster at reading lab results",B
+course_3,ch_3_06,les_3_06_06,topic_3_06_06_01,quiz_3_06_06_4,Which step involves testing alerts with mock scenarios and ensuring alerts reach the correct person?,"A) Reviewing and refining accuracy every month |
+B) Setting up AI tools and training them with historical data |
+C) Integrating the system into the study workflow |
+D) Defining thresholds like 80 percent of enrollment rate",C
+course_3,ch_3_06,les_3_06_06,topic_3_06_06_01,quiz_3_06_06_5,What is one major benefit of AI alerts compared to traditional manual monitoring?,"A) They completely eliminate the FDA’s involvement |
+B) They can detect subtle data issues early to prevent risks |
+C) They reduce the need to store patient data securely |
+D) They run only during business hours",B
+course_3,ch_3_06,les_3_06_07,topic_3_06_07_01,quiz_3_06_07_1,Where does central monitoring typically take place?,"A) At hospitals or clinics where patients are treated |
+B) At a sponsor’s or CRO’s remote office using electronic systems |
+C) Inside patient homes during treatment delivery |
+D) At regulatory authority field stations",B
+course_3,ch_3_06,les_3_06_07,topic_3_06_07_01,quiz_3_06_07_2,What is a major advantage of local monitoring?,"A) It eliminates the need for site staff |
+B) It allows direct observation of procedures and real-time practices |
+C) It fully replaces all data review activities |
+D) It requires no scheduling or travel",B
+course_3,ch_3_06,les_3_06_07,topic_3_06_07_01,quiz_3_06_07_3,Which situation would most strongly support using central monitoring?,"A) High-risk trials needing intensive safety checks |
+B) Observational studies with large patient numbers across many sites |
+C) Trials where drug storage needs daily inspection |
+D) Studies with frequent protocol training gaps",B
+course_3,ch_3_06,les_3_06_07,topic_3_06_07_01,quiz_3_06_07_4,What is a common limitation of central monitoring?,"A) It depends heavily on accurate remote data entry |
+B) It requires constant travel to global sites |
+C) It prevents data from being aggregated across locations |
+D) It interrupts patient care during visits",A
+course_3,ch_3_06,les_3_06_07,topic_3_06_07_01,quiz_3_06_07_5,How does a hybrid monitoring approach improve trial performance?,"A) By avoiding any direct interaction with study sites |
+B) By combining broad data oversight with targeted on-site checks |
+C) By focusing only on equipment calibration |
+D) By stopping monitoring once enrollment reaches 90 percent",B
+course_3,ch_3_06,les_3_06_08,topic_3_06_08_01,quiz_3_06_08_1,What is the main purpose of escalation procedures in clinical trials?,"A) To delay reporting issues until a site visit occurs |
+B) To ensure serious problems are quickly reported to higher authority |
+C) To eliminate documentation requirements |
+D) To avoid communication with sponsors",B
+course_3,ch_3_06,les_3_06_08,topic_3_06_08_01,quiz_3_06_08_2,Which of the following would most likely trigger an escalation?,"A) A minor typo in a patient questionnaire |
+B) A single rescheduled appointment with no impact |
+C) A serious side effect from a dose of five milligrams per kilogram |
+D) A monitor asking for basic clarification",C
+course_3,ch_3_06,les_3_06_08,topic_3_06_08_01,quiz_3_06_08_3,Who is typically notified first when a site issue cannot be resolved at the initial level?,"A) The sponsor’s financial team |
+B) The hospital’s receptionist |
+C) The principal investigator or study manager |
+D) The local media",C
+course_3,ch_3_06,les_3_06_08,topic_3_06_08_01,quiz_3_06_08_4,Why is documentation important during escalation?,"A) It allows issues to be ignored later |
+B) It increases travel requirements |
+C) It provides accountability and supports compliance |
+D) It replaces communication between teams",C
+course_3,ch_3_06,les_3_06_08,topic_3_06_08_01,quiz_3_06_08_5,Which action improves the effectiveness of escalation procedures?,"A) Avoiding staff training to save time |
+B) Hiding mistakes to reduce reported issues |
+C) Using updated contact lists and mock scenario testing |
+D) Reporting only after the study concludes",C
+course_3,ch_3_06,les_3_06_09,topic_3_06_09_01,quiz_3_06_09_1,What is the primary purpose of a monitoring report in a clinical trial?,"A) To replace communication between sponsors and sites |
+B) To summarize monitoring findings and guide corrective actions |
+C) To advertise the study to new sites |
+D) To remove the need for protocol compliance",B
+course_3,ch_3_06,les_3_06_09,topic_3_06_09_01,quiz_3_06_09_2,Which of the following would typically be included in a monitoring report?,"A) Personal opinions of the monitor only |
+B) Site name, visit date, findings, and corrective actions |
+C) Marketing strategy for future studies |
+D) Irrelevant patient personal history not related to the trial",B
+course_3,ch_3_06,les_3_06_09,topic_3_06_09_01,quiz_3_06_09_3,Why are monitoring reports important for regulatory oversight?,"A) They prevent sites from using electronic systems |
+B) They allow regulatory bodies like the FDA to verify compliance |
+C) They eliminate the need for site staff training |
+D) They only highlight positive findings",B
+course_3,ch_3_06,les_3_06_09,topic_3_06_09_01,quiz_3_06_09_4,Which of these is considered a critical finding that a monitoring report should highlight urgently?,"A) A minor spelling error in a filename |
+B) Brief storage temperature above eight degrees Celsius for a vaccine |
+C) Extra copies of blank consent forms in storage |
+D) Overuse of medical abbreviations",B
+course_3,ch_3_06,les_3_06_09,topic_3_06_09_01,quiz_3_06_09_5,What helps improve the effectiveness of monitoring reports?,"A) Delaying submission to collect more errors |
+B) Prioritizing issues and using clear, objective language |
+C) Keeping reports extremely vague to save time |
+D) Ignoring follow-ups after recommendations",B
+course_3,ch_3_06,les_3_06_10,topic_3_06_10_01,quiz_3_06_10_1,What is the primary purpose of close-out monitoring in a clinical trial?,"A) To begin enrolling new participants at the site |
+B) To verify that all study activities are completed accurately and compliantly |
+C) To replace earlier monitoring visits |
+D) To recruit the monitor for future studies",B
+course_3,ch_3_06,les_3_06_10,topic_3_06_10_01,quiz_3_06_10_2,Which of the following is a key activity during close-out monitoring?,"A) Adding new patient data after the trial ends |
+B) Checking that all required documents and data entries are complete |
+C) Removing protocol requirements from the study binder |
+D) Storing unused drugs indefinitely at the site",B
+course_3,ch_3_06,les_3_06_10,topic_3_06_10_01,quiz_3_06_10_3,Who typically leads the close-out monitoring process at a study site?,"A) The hospital receptionist |
+B) A clinical research associate or monitor |
+C) The marketing team |
+D) Local news reporters",B
+course_3,ch_3_06,les_3_06_10,topic_3_06_10_01,quiz_3_06_10_4,Which situation would require resolution before a site can be closed out?,"A) Study binder arranged alphabetically |
+B) Missing final visit lab results for a participant |
+C) Extra chairs in the monitoring room |
+D) A personal photo on the coordinator’s desk",B
+course_3,ch_3_06,les_3_06_10,topic_3_06_10_01,quiz_3_06_10_5,What helps ensure an efficient and effective close-out visit?,"A) Organizing records throughout the study and using checklists |
+B) Waiting until the last day to gather all documents |
+C) Avoiding communication between monitor and site staff |
+D) Submitting the close-out report months later",A
 course_3,ch_3_07,les_3_07_01,topic_3_07_01_01,quiz_3_07_01_1,,,
 course_3,ch_3_07,les_3_07_01,topic_3_07_01_01,quiz_3_07_01_2,,,
 course_3,ch_3_07,les_3_07_01,topic_3_07_01_01,quiz_3_07_01_3,,,
