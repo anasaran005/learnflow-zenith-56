@@ -182,7 +182,26 @@ course_1,ch_1_01,les_1_01_09,topic_1_01_09_01,quiz_1_01_09_5,What are the three 
 B) Strategic thinking, systemic awareness, and narrative leadership |
 C) Technical expertise, communication skills, and decision-making ability |
 D) Risk assessment, resource allocation, and performance measurement",B
-,,,,,,,
+course_1,ch_1_01,les_1_01_10,topic_1_01_10_01,quiz_1_01_10_1,"What does the acronym ALCOA stand for, and what is each component's meaning?","A) Accurate, Legal, Complete, Original, Available |
+B) Attributable, Legible, Contemporaneous, Original, Accurate |
+C) Accessible, Logical, Consistent, Objective, Authentic |
+D) Authorized, Listed, Controlled, Official, Auditable",B
+course_1,ch_1_01,les_1_01_10,topic_1_01_10_01,quiz_1_01_10_2,"In the hospital laboratory case study, what three systematic responses were implemented after discovering the missing temperature logs?","A) Implementation of CAPA, retraining staff on deviation reporting, and installing a backup thermometer|
+B) Replacement of faulty equipment, revision of existing policies, and delivery of targeted staff training |
+C) Upgrading systems, adjusting work schedules, and performing vendor performance evaluations |
+D) Issuing written warnings, conducting process reviews, and formally notifying management",A
+course_1,ch_1_01,les_1_01_10,topic_1_01_10_01,quiz_1_01_10_3,"How is backdating of results typically detected during audits, and what are the consequences?","A) Identified by statistical analysis methods, leading mainly to regulatory warning letters |
+B) Revealed through employee self-reporting, leading to follow-up sessions and additional staff training |
+C) Spotted by trend or pattern recognition techniques, resulting primarily in process improvement steps |
+D) Detected through mismatched audit trail timestamps, causing data invalidation and mandatory retesting",D
+course_1,ch_1_01,les_1_01_10,topic_1_01_10_01,quiz_1_01_10_4,what are the three critical outcomes guaranteed by a sophisticated document control system?,"A) Cost reduction, efficiency improvement, and staff training |
+B) Universal adherence to instructions, elimination of obsolete versions, and perpetual audit readiness |
+C) Document creation, approval processes, and storage management |
+D) Version tracking, change management, and regulatory compliance",B
+course_1,ch_1_01,les_1_01_10,topic_1_01_10_01,quiz_1_01_10_5,What are the six sequential phases of the CAPA workflow?,"A) Identify, Analyze, Plan, Implement, Monitor, Close |
+B) Identify problem, Investigate, Plan action, Implement, Verify, Document |
+C) Detect issue, Investigate, Correct, Prevent, Verify, Record |
+D) Define, Measure, Analyze, Improve, Control, Document",B
 course_1,ch_1_02,les_1_02_01,topic_1_02_01_01,quiz_1_02_01_1,What is the primary function of a hospital’s Quality Management System (QMS)?,"A) To schedule staff shifts and ward assignments |
 B) To document processes, responsibilities, and procedures for quality care and patient safety |
 C) To manage hospital finances and budgets |
@@ -948,6 +967,26 @@ course_1,ch_1_05,les_1_05_09,topic_1_05_09_01,quiz_1_05_09_5,"According to the p
 B) Simplified deviation scenarios only |
 C) Exclusion of escalation processes |
 D) Minimal documentation practice",A
+course_1,ch_1_05,les_1_05_10,topic_1_05_10_01,quiz_1_05_10_1,"What risk is associated with misidentifying a deviation’s cause, as per the material?","A) Faster audit approvals |
+B) Ineffective solutions and recurring issues |
+C) Reduced need for RCA tools |
+D) Simplified deviation documentation",B
+course_1,ch_1_05,les_1_05_10,topic_1_05_10_01,quiz_1_05_10_2,What action is required for a critical deviation like a sterility failure?,"A) Correct locally without documentation |
+B) Escalate to management and regulatory teams |
+C) Log as a minor issue for supervisor review |
+D) Continue production to assess impact later",B
+course_1,ch_1_05,les_1_05_10,topic_1_05_10_01,quiz_1_05_10_3,Which containment strategy involves isolating affected materials in a designated area?,"A) Process stoppage to halt production |
+B) Segregation of approved batches |
+C) Quarantine of affected materials |
+D) Immediate batch release approval",C
+course_1,ch_1_05,les_1_05_10,topic_1_05_10_01,quiz_1_05_10_4,What is the purpose of the escalation ladder in GMP deviation management?,"A) To simplify SOP creation processes |
+B) To route deviations to appropriate authority levels |
+C) To eliminate the need for deviation logs |
+D) To reduce staff training requirements",B
+course_1,ch_1_05,les_1_05_10,topic_1_05_10_01,quiz_1_05_10_5,What does an impact assessment evaluate to guide further actions?,"A) The cost of production downtime |
+B) The deviation’s effect on quality and safety |
+C) The number of staff trained on SOPs |
+D) The speed of audit preparation",B
 course_1,ch_1_06,les_1_06_01,topic_1_06_01_01,quiz_1_06_01_1,What is the primary purpose of CAPA in GMP deviation management?,"A) To simplify SOP documentation processes |
 B) To address deviations and prevent recurrence |
 C) To reduce the need for deviation logs |
