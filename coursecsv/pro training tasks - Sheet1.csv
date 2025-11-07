@@ -1779,7 +1779,7 @@ course_3,Pro Training in Clinical Research,ch_3_02,Clinical Trial Protocol Devel
     - Open the attached PulseCalm Trial Details PDF.
     - Note the trial details for Study Title, Phase, Objectives, Population and Criteria, Intervention/Methods, and Endpoints.
 Create the Protocol Summary:
-    - Open Zane CTMS, Click “Studies” & Create new study.
+    - Open Zane CTMS, Click “Studies” & Create Protocol summary.
     - Phase: Select the appropriate trial phase (Phase I, II, III, or IV).
     - Objectives: State primary and secondary objectives (1-2 sentences each), ensuring they meet SMART criteria.
     - Population and Criteria: Describe the participant eligibility criteria.
@@ -1797,7 +1797,7 @@ A completed Clinical Trial Protocol Summary Submission in ZANE CTMS.",https://dr
     - Note the trial details (Study Title, Phase, Population and Criteria) and the mock patient profiles to screen.
 Protocol summary submission.
     - Access ZANE CTMS from tools.
-    - Click “Studies” & go to “Create new study”.
+    - Click “Studies” & go to “Create Protocol summary”.
     - Complete the following fields using the reference document:
         - Study Title: The name of the NeuroRelief trial.
         - Phase: Select the appropriate trial phase (Phase I, II, III, or IV).
@@ -2018,7 +2018,7 @@ Complete Budget submission: Access ZANE CTMS.
 - Provide a 1–2 sentence justification for each cost, explaining its necessity for the trial.
 - Enter your name in the student information field.
 - The form will auto-calculate the total budget.
-Submit via ZANE CTMS.",10,,,,,
+Submit via ",10,,,,,
 course_3,Pro Training in Clinical Research,ch_3_03,Site Selection & Study Start-Up,les_3_03_05,Regulatory Submissions for Sites.,task_3_03_05_1,Regulatory Submissions for Sites Task,"As a Clinical Research Coordinator at Zenith Clinical Solutions, you are preparing a mock Investigational New Drug (IND) submission package for a Phase II diabetes trial, DiabetaCare, testing a new oral medication. Dr. Sarah Patel, your supervisor, has tasked you with using AI to generate summaries for the submission components for a site enrolling 100 patients.
 
 Deliverables
@@ -2044,7 +2044,7 @@ Use ChatGPT for SSUM Simulation: Access ChatGPT. Input the provided SSUM simulat
     - Ask ChatGPT for feedback on your response’s clarity, completeness, and professionalism using the feedback prompt in the reference document.
     - Copy your response and ChatGPT’s feedback into the digital form (link in the reference document).
 Complete SSUM Submission : Access ZANE CTMS.
-4. Enter,
+Enter,
     - Your name in the student information field.
     - The four responses and corresponding ChatGPT feedback for the SSUM prompts.
     - The form will auto-save your entries.
