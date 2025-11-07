@@ -1756,13 +1756,13 @@ A completed Clinical Trial Protocol Summary Submission containing:
   - Filled fields for Study Title, Phase, Objectives, Population and Criteria, Intervention/Methods, Endpoints.
     - A 150-200-word explanation in the Full Protocol Summary section.
     - A completed Self-Assessment Checklist confirming alignment with the scenario.
-- Submission method: ZANE CTMS.",https://drive.google.com/file/d/1HnMGJLii9QdMilPlLzklflpGpjpraZFY/view?usp=sharing,https://tally.so/r/mDlZkq | https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1gZQE_qjuenmTjHWlvidgHra5O2A-sOxt/view?usp=sharing,"Review the Reference Document:
+- Submission method: ZANE CTMS.",https://drive.google.com/file/d/1HnMGJLii9QdMilPlLzklflpGpjpraZFY/view?usp=sharing,https://zane-ctms.vercel.app | https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1gZQE_qjuenmTjHWlvidgHra5O2A-sOxt/view?usp=sharing,"Review the Reference Document:
     - Open the attached CardioVita Trial Details PDF.
     - Note the trial details for Study Title, Phase, Objectives, Population and Criteria, Intervention/Methods, and Endpoints.
 Create the Protocol Summary:
     - Open Zane CTMS.
         - Click “Studies”
-        - Create new study (Study means Clinical Trial Protocol)
+        - Create Protocol summary
         - Objectives: State primary and secondary objectives (1-2 sentences each).
         - Population and Criteria: Describe the participant eligibility criteria.
         - Intervention/Methods: Detail the treatment and procedures.
@@ -1775,7 +1775,7 @@ course_3,Pro Training in Clinical Research,ch_3_02,Clinical Trial Protocol Devel
 
 ## Deliverable
 
-- A completed Clinical Trial Protocol Summary Submission using ZANE CTMS.",https://drive.google.com/file/d/1x1te-hEFihOFwsp9WC5RUykx91MmG9gZ/view?usp=sharing,https://tally.so/r/mDlZkq,https://drive.google.com/file/d/1SKwQBDTsZNFqa14v1vUYrdPcVeYH1kZ2/view?usp=sharing,"Review the Reference Document:
+- A completed Clinical Trial Protocol Summary Submission using ZANE CTMS.",https://drive.google.com/file/d/1x1te-hEFihOFwsp9WC5RUykx91MmG9gZ/view?usp=sharing,https://zane-ctms.vercel.app,https://drive.google.com/file/d/1SKwQBDTsZNFqa14v1vUYrdPcVeYH1kZ2/view?usp=sharing,"Review the Reference Document:
     - Open the attached PulseCalm Trial Details PDF.
     - Note the trial details for Study Title, Phase, Objectives, Population and Criteria, Intervention/Methods, and Endpoints.
 Create the Protocol Summary:
@@ -1792,7 +1792,7 @@ course_3,Pro Training in Clinical Research,ch_3_02,Clinical Trial Protocol Devel
 
 Deliverables
 
-A completed Clinical Trial Protocol Summary Submission in ZANE CTMS.",https://drive.google.com/file/d/1Lb8Gd1atLTkCCbWL_XnYDuSpYNFSOVmz/view?usp=sharing,https://tally.so/r/mDlZkq,https://drive.google.com/file/d/1oFNywQYrwwABZnRHwwbTuzTSti-wRPBo/view?usp=sharing,"Review the Reference Document:
+A completed Clinical Trial Protocol Summary Submission in ZANE CTMS.",https://drive.google.com/file/d/1Lb8Gd1atLTkCCbWL_XnYDuSpYNFSOVmz/view?usp=sharing,https://zane-ctms.vercel.app,https://drive.google.com/file/d/1oFNywQYrwwABZnRHwwbTuzTSti-wRPBo/view?usp=sharing,"Review the Reference Document:
     - Open the attached NeuroRelief Patient Screening Data PDF.
     - Note the trial details (Study Title, Phase, Population and Criteria) and the mock patient profiles to screen.
 Protocol summary submission.
@@ -1813,7 +1813,7 @@ course_3,Pro Training in Clinical Research,ch_3_02,Clinical Trial Protocol Devel
 
 Deliverables
 
-Dosing schedule submission inside ZANE CTMS.",https://drive.google.com/file/d/1E1pboPHPmgw0Cp4w4Yn-CI9laMAGTAuw/view?usp=sharing,https://tally.so/r/mZx1d0,https://drive.google.com/file/d/1Mb-ZRprJhSLsCT9lS2t4uz4HN_qctHJt/view?usp=sharing,"Review the Reference Document:
+Dosing schedule submission inside ZANE CTMS.",https://drive.google.com/file/d/1E1pboPHPmgw0Cp4w4Yn-CI9laMAGTAuw/view?usp=sharing,https://zane-ctms.vercel.app,https://drive.google.com/file/d/1Mb-ZRprJhSLsCT9lS2t4uz4HN_qctHJt/view?usp=sharing,"Review the Reference Document:
     - Open the attached OsteoFlex Trial Details PDF.
     - Note the trial details for the intervention, dosing schedule, and participant parameters.
 Go to ZANE CTMS, Click “Visit scheduling” and locate the feature for scheduling dosing.
@@ -1835,7 +1835,7 @@ Deliverables
     - A 150-200-word explanation in the Comments section.
 - Submission method: Via ZANE CTMS.
 
-Estimated Time: 35-50 minutes",https://drive.google.com/file/d/1gzToQAEjnV2jiWgqI2ecTDANs0PpzjNf/view?usp=sharing,https://tally.so/r/w7QaeR,https://drive.google.com/file/d/1rqwVRLaOYBbo_uvlMSknJ6xqKNZ2j99I/view?usp=sharing,"Review the Reference Document:
+Estimated Time: 35-50 minutes",https://drive.google.com/file/d/1gzToQAEjnV2jiWgqI2ecTDANs0PpzjNf/view?usp=sharing,https://zane-ctms.vercel.app,https://drive.google.com/file/d/1rqwVRLaOYBbo_uvlMSknJ6xqKNZ2j99I/view?usp=sharing,"Review the Reference Document:
     - Open the attached LungEase Trial Details PDF.
     - Note the trial details for assessment types (Screening, Baseline, Follow-Up, Safety) and their timing.
 Fill Out the Assessment Schedule:
@@ -1853,7 +1853,7 @@ course_3,Pro Training in Clinical Research,ch_3_02,Clinical Trial Protocol Devel
 
 Deliverables
 
-A completed RBQM submission in ZANE VEEVA.",https://drive.google.com/file/d/1T2ctdSuD8YUGJi8dAYrMlJWcdacz0lty/view?usp=sharing,https://tally.so/r/nPobye,https://drive.google.com/file/d/1ky8ki9x7t11vTWeTlnDyZMmgH3AUf1AX/view?usp=sharing,"Review the Reference Document:
+A completed RBQM submission in ZANE VEEVA.",https://drive.google.com/file/d/1T2ctdSuD8YUGJi8dAYrMlJWcdacz0lty/view?usp=sharing,https://zane-ctms.vercel.app,https://drive.google.com/file/d/1ky8ki9x7t11vTWeTlnDyZMmgH3AUf1AX/view?usp=sharing,"Review the Reference Document:
     - Open the attached SleepWell Trial Risk Data PDF.
     - Note the trial details and identified risks, including their types (safety, data, protocol) and potential severity.
 Use RBQM in ZANE CTMS.
@@ -2011,7 +2011,7 @@ course_3,Pro Training in Clinical Research,ch_3_03,Site Selection & Study Start-
 
 Deliverables
 
-Budget submission in ZANE CTMS: A completed submission with estimated costs, justifications, student name, and auto-calculated total budget.",https://drive.google.com/file/d/1qjRW3-X0W3r3m8EkkkSj6NSYjPLMZsqJ/view?usp=sharing,https://tally.so/r/nGMOve,https://drive.google.com/file/d/1ZIdh5iFXrrv0DCS1ctuZNgjxE41RwS2x/view?usp=sharing,"Review Reference Document: Consult the attached PDF for the DiabetaCare trial requirements, site responsibilities, and instructions to access the digital budget form.
+Budget submission in ZANE CTMS: A completed submission with estimated costs, justifications, student name, and auto-calculated total budget.",https://drive.google.com/file/d/1qjRW3-X0W3r3m8EkkkSj6NSYjPLMZsqJ/view?usp=sharing,https://zane-ctms.vercel.app,https://drive.google.com/file/d/1ZIdh5iFXrrv0DCS1ctuZNgjxE41RwS2x/view?usp=sharing,"Review Reference Document: Consult the attached PDF for the DiabetaCare trial requirements, site responsibilities, and instructions to access the digital budget form.
 Complete Budget submission: Access ZANE CTMS. 
 - Go to documents section and find budget section.
 - Enter a realistic estimated cost in USD based on trial needs and site responsibilities.
@@ -2038,7 +2038,7 @@ course_3,Pro Training in Clinical Research,ch_3_03,Site Selection & Study Start-
 
 Deliverables
 
-A completed SSUM SUBMISISON in ZANE CTMS.",https://drive.google.com/file/d/1Qgt1v4zioTR2XorAzTej2HXKoVhSMQeb/view?usp=sharing,https://tally.so/r/nGMOaZ,https://drive.google.com/file/d/1R3ZhOM14oJsgfzC-gOn4hH8TykfAZ5BL/view?usp=sharing,"Review Reference Document: Consult the attached PDF for the DiabetaCare trial requirements, SSUM agenda items, and ChatGPT prompt guidelines.
+A completed SSUM SUBMISISON in ZANE CTMS.",https://drive.google.com/file/d/1Qgt1v4zioTR2XorAzTej2HXKoVhSMQeb/view?usp=sharing,https://zane-ctms.vercel.app,https://drive.google.com/file/d/1R3ZhOM14oJsgfzC-gOn4hH8TykfAZ5BL/view?usp=sharing,"Review Reference Document: Consult the attached PDF for the DiabetaCare trial requirements, SSUM agenda items, and ChatGPT prompt guidelines.
 Use ChatGPT for SSUM Simulation: Access ChatGPT. Input the provided SSUM simulation prompts from the reference document to role-play as the site coordinator. For each prompt (covering Protocol Review, Recruitment Plans, Site Readiness, Safety & Reporting):
     - Provide a concise response (50–75 words each) addressing the prompt as if speaking to the sponsor/CRO.
     - Ask ChatGPT for feedback on your response’s clarity, completeness, and professionalism using the feedback prompt in the reference document.
