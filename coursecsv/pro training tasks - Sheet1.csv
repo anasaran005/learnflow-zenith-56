@@ -2025,7 +2025,7 @@ course_3,Pro Training in Clinical Research,ch_3_03,Site Selection & Study Start-
 
 Deliverables
 
-Submission Form: A completed ΩMEGA WORD DOC with your name, feasibility scores, rationales for each site, and a recommendation for the top two sites.","Review Reference Document: Consult the attached PDF for the DiabetaCare trial requirements, site datasets, and ChatGPT prompt guidelines.
+A completed ΩMEGA WORD DOC with your name, feasibility scores, rationales for each site, and a recommendation for the top two sites.","Review Reference Document: Consult the attached PDF for the DiabetaCare trial requirements, site datasets, and ChatGPT prompt guidelines.
 Use ChatGPT for Feasibility Simulation: Access ChatGPT. For each site (Site A, Site B, Site C):
   Input the provided prompt with the site’s dataset (from the reference document) to generate a feasibility score (0–100) and a brief rationale (50–75 words).
   Rank the sites from highest to lowest score.
@@ -2034,7 +2034,7 @@ course_3,Pro Training in Clinical Research,ch_3_03,Site Selection & Study Start-
 
 Deliverables
 
-Submission Form: A completed digital input in ΩMEGA WORD with your name and four training log entries, each including staff details, a ChatGPT-generated quiz question, and result.","Review Reference Document: Consult the attached PDF for the DiabetaCare trial requirements, training module details, and ChatGPT prompt guidelines.
+A completed digital input in ΩMEGA WORD with your name and four training log entries, each including staff details, a ChatGPT-generated quiz question, and result.","Review Reference Document: Consult the attached PDF for the DiabetaCare trial requirements, training module details, and ChatGPT prompt guidelines.
 Use ChatGPT for Training Log: Access the free version of ChatGPT (chatgpt.com). For each training module (Protocol Training, GCP Training, Data Collection, Safety Reporting):
   Use the provided prompts in the reference document to generate one multiple-choice quiz question (with four answer options and the correct answer) to assess staff competency.
   Create a training log entry for a sample staff member, including their name, role, module completion date, and quiz result (e.g., Pass: 100%).
@@ -2049,7 +2049,6 @@ Use ChatGPT for Checklist Validation: Access ChatGPT. Input the provided prompt 
   Validate each checklist item (Regulatory Approvals, Contracts, Staff Training, Facilities & Equipment, Protocol Ready, Essential Documents, System Access) as Complete or Incomplete.
   Generate a brief rationale (50–75 words) for any Incomplete items, explaining the gap.
   Confirm overall site readiness (Ready or Not Ready).
-  Copy the validation results, rationales, and readiness status into the digital form (link in the reference document).
 Submit in ΩMEGA WORD ",10,,,,,
 course_3,Pro Training in Clinical Research,ch_3_03,Site Selection & Study Start-Up,les_3_03_10,Common Start-Up Pitfalls.,task_3_03_10_1,Common Start-Up Pitfalls Task,https://drive.google.com/file/d/1087DJIY1svLM0YfOLfVhlaJBUOUjhKRI/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/13AuG8rrnUjae2bfcaQDq7iQPYJi-pJDC/view?usp=sharing,"As a Clinical Research Coordinator at Zenith Clinical Solutions, you are troubleshooting a delayed site for a Phase II diabetes trial, DiabetaCare, testing a new oral medication. Dr. Sarah Patel, your supervisor, has tasked you with using a free web-based AI text generator to diagnose start-up pitfalls for a site enrolling 100 patients and propose solutions to ensure readiness.
 
@@ -2105,25 +2104,26 @@ Create Eligibility Checklist Template:
   Include fields for participant ID, checkboxes for each criterion, final eligibility decision, and comments.
 Analyze Participant Data: Use the provided hypothetical participant data (Reference 1) to assess eligibility for each of the three participants against the checklist.
 Complete Eligibility Checklists:
-- For each participant, fill out the checklist, marking whether they meet each inclusion and exclusion criterion.
-- Indicate the final eligibility decision (eligible or ineligible) with a brief justification in the comments section.
+For each participant, fill out the checklist, marking whether they meet each inclusion and exclusion criterion.
+Indicate the final eligibility decision (eligible or ineligible) with a brief justification in the comments section.
 Write Narrative:
-- Describe the screening process applied to the three participants (e.g., informed consent, medical history review, tests).
-- Address ethical considerations (e.g., informed consent timing, data confidentiality).
-- Explain documentation requirements (e.g., source documents, audit readiness).
-- Ensure the narrative is concise, professional, and aligned with regulatory standards.
+ Describe the screening process applied to the three participants (e.g., informed consent, medical history review, tests).
+Address ethical considerations (e.g., informed consent timing, data confidentiality).
+Explain documentation requirements (e.g., source documents, audit readiness).
+Ensure the narrative is concise, professional, and aligned with regulatory standards.
 Compile Deliverables: 
-- Paste everything into ΩMEGA WORD.
-- Submit the eligibility checklist template.
-- Include completed checklists for all three participants.
-- Attach the narrative as a separate section.",10,,,,,
+Paste everything into ΩMEGA WORD.
+Submit the eligibility checklist template.
+Include completed checklists for all three participants.
+Attach the narrative as a separate section.
+All inside omega word & submit",10,,,,,
 course_3,Pro Training in Clinical Research,ch_3_04,Patient Recruitment & Informed Consent,les_3_04_03,Informed Consent Process.,task_3_04_03_1,Reviewing an Informed Consent Form for a Phase II Diabetes Trial,https://drive.google.com/file/d/1gA-S1p-kYwH5hkQ6teKt2Qa0sDJCAJrD/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1_cNhNQCi6hX99rA-Du6AraFmnL5hn1rj/view?usp=sharing,"You are a clinical research coordinator at a trial site conducting a Phase II clinical trial evaluating a new oral medication for type 2 diabetes. The trial requires 100 participants aged 18–65 years with uncontrolled diabetes (HbA1c ≥7%). As part of the trial setup, you are tasked with reviewing a draft informed consent form (ICF) to ensure it meets regulatory requirements before submission to the Institutional Review Board (IRB).
 
 Deliverables
 
 A list of missing or incomplete elements in the provided draft ICF, based on ICH-GCP requirements.
 A brief explanation (100–150 words) of why the identified elements are critical for ethical and regulatory compliance.
-PASTE ON ΩMEGA WORD.","Review ICH-GCP Requirements: Refer to the reference document summarizing ICH-GCP guidelines for essential ICF elements.
+Paste in ΩMEGA WORD.","Review ICH-GCP Requirements: Refer to the reference document summarizing ICH-GCP guidelines for essential ICF elements.
 Analyze Draft ICF: Examine the provided draft ICF (Reference 1) and compare it against the ICH-GCP requirements.
 Identify Missing/Incomplete Elements:
   List any essential elements (e.g., study purpose, risks, participant rights) that are absent or inadequately addressed in the draft ICF.
@@ -2486,23 +2486,14 @@ Compile Deliverables:
   Make the routine monitoring visit checklist table.
   Include the brief explanation as a separate section.
   Submit in ΩMEGA WORD or upload a pdf into OMEGA.",10,,,,,
-course_3,Pro Training in Clinical Research,ch_3_06,Monitoring & Site Management,les_3_06_04,Deviation & Non-Compliance Management.,task_3_06_04_1,Completing a Deviation Report Form for a Phase III Cardiovascular Trial,https://drive.google.com/file/d/1PWop1PveI-q6DnyMUD_uAOQ8rzoYwrhu/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1Qq4GmXyOcn8P3VKLwy0t4EP-IePB-KH_/view?usp=sharing,"You are a clinical research coordinator at a trial site in Belfast, UK, managed by Belfex Clinical Research Ltd., a contract research organization with offices in Malone, Belfast. The Phase III clinical trial evaluates a new anticoagulant drug for patients with atrial fibrillation, aiming to enroll 120 participants aged 40–80 years at Royal Victoria Hospital, Belfast. During a routine review on 19 September 2025, you identify a protocol deviation. Your task is to complete a Deviation Report Form to document the deviation and propose corrective and preventive actions (CAPA).
+course_3,Pro Training in Clinical Research,ch_3_06,Monitoring & Site Management,les_3_06_04,Deviation & Non-Compliance Management.,task_3_06_04_1,Completing a Deviation Report Form for a Phase III Cardiovascular Trial,https://drive.google.com/file/d/1PWop1PveI-q6DnyMUD_uAOQ8rzoYwrhu/view?usp=sharing,https://tally.so/r/OD1jeg,https://drive.google.com/file/d/1Qq4GmXyOcn8P3VKLwy0t4EP-IePB-KH_/view?usp=sharing,"You are a clinical research coordinator at a trial site in Belfast, UK, managed by Belfex Clinical Research Ltd., a contract research organization with offices in Malone, Belfast. The Phase III clinical trial evaluates a new anticoagulant drug for patients with atrial fibrillation, aiming to enroll 120 participants aged 40–80 years at Royal Victoria Hospital, Belfast. During a routine review on 19 September, you identify a protocol deviation. Your task is to complete a Deviation Report Form to document the deviation and propose corrective and preventive actions (CAPA).
 
 Deliverables
 
-A completed Deviation Report Form table documenting the deviation, including impact level, actions, and responsible persons.
-A short explanation (100–150 words) justifying the form’s completeness and its role in ensuring regulatory compliance.
-Submit in ΩMEGA WORD or upload a pdf into OMEGA.","Review Deviation Scenario: Examine the deviation details and trial context in the reference document.
+A completed Deviation Report Form documenting the deviation, including impact level, actions, and responsible persons.","Review Deviation Scenario: Examine the deviation details and trial context in the reference document.
 Complete Deviation Report Form:
-  Fill out a condensed version of the form, including date, name/role, incident description, impact level, immediate action, root cause, CAPA details (corrective and preventive), responsible persons, follow-up dates, and closure status.
-  Ensure entries are clear, concise, and aligned with deviation management principles.
-Write Explanation:
-  Justify the form’s completeness and its role in ensuring traceability and compliance with ICH-GCP, EU Clinical Trial Regulation, and MHRA standards.
-  Keep the explanation professional, concise, and focused on deviation management.
-Compile Deliverables:
-  Make the Deviation Report Form.
-  Include the brief explanation as a separate section.
-  Submit in ΩMEGA WORD or upload a pdf into OMEGA.",10,,,,,
+Fill out a condensed version of the form, including date, name/role, incident description, impact level, immediate action, root cause, CAPA details (corrective and preventive), responsible persons, follow-up dates, and closure status.
+Ensure entries are clear, concise, and aligned with deviation management principles.",10,,,,,
 course_3,Pro Training in Clinical Research,ch_3_06,Monitoring & Site Management,les_3_06_05,Investigator Oversight.,task_3_06_05_1,Creating an Investigator Oversight Checklist for a Phase III Diabetes Trial,https://drive.google.com/file/d/1PxTQMOcvRJyfUHYC0rnUzfowogftmw-F/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1fgZ-q1_wsTAG5bXadPh1d9BFkjyjvblX/view?usp=sharing,"You are a clinical research associate (CRA) at a trial site in Edinburgh, UK, managed by EdinVita Clinical Research Ltd., a contract research organization with offices in Leith, Edinburgh. The Phase III clinical trial evaluates a new insulin therapy for patients with type 2 diabetes, aiming to enroll 100 participants aged 18–65 years at Western General Hospital, Edinburgh. Your task is to create a checklist for the Principal Investigator (PI) to ensure effective oversight of the informed consent process, a critical responsibility area.
 
 Deliverables
@@ -2531,12 +2522,12 @@ Prioritize Alert:
   Select one alert from the provided scenarios and state it with a one-sentence rationale for why it is the most urgent.
   Ensure the choice reflects the alert’s impact on safety, data integrity, or compliance.
 Write Explanation:
-- Justify the alert’s urgency and how addressing it supports trial oversight, referencing ICH-GCP, EU Clinical Trial Regulation, and MHRA standards.
-- Keep the explanation concise, professional, and focused on trial monitoring goals.
+Justify the alert’s urgency and how addressing it supports trial oversight, referencing ICH-GCP, EU Clinical Trial Regulation, and MHRA standards.
+Keep the explanation concise, professional, and focused on trial monitoring goals.
 Compile Deliverables:
-- Make the prioritized alert statement with its rationale.
-- Include the brief explanation as a separate section.
-- Submit in ΩMEGA WORD or upload a pdf into OMEGA.",10,,,,,
+Make the prioritized alert statement with its rationale.
+Include the brief explanation as a separate section.
+Submit in ΩMEGA WORD or upload a pdf into OMEGA.",10,,,,,
 course_3,Pro Training in Clinical Research,ch_3_06,Monitoring & Site Management,les_3_06_07,Central vs. Local Monitoring.,task_3_06_07_1,Recommending Central and Local Monitoring Activities for a Phase III Oncology Trial,https://drive.google.com/file/d/1pl5ttpmhKnRZiRwBYk3aUBz3eEoUlNty/view?usp=sharing,https://tally.so/r/wgyY8d,https://drive.google.com/file/d/1Z4pv67Hoc_YtvNSmMzsWuRzsOsi4NjKn/view?usp=sharing,"You are a clinical research associate (CRA) at a trial site in Glasgow, UK, managed by GlasVita Clinical Research Ltd., a contract research organization with offices in Kelvinbridge, Glasgow. The Phase III clinical trial evaluates a new targeted therapy for metastatic lung cancer, aiming to enroll 150 participants aged 18–75 years at Glasgow Royal Infirmary. Given the trial’s high-risk safety profile due to potential severe adverse events (SAEs), you are tasked with recommending one central monitoring activity and one local monitoring activity to ensure effective oversight.
 
 Deliverables
