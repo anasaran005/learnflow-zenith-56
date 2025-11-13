@@ -3098,106 +3098,106 @@ course_4,ch_4_04,les_4_04_10,topic_4_04_10_01,quiz_4_04_10_2,What is a key pitfa
 course_4,ch_4_04,les_4_04_10,topic_4_04_10_01,quiz_4_04_10_3,Which tool is specifically mentioned for ensuring eCTD format compliance and functional hyperlinks?,Excel | R | Lorenz docuBridge | GraphPad Prism,C
 course_4,ch_4_04,les_4_04_10,topic_4_04_10_01,quiz_4_04_10_4,"In statistical presentation, what should always be included alongside confidence intervals and p-values?",Summary statistics like mean and standard deviation | Raw data listings | Context for the values | Analysis population definitions,C
 course_4,ch_4_04,les_4_04_10,topic_4_04_10_01,quiz_4_04_10_5,"For complex datasets, what combination is recommended to make information digestible?",A visual with a table and a short interpretive paragraph | Multiple three-dimensional graphs | Flashy charts with decorations | Raw listings only,A
-course_4,ch_4_05,les_4_05_01,topic_4_05_01_01,quiz_4_05_01_1,,,
-course_4,ch_4_05,les_4_05_01,topic_4_05_01_01,quiz_4_05_01_2,,,
-course_4,ch_4_05,les_4_05_01,topic_4_05_01_01,quiz_4_05_01_3,,,
-course_4,ch_4_05,les_4_05_01,topic_4_05_01_01,quiz_4_05_01_4,,,
-course_4,ch_4_05,les_4_05_01,topic_4_05_01_01,quiz_4_05_01_5,,,
-course_4,ch_4_05,les_4_05_02,topic_4_05_02_01,quiz_4_05_02_1,,,
-course_4,ch_4_05,les_4_05_02,topic_4_05_02_01,quiz_4_05_02_2,,,
-course_4,ch_4_05,les_4_05_02,topic_4_05_02_01,quiz_4_05_02_3,,,
-course_4,ch_4_05,les_4_05_02,topic_4_05_02_01,quiz_4_05_02_4,,,
-course_4,ch_4_05,les_4_05_02,topic_4_05_02_01,quiz_4_05_02_5,,,
-course_4,ch_4_05,les_4_05_03,topic_4_05_03_01,quiz_4_05_03_1,,,
-course_4,ch_4_05,les_4_05_03,topic_4_05_03_01,quiz_4_05_03_2,,,
-course_4,ch_4_05,les_4_05_03,topic_4_05_03_01,quiz_4_05_03_3,,,
-course_4,ch_4_05,les_4_05_03,topic_4_05_03_01,quiz_4_05_03_4,,,
-course_4,ch_4_05,les_4_05_03,topic_4_05_03_01,quiz_4_05_03_5,,,
-course_4,ch_4_05,les_4_05_04,topic_4_05_04_01,quiz_4_05_04_1,,,
-course_4,ch_4_05,les_4_05_04,topic_4_05_04_01,quiz_4_05_04_2,,,
-course_4,ch_4_05,les_4_05_04,topic_4_05_04_01,quiz_4_05_04_3,,,
-course_4,ch_4_05,les_4_05_04,topic_4_05_04_01,quiz_4_05_04_4,,,
-course_4,ch_4_05,les_4_05_04,topic_4_05_04_01,quiz_4_05_04_5,,,
-course_4,ch_4_05,les_4_05_05,topic_4_05_05_01,quiz_4_05_05_1,,,
-course_4,ch_4_05,les_4_05_05,topic_4_05_05_01,quiz_4_05_05_2,,,
-course_4,ch_4_05,les_4_05_05,topic_4_05_05_01,quiz_4_05_05_3,,,
-course_4,ch_4_05,les_4_05_05,topic_4_05_05_01,quiz_4_05_05_4,,,
-course_4,ch_4_05,les_4_05_05,topic_4_05_05_01,quiz_4_05_05_5,,,
-course_4,ch_4_05,les_4_05_06,topic_4_05_06_01,quiz_4_05_06_1,,,
-course_4,ch_4_05,les_4_05_06,topic_4_05_06_01,quiz_4_05_06_2,,,
-course_4,ch_4_05,les_4_05_06,topic_4_05_06_01,quiz_4_05_06_3,,,
-course_4,ch_4_05,les_4_05_06,topic_4_05_06_01,quiz_4_05_06_4,,,
-course_4,ch_4_05,les_4_05_06,topic_4_05_06_01,quiz_4_05_06_5,,,
-course_4,ch_4_05,les_4_05_07,topic_4_05_07_01,quiz_4_05_07_1,,,
-course_4,ch_4_05,les_4_05_07,topic_4_05_07_01,quiz_4_05_07_2,,,
-course_4,ch_4_05,les_4_05_07,topic_4_05_07_01,quiz_4_05_07_3,,,
-course_4,ch_4_05,les_4_05_07,topic_4_05_07_01,quiz_4_05_07_4,,,
-course_4,ch_4_05,les_4_05_07,topic_4_05_07_01,quiz_4_05_07_5,,,
-course_4,ch_4_05,les_4_05_08,topic_4_05_08_01,quiz_4_05_08_1,,,
-course_4,ch_4_05,les_4_05_08,topic_4_05_08_01,quiz_4_05_08_2,,,
-course_4,ch_4_05,les_4_05_08,topic_4_05_08_01,quiz_4_05_08_3,,,
-course_4,ch_4_05,les_4_05_08,topic_4_05_08_01,quiz_4_05_08_4,,,
-course_4,ch_4_05,les_4_05_08,topic_4_05_08_01,quiz_4_05_08_5,,,
-course_4,ch_4_05,les_4_05_09,topic_4_05_09_01,quiz_4_05_09_1,,,
-course_4,ch_4_05,les_4_05_09,topic_4_05_09_01,quiz_4_05_09_2,,,
-course_4,ch_4_05,les_4_05_09,topic_4_05_09_01,quiz_4_05_09_3,,,
-course_4,ch_4_05,les_4_05_09,topic_4_05_09_01,quiz_4_05_09_4,,,
-course_4,ch_4_05,les_4_05_09,topic_4_05_09_01,quiz_4_05_09_5,,,
-course_4,ch_4_05,les_4_05_10,topic_4_05_10_01,quiz_4_05_10_1,,,
-course_4,ch_4_05,les_4_05_10,topic_4_05_10_01,quiz_4_05_10_2,,,
-course_4,ch_4_05,les_4_05_10,topic_4_05_10_01,quiz_4_05_10_3,,,
-course_4,ch_4_05,les_4_05_10,topic_4_05_10_01,quiz_4_05_10_4,,,
-course_4,ch_4_05,les_4_05_10,topic_4_05_10_01,quiz_4_05_10_5,,,
-course_4,ch_4_06,les_4_06_01,topic_4_06_01_01,quiz_4_06_01_1,,,
-course_4,ch_4_06,les_4_06_01,topic_4_06_01_01,quiz_4_06_01_2,,,
-course_4,ch_4_06,les_4_06_01,topic_4_06_01_01,quiz_4_06_01_3,,,
-course_4,ch_4_06,les_4_06_01,topic_4_06_01_01,quiz_4_06_01_4,,,
-course_4,ch_4_06,les_4_06_01,topic_4_06_01_01,quiz_4_06_01_5,,,
-course_4,ch_4_06,les_4_06_02,topic_4_06_02_01,quiz_4_06_02_1,,,
-course_4,ch_4_06,les_4_06_02,topic_4_06_02_01,quiz_4_06_02_2,,,
-course_4,ch_4_06,les_4_06_02,topic_4_06_02_01,quiz_4_06_02_3,,,
-course_4,ch_4_06,les_4_06_02,topic_4_06_02_01,quiz_4_06_02_4,,,
-course_4,ch_4_06,les_4_06_02,topic_4_06_02_01,quiz_4_06_02_5,,,
-course_4,ch_4_06,les_4_06_03,topic_4_06_03_01,quiz_4_06_03_1,,,
-course_4,ch_4_06,les_4_06_03,topic_4_06_03_01,quiz_4_06_03_2,,,
-course_4,ch_4_06,les_4_06_03,topic_4_06_03_01,quiz_4_06_03_3,,,
-course_4,ch_4_06,les_4_06_03,topic_4_06_03_01,quiz_4_06_03_4,,,
-course_4,ch_4_06,les_4_06_03,topic_4_06_03_01,quiz_4_06_03_5,,,
-course_4,ch_4_06,les_4_06_04,topic_4_06_04_01,quiz_4_06_04_1,,,
-course_4,ch_4_06,les_4_06_04,topic_4_06_04_01,quiz_4_06_04_2,,,
-course_4,ch_4_06,les_4_06_04,topic_4_06_04_01,quiz_4_06_04_3,,,
-course_4,ch_4_06,les_4_06_04,topic_4_06_04_01,quiz_4_06_04_4,,,
-course_4,ch_4_06,les_4_06_04,topic_4_06_04_01,quiz_4_06_04_5,,,
-course_4,ch_4_06,les_4_06_05,topic_4_06_05_01,quiz_4_06_05_1,,,
-course_4,ch_4_06,les_4_06_05,topic_4_06_05_01,quiz_4_06_05_2,,,
-course_4,ch_4_06,les_4_06_05,topic_4_06_05_01,quiz_4_06_05_3,,,
-course_4,ch_4_06,les_4_06_05,topic_4_06_05_01,quiz_4_06_05_4,,,
-course_4,ch_4_06,les_4_06_05,topic_4_06_05_01,quiz_4_06_05_5,,,
-course_4,ch_4_06,les_4_06_06,topic_4_06_06_01,quiz_4_06_06_1,,,
-course_4,ch_4_06,les_4_06_06,topic_4_06_06_01,quiz_4_06_06_2,,,
-course_4,ch_4_06,les_4_06_06,topic_4_06_06_01,quiz_4_06_06_3,,,
-course_4,ch_4_06,les_4_06_06,topic_4_06_06_01,quiz_4_06_06_4,,,
-course_4,ch_4_06,les_4_06_06,topic_4_06_06_01,quiz_4_06_06_5,,,
-course_4,ch_4_06,les_4_06_07,topic_4_06_07_01,quiz_4_06_07_1,,,
-course_4,ch_4_06,les_4_06_07,topic_4_06_07_01,quiz_4_06_07_2,,,
-course_4,ch_4_06,les_4_06_07,topic_4_06_07_01,quiz_4_06_07_3,,,
-course_4,ch_4_06,les_4_06_07,topic_4_06_07_01,quiz_4_06_07_4,,,
-course_4,ch_4_06,les_4_06_07,topic_4_06_07_01,quiz_4_06_07_5,,,
-course_4,ch_4_06,les_4_06_08,topic_4_06_08_01,quiz_4_06_08_1,,,
-course_4,ch_4_06,les_4_06_08,topic_4_06_08_01,quiz_4_06_08_2,,,
-course_4,ch_4_06,les_4_06_08,topic_4_06_08_01,quiz_4_06_08_3,,,
-course_4,ch_4_06,les_4_06_08,topic_4_06_08_01,quiz_4_06_08_4,,,
-course_4,ch_4_06,les_4_06_08,topic_4_06_08_01,quiz_4_06_08_5,,,
-course_4,ch_4_06,les_4_06_09,topic_4_06_09_01,quiz_4_06_09_1,,,
-course_4,ch_4_06,les_4_06_09,topic_4_06_09_01,quiz_4_06_09_2,,,
-course_4,ch_4_06,les_4_06_09,topic_4_06_09_01,quiz_4_06_09_3,,,
-course_4,ch_4_06,les_4_06_09,topic_4_06_09_01,quiz_4_06_09_4,,,
-course_4,ch_4_06,les_4_06_09,topic_4_06_09_01,quiz_4_06_09_5,,,
-course_4,ch_4_06,les_4_06_10,topic_4_06_10_01,quiz_4_06_10_1,,,
-course_4,ch_4_06,les_4_06_10,topic_4_06_10_01,quiz_4_06_10_2,,,
-course_4,ch_4_06,les_4_06_10,topic_4_06_10_01,quiz_4_06_10_3,,,
-course_4,ch_4_06,les_4_06_10,topic_4_06_10_01,quiz_4_06_10_4,,,
-course_4,ch_4_06,les_4_06_10,topic_4_06_10_01,quiz_4_06_10_5,,,
+course_4,ch_4_05,les_4_05_01,topic_4_05_01_01,quiz_4_05_01_1,"Which section of Module 3 details the drug substance, including nomenclature, manufacturing, and stability data?",3.2.P | 3.2.S | Module 2 | 3.2.A,B
+course_4,ch_4_05,les_4_05_01,topic_4_05_01_01,quiz_4_05_01_2,What is a required focus for analytical methods in CMC to comply with ICH Q2(R2)?,"Accuracy, precision, specificity, linearity, range, and robustness | Cost-effectiveness and speed | Visual appeal in chromatograms | Simplicity for non-experts",A
+course_4,ch_4_05,les_4_05_01,topic_4_05_01_01,quiz_4_05_01_3,Which type of stability studies are conducted to establish shelf life under ICH Q1A(R2) conditions?,"Only long-term studies | Long-term, accelerated, and intermediate studies | Stress testing alone | Photostability only",B
+course_4,ch_4_05,les_4_05_01,topic_4_05_01_01,quiz_4_05_01_4,What is a common CMC challenge that can limit product shelf life if inadequate?,Incomplete process validation | Poor impurity characterization | Inadequate stability data | Variability in excipient quality,C
+course_4,ch_4_05,les_4_05_01,topic_4_05_01_01,quiz_4_05_01_5,Which ICH guideline series includes pharmaceutical development and quality risk management relevant to CMC?,Q1 to Q12 | M4 only | S1 to S4 | E6 only,A
+course_4,ch_4_05,les_4_05_02,topic_4_05_02_01,quiz_4_05_02_1,Which section of CTD Module 3 specifically addresses drug substance specifications?,3.2.S.1 | 3.2.S.2 | 3.2.S.4 | 3.2.P.1,C
+course_4,ch_4_05,les_4_05_02,topic_4_05_02_01,quiz_4_05_02_2,What are the four key elements typically included in each drug substance specification?,"Test parameter, analytical method, acceptance criteria, and justification | Batch number, manufacturing date, expiry date, and storage conditions | Cost analysis, packaging details, labeling requirements, and distribution plan | Clinical efficacy, safety profile, dosing regimen, and patient demographics",A
+course_4,ch_4_05,les_4_05_02,topic_4_05_02_01,quiz_4_05_02_3,Which ICH guideline provides the framework for setting limits on impurities in new drug substances?,Q6A | Q3A | Q2(R2) | Q3C,B
+course_4,ch_4_05,les_4_05_02,topic_4_05_02_01,quiz_4_05_02_4,"For non-compendial specifications, who primarily defines the impurity profiles?",The pharmacopoeia | The sponsor | The contract manufacturer | The regulatory agency,B
+course_4,ch_4_05,les_4_05_02,topic_4_05_02_01,quiz_4_05_02_5,What is a common regulatory deficiency related to drug substance specifications that can raise consistency concerns?,Missing impurity specifications | Unvalidated test methods | Wide assay ranges or lack of polymorph control | All of the above,D
+course_4,ch_4_05,les_4_05_03,topic_4_05_03_01,quiz_4_05_03_1,Which CTD module section specifically covers the drug product manufacturing process?,A) Module 3.2.S.4 | B) Module 3.2.P.3 | C) Module 2.3 | D) Module 5.3.1,B
+course_4,ch_4_05,les_4_05_03,topic_4_05_03_01,quiz_4_05_03_2,What is the primary purpose of process validation in drug manufacturing?,A) To ensure equipment is cleaned properly | B) To prove that the process consistently produces a product meeting its specifications | C) To define critical quality attributes only | D) To handle segregation during blending,B
+course_4,ch_4_05,les_4_05_03,topic_4_05_03_01,quiz_4_05_03_3,Which of the following is a critical process parameter (CPP) example mentioned in the material?,"A) Assay and dissolution | B) Impurity levels and hardness | C) Mixing time, granulation endpoint, compression force, drying temperature, or coating thickness | D) Moisture and content uniformity",C
+course_4,ch_4_05,les_4_05_03,topic_4_05_03_01,quiz_4_05_03_4,"In the manufacturing process for solid oral dosage forms, what step follows granulation to remove moisture?",A) Weighing raw materials | B) Drying | C) Final blending | D) Compression,B
+course_4,ch_4_05,les_4_05_03,topic_4_05_03_01,quiz_4_05_03_5,What framework does ICH Q9 address that is relevant to drug product manufacturing?,A) Pharmaceutical development | B) Quality risk management | C) Pharmaceutical quality systems | D) Sterile product manufacturing,B
+course_4,ch_4_05,les_4_05_04,topic_4_05_04_01,quiz_4_05_04_1,What is the primary role of Quality Control testing in pharmaceutical development?,"A) Marketing the product to regulators | B) Ensuring every raw material, intermediate, and finished product meets specifications before reaching patients | C) Designing clinical trials | D) Packaging the final dosage form",B
+course_4,ch_4_05,les_4_05_04,topic_4_05_04_01,quiz_4_05_04_2,"Which ICH guideline demands proof of accuracy, precision, specificity, and linearity for analytical methods?",A) ICH Q8 | B) ICH Q2 | C) ICH Q9 | D) ICH Q10,B
+course_4,ch_4_05,les_4_05_04,topic_4_05_04_01,quiz_4_05_04_3,"In handling out-of-specification (OOS) results, what is the first phase of investigation?","A) Immediate batch release | B) Checking for laboratory error, such as pipette calibration or standard re-weighing | C) Full root-cause analysis with CAPA | D) Ignoring the result if minor",B
+course_4,ch_4_05,les_4_05_04,topic_4_05_04_01,quiz_4_05_04_4,"Which CTD module section contains drug substance specifications, validation reports, and forced-degradation studies?",A) Module 2.3 | B) Module 5 | C) 3.2.S | D) 3.2.P,C
+course_4,ch_4_05,les_4_05_04,topic_4_05_04_01,quiz_4_05_04_5,"What does the ""plus"" in ALCOA-plus specifically add to the core data integrity principles?","A) Accurate, legible, contemporaneous, original, attributable | B) Complete, consistent, enduring, and available | C) Precise, robust, specific, linear | D) Validated, calibrated, traceable, compliant",B
+course_4,ch_4_05,les_4_05_05,topic_4_05_05_01,quiz_4_05_05_1,What is the primary ICH guideline governing the design and conduct of stability studies for shelf-life determination?,A) ICH Q1B | B) ICH Q1A(R2) | C) ICH Q8 | D) ICH Q2(R1),B
+course_4,ch_4_05,les_4_05_05,topic_4_05_05_01,quiz_4_05_05_2,Which AI model type is mentioned as treating potency loss like a time-series to forecast assay drop below 90%?,A) Random Forest | B) Gradient Boosting | C) Long Short-Term Memory neural networks | D) Bayesian networks,C
+course_4,ch_4_05,les_4_05_05,topic_4_05_05_01,quiz_4_05_05_3,"In the real case example, what supportive evidence did the Indian company provide to CDSCO for AI-predicted shelf life?",A) Full 36-month real-time data | B) Explainable-AI SHAP values in color-coded charts | C) Only accelerated 6-month data | D) Historical data from competitors,B
+course_4,ch_4_05,les_4_05_05,topic_4_05_05_01,quiz_4_05_05_4,"According to regulators like FDA and EMA, AI predictions in stability studies are considered:",A) Fully substitutive for real-time data | B) Supportive but never substitutive | C) Irrelevant to shelf-life claims | D) Mandatory for all new submissions,B
+course_4,ch_4_05,les_4_05_05,topic_4_05_05_01,quiz_4_05_05_5,What is identified as the cardinal sin when using AI for stability predictions that could be considered fraud?,A) Using black-box models | B) Justifying a longer shelf life than real data supports | C) Skipping model retraining | D) Training on legacy data,B
+course_4,ch_4_05,les_4_05_06,topic_4_05_06_01,quiz_4_05_06_1,What is the main purpose of CMC gap analysis in regulatory submissions?,"A) To accelerate clinical trial enrollment | B) To systematically identify missing, incomplete, or non-compliant elements in Module 3 | C) To design new manufacturing equipment | D) To perform stability testing on excipients",B
+course_4,ch_4_05,les_4_05_06,topic_4_05_06_01,quiz_4_05_06_2,Which AI technology is used to cross-reference dossier content against ICH guidelines like Q3A in seconds?,A) Random Forest modeling | B) Long Short-Term Memory networks | C) Natural language processing | D) Gradient Boosting algorithms,C
+course_4,ch_4_05,les_4_05_06,topic_4_05_06_01,quiz_4_05_06_3,"In the gap safari example, which section flagged missing forced-degradation mass-balance data for a new metabolite?",A) 3.2.P.8.3 | B) 3.2.P.3.3 | C) 3.2.S.2.6 | D) 3.2.S.4.1,C
+course_4,ch_4_05,les_4_05_06,topic_4_05_06_01,quiz_4_05_06_4,What percentage of AI findings did CMC leads typically accept outright in the hybrid review process?,A) Ninety percent | B) Fifty percent | C) Seventy percent | D) Thirty percent,C
+course_4,ch_4_05,les_4_05_06,topic_4_05_06_01,quiz_4_05_06_5,Which regulatory body accepts AI-generated gap summaries as supplementary files in the SUGAM portal if signed by a qualified person?,A) EMA | B) FDA | C) CDSCO | D) MHRA,C
+course_4,ch_4_05,les_4_05_07,topic_4_05_07_01,quiz_4_05_07_1,What is the primary purpose of a Batch Manufacturing Record (BMR)?,A) To document the marketing strategy for the product | B) To capture every step from raw material weighing to in-process controls and final yield | C) To record clinical trial results | D) To list the company's financial expenses,B
+course_4,ch_4_05,les_4_05_07,topic_4_05_07_01,quiz_4_05_07_2,Which regulation specifically requires batch records to be prepared concurrently?,A) 21 CFR 211.188 | B) ICH Q1A(R2) | C) EU Annex 11 | D) 21 CFR 314.50,A
+course_4,ch_4_05,les_4_05_07,topic_4_05_07_01,quiz_4_05_07_3,"In electronic batch records, what must the system do if an entry is voided?","A) Automatically approve the batch | B) Record exactly who voided it, when, and why in the audit trail | C) Delete all related data | D) Print a hard copy for manual review",B
+course_4,ch_4_05,les_4_05_07,topic_4_05_07_01,quiz_4_05_07_4,What is a common documentation error that can lead to yield calculation issues?,A) Using pencil for entries | B) Incomplete yield calculations | C) Missing supplier addresses | D) Over-signing by supervisors,B
+course_4,ch_4_05,les_4_05_07,topic_4_05_07_01,quiz_4_05_07_5,Which of the following is NOT part of the ALCOA-plus principles for data integrity?,"A) Attributable, legible, contemporaneous | B) Original, accurate, complete | C) Consistent, enduring, available | D) Flexible, editable, temporary",D
+course_4,ch_4_05,les_4_05_08,topic_4_05_08_01,quiz_4_05_08_1,Which ICH guideline classifies residual solvents according to toxicity?,A) Q3A | B) Q3B | C) Q3C | D) M7,C
+course_4,ch_4_05,les_4_05_08,topic_4_05_08_01,quiz_4_05_08_2,What is the identification threshold for impurities in new drug substances taken at one gram per day or more per ICH Q3A?,A) 0.05 percent | B) 0.1 percent | C) 0.5 percent | D) 1.0 percent,B
+course_4,ch_4_05,les_4_05_08,topic_4_05_08_01,quiz_4_05_08_3,Which analytical technique is primarily used for detecting residual solvents?,A) ICP-MS | B) NMR | C) Headspace GC | D) XRF,C
+course_4,ch_4_05,les_4_05_08,topic_4_05_08_01,quiz_4_05_08_4,"For mutagenic impurities, what is the typical acceptable daily intake limit according to ICH M7?",A) 1.5 micrograms per day | B) 15 micrograms per day | C) 150 micrograms per day | D) 1.5 milligrams per day,A
+course_4,ch_4_05,les_4_05_08,topic_4_05_08_01,quiz_4_05_08_5,What is the first step in the impurity profiling workflow described in the material?,"A) Safety assessment | B) Identification of potential impurities from synthesis, degradation, excipients, or packaging | C) Setting specifications | D) Forced degradation studies",B
+course_4,ch_4_05,les_4_05_09,topic_4_05_09_01,quiz_4_05_09_1,Which regulatory classification in the U.S. is used for major CMC changes requiring prior approval?,A) C.B.E.-30 | B) Annual Report | C) Prior Approval Supplement | D) C.B.E.-0,C
+course_4,ch_4_05,les_4_05_09,topic_4_05_09_01,quiz_4_05_09_2,What is the first step in the CMC amendment workflow according to the material?,"A) Documentation preparation | B) Identifying changes in process, formulation, or analytical methods | C) Submission to regulators | D) Post-submission monitoring",B
+course_4,ch_4_05,les_4_05_09,topic_4_05_09_01,quiz_4_05_09_3,Which ICH guideline introduces the Post-Approval Change Management Protocol for proactive change planning?,A) Q8 | B) Q9 | C) Q10 | D) Q12,D
+course_4,ch_4_05,les_4_05_09,topic_4_05_09_01,quiz_4_05_09_4,"In the EU, what type of change is considered moderate and typically requires notification within 30 days?",A) Type IA | B) Type IB | C) Type II | D) Annual Update,B
+course_4,ch_4_05,les_4_05_09,topic_4_05_09_01,quiz_4_05_09_5,Which CTD section would be updated for stability data changes in a drug substance amendment?,A) 3.2.P.5 | B) 3.2.S.7 | C) 3.2.P.3 | D) 3.2.A,B
+course_4,ch_4_05,les_4_05_10,topic_4_05_10_01,quiz_4_05_10_1,What is the typical molecular weight range for biologics compared to small molecules?,"A) Under 1,000 daltons | B) 5,000 to over 150,000 daltons | C) 1,000 to 5,000 daltons | D) Over 1,000,000 daltons",B
+course_4,ch_4_05,les_4_05_10,topic_4_05_10_01,quiz_4_05_10_2,Which manufacturing approach is primarily used for small molecules?,"A) Fermentation in mammalian cells | B) Chemical synthesis, purification, and formulation | C) Cell line development and downstream processing | D) Peptide mapping and sequencing",B
+course_4,ch_4_05,les_4_05_10,topic_4_05_10_01,quiz_4_05_10_3,Which ICH guideline specifically applies to stability testing of biologics?,A) Q1A | B) Q5C | C) Q3A | D) Q8,B
+course_4,ch_4_05,les_4_05_10,topic_4_05_10_01,quiz_4_05_10_4,"For biologics, what type of regulatory submission is required in the U.S.?",A) NDA | B) ANDA | C) BLA | D) 505(b)(2),C
+course_4,ch_4_05,les_4_05_10,topic_4_05_10_01,quiz_4_05_10_5,What is a key challenge in biologics CMC due to process sensitivity?,A) Simpler impurity limits | B) Even small deviations can impact product quality | C) Standardized analytical methods | D) Straightforward scale-up,B
+course_4,ch_4_06,les_4_06_01,topic_4_06_01_01,quiz_4_06_01_1,Which U.S. regulation specifically governs prescription and OTC labeling requirements?,A) 21 CFR Part 314 | B) 21 CFR Parts 201 and 208 | C) 21 CFR Part 211 | D) 21 CFR Part 600,B
+course_4,ch_4_06,les_4_06_01,topic_4_06_01_01,quiz_4_06_01_2,What is the purpose of the Patient Information Leaflet (PIL) in Europe?,"A) To provide detailed pharmacology for healthcare professionals | B) To offer usage, side effects, and storage instructions in simple language for patients | C) To list batch numbers and MRP only | D) To serve as the primary container label",B
+course_4,ch_4_06,les_4_06_01,topic_4_06_01_01,quiz_4_06_01_3,Which standard should be followed for symbols and machine-readable codes in labeling?,A) ISO 9001 | B) ISO 15223 | C) ISO 27001 | D) ISO 14001,B
+course_4,ch_4_06,les_4_06_01,topic_4_06_01_01,quiz_4_06_01_4,What is a common labeling challenge that can compromise product quality?,A) Using high-contrast printing | B) Outdated safety information or incorrect storage instructions | C) Consistent SmPC and PIL alignment | D) Version-controlled documentation,B
+course_4,ch_4_06,les_4_06_01,topic_4_06_01_01,quiz_4_06_01_5,In which regulatory document are QRD templates used to ensure alignment for SmPCs and PILs?,A) FDA Guidance | B) EMA Requirements | C) CDSCO Rules | D) PMDA Guidelines,B
+course_4,ch_4_06,les_4_06_02,topic_4_06_02_01,quiz_4_06_02_1,Which FDA regulation governs the requirements for the United States Prescribing Information (USPI)?,A) 21 CFR Part 314 | B) 21 CFR Part 201.56 | C) 21 CFR Part 211 | D) 21 CFR Part 600,B
+course_4,ch_4_06,les_4_06_02,topic_4_06_02_01,quiz_4_06_02_2,What is the harmonized template used for EU SmPCs to ensure consistency across member states?,A) FDA Highlights | B) QRD | C) Medication Guide | D) NDC Template,B
+course_4,ch_4_06,les_4_06_02,topic_4_06_02_01,quiz_4_06_02_3,"In the USPI, where do black box warnings appear prominently?",A) Clinical Pharmacology section | B) Highlights section | C) Nonclinical Toxicology | D) Patient Counseling points,B
+course_4,ch_4_06,les_4_06_02,topic_4_06_02_01,quiz_4_06_02_4,Which EU directive regulates the Summary of Product Characteristics (SmPC)?,A) Directive 2004/27/EC | B) Directive 2001/83/EC | C) Directive 2010/84/EU | D) Directive 89/105/EEC,B
+course_4,ch_4_06,les_4_06_02,topic_4_06_02_01,quiz_4_06_02_5,What is a key best practice mentioned for preparing USPI and SmPC documents?,"A) Single-team review only | B) Cross-functional reviews involving regulatory affairs, medical writing, QA, and clinical teams | C) No version control needed | D) Avoiding templates for flexibility",B
+course_4,ch_4_06,les_4_06_03,topic_4_06_03_01,quiz_4_06_03_1,What is the main purpose of primary packaging in pharmaceutical products?,"A) To provide brand identity and marketing information | B) To protect the product, maintain stability, ensure dosing accuracy, and keep patients safe | C) To facilitate bulk shipping and logistics | D) To carry multilingual instructions only",B
+course_4,ch_4_06,les_4_06_03,topic_4_06_03_01,quiz_4_06_03_2,Which U.S. regulation mandates container integrity and tamper-evident features for packaging?,A) 21 CFR Part 314 | B) 21 CFR Part 211 | C) 21 CFR Part 201 | D) 21 CFR Part 600,B
+course_4,ch_4_06,les_4_06_03,topic_4_06_03_01,quiz_4_06_03_3,"In serialization, what does aggregation refer to in traceability?",A) Assigning unique serial numbers to each unit | B) Linking serialized units to cases and pallets for data management | C) Reporting data to national repositories only | D) Using RFID for wireless tracking,B
+course_4,ch_4_06,les_4_06_03,topic_4_06_03_01,quiz_4_06_03_4,Which EU directive requires 2D DataMatrix codes and tamper-evident packaging for serialization?,A) Directive 2004/27/EC | B) Falsified Medicines Directive | C) Directive 2001/83/EC | D) Directive 2010/84/EU,B
+course_4,ch_4_06,les_4_06_03,topic_4_06_03_01,quiz_4_06_03_5,What is a key best practice for packaging compliance mentioned in the material?,A) Using non-standardized templates for labeling | B) Conducting compatibility studies for primary and secondary packaging before submission | C) Skipping cross-functional reviews | D) Ignoring stability studies for transport,B
+course_4,ch_4_06,les_4_06_04,topic_4_06_04_01,quiz_4_06_04_1,What is the primary objective of serialization in pharmaceuticals?,"A) To prevent counterfeiting, facilitate rapid recalls, and improve inventory visibility | B) To reduce packaging costs | C) To simplify clinical trials | D) To enhance marketing strategies",A
+course_4,ch_4_06,les_4_06_04,topic_4_06_04_01,quiz_4_06_04_2,Which regulation mandates serialization for prescription drugs in the U.S. with full track-and-trace by 2023?,A) 21 CFR Part 201 | B) Falsified Medicines Directive | C) Drugs and Cosmetics Act | D) Drug Supply Chain Security Act,D
+course_4,ch_4_06,les_4_06_04,topic_4_06_04_01,quiz_4_06_04_3,What key concept in traceability links individual units to higher-level packaging like cases or pallets?,A) Unit-level identification | B) Aggregation | C) Human-readable text | D) RFID tagging,B
+course_4,ch_4_06,les_4_06_04,topic_4_06_04_01,quiz_4_06_04_4,Which technology is standard for unit-level serialization often appearing as a machine-readable code?,A) 2D DataMatrix barcodes | B) Cloud-based ERP only | C) Manual labeling | D) Paper-based tracking,A
+course_4,ch_4_06,les_4_06_04,topic_4_06_04_01,quiz_4_06_04_5,What is a recommended best practice to reduce errors in serialization implementation?,A) Use automation and verification scanning | B) Skip cross-functional training | C) Avoid centralized data repositories | D) Ignore multi-country requirements,A
+course_4,ch_4_06,les_4_06_05,topic_4_06_05_01,quiz_4_06_05_1,What is the primary challenge in labeling harmonization that AI helps address effectively?,A) Manufacturing delays | B) Terminology differences and regulatory language conflicts across regions | C) Packaging material selection | D) Clinical trial design,B
+course_4,ch_4_06,les_4_06_05,topic_4_06_05_01,quiz_4_06_05_2,"Which document types does AI scan to highlight differences in dosage, indications, and warnings?","A) SmPCs, USPIs, PILs, and templates | B) Batch records only | C) Stability reports | D) Marketing brochures",A
+course_4,ch_4_06,les_4_06_05,topic_4_06_05_01,quiz_4_06_05_3,What does AI provide after detecting discrepancies in the harmonization workflow?,A) Immediate submission to regulators | B) A harmonization report with suggestions | C) A full audit trail and versioned export | D) Automated translation only,C
+course_4,ch_4_06,les_4_06_05,topic_4_06_05_01,quiz_4_06_05_4,Which regulatory authorities' guidelines does AI cross-reference for compliance checks?,"A) Only FDA | B) FDA, EMA, CDSCO, and PMDA | C) Only EMA | D) None, it uses internal templates",B
+course_4,ch_4_06,les_4_06_05,topic_4_06_05_01,quiz_4_06_05_5,What is essential for AI models in labeling harmonization to ensure reliability?,A) Training on non-regulatory data | B) Validation using regulatory datasets | C) No updates needed | D) Human verification is optional,D
+course_4,ch_4_06,les_4_06_06,topic_4_06_06_01,quiz_4_06_06_1,What is the primary purpose of Patient Information Leaflets (PILs)?,"A) To provide marketing materials for the product | B) To educate patients about proper usage, dosage, precautions, and potential side effects | C) To detail manufacturing processes | D) To list clinical trial data",B
+course_4,ch_4_06,les_4_06_06,topic_4_06_06_01,quiz_4_06_06_2,Which EMA tool ensures alignment between SmPCs and PILs in the EU?,A) FDA Medication Guide | B) QRD template | C) CDSCO Rules | D) PMDA Standards,B
+course_4,ch_4_06,les_4_06_06,topic_4_06_06_01,quiz_4_06_06_3,What font size and style are recommended for effective PIL readability?,A) 8-point serif | B) At least 10 to 12 points in sans-serif style | C) Variable sizes without spacing | D) Bold italic only,B
+course_4,ch_4_06,les_4_06_06,topic_4_06_06_01,quiz_4_06_06_4,"In PIL development, what does AI primarily automate from SmPCs?",A) Plain-language conversion | B) Packaging design | C) Stability testing | D) Batch numbering,A
+course_4,ch_4_06,les_4_06_06,topic_4_06_06_01,quiz_4_06_06_5,Which mitigation strategy addresses multi-language errors in global PILs?,A) Professional translation and back-translation checks | B) Using complex medical terminology | C) Skipping version control | D) Avoiding cross-functional reviews,A
+course_4,ch_4_06,les_4_06_07,topic_4_06_07_01,quiz_4_06_07_1,What is the first step in the labeling deviation management workflow?,"A) Detection during in-process inspection, final release, or market complaints | B) Corrective and preventive actions | C) Trend analysis | D) Review and approval by QA and RA",A
+course_4,ch_4_06,les_4_06_07,topic_4_06_07_01,quiz_4_06_07_2,"Which regulation mandates that all deviations be documented, investigated, and justified according to FDA?",A) 21 CFR Part 314 | B) 21 CFR Part 211 | C) ICH Q10 | D) WHO GMP Annex 1,B
+course_4,ch_4_06,les_4_06_07,topic_4_06_07_01,quiz_4_06_07_3,What tool is mentioned for root cause analysis in deviation management?,"A) 5 Whys, Fishbone diagrams, or FMEA | B) Serialization software | C) Stability chambers | D) HPLC validation",A
+course_4,ch_4_06,les_4_06_07,topic_4_06_07_01,quiz_4_06_07_4,Which best practice involves using image recognition to detect misprints or misalignment?,A) Centralized deviation logs | B) Automated line verification | C) Comprehensive operator training | D) AI-assisted tools,D
+course_4,ch_4_06,les_4_06_07,topic_4_06_07_01,quiz_4_06_07_5,What is a common pitfall that can lead to recurring deviations if not addressed promptly?,A) Over-reporting minor issues | B) Delayed root cause analysis | C) Excessive CAPA reviews | D) Perfect documentation,C
+course_4,ch_4_06,les_4_06_08,topic_4_06_08_01,quiz_4_06_08_1,"Who ensures alignment of artwork with SmPC, USPI, PIL, and local regulations during review?",A) Regulatory Affairs | B) Marketing | C) Production only | D) Legal/IP teams,A
+course_4,ch_4_06,les_4_06_08,topic_4_06_08_01,quiz_4_06_08_2,What is the purpose of pre-production validation in the artwork review workflow?,"A) Proofing, physical mock-ups, and verification of barcodes or serialization elements | B) Final batch release | C) Marketing design approval | D) Post-production audits",A
+course_4,ch_4_06,les_4_06_08,topic_4_06_08_01,quiz_4_06_08_3,Which standard mandates pre-production review and documented deviations according to EMA?,A) 21 CFR Part 211 | B) ICH Q7 | C) ISO 15378 | D) EMA GMP Annexes 1 and 13,D
+course_4,ch_4_06,les_4_06_08,topic_4_06_08_01,quiz_4_06_08_4,What type of common artwork error involves discrepancies between text and approved SmPCs?,A) Text discrepancies versus SmPCs | B) Correct batch printing | C) Aligned graphics | D) Included regulatory symbols,A
+course_4,ch_4_06,les_4_06_08,topic_4_06_08_01,quiz_4_06_08_5,Which best practice involves using AI to compare text with approved documents and detect inconsistencies?,A) Integrate AI-assisted tools for text comparison and multi-language verification | B) Skip checklists | C) Avoid version control | D) Manual proofing only,C
+course_4,ch_4_06,les_4_06_09,topic_4_06_09_01,quiz_4_06_09_1,Which region requires multi-language labeling in all official languages of each member state?,A) European Union | B) United States | C) India | D) Japan,A
+course_4,ch_4_06,les_4_06_09,topic_4_06_09_01,quiz_4_06_09_2,What is the purpose of back-translation in the multi-language labeling workflow?,A) To verify semantic accuracy | B) To adjust packaging layout | C) To obtain final approval | D) To perform post-production checks,A
+course_4,ch_4_06,les_4_06_09,topic_4_06_09_01,quiz_4_06_09_3,Which challenge in multi-language labeling can cause layout issues due to text length variations?,A) Text expansion or contraction | B) Single-language updates | C) Consistent terminology | D) Automated version control,D
+course_4,ch_4_06,les_4_06_09,topic_4_06_09_01,quiz_4_06_09_4,What does AI primarily assist with in multi-language labeling according to best practices?,"A) Translation consistency, discrepancy detection, and SmPC/PIL alignment | B) Physical proofing only | C) Manual terminology updates | D) Skipping QA reviews",C
+course_4,ch_4_06,les_4_06_09,topic_4_06_09_01,quiz_4_06_09_5,"Which best practice involves documenting every translation, review, and approval step?",A) In the QMS | B) In marketing materials | C) In clinical reports | D) In stability data,B
+course_4,ch_4_06,les_4_06_10,topic_4_06_10_01,quiz_4_06_10_1,What is the first step in the labeling change control workflow?,A) Change identification and documenting the rationale and scope | B) Implementation planning | C) Verification and QA sign-off | D) Cross-functional review,A
+course_4,ch_4_06,les_4_06_10,topic_4_06_10_01,quiz_4_06_10_2,Which type of labeling change might involve consistent translations across regions?,A) Multi-country harmonization | B) Regulatory notifications only | C) Internal quality audits | D) Formulation changes,A
+course_4,ch_4_06,les_4_06_10,topic_4_06_10_01,quiz_4_06_10_3,What does the impact assessment in change control evaluate?,"A) Patient safety, regulatory compliance, artwork, and distribution implications | B) Marketing costs | C) Clinical trial results | D) Packaging material strength",D
+course_4,ch_4_06,les_4_06_10,topic_4_06_10_01,quiz_4_06_10_4,Which best practice involves using AI to detect differences across versions and languages?,A) Implement AI-assisted comparison tools | B) Manual stakeholder training only | C) Decentralized master files | D) Skipping audit trails,C
+course_4,ch_4_06,les_4_06_10,topic_4_06_10_01,quiz_4_06_10_5,What system should document the Labeling Change Request according to the material?,A) In the QMS | B) In marketing brochures | C) In stability reports | D) In batch records,B
 course_4,ch_4_07,les_4_07_01,topic_4_07_01_01,quiz_4_07_01_1,,,
 course_4,ch_4_07,les_4_07_01,topic_4_07_01_01,quiz_4_07_01_2,,,
 course_4,ch_4_07,les_4_07_01,topic_4_07_01_01,quiz_4_07_01_3,,,
