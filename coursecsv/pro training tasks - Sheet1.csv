@@ -16,7 +16,22 @@ A completed Compliance Verification using ZANE VERISURE confirming compliance or
 Read the lab observation in the Reference Documents: “Some batch records are missing the operator’s initials.”
 Check for compliance: Compare the SOP (what should happen) to the observation (what’s happening). Ask: Does the lab follow the QMS rule? What’s the issue?
 Click the “Execute” button, document your assessment using ZANE VERISURE
-Document your assessment using ZANE VERISURE.",10,"QMS compliance verification, SOP interpretation, GMP documentation, deviation detection, regulatory alignment","Add to LinkedIn Experience: “Performed QMS compliance verification at a simulated GMP facility using ZANE VERISURE, reviewed SOP adherence, and documented nonconformities.” Save your verified file in Google Drive under Zane Ωmega QA Portfolio / Chapter 1.",QMS Compliance Specialist,Demonstrates understanding of QMS structure and ability to evaluate operational compliance against SOP standards.,
+Document your assessment using ZANE VERISURE.",10,"QMS compliance verification, SOP interpretation, GMP documentation, deviation detection, regulatory alignment","PUBLICATION TASK (Medium + LinkedIn):
+Turn your QMS compliance simulation into a Medium article and LinkedIn post.
+
+AI PROMPT TO USE:
+“Rewrite this achievement as a clear, human-sounding Medium article. Explain what was done, why QMS compliance matters, and what skill it demonstrates. Keep ZaneProEd and ZANE VERISURE referenced. No emojis, no hashtags. Achievement: Performed QMS compliance verification at a simulated GMP facility using ZANE VERISURE and documented nonconformities.”
+
+IMAGE GENERATION PROMPT (GEMINI NANO):
+“Generate a realistic illustration of a QMS compliance check inside a GMP lab. Show SOPs, batch records, and a ZANE VERISURE dashboard. Subtle ZaneProEd branding. Avoid detailed faces.”
+
+After generating:
+• Publish the article on Medium.
+  How to publish:
+  Go to medium.com → Write a Story → Paste → Publish → Copy link.
+• Post a LinkedIn update summarizing the lesson with the Medium link + image.
+  How to post:
+  LinkedIn → Start a Post → Add image → Paste link → Publish.",QMS Compliance Specialist,Demonstrates understanding of QMS structure and ability to evaluate operational compliance against SOP standards.,
 course_1,Pro Training in QA/QC ,ch_1_01,Foundations of Quality Warfare,les_1_01_02,Control the Arsenal – Document Versioning & Register Mastery,task_1_01_02_1,SOP Gap Review and DCR Submission.,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Mr. Vikram Desai, Quality Assurance Lead. During a routine document audit, you notice that the SOP for sample storage (SOP-QC-002, v1.0) requires samples to be stored at 2–8°C, but the lab’s refrigerator log shows temperatures occasionally reaching 10°C due to a missing maintenance check step. Mr. Desai asks you to propose an update to the SOP using DocuShift to add a daily maintenance check.
 
 Deliverables
@@ -24,7 +39,19 @@ Deliverables
 Completed Document Change Request (DCR) using DocuShift identifying the SOP gap and proposing the addition of a daily refrigerator maintenance check.",https://drive.google.com/file/d/1y6RVPyWpTB_SD0sskQDxt5S8GbQxM4U4/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/dcr/dashboard,https://drive.google.com/file/d/1kt87iFAUiZUiOGBjjk6pkzhtk98MHi2k/view?usp=sharing,"Click “Reference Documents” to review SOP-QC-002 and the refrigerator log.
 Compare SOP (requires 2–8°C storage, no maintenance step) to the log (shows temperature deviations).
 Click “EXECUTE” (Open DocuShift)
-Complete Document Change Request (DCR) using DocuShift.",10,"Controlled document management, change control process, SOP analysis, CAPA linkage, technical writing",Add to LinkedIn description: “Executed SOP gap analysis and submitted a controlled Document Change Request (DCR) to address compliance deviation.” Upload your DCR file to your Drive portfolio folder.,Document Control & Change Analyst,Proves ability to manage controlled documents and initiate compliant change control procedures.,
+Complete Document Change Request (DCR) using DocuShift.",10,"Controlled document management, change control process, SOP analysis, CAPA linkage, technical writing","LINKEDIN ARTICLE TASK:
+Convert your SOP gap-analysis simulation into a LinkedIn Article.
+
+AI PROMPT TO USE:
+“Rewrite this achievement into a clear, human-sounding LinkedIn Article. Explain the SOP gap, why it matters for controlled documentation and GMP compliance, and what competency it demonstrates. Keep ZaneProEd referenced. No emojis, no hashtags.
+Achievement: Executed SOP gap analysis and submitted a controlled DCR to address a compliance deviation.”
+
+IMAGE GENERATION PROMPT (Gemini Nano):
+“GMP documentation desk with SOP binder open, highlighted gaps, DCR form being prepared, subtle ZaneProEd branding.”
+
+After generating:
+• Publish the article on LinkedIn (Write Article → Paste → Publish).
+• Create a LinkedIn post summarizing the article and attach the generated image.",Document Control & Change Analyst,Proves ability to manage controlled documents and initiate compliant change control procedures.,
 course_1,Pro Training in QA/QC ,ch_1_01,Foundations of Quality Warfare,les_1_01_03,Spot the Breach – Deviation Detection & Rapid Reporting,task_1_01_03_1,Detecting and Classifying a Deviation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Ms. Priya Sharma, Quality Assurance Supervisor. During a routine in-process check (IPC) of a tablet batch (Batch No. TAB-2025-047), you notice that the tablet weight recorded by the automated weighing machine is 495 mg, below the SOP-QC-003 requirement of 500 ± 5 mg. After checking, you find the weighing machine was not calibrated before the shift, causing the deviation. Ms. Sharma instructs you to document this using Devitrack and propose immediate containment actions.
 
 Deliverables
@@ -32,7 +59,9 @@ Deliverables
 Devitrack submission, documenting the weight deviation, its cause, and containment actions.",https://drive.google.com/file/d/11Pqhs4bKzotVdEmLs_kL3RpEshaiO4HP/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/deviation/dashboard,https://drive.google.com/file/d/1E7UVvyWtPSCLChXVtLDwIOFv95C4h3cj/view?usp=sharing,"Click “Reference Documents” to review SOP-QC-003 and IPC Log.
 Compare SOP (tablet weight 500 ± 5 mg) to IPC Log (weight 495 mg).
 Click “EXECUTE” (Devitrack)
-Do the filing & submit.",10,"Deviation recognition, immediate containment planning, equipment calibration checks, GMP incident logging",Include in portfolio: “Identified and documented a deviation in in-process quality control and executed containment actions in line with GMP requirements.”,Deviation Response Specialist,Shows readiness to detect and mitigate process deviations before product impact occurs.,
+Do the filing & submit.",10,"Deviation recognition, immediate containment planning, equipment calibration checks, GMP incident logging","NO PUBLICATION REQUIRED:
+This simulation focuses on internal deviation recognition and containment.
+No LinkedIn or external publishing needed.",Deviation Response Specialist,Shows readiness to detect and mitigate process deviations before product impact occurs.,
 course_1,Pro Training in QA/QC ,ch_1_01,Foundations of Quality Warfare,les_1_01_04,Strike Back – Root Cause Analysis & CAPA Drafting,task_1_01_04_1,The Mystery of the Failing Cold Room,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Mr. Anil Gupta, Quality Assurance Manager. During a routine dissolution test for tablet batch TAB-2025-049, 3 out of 20 tablets failed to meet the SOP-QC-004 dissolution specification (≥80% dissolution in 30 minutes). Initial investigation points to inconsistent granulation time. Mr. Gupta instructs you to perform a root cause analysis (RCA) using the 5 Whys method and document corrective and preventive actions using the CAPA Commander.
 
 Deliverables
@@ -40,7 +69,22 @@ Deliverables
 Completed CAPA Commander filling documenting the root cause of the dissolution failure and proposing corrective and preventive actions.",https://drive.google.com/file/d/1lS8dLuDj7nq_pBJ-gJuvkEM6uKwkAt10/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/capa/dashboard,https://drive.google.com/file/d/1XuYqWUXV9iFj_VOmxN5zzPxP-k-wiEBb/view?usp=sharing,"Click “Reference Documents” to review SOP-QC-004 and Dissolution Test Log.
 Use the 5 Whys method to identify the root cause (start with: tablets failed dissolution test).
 Click “EXECUTE” (CAPA Commander).
-Do the filing & submit.",10,"5-Whys analysis, corrective/preventive action formulation, risk evaluation, documentation integrity",Save CAPA file in your portfolio folder. Add to LinkedIn Featured: “Completed full Root Cause Analysis and CAPA drafting for simulated dissolution failure.”,Root Cause & CAPA Analyst,Confirms ability to perform structured investigations and propose corrective measures.,
+Do the filing & submit.",10,"5-Whys analysis, corrective/preventive action formulation, risk evaluation, documentation integrity","PUBLICATION TASK (PubPub + LinkedIn):
+Turn your RCA + CAPA simulation into a PubPub article and LinkedIn update.
+
+AI PROMPT TO USE:
+“Rewrite this achievement into a human-sounding PubPub article. Describe the dissolution failure, RCA process, and CAPA approach. Keep ZaneProEd referenced. No emojis, no hashtags. Achievement: Completed RCA and drafted CAPA for a dissolution failure.”
+
+IMAGE GENERATION PROMPT (GEMINI NANO):
+“Generate a realistic illustration of a 5 Whys RCA flow and CAPA documentation within a QA setting. Subtle ZaneProEd branding.”
+
+After generating:
+• Publish on PubPub.
+  How to publish:
+  pubpub.org → Sign in → New Document → Paste → Publish → Copy link.
+• Post a LinkedIn update summarizing the lesson with the PubPub link + image.
+  How to post:
+  LinkedIn → Start a Post → Add image → Paste link → Publish.",Root Cause & CAPA Analyst,Confirms ability to perform structured investigations and propose corrective measures.,
 course_1,Pro Training in QA/QC ,ch_1_01,Foundations of Quality Warfare,les_1_01_05,First Combat Drill – Internal Audit & Document Inspection Simulation,task_1_01_05_1,Internal Audit & Document Inspection at Sunrise Hospital Lab,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, assigned as an internal auditor under Ms. Rhea Patel, QA Manager. During a mock process audit of the sample testing process, you review the Sample Testing Log (LOG-2025-016) against SOP-QC-005 (Sample Testing Procedure, v1.0). You notice that 4 out of 10 test records lack analyst signatures, violating SOP-QC-005’s requirement for signed documentation. Ms. Patel instructs you to document your findings and recommend corrective actions using  AuditNEX.
 
 Deliverables
@@ -48,7 +92,19 @@ Deliverables
 Completed Audit & Inspection documenting using AuditNex.",https://drive.google.com/file/d/1-oJxjHqSgFMuadS30z0e4X7S2Niym0Pd/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/audit/dashboard,https://drive.google.com/file/d/1KxGNxSxQjpedN8HdvsWo6Yr308ugNea8/view?usp=sharing,"Click “Reference Documents” to review SOP-QC-005 and Sample Testing Log.
 Compare SOP-QC-005 (requires analyst signatures on all test records) to LOG-2025-016 (4/10 records missing signatures).
 Click “EXECUTE” (AuditNex).
-Do the filing & submit.",10,"Internal auditing, compliance assessment, documentation inspection, corrective recommendation reporting",Upload audit report to portfolio. Add bullet to LinkedIn: “Performed internal audit simulation identifying missing analyst signatures and proposed corrective actions.”,Internal Audit Trainee,Demonstrates early audit competency and understanding of documentation accountability.,
+Do the filing & submit.",10,"Internal auditing, compliance assessment, documentation inspection, corrective recommendation reporting","LINKEDIN ARTICLE TASK
+Convert your internal audit simulation into a LinkedIn Article.
+
+AI PROMPT TO USE:
+“Rewrite this achievement into a clear LinkedIn Article. Explain the missing-analyst-signature finding, why documentation integrity matters under GMP expectations, and what competency this demonstrates. Keep ZaneProEd referenced. No emojis, no hashtags.
+Achievement: Performed an internal audit identifying missing analyst signatures and recommended corrective actions.”
+
+IMAGE GENERATION PROMPT (Gemini Nano):
+“Internal audit desk with batch records showing missing analyst signatures highlighted, ZaneProEd-style compliance dashboard in background, subtle branding.”
+
+After generating:
+• Publish as a LinkedIn Article.
+• Create a LinkedIn post summarizing the article and attach the generated image.",Internal Audit Trainee,Demonstrates early audit competency and understanding of documentation accountability.,
 course_1,Pro Training in QA/QC ,ch_1_01,Foundations of Quality Warfare,les_1_01_06,Defend the Lab – OOS/OOT Identification & First-line Investigation,task_1_01_06_1,OOS Identification and First-line Investigation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Ms. Priya Sharma, Quality Assurance Supervisor. During a routine purity test for raw material batch RM-2025-105, the HPLC test result shows a purity of 98.5%, below the SOP-QC-006 specification of ≥99.5%. Initial checks suggest a possible lab error in sample preparation. Ms. Sharma instructs you to document the OOS result and perform a first-line investigation using DeviTrack, noting immediate actions and initial findings.
 
 Deliverables 
@@ -56,7 +112,9 @@ Deliverables
 Completed Deviation and Incident Report inside DeviTrack documenting the OOS result, immediate actions, and initial investigation findings.",https://drive.google.com/file/d/1wTls81wwbIgvuyF200uR2wvTn1RrQ3BB/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/deviation/dashboard,https://drive.google.com/file/d/11FmFmPckN-p-Fi83L-9PlpaknjLjnwqC/view?usp=sharing,"Click “Reference Documents” to review SOP-QC-006 and HPLC Test Log.
 Compare SOP-QC-006 (purity ≥99.5%) to HPLC Test Log (98.5% purity).
 Click “EXECUTE” (DeviTrack).
-Do the filing & submit.",10,"OOS detection, first-line investigation, data verification, containment strategy, deviation reporting",Save OOS form in Drive. Add to LinkedIn: “Investigated Out-of-Specification (OOS) purity deviation and performed immediate containment with preliminary RCA.”,OOS Investigator,Establishes capability to manage and report laboratory OOS events accurately.,
+Do the filing & submit.",10,"OOS detection, first-line investigation, data verification, containment strategy, deviation reporting","NO PUBLICATION REQUIRED:
+This lesson focuses on OOS identification and first-line investigation.
+No LinkedIn or external publishing needed.",OOS Investigator,Establishes capability to manage and report laboratory OOS events accurately.,
 course_1,Pro Training in QA/QC ,ch_1_01,Foundations of Quality Warfare,les_1_01_07,Guard the Data – ALCOA+ & Data Integrity Auditing,task_1_01_07_1,ALCOA+ & Data Integrity Auditing,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, assigned as a data integrity auditor under Mr. Vikram Desai, QA Lead. During a mock audit of batch record data for tablet batch TAB-2025-053, you review the Batch Record Log (LOG-2025-020) against SOP-QA-007 (Batch Record Documentation). You notice that 5 out of 10 records have timestamps entered hours after the test, violating SOP-QA-007’s requirement for contemporaneous data entry (ALCOA+ principle). Mr. Desai instructs you to document your findings and recommend improvements using the Compliance Verification Form.
 
 Deliverables
@@ -67,7 +125,22 @@ Click “EXECUTE” (DeviTrack).
 Do the filing & submit.
 Click “EXECUTE” (Transition to CAPA COMMANDER)
 Do the filing & submit.
-Tip: This two-form workflow mimics real QA—deviation for quick response, CAPA for long-term fix. Keep descriptions concise and evidence-based.",10,"ALCOA+ principle application, data review, timestamp accuracy verification, compliance evaluation",Add to portfolio: “Conducted data integrity audit identifying late data entries and recommended process corrections per ALCOA+.”,Data Integrity Auditor,"Validates understanding of data reliability, traceability, and contemporaneous recordkeeping.",
+Tip: This two-form workflow mimics real QA—deviation for quick response, CAPA for long-term fix. Keep descriptions concise and evidence-based.",10,"ALCOA+ principle application, data review, timestamp accuracy verification, compliance evaluation","PUBLICATION TASK (Medium + LinkedIn):
+Convert your ALCOA+ audit into a Medium article and LinkedIn post.
+
+AI PROMPT TO USE:
+“Rewrite this achievement into a human-sounding Medium article. Explain the timestamp issue, the ALCOA+ relevance, and the competency applied. Keep ZaneProEd referenced. No emojis, no hashtags. Achievement: Conducted a data integrity audit identifying late data entries and recommended ALCOA+-aligned corrections.”
+
+IMAGE GENERATION PROMPT (GEMINI NANO):
+“Generate a realistic illustration showing timestamp gaps in batch records, an ALCOA+ checklist, and a ZANE VERISURE compliance panel. Subtle ZaneProEd branding.”
+
+After generating:
+• Publish the article on Medium.
+  How to publish:
+  medium.com → Write a Story → Paste → Publish → Copy link.
+• Post a LinkedIn update with the Medium link and image.
+  How to post:
+  LinkedIn → Start a Post → Add image → Paste link → Publish.",Data Integrity Auditor,"Validates understanding of data reliability, traceability, and contemporaneous recordkeeping.",
 course_1,Pro Training in QA/QC ,ch_1_01,Foundations of Quality Warfare,les_1_01_08,Full-Scale Operation – Deviation to CAPA Lifecycle Simulation,task_1_01_08_1,Deviation to CAPA Lifecycle Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Ms. Rhea Patel, QA Manager. During a routine hardness test for tablet batch TAB-2025-055, the result is 3.5 kg, below the SOP-QC-008 specification of 4–6 kg (deviation detected). 
 
 Initial assessment shows major impact on product quality, and RCA reveals a machine malfunction due to overdue maintenance. Ms. Patel instructs you to simulate the full Deviation to CAPA lifecycle using two tools: 
@@ -86,7 +159,19 @@ Fill the Deviation Form: Describe incident, note immediate actions, provide RCA,
 Transition to CAPA: Use the Deviation Form's RCA/output as input for detailed CAPA drafting.
 Open “Fillable Document” (CAPA Command Template).
 Fill the CAPA Template: Reference the deviation ID (DEV-2025-055), draft corrective/preventive actions, assign responsibilities, plan verification, and note closure date. Submit via “Answer Portal”.
-Tip: This two-form workflow mimics real QA—deviation for quick response, CAPA for long-term fix. Keep descriptions concise and evidence-based.",10,"End-to-end deviation management, RCA linkage, CAPA implementation planning, QA documentation flow","Archive both DeviTrack and CAPA files in your Drive folder. Add LinkedIn line: “Completed full deviation-to-CAPA lifecycle simulation including RCA, corrective and preventive action implementation.”",QA Lifecycle Coordinator,Confirms understanding of complete QA problem-solving cycle from detection to closure.,
+Tip: This two-form workflow mimics real QA—deviation for quick response, CAPA for long-term fix. Keep descriptions concise and evidence-based.",10,"End-to-end deviation management, RCA linkage, CAPA implementation planning, QA documentation flow","LINKEDIN POST:
+Turn your deviation-to-CAPA lifecycle simulation into a short LinkedIn update.
+
+AI PROMPT TO USE:
+“Rewrite this achievement into a clear, professional LinkedIn post. Explain the deviation event, the RCA process, how CAPA was planned, and what competency this demonstrates. Keep ZaneProEd referenced. No emojis, no hashtags.
+Achievement: Completed the full deviation-to-CAPA lifecycle including detection, containment, RCA, and preventive actions.”
+
+IMAGE GENERATION PROMPT (Gemini Nano):
+“Deviation-to-CAPA workflow with connected forms, RCA steps, CAPA planning panel, subtle ZaneProEd branding.”
+
+After generating:
+• Publish as a LinkedIn post with the generated image
+(LinkedIn → Start a Post → Add image → Paste rewritten text → Publish).",QA Lifecycle Coordinator,Confirms understanding of complete QA problem-solving cycle from detection to closure.,
 course_1,Pro Training in QA/QC ,ch_1_01,Foundations of Quality Warfare,les_1_01_09,The War Game – Integrated QA/QC Crisis Assignment,task_1_01_09_1,Integrated QA/QC Crisis Assignment,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Mr. Anil Gupta, QA Manager. A crisis erupts: an assay test for Batch TAB-2025-057 shows an OOS result (API content 97.8% vs. ≥99.0% per SOP-QC-009). Simultaneously, an audit uncovers missing training records for two analysts (AK003, VS004) on SOP-QC-009, and an FDA inspection is scheduled tomorrow. Mr. Gupta tasks you with managing the crisis using three tools: Crisilog to triage and prioritize issues, DeviTrack to detail the OOS with RCA, and CAPA Commander to resolve the OOS with corrective/preventive actions.
 
 Deliverables
@@ -103,14 +188,22 @@ Fill Deviation: Describe OOS, note containment, RCA (5 Whys), preliminary CAPA.
 Resolve OOS: Use Deviation RCA for CAPA drafting.
 Open CAPA Commander.
 Fill CAPA: Reference Deviation ID, draft corrective/preventive actions, plan verification/closure.
-Tip: Dashboard is your crisis command center—link IDs across forms for traceability. Prioritize patient safety (OOS) for audit readiness.",10,"Crisis triage, QA coordination, RCA prioritization, CAPA verification, audit readiness","Post your achievement on LinkedIn with this caption:
+Tip: Dashboard is your crisis command center—link IDs across forms for traceability. Prioritize patient safety (OOS) for audit readiness.",10,"Crisis triage, QA coordination, RCA prioritization, CAPA verification, audit readiness","CHAPTER-END LINKEDIN UPDATE:
+Post your Chapter 1 completion summary on LinkedIn.
 
-“Completed the Foundations of Quality Warfare chapter in the Zane Ωmega QA/QC Simulation. Gained hands-on skills in QMS auditing, deviation handling, CAPA drafting, and crisis management using real regulatory workflows.”
+AI PROMPT TO USE:
+“Rewrite this achievement into a clear LinkedIn post summarizing the crisis scenario, decisions made, and competencies applied. Keep wording natural and ZaneProEd referenced. No emojis, no hashtags. Achievement: Managed an integrated QA/QC crisis involving an OOS event, missing training records, and audit pressure.”
 
-Attach your Zane Ωmega Chapter 1 Milestone Card image as the post banner.
-Add your verified submission ZIP to Google Drive and feature it on LinkedIn under ‘Zane Ωmega QA/QC Simulation Portfolio’.",QA Crisis Manager,Demonstrates end-to-end quality system understanding and the ability to operate within a regulated QA/QC environment under inspection pressure.,"After completing all nine tasks, email support@zaneproed.com with your registered ID and subject line “QA Portfolio Request – Chapter 1”.
-You’ll receive a verified submission bundle (PDF/ZIP) containing all your completed forms. Store it in Google Drive and link it to your LinkedIn Featured section or share it during interviews as proof of simulated QA/QC project experience."
-course_1,Pro Training in QA/QC ,ch_1_01,Foundations of Quality Warfare,les_1_01_10,Recap,task_1_01_10_1,Omegamentorship,,,,,,10,,,,,
+IMAGE GENERATION PROMPT (GEMINI NANO):
+“Generate a realistic crisis-management dashboard image showing OOS workflows, training gaps, and CAPA activities. Subtle ZaneProEd branding.”
+
+After generating:
+• Publish the final chapter summary on LinkedIn with the generated image.
+  How to post:
+  LinkedIn → Start a Post → Add image → Paste → Publish.",QA Crisis Manager,Demonstrates end-to-end quality system understanding and the ability to operate within a regulated QA/QC environment under inspection pressure.,"After completing all nine lessons, email support@zaneproed.com with your registered email_id and subject line: “QA Portfolio Request – Chapter 1”.
+
+You will receive your verified Chapter 1 bundle (PDF/ZIP). Use this for your LinkedIn Featured section, job applications, and interviews."
+course_1,Pro Training in QA/QC ,ch_1_01,Foundations of Quality Warfare,les_1_01_10,Recap,task_1_01_10_1,Omegamentorship,,,,,,10,,NO PUBLICATION REQUIRED,,,
 course_1,Pro Training in QA/QC ,ch_1_02,Hospital Quality Command Protocols,les_1_02_01,Entering the Ward Zone – Hospital QMS Framework & Accreditation Codes,task_1_02_01_1,Ward QMS Compliance Audit,"You are a Junior Quality Control Analyst at Zenith Hospital, reporting to Dr. Meera Nair, Quality Assurance Lead. During a routine ward audit in Ward 3 (General Medicine), you review the Hand Hygiene Compliance Log (LOG-2025-027) against SOP-QA-010 (Hand Hygiene Protocol). 
 
 You find that 6 out of 10 shift logs lack hand hygiene verification entries, violating SOP-QA-010 and NABH Standard AAC.5 (Access to Care and Continuity). Dr. Nair instructs you to document the non-compliance and recommend improvements using VeriSure to prepare for an upcoming NABH audit.
@@ -120,7 +213,20 @@ Deliverables
 Completed VeriSure documentation including ward audit findings and proposed improvements for NABH compliance.",https://drive.google.com/file/d/1Sz3g4chibpJOI18mRlH78C-gfuc26qsb/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/compliance/dashboard,https://drive.google.com/file/d/1KYlll5nEFnTyrXlT_vJUpeQWJdS7ZdoW/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-010 and Hand Hygiene Compliance Log.
 Compare SOP-QA-010 (requires hand hygiene verification entries per shift) to LOG-2025-027 (missing entries).
 Click “EXECUTE” (Open VeriSure)
-Complete & submit.",10,,,,,
+Complete & submit.",10,"Ward-level QMS auditing, NABH AAC.5 interpretation, documentation review, SOP–log comparison, VeriSure reporting, compliance-gap identification.","LINKEDIN ARTICLE:
+Turn your ward QMS audit simulation into a short LinkedIn article.
+
+AI PROMPT TO USE:
+“Rewrite this achievement into a clear, professional LinkedIn article. Explain the non-compliance found in hand-hygiene logs, why these verifications matter for NABH audits, and what competency this demonstrates. Keep ZaneProEd and VeriSure referenced. No emojis, no hashtags.
+Achievement: Documented non-compliance in ward hand-hygiene logs and submitted improvements using VeriSure for NABH readiness.”
+
+IMAGE GENERATION PROMPT (Gemini Nano):
+“Hospital ward audit desk with hand-hygiene logs, missing entries highlighted, VeriSure compliance dashboard, subtle ZaneProEd branding.”
+
+After generating:
+• Publish as a LinkedIn Article
+LinkedIn → Write article → Paste text → Add image → Publish.
+• Optional: Share as a normal LinkedIn post linking to the article.",Ward Audit Initiator,"Shows capability in NABH-aligned ward auditing, useful for hospital QA Associate and Clinical Quality Inspector roles.",
 course_1,Pro Training in QA/QC ,ch_1_02,Hospital Quality Command Protocols,les_1_02_02,Code Control – SOP Command Chains & Access Authority,task_1_02_02_1,SOP Compliance and Access Authority Audit,"You are a Junior Quality Control Analyst at Zenith Hospital, reporting to Dr. Vikram Desai, QA Lead. During a routine ward audit in Ward 4 (Surgical Unit), you review the SOP Register (REG-2025-002) against SOP-QA-011 (Surgical Instrument Sterilization Protocol). You find that 3 out of 5 SOP copies in use are version 1.0 (expired 01/06/2025), while the current version is 2.0, violating NABH Standard MOM.2 (Management of Medication). Dr. Desai instructs you to document the non-compliance and recommend improvements using VeriSure to prepare for an upcoming NABH audit.
 
 Deliverables
@@ -128,7 +234,109 @@ Deliverables
 Completed VeriSure submission documenting the SOP compliance audit findings and proposed improvements for NABH adherence.",https://drive.google.com/file/d/1RcJ_GoLC__evWJNRrXejtBKxIo_Si5MJ/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/compliance/dashboard,https://drive.google.com/file/d/1yAlj2pOBvxfmbH5COv1L3ZCHi_pJ1-Jd/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-011 and SOP Register.
 Compare SOP-QA-011 (version 2.0, effective 01/07/2025) to REG-2025-002 (outdated version 1.0 in use).
 Click “EXECUTE” (VeriSure).
-Document & submit.",10,,,,,
+Document & submit.",10,"SOP version control, NABH MOM.2 interpretation, documentation traceability, VeriSure-based compliance reporting.","ZENODO TECHNICAL NOTE PUBLICATION (SOP Version Compliance Audit)
+
+You will publish your completed audit as a Technical Note on Zenodo.
+This creates a permanent, citable record of your work with a DOI you can add to your professional portfolio.
+
+
+WHAT YOU ARE CREATING
+
+A short technical note explaining:
+• The outdated SOP versions found
+• Why NABH MOM.2 requires strict version control
+• The corrective action submitted using VeriSure
+
+
+TEXT TO GENERATE
+
+TECHNICAL NOTE PROMPT:
+“Rewrite this achievement into a clean, compliance-focused Technical Note for Zenodo. Explain the outdated SOP versions, why version control matters for NABH MOM.2, and the corrective action recommended using VeriSure. Keep ZaneProEd referenced. No emojis, no hashtags.
+Achievement: Identified outdated SOPs in use and submitted corrective actions using VeriSure.”
+
+IMAGE PROMPT:
+“SOP binders showing outdated and updated versions, a VeriSure compliance window on a screen, subtle ZaneProEd branding.”
+
+
+HOW TO UPLOAD TO ZENODO (STEP-BY-STEP)
+
+1. Go to zenodo.org → Upload → New Upload.
+Then, open your Compliance Verification Form from ZANE VeriSure.
+Click “View”, then “Download PDF” to save the file to your system.
+Finally, upload that PDF file as your main document in Zenodo.
+
+
+2. Basic Information
+   • Title: SOP Version Compliance Audit – Technical Note.
+   • Resource Type: Publication → Technical Note
+   • Publication Date: Use today’s date (YYYY-MM-DD)
+   • Description: Paste your AI-generated Technical Note
+   • DOI: Click ""Reserve DOI""
+   • Files: Upload your generated image (optional)
+
+
+3. Creators Section
+   Fill with your details:
+   • Family name: Your last name
+   • Given names: Your first name
+   • Affiliation: ZaneProEd
+   • Role: Author
+   • Identifiers: Leave empty
+
+
+4. Contributors Section
+   Add:
+   • Name: ZaneProEd
+   • Role: Hosting institution
+   • Affiliation: ZaneProEd Virtual QA/QC Lab
+
+
+5. License
+   • Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+
+6. Copyright
+   • Copyright (C) 2025 The Authors.
+
+
+7. Keywords
+   • GMP compliance
+   • SOP version control
+   • NABH MOM.2
+   • Documentation traceability
+   • VeriSure
+   • ZaneProEd
+
+
+8. Language
+   • English (eng)
+
+
+9. Version
+   • v1.0
+
+
+10. Publisher
+    • ZaneProEd
+
+
+11. Leave all optional fields empty:
+    • Funding
+    • Awards/Grants
+    • Related Works
+    • Alternate identifiers
+    • Journal info
+    • Conference info
+    • Thesis info
+    • Software fields
+
+
+12. Final Step
+    • Click Publish
+    • Copy the DOI link
+    • Add the DOI to:
+      - Your ZaneProEd Portfolio
+      - Your LinkedIn Featured section",SOP Compliance Sentinel,"Useful for roles in hospital QA, document control, and internal NABH readiness teams.",
 course_1,Pro Training in QA/QC ,ch_1_02,Hospital Quality Command Protocols,les_1_02_03,Vitals Check – Patient Safety Indicators & Risk Flagging,task_1_02_03_1,Patient Safety Indicators and Risk Flagging Audit,"You are a Junior Quality Control Analyst at Zenith Hospital, reporting to Dr. Priya Sharma, QA Supervisor. During a routine audit in Ward 5 (ICU), you review the Catheter Care Log (LOG-2025-029) against SOP-QA-012 (Catheter Care Protocol) to check PSI compliance for Catheter-Associated Urinary Tract Infections (CAUTIs). You find that 4 out of 10 catheter care logs lack nurse verification entries, increasing CAUTI risk and violating NABH Standard IPC.3 (Infection Prevention and Control). Dr. Sharma instructs you to document the findings and recommend improvements using AuditNex to prepare for an upcoming NABH audit.
 
  Deliverables 
@@ -136,7 +344,19 @@ course_1,Pro Training in QA/QC ,ch_1_02,Hospital Quality Command Protocols,les_1
 Completed AuditNex submissiom documenting the PSI audit findings and proposed improvements for NABH compliance.",https://drive.google.com/file/d/1wzsz668svfia0Iy3-AtfvrEprls__1SG/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/audit/dashboard,https://drive.google.com/file/d/14fB10TY9f1zMSKUnt1uL8M4SSeks3yfs/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-012 and Catheter Care Log.
 Compare SOP-QA-012 (requires nurse verification entries per shift) to LOG-2025-029 (missing entries).
 Click “Execute” (AuditNex).
-Document & submit.",10,,,,,
+Document & submit.",10,"PSI interpretation, CAUTI risk audit, NABH IPC.3 understanding, log review, audit documentation in AuditNex.","MEDIUM ARTICLE TASK:
+Convert your CAUTI-related PSI audit into a short Medium article.
+
+AI PROMPT TO USE:
+“Rewrite this achievement into a clean Medium article. Explain the PSI audit, missing nurse verification entries, CAUTI risk, and what competency it demonstrates. Keep ZaneProEd referenced. No emojis, no hashtags. Achievement: Conducted PSI audit for CAUTI risk and documented corrective actions using AuditNex.”
+
+IMAGE GENERATION PROMPT (GEMINI NANO):
+“Generate a realistic illustration showing catheter care logs with missing verification entries and a PSI risk dashboard. Subtle ZaneProEd branding.”
+
+After generating:
+• Publish on Medium:
+  medium.com → Write a Story → Paste → Publish → Copy link.
+• Share a LinkedIn post summarizing the article and attach the image.",Patient Safety Auditor,Shows readiness for Patient Safety Officer and Clinical Quality Analyst positions.,
 course_1,Pro Training in QA/QC ,ch_1_02,Hospital Quality Command Protocols,les_1_02_04,Contain the Breach – Incident Reporting & Escalation Pathways,task_1_02_04_1,Incident Reporting and Escalation Simulation,"You are a Junior Quality Control Analyst at Zenith Hospital, reporting to Dr. Anil Gupta, QA Manager. During a night shift in Ward 6 (Emergency Department), a nurse reports a medication error: patient PT-2025-112 received 10 mg of a drug instead of 5 mg due to a misread prescription label, classified as a clinical incident. 
 
 Dr. Gupta instructs you to document the incident, classify its severity, and outline initial actions using DeviTrack, following SOP-QA-013 (Medication Administration Protocol) to ensure NABH Standard MOM.3 (Management of Medication) compliance.
@@ -146,7 +366,9 @@ Dr. Gupta instructs you to document the incident, classify its severity, and out
 Completed DeviTrack submission documenting the medication error, severity, immediate actions, and preliminary CAPA.",https://drive.google.com/file/d/1qmhtt20J2VQ5syh3h0LmTCn0zivMcras/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/deviation/dashboard,https://drive.google.com/file/d/1KeyXyLmb4_quburfCQu9ZaF6NYC9VMqF/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-013 and Medication Administration Log.
 Compare SOP-QA-013 (requires clear prescription labeling) to LOG-2025-030 (misread label caused error).
 Click “EXECUTE”
-Document in DeviTrack & submit.",10,,,,,
+Document in DeviTrack & submit.",10,"Clinical incident documentation, medication error classification, severity analysis, DeviTrack reporting, NABH MOM.3 awareness.","NO PUBLICATION REQUIRED:
+This simulation deals with a sensitive medication-error scenario.
+Do not publish externally.",Clinical Incident Responder,Applicable for hospital QA teams involved in incident management and medication safety.,
 course_1,Pro Training in QA/QC ,ch_1_02,Hospital Quality Command Protocols,les_1_02_05,Biohazard Defense – Infection Control Protocols & Isolation Measures,task_1_02_05_1,Infection Control and Isolation Audit,"You are a Junior Quality Control Analyst at Zenith Hospital, reporting to Dr. Meera Nair, QA Lead. During a routine audit in Ward 7 (Infectious Diseases Unit), you review the Isolation Room Compliance Log (LOG-2025-031) against SOP-QA-014 (Infection Control and Isolation Protocol). You find that 3 out of 5 isolation rooms lack proper signage for contact precautions, violating NABH Standard IPC.3 (Infection Prevention and Control) and increasing HAI risk. Dr. Nair instructs you to document the findings and recommend improvements using AuditNex to prepare for an upcoming NABH audit.
 
 Deliverables 
@@ -154,7 +376,19 @@ Deliverables
 Completed AuditNex submission documenting the IPC audit findings and proposed improvements for NABH compliance.",https://drive.google.com/file/d/1NCZgT_8h_5YojzRF-zeVX4-4s1Iq1qul/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/audit/dashboard,https://drive.google.com/file/d/1U2IrYIN_stpUAjGa6ouLT_pKcEQjS70M/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-014 and Isolation Room Compliance Log.
 Compare SOP-QA-014 (requires contact precaution signage) to LOG-2025-031 (missing signage).
 Click “EXECUTE” (Open AuditNex)
-Document & submit.",10,,,,,
+Document & submit.",10,"Infection control auditing, IPC signage verification, NABH IPC.3 compliance evaluation, AuditNex reporting.","PUBPUB ARTICLE TASK:
+Turn your isolation-room IPC audit into a short PubPub article.
+
+AI PROMPT TO USE:
+“Rewrite this achievement into a natural PubPub article. Explain missing isolation signage, its IPC risk, and how the audit supports NABH IPC.3 compliance. Keep ZaneProEd referenced. No emojis, no hashtags. Achievement: Audited isolation rooms and documented IPC gaps using AuditNex.”
+
+IMAGE GENERATION PROMPT (GEMINI NANO):
+“Generate an illustration of isolation rooms with missing precaution signage, IPC checklist, and an AuditNex dashboard. Subtle ZaneProEd branding.”
+
+After generating:
+• Publish on PubPub:
+  pubpub.org → Sign in → New Document → Paste → Publish → Copy link.
+• Create a LinkedIn post with the article link + generated image.",Infection Control Auditor,Strengthens eligibility for Infection Control QA and HIC compliance audits under NABH.,
 course_1,Pro Training in QA/QC ,ch_1_02,Hospital Quality Command Protocols,les_1_02_06,Guard the Records – EMR/EHR Data Integrity & Access Logs,task_1_02_06_1,EMR/EHR Data Integrity and Access Log Audit,"You are a Junior Quality Control Analyst at Zenith Hospital, reporting to Dr. Priya Sharma, QA Supervisor. During a routine EMR audit in Ward 8 (Cardiology Unit), you review the EMR Access Log (LOG-2025-032) against SOP-QA-015 (EMR Data Management Protocol). 
 You find that 4 out of 10 patient record entries have delayed timestamps (entered 2–3 hours after patient interaction), violating SOP-QA-015’s ALCOA+ Contemporaneous principle and NABH Standard HIC.2 (Hospital Infection Control). 
 Dr. Sharma instructs you to document the findings and recommend improvements using VeriSure to prepare for an upcoming NABH audit.
@@ -164,7 +398,18 @@ Deliverables
 Completed VeriSure submission documenting the EMR data integrity audit findings and proposed improvements for NABH compliance.",https://drive.google.com/file/d/1xwt6RMBks6RCIJbPsmYwZKHeuCN1kqAI/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/compliance/dashboard,https://drive.google.com/file/d/1s5xvidtTV_fTxU2C1-uarMw_HHQv0J5B/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-015 and EMR Access Log.
 Compare SOP-QA-015 (requires contemporaneous EMR entries) to LOG-2025-032 (delayed timestamps).
 Click “EXECUTE” (Open VeriSure)
-Document & submit.",10,,,,,
+Document & submit.",10,"EMR data review, timestamp integrity, ALCOA+ in clinical contexts, VeriSure compliance evaluation, NABH HIC.2 interpretation.","LINKEDIN EXPERIENCE UPDATE:
+Turn your EMR data integrity audit into a LinkedIn Experience entry.
+
+AI PROMPT TO USE:
+“Rewrite this achievement into a professional LinkedIn Experience description. Explain delayed EMR timestamps, ALCOA+ importance, and the improvement proposed. Keep ZaneProEd and VeriSure referenced. No emojis, no hashtags. Achievement: Completed EMR data integrity audit and documented improvements using VeriSure.”
+
+IMAGE GENERATION PROMPT (GEMINI NANO):
+“Generate a realistic illustration of EMR logs with delayed timestamps and a VeriSure compliance panel. Subtle ZaneProEd branding.”
+
+After generating:
+• Add the text in LinkedIn Experience (Profile → Add Section → Experience).
+• Optional: Share a LinkedIn post with the image.",Clinical Data Integrity Reviewer,"Useful for EMR QA, clinical documentation audit, and digital compliance roles.",
 course_1,Pro Training in QA/QC ,ch_1_02,Hospital Quality Command Protocols,les_1_02_07,First Hospital Drill – Ward & Facility Compliance Sweep,task_1_02_07_1,Ward & Facility Compliance Sweep,"You are a Junior Quality Control Analyst at Zenith Hospital, reporting to Dr. Anil Gupta, QA Manager. During a routine compliance sweep in Ward 9 (Orthopedic Unit), you review the Disinfection Compliance Log (LOG-2025-033) against SOP-QA-016 (Ward Hygiene and Disinfection Protocol). 
 
 You find that 5 out of 10 daily disinfection logs lack staff signatures, classified as a major non-compliance issue violating NABH Standard HIC.3 (Hospital Infection Control). Dr. Gupta instructs you to document the findings and recommend improvements using AuditNEX to prepare for an upcoming NABH audit.
@@ -174,7 +419,9 @@ Deliverables
 Completed AuditNEX submission documenting the compliance sweep findings and proposed improvements for NABH compliance.",https://drive.google.com/file/d/1XYrJRzUW0SnFBM3qRNqjBwbjIxBjcP19/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/audit/dashboard,https://drive.google.com/file/d/1TrFK-TDJNdMDE4BqDvPxncuhg25xqYhk/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-016 and Disinfection Compliance Log.
 Compare SOP-QA-016 (requires signed disinfection logs per shift) to LOG-2025-033 (missing signatures).
 Click “EXECUTE” (AuditNEX).
-Document & submit.",10,,,,,
+Document & submit.",10,"Ward hygiene audit, disinfection log review, signature compliance analysis, AuditNex reporting, NABH HIC.3 alignment.","NO PUBLICATION REQUIRED:
+This activity focuses on internal ward hygiene and signature compliance.
+No external posting needed.",Ward Compliance Inspector,Applicable for roles in hospital quality inspection and environmental hygiene auditing.,
 course_1,Pro Training in QA/QC ,ch_1_02,Hospital Quality Command Protocols,les_1_02_08,Emergency Response Simulation – From Alarm to Action,task_1_02_08_1,Emergency Response Simulation,"You are a Junior Quality Control Analyst at Zenith Hospital, reporting to Dr. Meera Nair, QA Lead. During a night shift in Ward 10 (Pathology Lab), a biohazard spill (chemical reagent) occurs due to a broken container during transport, classified as a high-severity incident. 
 
 Dr. Nair instructs you to document the incident, classify its severity, and outline initial actions using DeviTrack, following SOP-QA-017 (Biohazard Spill Response Protocol) to ensure compliance with NABH Standard FMS.4 (Facility Management and Safety).
@@ -184,7 +431,8 @@ Deliverables
 Completed DeviTrack submission documenting the biohazard spill, severity, immediate actions, and preliminary CAPA.",https://drive.google.com/file/d/18hDngVtD1yjQ9Z_SoMiZaVFnwN13arzA/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/deviation/dashboard,https://drive.google.com/file/d/1py-8b79Qitl36u9Th1Polr11cvqMDiAP/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-017 and Biohazard Spill Log.
 Compare SOP-QA-017 (requires immediate containment and reporting) to LOG-2025-034 (spill details).
 Click “EXECUTE” (DeviTrack).
-Document & submit.",10,,,,,
+Document & submit.",10,"Biohazard spill response, severity classification, immediate containment actions, DeviTrack-based documentation, NABH FMS.4 readiness.","NO PUBLICATION REQUIRED:
+Biohazard incidents should not be posted publicly.",Emergency Response Reporter,"Supports roles in hospital safety, emergency response QA, and FMS compliance.",
 course_1,Pro Training in QA/QC ,ch_1_02,Hospital Quality Command Protocols,les_1_02_09,The Grand Ward Game – Multi-Department QA/QC Coordination Challenge,task_1_02_09_1,Multi-Department QA/QC Coordination Challenge,"You are a Junior Quality Control Analyst at Zenith Hospital, reporting to Dr. Anil Gupta, QA Manager. During a multi-department QA sweep, you identify two issues: (1) a Pharmacy dispensing error (wrong medication label for Batch MED-2025-101, risking ward errors) and (2) missing ICU hand hygiene logs (4/10 entries incomplete). 
 
 Dr. Gupta instructs you to use Crisilog to map and prioritize these issues, then DeviTrack to detail the highest-priority issue (Pharmacy error) with RCA, ensuring NABH Standard COP.7 (Care of Patient) compliance.
@@ -199,7 +447,17 @@ Fill Dashboard: Describe issues, assign priorities (Pharmacy: High), note contai
 Detail priority issue (Pharmacy error): Use Dashboard output for RCA.
 Click “EXECUTE” (DeviTrack).
 Fill Deviation: Describe Pharmacy error, note immediate actions, perform RCA (5 Whys), propose preliminary CAPA. Submit.
-Tip: Prioritize Pharmacy issue for patient safety; link IDs across forms for traceability.",10,,,,,
+Tip: Prioritize Pharmacy issue for patient safety; link IDs across forms for traceability.",10,"Issue triage, multi-department coordination, risk prioritization, crisis mapping in Crisilog, RCA via DeviTrack, cross-functional QA reporting.","LINKEDIN POST:
+Publish a short LinkedIn update summarizing your multi-department QA coordination task.
+
+AI PROMPT TO USE:
+“Rewrite this achievement into a brief LinkedIn post explaining the two issues identified, why the pharmacy error was prioritized, and what QA competency this demonstrates. Keep ZaneProEd referenced. No emojis, no hashtags.”
+
+IMAGE GENERATION PROMPT:
+“Generate a realistic illustration showing a crisis dashboard mapping two issues with the pharmacy error marked high priority. Subtle ZaneProEd branding.”
+
+After generating:
+• Post on LinkedIn as an update with the image.",Cross-Department QA Coordinator,Shows suitability for senior QA roles involving multi-unit coordination and risk triage.,
 course_1,Pro Training in QA/QC ,ch_1_02,Hospital Quality Command Protocols,les_1_02_10,Command Debrief – Findings Review & Strategy Redesign,task_1_02_10_1,Full-Facility Compliance Debrief Simulation,"You are a Junior Quality Control Analyst at Zenith Hospital, reporting to Dr. Vikram Desai, QA Lead. During a full-facility audit debrief, you review two findings from Ward 5 (ICU) and Ward 9 (Orthopedic Unit): (1) a 3-minute oxygen supply interruption due to a faulty regulator (critical, risking patient safety), and (2) incomplete training records for SOP-QA-016 (4/10 entries missing). 
 
 Dr. Desai instructs you to use the Crisilog to consolidate and prioritize these findings, then the CAPA Commander to detail corrective/preventive actions for the oxygen issue, ensuring NABH Standard CQI.3 (Continuous Quality Improvement) compliance.
@@ -213,7 +471,18 @@ Click “EXECUTE” (Crisilog).
 Document & submit.
 Click “EXECUTE” (CAPA COMMANDER).
 Document & submit.
-Tip: Prioritize oxygen issue for patient safety; link IDs for traceability.",10,,,,,
+Tip: Prioritize oxygen issue for patient safety; link IDs for traceability.",10,"Facility-wide audit consolidation, critical-risk prioritization, CAPA planning, NABH CQI.3 compliance documentation, multi-source log evaluation.","LINKEDIN POST:
+Create a LinkedIn post summarizing your full-facility debrief and major findings.
+
+AI PROMPT TO USE:
+“Rewrite this achievement into a clear LinkedIn summary explaining the oxygen interruption risk, training record gap, and how both were prioritized and addressed. Keep ZaneProEd referenced. No emojis, no hashtags.”
+
+IMAGE GENERATION PROMPT:
+“Generate a realistic illustration of a facility-wide audit dashboard highlighting critical oxygen supply risk and missing training entries. Subtle ZaneProEd branding.”
+
+After generating:
+• Publish as a LinkedIn post with the image.",Facility Quality Strategist,"Strengthens qualification for hospital QA Analyst, Quality Lead, and internal NABH preparation roles.","After completing all ten tasks, email support@zaneproed.com with your registered ID and subject line “QA Portfolio Request – Chapter 2”.
+You will receive a verified submission bundle (PDF/ZIP) containing all completed forms and audits. Store this in Google Drive and add the chapter evidence to your LinkedIn Featured section."
 course_1,Pro Training in QA/QC ,ch_1_03,Pharma GMP Compliance Playbook,les_1_03_01,"Blueprint of GMP – Principles, History & Core Requirements",task_1_03_01_1,GMP Compliance Audit Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Priya Sharma, QA Manager. During a routine GMP audit in the Tablet Manufacturing Unit, you review the Batch Production Record (BPR-2025-045) against SOP-QA-022 (GMP Batch Documentation Protocol). You find that 4 out of 10 batch records lack operator signatures, violating GMP 21 CFR Part 211.186 (Master Production and Control Records) and risking audit failure. Dr. Sharma instructs you to document the findings and recommend improvements using VeriSure to prepare for an upcoming USFDA audit.
 
 Deliverables 
@@ -221,7 +490,18 @@ Deliverables
 Completed VeriSure submission documenting the GMP audit findings and proposed improvements for compliance.",https://drive.google.com/file/d/1r_-mNWosJv52XNHlFuGZZmPL8-6ud1sg/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/compliance/dashboard,https://drive.google.com/file/d/1JCwShApxlZcdMauEp7uLYlAeT3Ft8tjd/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-022 and Batch Production Record.
 Compare SOP-QA-022 (requires operator signatures for all batch records) to BPR-2025-045 (missing signatures).
 Click “EXECUTE” (VeriSure).
-Document & submit.",10,,,,,
+Document & submit.",10,"GMP documentation review, 21 CFR Part 211.186 interpretation, signature compliance detection, VeriSure audit reporting, FDA-aligned gap identification.","LINKEDIN ARTICLE TASK
+Turn your GMP batch-record signature audit into a LinkedIn Article.
+
+AI PROMPT TO USE:
+“Rewrite this achievement into a clean LinkedIn Article explaining the missing operator signatures, why signature compliance matters for GMP 21 CFR Part 211, and what competency it demonstrates. Keep ZaneProEd and VeriSure referenced. No emojis, no hashtags.”
+
+IMAGE PROMPT (Gemini Nano):
+“Batch record with missing signatures highlighted, VeriSure compliance panel, sterile GMP area, subtle ZaneProEd branding.”
+
+After generating:
+• Publish as a LinkedIn Article.
+• Post a short LinkedIn update attaching the article link and image.",GMP Documentation Auditor,Good for GMP QA Associate and Manufacturing Documentation roles.,
 course_1,Pro Training in QA/QC ,ch_1_03,Pharma GMP Compliance Playbook,les_1_03_02,Facility Fortress – Cleanroom Classifications & Environmental Controls,task_1_03_02_1,Cleanroom Compliance Audit Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Priya Sharma, QA Manager. During a routine cleanroom audit in the Sterile Injectable Unit (ISO 5), you review the Environmental Monitoring Log (LOG-2025-041) against SOP-QA-023 (Cleanroom Environmental Control Protocol). You find that particle counts in 3 out of 10 samples exceed ISO 5 limits (3,520 particles ≥0.5 μm/m³), violating GMP 21 CFR Part 211.42 and risking contamination. Dr. Sharma instructs you to document the findings and recommend improvements using AuditNEX to prepare for an upcoming USFDA audit.
 
 Deliverables 
@@ -229,7 +509,19 @@ Deliverables
 Completed AuditNEX submission documenting the cleanroom audit findings and proposed improvements for GMP compliance.",https://drive.google.com/file/d/1wJGIz4yl7iQlmp6COlynOjxZMgjoCfJv/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/audit/dashboard,https://drive.google.com/file/d/1SWgM-HLD69pOjaqzYa3aCun1gJCRgiA3/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-023 and Environmental Monitoring Log.
 Compare SOP-QA-023 (requires ISO 5 particle limits) to LOG-2025-041 (exceeding limits).
 Click “EXECUTE” (AuditNEX).
-Document & submit.",10,,,,,
+Document & submit.",10,"Cleanroom environmental monitoring, ISO-5 particle interpretation, contamination-risk assessment, AuditNEX audit documentation.
+","MEDIUM ARTICLE ONLY
+Convert your ISO-5 cleanroom particle-count audit into a Medium explainer.
+
+AI PROMPT TO USE:
+“Rewrite this achievement into a Medium-style article covering ISO-5 deviations, contamination risk, and GMP relevance. Keep ZaneProEd and AuditNEX referenced. No emojis, no hashtags.”
+
+IMAGE PROMPT (Gemini Nano):
+“ISO-5 audit scene, particle-count graph, AuditNEX dashboard, subtle ZaneProEd branding.”
+
+After generating:
+• Publish on Medium.
+• Add a short LinkedIn post sharing the Medium link.",Cleanroom Compliance Analyst,"Useful for Aseptic QA, environmental monitoring teams, and sterile manufacturing.",
 course_1,Pro Training in QA/QC ,ch_1_03,Pharma GMP Compliance Playbook,les_1_03_03,"Personnel in Command – Gowning, Hygiene & Cross-Contamination Barriers",task_1_03_03_1,Gowning and Hygiene Compliance Audit Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Anil Gupta, QA Manager. During a routine GMP audit in the Sterile Injectable Unit (ISO 5 cleanroom), you review the Gowning Compliance Log (LOG-2025-042) against SOP-QA-024 (Gowning and Hygiene Protocol). You find that 3 out of 10 gowning entries lack verification of sterile glove donning, violating GMP 21 CFR Part 211.28 (Personnel Responsibilities) and risking contamination. Dr. Gupta instructs you to document the findings and recommend improvements using AuditNEX to prepare for an upcoming USFDA audit.
 
 Deliverables 
@@ -237,7 +529,18 @@ Deliverables
 Completed AuditNEX submission documenting the gowning and hygiene audit findings and proposed improvements for GMP compliance.",https://drive.google.com/file/d/1X_6eRBhX3tzO8Fo4r4HtToVvCe1xQqTj/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/audit/dashboard,https://drive.google.com/file/d/1f_mtN4YNvFzIQ7WZWiDmj6jdGZFy1-RW/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-024 and Gowning Compliance Log.
 Compare SOP-QA-024 (requires verification of sterile glove donning) to LOG-2025-042 (missing verifications).
 Click “EXECUTE” (DeviTrack).
-Document & submit.",10,,,,,
+Document & submit.",10,"Gowning protocol review, personnel hygiene compliance assessment, GMP 21 CFR Part 211.28 interpretation, AuditNEX reporting.","PUBPUB ARTICLE TASK
+Turn your gowning-compliance audit into a short PubPub article.
+
+AI PROMPT TO USE:
+“Rewrite this achievement into a PubPub article explaining missing sterile-glove verification and why personnel hygiene matters in GMP. Keep ZaneProEd and AuditNEX referenced.”
+
+IMAGE PROMPT (Gemini Nano):
+“Gowning logs with missing glove-verification entries, AuditNEX dashboard, cleanroom scene.”
+
+After generating:
+• Publish on PubPub.
+• Post a LinkedIn update summarizing the audit with the PubPub link.",Gowning & Hygiene Compliance Reviewer,Supports QA roles in sterile manufacturing and personnel compliance.,
 course_1,Pro Training in QA/QC ,ch_1_03,Pharma GMP Compliance Playbook,les_1_03_04,"Documented Truth – Batch Records, Logbooks & Controlled Documentation",task_1_03_04_1,GMP Documentation Audit Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Priya Sharma, QA Manager. During a routine GMP audit in the Capsule Manufacturing Unit, you review the Batch Production Record (BPR-2025-046) against SOP-QA-025 (GMP Controlled Documentation Protocol). You find that 3 out of 10 batch record entries lack real-time timestamps, violating GMP 21 CFR Part 211.186 (Master Production and Control Records) and risking audit failure. Dr. Sharma instructs you to document the findings and recommend improvements using VeriSure to prepare for an upcoming USFDA audit.
 
 Deliverables 
@@ -245,7 +548,18 @@ Deliverables
 Completed VeriSure submission documenting the GMP documentation audit findings and proposed improvements for compliance.",https://drive.google.com/file/d/1v9sWmJUxPkDzEQOFLlH55KFmKpJC1fy9/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/compliance/dashboard,https://drive.google.com/file/d/1_DTJLJwyj2vaA3cmASmzuDeDjThDIVq2/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-025 and Batch Production Record.
 Compare SOP-QA-025 (requires real-time timestamps for batch records) to BPR-2025-046 (missing timestamps).
 Click “EXECUTE” (VeriSure).
-Document & submit.",10,,,,,
+Document & submit.",10,"Real-time GMP documentation analysis, timestamp integrity review, FDA 21 CFR 211.186 interpretation, VeriSure audit competency.","LINKEDIN POST ONLY
+No article required. Just a LinkedIn update.
+
+AI PROMPT TO USE:
+“Rewrite this achievement into a short LinkedIn update explaining the timestamp-gap finding and its GMP relevance. Keep ZaneProEd and VeriSure referenced.”
+
+IMAGE PROMPT (Gemini Nano):
+“Batch record showing timestamp gaps, VeriSure audit pane.”
+
+After generating:
+• Publish a LinkedIn post with the image.
+• No external platforms required.",GMP Documentation Integrity Analyst,Beneficial for roles in batch-release documentation and data-integrity QA.,
 course_1,Pro Training in QA/QC ,ch_1_03,Pharma GMP Compliance Playbook,les_1_03_05,"Raw Material Gatekeeping – Sampling, Storage & Supplier Qualification",task_1_03_05_1,Raw Material Compliance Audit Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Anil Gupta, QA Manager. During a routine GMP audit in the Raw Material Warehouse, you review the Raw Material Receipt Log (LOG-2025-043) against SOP-QA-026 (Raw Material Sampling and Storage Protocol). You find that 3 out of 10 API batches lack Certificates of Analysis (CoA), violating GMP 21 CFR Part 211.84 (Testing and Approval/Rejection of Components). Dr. Gupta instructs you to document the findings and recommend improvements using AuditNEX to prepare for an upcoming USFDA audit.
 
 Deliverables 
@@ -253,7 +567,19 @@ Deliverables
 Completed AuditNEX submission documenting the raw material audit findings and proposed improvements for GMP compliance.",https://drive.google.com/file/d/1oeHleqIre5QG0cReDfMNUGi1L75ArF_H/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/audit/dashboard,https://drive.google.com/file/d/1sLnxT-CLvw9BKenaMJfFctRmxT2XOTL4/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-026 and Raw Material Receipt Log.
 Compare SOP-QA-026 (requires CoA for all API batches) to LOG-2025-043 (missing CoAs).
 Click “EXECUTE” (AuditNEX).
-Document & submit.",10,,,,,
+Document & submit.",10,"Raw material inspection, CoA verification, GMP supplier compliance, AuditNEX audit documentation.","MEDIUM ARTICLE + LINKEDIN POST
+Convert your raw-material CoA audit into a Medium article.
+
+AI PROMPT TO USE:
+“Rewrite this achievement into a Medium article explaining CoA verification, supplier compliance, and GMP risk. Keep ZaneProEd and AuditNEX referenced.”
+
+IMAGE PROMPT (Gemini Nano):
+“Warehouse scene, API drums, CoA folders with missing attachments, AuditNEX dashboard.”
+
+After generating:
+• Publish on Medium.
+• Share a LinkedIn update with the Medium link + image.
+",Raw Material Audit Specialist,"Relevant for RM-QA, supplier qualification, and warehouse QA roles.",
 course_1,Pro Training in QA/QC ,ch_1_03,Pharma GMP Compliance Playbook,les_1_03_06,"Line of Defense – Equipment Validation, Cleaning & Maintenance Cycles",task_1_03_06_1,Equipment Validation and Maintenance Audit Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Priya Sharma, QA Manager. During a routine GMP audit in the Tablet Manufacturing Unit, you review the Equipment Calibration Log (LOG-2025-044) against SOP-QA-027 (Equipment Validation and Maintenance Protocol). You find that 3 out of 10 calibration entries for a tablet press (Equipment ID: COMP-02) lack verification signatures, violating GMP 21 CFR Part 211.67 (Equipment Cleaning and Maintenance). Dr. Sharma instructs you to document the findings and recommend improvements using AuditNEX to prepare for an upcoming USFDA audit.
 
 Deliverables 
@@ -261,7 +587,20 @@ Deliverables
 Completed AuditNEX submission documenting the equipment audit findings and proposed improvements for GMP compliance.",https://drive.google.com/file/d/1V9PSBy_OxFF54iozx0geLdIFTOdI5F-1/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/audit/dashboard,https://drive.google.com/file/d/1zAe6G9vXYfSEQnqEwe7Tzu0JJAtYR1cX/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-027 and Equipment Calibration Log.
 Compare SOP-QA-027 (requires signed calibration verifications) to LOG-2025-044 (missing signatures).
 Click “EXECUTE” (AuditNEX).
-Document & submit.",10,,,,,
+Document & submit.",10,"Calibration-log evaluation, equipment validation checks, GMP 211.67 interpretation, AuditNEX audit execution.","PUBPUB ARTICLE ONLY
+Turn your calibration-log audit into a PubPub article.
+
+AI PROMPT TO USE:
+“Rewrite this achievement into a PubPub article explaining the missing verification signatures, why calibration matters under GMP 211.67, and what competency it shows.”
+
+IMAGE PROMPT (Gemini Nano):
+“Calibration logbook highlighting missing signatures, AuditNEX pane.”
+
+After generating:
+• Publish on PubPub.
+• No Medium, no LinkedIn Article.
+• Optional: LinkedIn post with the PubPub link.
+",Equipment Validation Compliance Reviewer,"Supports QA roles in equipment qualification, calibration oversight, and validation teams.",
 course_1,Pro Training in QA/QC ,ch_1_03,Pharma GMP Compliance Playbook,les_1_03_07,The Critical Path – Process Validation & Change Control Systems,task_1_03_07_1,Process Validation and Change Control Audit Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Priya Sharma, QA Manager. During a routine GMP audit in the Capsule Manufacturing Unit, you review the Change Control Log (LOG-2025-045) against SOP-QA-028 (Process Validation and Change Control Protocol). You find that 2 out of 10 change control entries for a new mixing blade lack validation data, violating GMP 21 CFR Part 211.100 (Written Procedures; Deviations). Dr. Sharma instructs you to document the findings and recommend improvements using VeriSure to prepare for an upcoming USFDA audit.
 
 Deliverables 
@@ -269,7 +608,18 @@ Deliverables
 Completed VeriSure submission documenting the change control audit findings and proposed improvements for GMP compliance.",https://drive.google.com/file/d/1qKPULKut67nQXAiL22maAezfAoAR7HAM/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/compliance/dashboard,https://drive.google.com/file/d/1EDQ9XLVyJD79qXhZQlRf7O2P7WiXq4CS/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-028 and Change Control Log.
 Compare SOP-QA-028 (requires validation data for all changes) to LOG-2025-045 (missing validation data).
 Click “EXECUTE” (VeriSure).
-Document & submit.",10,,,,,
+Document & submit.",10,"Change-control evaluation, validation evidence review, FDA 21 CFR 211.100 interpretation, VeriSure audit reporting.","LINKEDIN ARTICLE ONLY
+Turn your change-control missing-validation audit into a LinkedIn Article.
+
+AI PROMPT TO USE:
+“Rewrite this achievement into a LinkedIn Article explaining missing validation data and its 211.100 impact. Keep ZaneProEd and VeriSure referenced.”
+
+IMAGE PROMPT (Gemini Nano):
+“Change-control log with missing validation blocks, VeriSure panel.”
+
+After generating:
+• Publish as LinkedIn Article.
+• Post a LinkedIn update announcing the article.",Change Control Compliance Analyst,"Useful for validation, QC–QA liaison roles, and regulatory-facing documentation.",
 course_1,Pro Training in QA/QC ,ch_1_03,Pharma GMP Compliance Playbook,les_1_03_08,Quality on the Floor – In-Process Controls & Batch Release Protocols,task_1_03_08_1,In-Process Controls and Batch Release Audit Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Anil Gupta, QA Manager. During a routine GMP audit in the Tablet Manufacturing Unit, you review the In-Process Control Log (LOG-2025-046) against SOP-QA-029 (In-Process Controls and Batch Release Protocol). You find that 3 out of 10 in-process tablet weight checks lack recorded results, violating GMP 21 CFR Part 211.110 (Sampling and Testing of In-Process Materials). Dr. Gupta instructs you to document the findings and recommend improvements using VeriSure to prepare for an upcoming USFDA audit.
 
 Deliverables 
@@ -277,7 +627,14 @@ Deliverables
 Completed VeriSure submission documenting the in-process control audit findings and proposed improvements for GMP compliance.",https://drive.google.com/file/d/1hvvgXr40dDyaqtP3Np2V5SQK5tgf2Eg4/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/compliance/dashboard,https://drive.google.com/file/d/1RBSaiQZJ1EDXBggrUdaCqzQZ5vY3wY_r/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-029 and In-Process Control Log.
 Compare SOP-QA-029 (requires recorded in-process weight checks) to LOG-2025-046 (missing results).
 Click “EXECUTE” (VeriSure).
-Document & submit.",10,,,,,
+Document & submit.",10,"In-process control auditing, batch-release documentation review, GMP 211.110 interpretation, VeriSure reporting accuracy.","NO PUBLICATION REQUIRED
+Internal IPC review simulation.
+No Medium, no PubPub, no long article.
+
+After completing:
+• Submit task only.
+• No public posting.
+",In-Process Quality Reviewer,Strengthens credibility for in-process QA and batch-release inspector roles.,
 course_1,Pro Training in QA/QC ,ch_1_03,Pharma GMP Compliance Playbook,les_1_03_09,"Regulatory Battlefield – WHO, USFDA, EU vs Indian GMP Codes",task_1_03_09_1,GMP Regulatory Compliance Audit Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Priya Sharma, QA Manager. During a routine GMP audit in the Sterile Injectable Unit (ISO 5 cleanroom), you review the Data Integrity Log (LOG-2025-047) against SOP-QA-030 (GMP Documentation Compliance Protocol). You find that 3 out of 10 batch record entries lack audit trail documentation, violating USFDA GMP 21 CFR Part 211.188 (Batch Production and Control Records) and risking export market compliance. Dr. Sharma instructs you to document the findings and recommend improvements using VeriSure to prepare for an upcoming USFDA audit.
 
 Deliverables 
@@ -285,7 +642,18 @@ Deliverables
 Completed VeriSure submission documenting the GMP regulatory audit findings and proposed improvements for compliance.",https://drive.google.com/file/d/1mdTzcJSDJKCy5OEFXwYaDR6_Mtelc81y/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/compliance/dashboard,https://drive.google.com/file/d/1_WEV0_m6h0dTEbqRLMOdnhcqB2AiHZ3W/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-030 and Data Integrity Log.
 Compare SOP-QA-030 (requires audit trail for batch records) to LOG-2025-047 (missing audit trails).
 Click “EXECUTE” (VeriSure).
-Document & submit.",10,,,,,
+Document & submit.",10,"Audit-trail evaluation, GMP documentation integrity, FDA 21 CFR 211.188 interpretation, VeriSure audit reporting.","PUBPUB ARTICLE + LINKEDIN POST
+Turn your GMP audit-trail evaluation into a PubPub article.
+
+AI PROMPT TO USE:
+“Rewrite this achievement into a PubPub article explaining missing audit-trail entries, FDA expectations, and the demonstrated QA competency.”
+
+IMAGE PROMPT (Gemini Nano):
+“Audit-trail screen with missing entries, VeriSure compliance dashboard.”
+
+After generating:
+• Publish on PubPub.
+• Post a LinkedIn update with the PubPub link + image.",GMP Data Integrity Analyst,"Good for roles in regulatory QA, audit readiness, and pharmaceutical documentation governance.",
 course_1,Pro Training in QA/QC ,ch_1_03,Pharma GMP Compliance Playbook,les_1_03_10,GMP War Game – Full-Scale Production Floor Compliance Simulation,task_1_03_10_1,Full-Scale GMP Compliance Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Vikram Desai, QA Lead. During a full-scale GMP war game in the Sterile Injectable Unit (ISO 5 cleanroom), you identify two issues: (1) incomplete batch record entries (3/10 lack audit trails, critical for USFDA compliance), and (2) unverified equipment cleaning for a filling machine (FILL-01). Dr. Desai instructs you to use Crisilog to consolidate and prioritize these issues, then the CAPA Commander to detail corrective/preventive actions for the batch record issue, ensuring USFDA GMP 21 CFR Part 211.188 compliance for a mock audit.
 
 Deliverables
@@ -297,7 +665,22 @@ Click “EXECUTE” (Crisilog).
 Document & submit.
 Click “EXECUTE” (CAPA COMMANDER).
 Document & submit.
-Tip: Prioritize batch records for USFDA compliance; link IDs for traceability.",10,,,,,
+Tip: Prioritize batch records for USFDA compliance; link IDs for traceability.",10,"Crisis consolidation, priority-risk mapping, CAPA planning, multi-log evaluation, FDA audit preparation, cross-functional QA communication.","MEDIUM ARTICLE + LINKEDIN ARTICLE (Dual Format)
+This is the final lesson of the chapter, so give them a heavier publishing task.
+
+AI PROMPT TO USE:
+“Rewrite this achievement into two versions:
+	1.	Medium article explaining the full GMP crisis scenario, prioritization logic, and CAPA strategy.
+	2.	LinkedIn Article summarizing the same story in a tighter format.
+Keep ZaneProEd, Crisilog, and CAPA Commander referenced.”
+
+IMAGE PROMPT (Gemini Nano):
+“GMP crisis dashboard linking audit-trail gaps and equipment-cleaning issues, subtle ZaneProEd branding.”
+
+After generating:
+• Publish Version 1 on Medium.
+• Publish Version 2 as a LinkedIn Article.
+• Post a LinkedIn update with both links + image.",GMP Quality Strategist,"Positions learners for GMP QA Specialist, audit-readiness, and regulatory compliance roles.","After completing all ten tasks, email support@zaneproed.com with your registered ID and subject line “QA Portfolio Request – Chapter 3”. You will receive a verified submission bundle (PDF/ZIP) containing all completed GMP audit documents. Store this in Google Drive and add the chapter evidence to your LinkedIn Featured section."
 course_1,Pro Training in QA/QC ,ch_1_04,SOP Authoring and Validation Systems,les_1_04_01,"The SOP Arsenal – Structure, Scope & Regulatory Mandates",task_1_04_01_1,SOP Compliance Audit Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Vikram Desai, QA Lead. During a routine GMP audit in the Tablet Manufacturing Unit, you review the SOP Registry Log (LOG-2025-049) against SOP-QA-031 (SOP Management Protocol). You find that 2 out of 10 SOPs lack a defined scope section, violating GMP 21 CFR Part 211.22 (Quality Control Unit Responsibilities) and risking audit failure. Dr. Desai instructs you to document the findings and recommend improvements using VeriSure to prepare for an upcoming USFDA audit.
 
 Deliverables 
