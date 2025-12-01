@@ -16,7 +16,7 @@ A completed Compliance Verification using ZANE VERISURE confirming compliance or
 Read the lab observation in the Reference Documents: “Some batch records are missing the operator’s initials.”
 Check for compliance: Compare the SOP (what should happen) to the observation (what’s happening). Ask: Does the lab follow the QMS rule? What’s the issue?
 Click the “Execute” button, document your assessment using ZANE VERISURE
-Document your assessment using ZANE VERISURE.",10,yes,Zenodo Brief: Batch Record Signature Compliance Review,QMS Compliance Specialist,Demonstrates understanding of QMS structure and ability to evaluate operational compliance against SOP standards.,"QMS compliance verification, SOP interpretation, GMP documentation, deviation detection, regulatory alignment","Generate a realistic illustration of a batch record compliance check inside a GMP documentation room. Include batch record files, an open SOP binder showing signature requirements, and a ZANE VERISURE screen displaying a noncompliance flag. Keep the scene clean and audit focused. Use subtle ZaneProEd branding and avoid detailed faces.","Rewrite the following achievement into a clear, structured first-person article based on the task I completed inside the ZaneProEd workspace. The article must read as a simulation learning outcome, written from my perspective as a junior trainee inside a controlled training environment. Do not frame it as real industry work. No emojis. No hashtags. No marketing tone. No em dashes.
+Document your assessment using ZANE VERISURE.",10,no,Zenodo Brief: Batch Record Signature Compliance Review,QMS Compliance Specialist,Demonstrates understanding of QMS structure and ability to evaluate operational compliance against SOP standards.,"QMS compliance verification, SOP interpretation, GMP documentation, deviation detection, regulatory alignment","Generate a realistic illustration of a batch record compliance check inside a GMP documentation room. Include batch record files, an open SOP binder showing signature requirements, and a ZANE VERISURE screen displaying a noncompliance flag. Keep the scene clean and audit focused. Use subtle ZaneProEd branding and avoid detailed faces.","Rewrite the following achievement into a clear, structured first-person article based on the task I completed inside the ZaneProEd workspace. The article must read as a simulation learning outcome, written from my perspective as a junior trainee inside a controlled training environment. Do not frame it as real industry work. No emojis. No hashtags. No marketing tone. No em dashes.
 
 Platform:
 Zenodo 
@@ -60,7 +60,7 @@ Deliverables
 Completed Document Change Request (DCR) using DocuShift identifying the SOP gap and proposing the addition of a daily refrigerator maintenance check.",https://drive.google.com/file/d/1y6RVPyWpTB_SD0sskQDxt5S8GbQxM4U4/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/dcr/dashboard,https://drive.google.com/file/d/1kt87iFAUiZUiOGBjjk6pkzhtk98MHi2k/view?usp=sharing,"Click “Reference Documents” to review SOP-QC-002 and the refrigerator log.
 Compare SOP (requires 2–8°C storage, no maintenance step) to the log (shows temperature deviations).
 Click “EXECUTE” (Open DocuShift)
-Complete Document Change Request (DCR) using DocuShift.",10,yes,Reddit Brief: SOP Gap and Temperature Control Fix,Document Control & Change Analyst,Proves ability to manage controlled documents and initiate compliant change control procedures.,"Spotting that the temperature drift is coming from a missing step rather than random equipment behavior,
+Complete Document Change Request (DCR) using DocuShift.",10,no,Reddit Brief: SOP Gap and Temperature Control Fix,Document Control & Change Analyst,Proves ability to manage controlled documents and initiate compliant change control procedures.,"Spotting that the temperature drift is coming from a missing step rather than random equipment behavior,
 Connecting the refrigerator log pattern to an actual gap in the written SOP,
 Figuring out how to turn that gap into a clean change request without overcomplicating it,
 Writing a DCR that explains the issue simply and proposes a fix that fits the real workflow,
@@ -103,7 +103,7 @@ Deliverables
 Devitrack submission, documenting the weight deviation, its cause, and containment actions.",https://drive.google.com/file/d/11Pqhs4bKzotVdEmLs_kL3RpEshaiO4HP/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/deviation/dashboard,https://drive.google.com/file/d/1E7UVvyWtPSCLChXVtLDwIOFv95C4h3cj/view?usp=sharing,"Click “Reference Documents” to review SOP-QC-003 and IPC Log.
 Compare SOP (tablet weight 500 ± 5 mg) to IPC Log (weight 495 mg).
 Click “EXECUTE” (Devitrack)
-Do the filing & submit.",10,yes,Blogger Insight: Calibration Drift Incident Breakdown,Deviation Response Specialist,Shows readiness to detect and mitigate process deviations before product impact occurs.,"Spotting that the weight drop isn’t random but tied to a missed calibration step,
+Do the filing & submit.",10,no,Blogger Insight: Calibration Drift Incident Breakdown,Deviation Response Specialist,Shows readiness to detect and mitigate process deviations before product impact occurs.,"Spotting that the weight drop isn’t random but tied to a missed calibration step,
 Figuring out how to connect the bad reading to the exact point in the process where the drift began,
 Separating the quick fix (stop the line, check the machine) from the longer investigation work,
 Writing a deviation entry that shows what happened without padding it with guesses,
@@ -138,7 +138,7 @@ Deliverables
 Completed CAPA Commander filling documenting the root cause of the dissolution failure and proposing corrective and preventive actions.",https://drive.google.com/file/d/1lS8dLuDj7nq_pBJ-gJuvkEM6uKwkAt10/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/capa/dashboard,https://drive.google.com/file/d/1XuYqWUXV9iFj_VOmxN5zzPxP-k-wiEBb/view?usp=sharing,"Click “Reference Documents” to review SOP-QC-004 and Dissolution Test Log.
 Use the 5 Whys method to identify the root cause (start with: tablets failed dissolution test).
 Click “EXECUTE” (CAPA Commander).
-Do the filing & submit.",10,yes,Substack Brief: Granulation-Linked Dissolution Failure Analysis,Root Cause & CAPA Analyst,Confirms ability to perform structured investigations and propose corrective measures.,"Seeing that three failed tablets point to a process problem rather than random variance,
+Do the filing & submit.",10,no,Substack Brief: Granulation-Linked Dissolution Failure Analysis,Root Cause & CAPA Analyst,Confirms ability to perform structured investigations and propose corrective measures.,"Seeing that three failed tablets point to a process problem rather than random variance,
 Linking the failure pattern to steps in granulation instead of guessing at chemistry issues,
 Breaking the problem down with the 5 Whys until the cause stops shifting,
 Turning the cause into corrective actions that address the process timing,
@@ -185,7 +185,7 @@ Deliverables
 Completed Audit & Inspection documenting using AuditNex.",https://drive.google.com/file/d/1-oJxjHqSgFMuadS30z0e4X7S2Niym0Pd/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/audit/dashboard,https://drive.google.com/file/d/1KxGNxSxQjpedN8HdvsWo6Yr308ugNea8/view?usp=sharing,"Click “Reference Documents” to review SOP-QC-005 and Sample Testing Log.
 Compare SOP-QC-005 (requires analyst signatures on all test records) to LOG-2025-016 (4/10 records missing signatures).
 Click “EXECUTE” (AuditNex).
-Do the filing & submit.",10,yes,Medium Brief: Signature Gaps in Sample Testing Audit,Internal Audit Trainee,Demonstrates early audit competency and understanding of documentation accountability.,"Catching when a missing signature isn’t “just paperwork” but a break in record accountability,
+Do the filing & submit.",10,no,Medium Brief: Signature Gaps in Sample Testing Audit,Internal Audit Trainee,Demonstrates early audit competency and understanding of documentation accountability.,"Catching when a missing signature isn’t “just paperwork” but a break in record accountability,
 Reading through test logs with enough focus to see which entries don’t have ownership,
 Figuring out whether the pattern points to sloppy recording or a deeper process gap,
 Turning those gaps into a clear audit note that someone else can act on without confusion,
@@ -229,7 +229,7 @@ Deliverables
 Completed Deviation and Incident Report inside DeviTrack documenting the OOS result, immediate actions, and initial investigation findings.",https://drive.google.com/file/d/1wTls81wwbIgvuyF200uR2wvTn1RrQ3BB/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/deviation/dashboard,https://drive.google.com/file/d/11FmFmPckN-p-Fi83L-9PlpaknjLjnwqC/view?usp=sharing,"Click “Reference Documents” to review SOP-QC-006 and HPLC Test Log.
 Compare SOP-QC-006 (purity ≥99.5%) to HPLC Test Log (98.5% purity).
 Click “EXECUTE” (DeviTrack).
-Do the filing & submit.",10,yes,Quora: Raw Material Purity Deviation Breakdown,OOS Investigator,Establishes capability to manage and report laboratory OOS events accurately.,"Spotting that the purity drop is real and not noise,
+Do the filing & submit.",10,no,Quora: Raw Material Purity Deviation Breakdown,OOS Investigator,Establishes capability to manage and report laboratory OOS events accurately.,"Spotting that the purity drop is real and not noise,
 Checking whether the number points to a lab slip rather than a material failure,
 Reading the HPLC log closely enough to see where the process went sideways,
 Separating immediate containment steps from the early fact-finding work,
@@ -261,7 +261,7 @@ Click “EXECUTE” (DeviTrack).
 Do the filing & submit.
 Click “EXECUTE” (Transition to CAPA COMMANDER)
 Do the filing & submit.
-Tip: This two-form workflow mimics real QA—deviation for quick response, CAPA for long-term fix. Keep descriptions concise and evidence-based.",10,yes,Zenodo: ALCOA Plus Timestamp Integrity Review,Data Integrity Auditor,"Validates understanding of data reliability, traceability, and contemporaneous recordkeeping.","Seeing when a timestamp isn’t just late but breaks the whole point of data integrity,
+Tip: This two-form workflow mimics real QA—deviation for quick response, CAPA for long-term fix. Keep descriptions concise and evidence-based.",10,no,Zenodo: ALCOA Plus Timestamp Integrity Review,Data Integrity Auditor,"Validates understanding of data reliability, traceability, and contemporaneous recordkeeping.","Seeing when a timestamp isn’t just late but breaks the whole point of data integrity,
 Working out how delayed entries distort the truth of what happened during testing,
 Going through batch records with enough attention to spot patterns instead of isolated slips,
 Figuring out whether the problem comes from sloppy habits, workload pressure, or missing checks,
@@ -320,7 +320,7 @@ Fill the Deviation Form: Describe incident, note immediate actions, provide RCA,
 Transition to CAPA: Use the Deviation Form's RCA/output as input for detailed CAPA drafting.
 Open “Fillable Document” (CAPA Command Template).
 Fill the CAPA Template: Reference the deviation ID (DEV-2025-055), draft corrective/preventive actions, assign responsibilities, plan verification, and note closure date. Submit via “Answer Portal”.
-Tip: This two-form workflow mimics real QA—deviation for quick response, CAPA for long-term fix. Keep descriptions concise and evidence-based.",10,yes,ResearchGate: Equipment Drift and Hardness Failure Analysis,QA Lifecycle Coordinator,Confirms understanding of complete QA problem-solving cycle from detection to closure.,"Noticing when a hardness value isn’t just “off” but points straight to equipment trouble,
+Tip: This two-form workflow mimics real QA—deviation for quick response, CAPA for long-term fix. Keep descriptions concise and evidence-based.",10,no,ResearchGate: Equipment Drift and Hardness Failure Analysis,QA Lifecycle Coordinator,Confirms understanding of complete QA problem-solving cycle from detection to closure.,"Noticing when a hardness value isn’t just “off” but points straight to equipment trouble,
 Working out how a small number like 3.5 kg can cascade into a real product-quality failure,
 Separating the quick actions you take immediately (quarantine) from the slower thinking you do in RCA,
 Following a deviation through every stage without losing the thread between detection and cause,
@@ -374,7 +374,7 @@ Fill Deviation: Describe OOS, note containment, RCA (5 Whys), preliminary CAPA.
 Resolve OOS: Use Deviation RCA for CAPA drafting.
 Open CAPA Commander.
 Fill CAPA: Reference Deviation ID, draft corrective/preventive actions, plan verification/closure.
-Tip: Dashboard is your crisis command center—link IDs across forms for traceability. Prioritize patient safety (OOS) for audit readiness.",10,yes,Zenodo: OOS Root Cause and Training Compliance Analysis,QA Crisis Manager,Demonstrates end-to-end quality system understanding and the ability to operate within a regulated QA/QC environment under inspection pressure.,"Spotting that the OOS is the real threat in a mess of smaller problems,
+Tip: Dashboard is your crisis command center—link IDs across forms for traceability. Prioritize patient safety (OOS) for audit readiness.",10,no,Zenodo: OOS Root Cause and Training Compliance Analysis,QA Crisis Manager,Demonstrates end-to-end quality system understanding and the ability to operate within a regulated QA/QC environment under inspection pressure.,"Spotting that the OOS is the real threat in a mess of smaller problems,
 Figuring out how missing training records tie into the failure instead of treating them as noise,
 Sorting multiple issues by impact instead of reacting in whatever order they appear,
 Pulling apart an OOS result in a way that links the data to a believable root cause,
@@ -414,7 +414,7 @@ After generating:
 • Publish the final chapter summary on LinkedIn with the generated image.
   How to post:
   LinkedIn → Start a Post → Add image → Paste → Publish."
-course_1,Pro Training in QA/QC ,,ch_1_01,Foundations of Quality Warfare,les_1_01_10,Recap,task_1_01_10_1,Omegamentorship,,,,,,10,,,,,,,,,,,,NO PUBLICATION REQUIRED
+course_1,Pro Training in QA/QC ,,ch_1_01,Foundations of Quality Warfare,les_1_01_10,Recap,task_1_01_10_1,Omegamentorship,,,,,,10,no,,,,,,,,,,,NO PUBLICATION REQUIRED
 course_1,Pro Training in QA/QC ,,ch_1_02,Hospital Quality Command Protocols,les_1_02_01,Entering the Ward Zone – Hospital QMS Framework & Accreditation Codes,task_1_02_01_1,Ward QMS Compliance Audit,"You are a Junior Quality Control Analyst at Zenith Hospital, reporting to Dr. Meera Nair, Quality Assurance Lead. During a routine ward audit in Ward 3 (General Medicine), you review the Hand Hygiene Compliance Log (LOG-2025-027) against SOP-QA-010 (Hand Hygiene Protocol). 
 
 You find that 6 out of 10 shift logs lack hand hygiene verification entries, violating SOP-QA-010 and NABH Standard AAC.5 (Access to Care and Continuity). Dr. Nair instructs you to document the non-compliance and recommend improvements using VeriSure to prepare for an upcoming NABH audit.
@@ -424,7 +424,7 @@ Deliverables
 Completed VeriSure documentation including ward audit findings and proposed improvements for NABH compliance.",https://drive.google.com/file/d/1Sz3g4chibpJOI18mRlH78C-gfuc26qsb/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/compliance/dashboard,https://drive.google.com/file/d/1KYlll5nEFnTyrXlT_vJUpeQWJdS7ZdoW/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-010 and Hand Hygiene Compliance Log.
 Compare SOP-QA-010 (requires hand hygiene verification entries per shift) to LOG-2025-027 (missing entries).
 Click “EXECUTE” (Open VeriSure)
-Complete & submit.",10,yes,Blogger: Hand Hygiene Verification Gap Review,Ward Audit Initiator,"Shows capability in NABH-aligned ward auditing, useful for hospital QA Associate and Clinical Quality Inspector roles.","Identifying when hand hygiene verification gaps break required shift-level compliance,
+Complete & submit.",10,no,Blogger: Hand Hygiene Verification Gap Review,Ward Audit Initiator,"Shows capability in NABH-aligned ward auditing, useful for hospital QA Associate and Clinical Quality Inspector roles.","Identifying when hand hygiene verification gaps break required shift-level compliance,
 Interpreting log patterns to judge whether missed entries reflect workflow lapses or reporting failures,
 Assessing how missing verification affects patient-flow continuity under AAC.5,
 Distinguishing between documentation gaps and true non adherence during ward audits,
@@ -469,7 +469,7 @@ Deliverables
 Completed VeriSure submission documenting the SOP compliance audit findings and proposed improvements for NABH adherence.",https://drive.google.com/file/d/1RcJ_GoLC__evWJNRrXejtBKxIo_Si5MJ/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/compliance/dashboard,https://drive.google.com/file/d/1yAlj2pOBvxfmbH5COv1L3ZCHi_pJ1-Jd/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-011 and SOP Register.
 Compare SOP-QA-011 (version 2.0, effective 01/07/2025) to REG-2025-002 (outdated version 1.0 in use).
 Click “EXECUTE” (VeriSure).
-Document & submit.",10,yes,Blogger: Outdated SOP Version Control Audit,SOP Compliance Sentinel,"Useful for roles in hospital QA, document control, and internal NABH readiness teams.","Spotting version control failures inside a live ward environment,
+Document & submit.",10,no,Blogger: Outdated SOP Version Control Audit,SOP Compliance Sentinel,"Useful for roles in hospital QA, document control, and internal NABH readiness teams.","Spotting version control failures inside a live ward environment,
 Comparing active SOP usage against the effective version to confirm expiry,
 Judging how outdated sterilization protocols create real procedural risk,
 Tracing where access authority broke down and allowed old SOPs to circulate,
@@ -603,7 +603,7 @@ course_1,Pro Training in QA/QC ,,ch_1_02,Hospital Quality Command Protocols,les_
 Completed AuditNex submissiom documenting the PSI audit findings and proposed improvements for NABH compliance.",https://drive.google.com/file/d/1wzsz668svfia0Iy3-AtfvrEprls__1SG/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/audit/dashboard,https://drive.google.com/file/d/14fB10TY9f1zMSKUnt1uL8M4SSeks3yfs/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-012 and Catheter Care Log.
 Compare SOP-QA-012 (requires nurse verification entries per shift) to LOG-2025-029 (missing entries).
 Click “Execute” (AuditNex).
-Document & submit.",10,yes,Medium: Catheter Care Verification Compliance Review,Patient Safety Auditor,Shows readiness for Patient Safety Officer and Clinical Quality Analyst positions.,"Identifying when catheter care documentation breaks PSI criteria for CAUTI,
+Document & submit.",10,no,Medium: Catheter Care Verification Compliance Review,Patient Safety Auditor,Shows readiness for Patient Safety Officer and Clinical Quality Analyst positions.,"Identifying when catheter care documentation breaks PSI criteria for CAUTI,
 Recognizing how missing nurse verification entries distort CAUTI trend analysis,
 Interpreting catheter care logs to judge whether care was contemporaneous or delayed,
 Assessing CAUTI risk pathways created by documentation gaps at the ICU level,
@@ -650,7 +650,7 @@ Dr. Gupta instructs you to document the incident, classify its severity, and out
 Completed DeviTrack submission documenting the medication error, severity, immediate actions, and preliminary CAPA.",https://drive.google.com/file/d/1qmhtt20J2VQ5syh3h0LmTCn0zivMcras/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/deviation/dashboard,https://drive.google.com/file/d/1KeyXyLmb4_quburfCQu9ZaF6NYC9VMqF/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-013 and Medication Administration Log.
 Compare SOP-QA-013 (requires clear prescription labeling) to LOG-2025-030 (misread label caused error).
 Click “EXECUTE”
-Document in DeviTrack & submit.",10,yes,Blogger: Medication Error Response and Severity Review,Clinical Incident Responder,Applicable for hospital QA teams involved in incident management and medication safety.,"Identifying medication administration errors from frontline reports,
+Document in DeviTrack & submit.",10,no,Blogger: Medication Error Response and Severity Review,Clinical Incident Responder,Applicable for hospital QA teams involved in incident management and medication safety.,"Identifying medication administration errors from frontline reports,
 Assessing incident severity based on patient impact,
 Interpreting prescription and administration logs to confirm the cause,
 Outlining immediate containment steps after a clinical incident,
@@ -684,7 +684,7 @@ Deliverables
 Completed AuditNex submission documenting the IPC audit findings and proposed improvements for NABH compliance.",https://drive.google.com/file/d/1NCZgT_8h_5YojzRF-zeVX4-4s1Iq1qul/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/audit/dashboard,https://drive.google.com/file/d/1U2IrYIN_stpUAjGa6ouLT_pKcEQjS70M/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-014 and Isolation Room Compliance Log.
 Compare SOP-QA-014 (requires contact precaution signage) to LOG-2025-031 (missing signage).
 Click “EXECUTE” (Open AuditNex)
-Document & submit.",10,yes,Medium: Isolation Room Signage Compliance Audit,Infection Control Auditor,Strengthens eligibility for Infection Control QA and HIC compliance audits under NABH.,"Identifying missing isolation room safety indicators,
+Document & submit.",10,no,Medium: Isolation Room Signage Compliance Audit,Infection Control Auditor,Strengthens eligibility for Infection Control QA and HIC compliance audits under NABH.,"Identifying missing isolation room safety indicators,
 Evaluating how signage gaps increase infection transmission risk,
 Comparing on-ground isolation practices against required control standards,
 Flagging IPC non compliance issues that affect patient and staff safety,
@@ -730,7 +730,7 @@ Deliverables
 Completed VeriSure submission documenting the EMR data integrity audit findings and proposed improvements for NABH compliance.",https://drive.google.com/file/d/1xwt6RMBks6RCIJbPsmYwZKHeuCN1kqAI/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/compliance/dashboard,https://drive.google.com/file/d/1s5xvidtTV_fTxU2C1-uarMw_HHQv0J5B/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-015 and EMR Access Log.
 Compare SOP-QA-015 (requires contemporaneous EMR entries) to LOG-2025-032 (delayed timestamps).
 Click “EXECUTE” (Open VeriSure)
-Document & submit.",10,yes,Academia.edu: EMR Timestamp Integrity Evaluation,Clinical Data Integrity Reviewer,"Useful for EMR QA, clinical documentation audit, and digital compliance roles.","Identifying delays in electronic medical record entries,
+Document & submit.",10,no,Academia.edu: EMR Timestamp Integrity Evaluation,Clinical Data Integrity Reviewer,"Useful for EMR QA, clinical documentation audit, and digital compliance roles.","Identifying delays in electronic medical record entries,
 Evaluating data integrity issues that affect clinical accuracy,
 Comparing access logs to expected timestamp standards,
 Flagging documentation gaps that carry patient care impact,
@@ -775,7 +775,7 @@ Deliverables
 Completed AuditNEX submission documenting the compliance sweep findings and proposed improvements for NABH compliance.",https://drive.google.com/file/d/1XYrJRzUW0SnFBM3qRNqjBwbjIxBjcP19/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/audit/dashboard,https://drive.google.com/file/d/1TrFK-TDJNdMDE4BqDvPxncuhg25xqYhk/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-016 and Disinfection Compliance Log.
 Compare SOP-QA-016 (requires signed disinfection logs per shift) to LOG-2025-033 (missing signatures).
 Click “EXECUTE” (AuditNEX).
-Document & submit.",10,yes,Blogger: Disinfection Log Signature Compliance Check,Ward Compliance Inspector,Applicable for roles in hospital quality inspection and environmental hygiene auditing.,"Identifying incomplete disinfection documentation,
+Document & submit.",10,no,Blogger: Disinfection Log Signature Compliance Check,Ward Compliance Inspector,Applicable for roles in hospital quality inspection and environmental hygiene auditing.,"Identifying incomplete disinfection documentation,
 Evaluating the compliance impact of missing staff signatures,
 Comparing operational logs against required hygiene standards,
 Flagging major non compliance issues during routine ward sweeps,
@@ -811,7 +811,7 @@ Deliverables
 Completed DeviTrack submission documenting the biohazard spill, severity, immediate actions, and preliminary CAPA.",https://drive.google.com/file/d/18hDngVtD1yjQ9Z_SoMiZaVFnwN13arzA/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/deviation/dashboard,https://drive.google.com/file/d/1py-8b79Qitl36u9Th1Polr11cvqMDiAP/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-017 and Biohazard Spill Log.
 Compare SOP-QA-017 (requires immediate containment and reporting) to LOG-2025-034 (spill details).
 Click “EXECUTE” (DeviTrack).
-Document & submit.",10,yes,Blogger: Biohazard Spill Incident Response Review,Emergency Response Reporter,"Supports roles in hospital safety, emergency response QA, and FMS compliance.","Identifying when a spill qualifies as a high severity event,
+Document & submit.",10,no,Blogger: Biohazard Spill Incident Response Review,Emergency Response Reporter,"Supports roles in hospital safety, emergency response QA, and FMS compliance.","Identifying when a spill qualifies as a high severity event,
 Applying core biohazard response steps without needing supervision,
 Interpreting spill logs to confirm what actually went wrong,
 Outlining containment actions appropriate for chemical exposure,
@@ -851,7 +851,7 @@ Fill Dashboard: Describe issues, assign priorities (Pharmacy: High), note contai
 Detail priority issue (Pharmacy error): Use Dashboard output for RCA.
 Click “EXECUTE” (DeviTrack).
 Fill Deviation: Describe Pharmacy error, note immediate actions, perform RCA (5 Whys), propose preliminary CAPA. Submit.
-Tip: Prioritize Pharmacy issue for patient safety; link IDs across forms for traceability.",10,yes,Substack: Medication Dispensing Error Priority Breakdown,Cross-Department QA Coordinator,Shows suitability for senior QA roles involving multi-unit coordination and risk triage.,"Prioritizing failures across departments,
+Tip: Prioritize Pharmacy issue for patient safety; link IDs across forms for traceability.",10,no,Substack: Medication Dispensing Error Priority Breakdown,Cross-Department QA Coordinator,Shows suitability for senior QA roles involving multi-unit coordination and risk triage.,"Prioritizing failures across departments,
 Interpreting patient safety impact of dispensing errors,
 Mapping multi unit issues in a structured triage tool,
 Running a 5 Whys analysis on a medication labeling error,
@@ -900,7 +900,7 @@ Click “EXECUTE” (Crisilog).
 Document & submit.
 Click “EXECUTE” (CAPA COMMANDER).
 Document & submit.
-Tip: Prioritize oxygen issue for patient safety; link IDs for traceability.",10,yes,Substack: Oxygen Supply Failure Risk Consolidation,Facility Quality Strategist,"Strengthens qualification for hospital QA Analyst, Quality Lead, and internal NABH preparation roles.","Risk triage for multi-ward incidents,
+Tip: Prioritize oxygen issue for patient safety; link IDs for traceability.",10,no,Substack: Oxygen Supply Failure Risk Consolidation,Facility Quality Strategist,"Strengthens qualification for hospital QA Analyst, Quality Lead, and internal NABH preparation roles.","Risk triage for multi-ward incidents,
 Cross-department audit consolidation,
 Critical event interpretation tied to patient-safety impact,
 Structured prioritization inside a crisis-mapping tool,
@@ -945,7 +945,7 @@ Deliverables
 Completed VeriSure submission documenting the GMP audit findings and proposed improvements for compliance.",https://drive.google.com/file/d/1r_-mNWosJv52XNHlFuGZZmPL8-6ud1sg/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/compliance/dashboard,https://drive.google.com/file/d/1JCwShApxlZcdMauEp7uLYlAeT3Ft8tjd/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-022 and Batch Production Record.
 Compare SOP-QA-022 (requires operator signatures for all batch records) to BPR-2025-045 (missing signatures).
 Click “EXECUTE” (VeriSure).
-Document & submit.",10,yes,,GMP Documentation Auditor,Good for GMP QA Associate and Manufacturing Documentation roles.,"GMP documentation review, 21 CFR Part 211.186 interpretation, signature compliance detection, VeriSure audit reporting, FDA-aligned gap identification.",,"Rewrite the following achievement into a clear, structured first-person article based on the task I completed inside the ZaneProEd workspace. The article must read as a simulation learning outcome, written from my perspective as a junior trainee inside a controlled training environment. Do not frame it as real industry work. No emojis. No hashtags. No marketing tone. No em dashes.
+Document & submit.",10,no,,GMP Documentation Auditor,Good for GMP QA Associate and Manufacturing Documentation roles.,"GMP documentation review, 21 CFR Part 211.186 interpretation, signature compliance detection, VeriSure audit reporting, FDA-aligned gap identification.",,"Rewrite the following achievement into a clear, structured first-person article based on the task I completed inside the ZaneProEd workspace. The article must read as a simulation learning outcome, written from my perspective as a junior trainee inside a controlled training environment. Do not frame it as real industry work. No emojis. No hashtags. No marketing tone. No em dashes.
 
 Platform:
 Zenodo 
@@ -979,7 +979,7 @@ Deliverables
 Completed AuditNEX submission documenting the cleanroom audit findings and proposed improvements for GMP compliance.",https://drive.google.com/file/d/1wJGIz4yl7iQlmp6COlynOjxZMgjoCfJv/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/audit/dashboard,https://drive.google.com/file/d/1SWgM-HLD69pOjaqzYa3aCun1gJCRgiA3/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-023 and Environmental Monitoring Log.
 Compare SOP-QA-023 (requires ISO 5 particle limits) to LOG-2025-041 (exceeding limits).
 Click “EXECUTE” (AuditNEX).
-Document & submit.",10,yes,,Cleanroom Compliance Analyst,"Useful for Aseptic QA, environmental monitoring teams, and sterile manufacturing.","Cleanroom environmental monitoring, ISO-5 particle interpretation, contamination-risk assessment, AuditNEX audit documentation.
+Document & submit.",10,no,,Cleanroom Compliance Analyst,"Useful for Aseptic QA, environmental monitoring teams, and sterile manufacturing.","Cleanroom environmental monitoring, ISO-5 particle interpretation, contamination-risk assessment, AuditNEX audit documentation.
 ",,"Rewrite the following achievement into a clear, structured first-person article based on the task I completed inside the ZaneProEd workspace. The article must read as a simulation learning outcome, written from my perspective as a junior trainee inside a controlled training environment. Do not frame it as real industry work. No emojis. No hashtags. No marketing tone. No em dashes.
 
 Platform:
@@ -1015,7 +1015,7 @@ Deliverables
 Completed AuditNEX submission documenting the gowning and hygiene audit findings and proposed improvements for GMP compliance.",https://drive.google.com/file/d/1X_6eRBhX3tzO8Fo4r4HtToVvCe1xQqTj/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/audit/dashboard,https://drive.google.com/file/d/1f_mtN4YNvFzIQ7WZWiDmj6jdGZFy1-RW/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-024 and Gowning Compliance Log.
 Compare SOP-QA-024 (requires verification of sterile glove donning) to LOG-2025-042 (missing verifications).
 Click “EXECUTE” (DeviTrack).
-Document & submit.",10,v,,Gowning & Hygiene Compliance Reviewer,Supports QA roles in sterile manufacturing and personnel compliance.,"Gowning protocol review, personnel hygiene compliance assessment, GMP 21 CFR Part 211.28 interpretation, AuditNEX reporting.",,"Rewrite the following achievement into a clear, structured first-person article based on the task I completed inside the ZaneProEd workspace. The article must read as a simulation learning outcome, written from my perspective as a junior trainee inside a controlled training environment. Do not frame it as real industry work. No emojis. No hashtags. No marketing tone. No em dashes.
+Document & submit.",10,no,,Gowning & Hygiene Compliance Reviewer,Supports QA roles in sterile manufacturing and personnel compliance.,"Gowning protocol review, personnel hygiene compliance assessment, GMP 21 CFR Part 211.28 interpretation, AuditNEX reporting.",,"Rewrite the following achievement into a clear, structured first-person article based on the task I completed inside the ZaneProEd workspace. The article must read as a simulation learning outcome, written from my perspective as a junior trainee inside a controlled training environment. Do not frame it as real industry work. No emojis. No hashtags. No marketing tone. No em dashes.
 
 Platform:
 LiveJournal 
@@ -1049,7 +1049,7 @@ Deliverables
 Completed VeriSure submission documenting the GMP documentation audit findings and proposed improvements for compliance.",https://drive.google.com/file/d/1v9sWmJUxPkDzEQOFLlH55KFmKpJC1fy9/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/compliance/dashboard,https://drive.google.com/file/d/1_DTJLJwyj2vaA3cmASmzuDeDjThDIVq2/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-025 and Batch Production Record.
 Compare SOP-QA-025 (requires real-time timestamps for batch records) to BPR-2025-046 (missing timestamps).
 Click “EXECUTE” (VeriSure).
-Document & submit.",10,yes,,GMP Documentation Integrity Analyst,Beneficial for roles in batch-release documentation and data-integrity QA.,"Real-time GMP documentation analysis, timestamp integrity review, FDA 21 CFR 211.186 interpretation, VeriSure audit competency.",,"Rewrite the following achievement into a clear, structured first-person article based on the task I completed inside the ZaneProEd workspace. The article must read as a simulation learning outcome, written from my perspective as a junior trainee inside a controlled training environment. Do not frame it as real industry work. No emojis. No hashtags. No marketing tone. No em dashes.
+Document & submit.",10,no,,GMP Documentation Integrity Analyst,Beneficial for roles in batch-release documentation and data-integrity QA.,"Real-time GMP documentation analysis, timestamp integrity review, FDA 21 CFR 211.186 interpretation, VeriSure audit competency.",,"Rewrite the following achievement into a clear, structured first-person article based on the task I completed inside the ZaneProEd workspace. The article must read as a simulation learning outcome, written from my perspective as a junior trainee inside a controlled training environment. Do not frame it as real industry work. No emojis. No hashtags. No marketing tone. No em dashes.
 
 Platform:
 LiveJournal 
@@ -1083,7 +1083,7 @@ Deliverables
 Completed AuditNEX submission documenting the raw material audit findings and proposed improvements for GMP compliance.",https://drive.google.com/file/d/1oeHleqIre5QG0cReDfMNUGi1L75ArF_H/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/audit/dashboard,https://drive.google.com/file/d/1sLnxT-CLvw9BKenaMJfFctRmxT2XOTL4/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-026 and Raw Material Receipt Log.
 Compare SOP-QA-026 (requires CoA for all API batches) to LOG-2025-043 (missing CoAs).
 Click “EXECUTE” (AuditNEX).
-Document & submit.",10,yes,,Raw Material Audit Specialist,"Relevant for RM-QA, supplier qualification, and warehouse QA roles.","Raw material inspection, CoA verification, GMP supplier compliance, AuditNEX audit documentation.",,"Rewrite the following achievement into a clear, structured first-person article based on the task I completed inside the ZaneProEd workspace. The article must read as a simulation learning outcome, written from my perspective as a junior trainee inside a controlled training environment. Do not frame it as real industry work. No emojis. No hashtags. No marketing tone. No em dashes.
+Document & submit.",10,no,,Raw Material Audit Specialist,"Relevant for RM-QA, supplier qualification, and warehouse QA roles.","Raw material inspection, CoA verification, GMP supplier compliance, AuditNEX audit documentation.",,"Rewrite the following achievement into a clear, structured first-person article based on the task I completed inside the ZaneProEd workspace. The article must read as a simulation learning outcome, written from my perspective as a junior trainee inside a controlled training environment. Do not frame it as real industry work. No emojis. No hashtags. No marketing tone. No em dashes.
 
 Platform:
 LiveJournal 
@@ -1118,7 +1118,7 @@ Deliverables
 Completed AuditNEX submission documenting the equipment audit findings and proposed improvements for GMP compliance.",https://drive.google.com/file/d/1V9PSBy_OxFF54iozx0geLdIFTOdI5F-1/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/audit/dashboard,https://drive.google.com/file/d/1zAe6G9vXYfSEQnqEwe7Tzu0JJAtYR1cX/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-027 and Equipment Calibration Log.
 Compare SOP-QA-027 (requires signed calibration verifications) to LOG-2025-044 (missing signatures).
 Click “EXECUTE” (AuditNEX).
-Document & submit.",10,yes,,Equipment Validation Compliance Reviewer,"Supports QA roles in equipment qualification, calibration oversight, and validation teams.","Calibration-log evaluation, equipment validation checks, GMP 211.67 interpretation, AuditNEX audit execution.",,"Rewrite the following achievement into a clear, structured first-person article based on the task I completed inside the ZaneProEd workspace. The article must read as a simulation learning outcome, written from my perspective as a junior trainee inside a controlled training environment. Do not frame it as real industry work. No emojis. No hashtags. No marketing tone. No em dashes.
+Document & submit.",10,no,,Equipment Validation Compliance Reviewer,"Supports QA roles in equipment qualification, calibration oversight, and validation teams.","Calibration-log evaluation, equipment validation checks, GMP 211.67 interpretation, AuditNEX audit execution.",,"Rewrite the following achievement into a clear, structured first-person article based on the task I completed inside the ZaneProEd workspace. The article must read as a simulation learning outcome, written from my perspective as a junior trainee inside a controlled training environment. Do not frame it as real industry work. No emojis. No hashtags. No marketing tone. No em dashes.
 
 Platform:
 Academia.edu 
@@ -1154,7 +1154,7 @@ Deliverables
 Completed VeriSure submission documenting the change control audit findings and proposed improvements for GMP compliance.",https://drive.google.com/file/d/1qKPULKut67nQXAiL22maAezfAoAR7HAM/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/compliance/dashboard,https://drive.google.com/file/d/1EDQ9XLVyJD79qXhZQlRf7O2P7WiXq4CS/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-028 and Change Control Log.
 Compare SOP-QA-028 (requires validation data for all changes) to LOG-2025-045 (missing validation data).
 Click “EXECUTE” (VeriSure).
-Document & submit.",10,yes,,Change Control Compliance Analyst,"Useful for validation, QC–QA liaison roles, and regulatory-facing documentation.","Change-control evaluation, validation evidence review, FDA 21 CFR 211.100 interpretation, VeriSure audit reporting.",,"Rewrite the following achievement into a clear, structured first-person article based on the task I completed inside the ZaneProEd workspace. The article must read as a simulation learning outcome, written from my perspective as a junior trainee inside a controlled training environment. Do not frame it as real industry work. No emojis. No hashtags. No marketing tone. No em dashes.
+Document & submit.",10,no,,Change Control Compliance Analyst,"Useful for validation, QC–QA liaison roles, and regulatory-facing documentation.","Change-control evaluation, validation evidence review, FDA 21 CFR 211.100 interpretation, VeriSure audit reporting.",,"Rewrite the following achievement into a clear, structured first-person article based on the task I completed inside the ZaneProEd workspace. The article must read as a simulation learning outcome, written from my perspective as a junior trainee inside a controlled training environment. Do not frame it as real industry work. No emojis. No hashtags. No marketing tone. No em dashes.
 
 Platform:
 LiveJournal
@@ -1188,7 +1188,7 @@ Deliverables
 Completed VeriSure submission documenting the in-process control audit findings and proposed improvements for GMP compliance.",https://drive.google.com/file/d/1hvvgXr40dDyaqtP3Np2V5SQK5tgf2Eg4/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/compliance/dashboard,https://drive.google.com/file/d/1RBSaiQZJ1EDXBggrUdaCqzQZ5vY3wY_r/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-029 and In-Process Control Log.
 Compare SOP-QA-029 (requires recorded in-process weight checks) to LOG-2025-046 (missing results).
 Click “EXECUTE” (VeriSure).
-Document & submit.",10,yes,,In-Process Quality Reviewer,Strengthens credibility for in-process QA and batch-release inspector roles.,"In-process control auditing, batch-release documentation review, GMP 211.110 interpretation, VeriSure reporting accuracy.",,"Rewrite the following achievement into a clear, structured first-person article based on the task I completed inside the ZaneProEd workspace. The article must read as a simulation learning outcome, written from my perspective as a junior trainee inside a controlled training environment. Do not frame it as real industry work. No emojis. No hashtags. No marketing tone. No em dashes.
+Document & submit.",10,no,,In-Process Quality Reviewer,Strengthens credibility for in-process QA and batch-release inspector roles.,"In-process control auditing, batch-release documentation review, GMP 211.110 interpretation, VeriSure reporting accuracy.",,"Rewrite the following achievement into a clear, structured first-person article based on the task I completed inside the ZaneProEd workspace. The article must read as a simulation learning outcome, written from my perspective as a junior trainee inside a controlled training environment. Do not frame it as real industry work. No emojis. No hashtags. No marketing tone. No em dashes.
 
 Platform:
 {{PLATFORM}}
@@ -1218,7 +1218,7 @@ Deliverables
 Completed VeriSure submission documenting the GMP regulatory audit findings and proposed improvements for compliance.",https://drive.google.com/file/d/1mdTzcJSDJKCy5OEFXwYaDR6_Mtelc81y/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/compliance/dashboard,https://drive.google.com/file/d/1_WEV0_m6h0dTEbqRLMOdnhcqB2AiHZ3W/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-030 and Data Integrity Log.
 Compare SOP-QA-030 (requires audit trail for batch records) to LOG-2025-047 (missing audit trails).
 Click “EXECUTE” (VeriSure).
-Document & submit.",10,yes,,GMP Data Integrity Analyst,"Good for roles in regulatory QA, audit readiness, and pharmaceutical documentation governance.","Audit-trail evaluation, GMP documentation integrity, FDA 21 CFR 211.188 interpretation, VeriSure audit reporting.",,"Rewrite the following achievement into a clear, structured first-person article based on the task I completed inside the ZaneProEd workspace. The article must read as a simulation learning outcome, written from my perspective as a junior trainee inside a controlled training environment. Do not frame it as real industry work. No emojis. No hashtags. No marketing tone. No em dashes.
+Document & submit.",10,no,,GMP Data Integrity Analyst,"Good for roles in regulatory QA, audit readiness, and pharmaceutical documentation governance.","Audit-trail evaluation, GMP documentation integrity, FDA 21 CFR 211.188 interpretation, VeriSure audit reporting.",,"Rewrite the following achievement into a clear, structured first-person article based on the task I completed inside the ZaneProEd workspace. The article must read as a simulation learning outcome, written from my perspective as a junior trainee inside a controlled training environment. Do not frame it as real industry work. No emojis. No hashtags. No marketing tone. No em dashes.
 
 Platform:
 Zenodo 
@@ -1256,7 +1256,7 @@ Click “EXECUTE” (Crisilog).
 Document & submit.
 Click “EXECUTE” (CAPA COMMANDER).
 Document & submit.
-Tip: Prioritize batch records for USFDA compliance; link IDs for traceability.",10,yes,,GMP Quality Strategist,"Positions learners for GMP QA Specialist, audit-readiness, and regulatory compliance roles.","Crisis consolidation, priority-risk mapping, CAPA planning, multi-log evaluation, FDA audit preparation, cross-functional QA communication.",,"Rewrite the following achievement into a clear, structured first-person article based on the task I completed inside the ZaneProEd workspace. The article must read as a simulation learning outcome, written from my perspective as a junior trainee inside a controlled training environment. Do not frame it as real industry work. No emojis. No hashtags. No marketing tone. No em dashes.
+Tip: Prioritize batch records for USFDA compliance; link IDs for traceability.",10,no,,GMP Quality Strategist,"Positions learners for GMP QA Specialist, audit-readiness, and regulatory compliance roles.","Crisis consolidation, priority-risk mapping, CAPA planning, multi-log evaluation, FDA audit preparation, cross-functional QA communication.",,"Rewrite the following achievement into a clear, structured first-person article based on the task I completed inside the ZaneProEd workspace. The article must read as a simulation learning outcome, written from my perspective as a junior trainee inside a controlled training environment. Do not frame it as real industry work. No emojis. No hashtags. No marketing tone. No em dashes.
 
 Platform:
 Reddit 
@@ -1294,7 +1294,7 @@ Deliverables
 Completed VeriSure submission documenting the SOP audit findings and proposed improvements for GMP compliance.",https://drive.google.com/file/d/1Mk8OIDOd4CHpwAuQP4TIk7Exa4oorig7/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/compliance/dashboard,https://drive.google.com/file/d/1oNgeaSSZ8Z2-Ju2Cy1DVulzo4jzqG5f1/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-031 and SOP Registry Log.
 Compare SOP-QA-031 (requires defined scope for all SOPs) to LOG-2025-049 (missing scope sections).
 Click “EXECUTE” (VeriSure).
-Document & submit.",10,,,,,,,"Rewrite the following achievement into a clear, structured first-person article based on the task I completed inside the ZaneProEd workspace. The article must read as a simulation learning outcome, written from my perspective as a junior trainee inside a controlled training environment. Do not frame it as real industry work. No emojis. No hashtags. No marketing tone. No em dashes.
+Document & submit.",10,no,,,,,,"Rewrite the following achievement into a clear, structured first-person article based on the task I completed inside the ZaneProEd workspace. The article must read as a simulation learning outcome, written from my perspective as a junior trainee inside a controlled training environment. Do not frame it as real industry work. No emojis. No hashtags. No marketing tone. No em dashes.
 
 Platform:
 Blogger 
@@ -1340,7 +1340,7 @@ Deliverables
 Completed CAPA Commander submission (100–150 words total across Corrective Actions, Preventive Actions, Verification of Effectiveness, Additional Comments) documenting corrective/preventive actions for the SOP change log deviation.",https://drive.google.com/file/d/1qPIO-bVqj6_IPhl8DaW_WPMMokcZ3IJ6/view?usp=sharing,https://zane-qa-hexasuite.vercel.app/capa/dashboard,https://drive.google.com/file/d/1VXhREjw3pOKGR1LgM3jiFcMEWKzUNWp_/view?usp=sharing,"Click “Reference Documents” to review SOP-QA-033 and Change Log.
 Review SOP-QA-033 (requires approval signatures for change log entries) and LOG-2025-050 (missing signatures).
 Click “EXECUTE” (CAPA COMMANDER).
-Document & submit.",10,mo,,,,,,"Rewrite the following achievement into a clear, structured first-person article based on the task I completed inside the ZaneProEd workspace. The article must read as a simulation learning outcome, written from my perspective as a junior trainee inside a controlled training environment. Do not frame it as real industry work. No emojis. No hashtags. No marketing tone. No em dashes.
+Document & submit.",10,no,,,,,,"Rewrite the following achievement into a clear, structured first-person article based on the task I completed inside the ZaneProEd workspace. The article must read as a simulation learning outcome, written from my perspective as a junior trainee inside a controlled training environment. Do not frame it as real industry work. No emojis. No hashtags. No marketing tone. No em dashes.
 
 Platform:
 ResearchGate 
