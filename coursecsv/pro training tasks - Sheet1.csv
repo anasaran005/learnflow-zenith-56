@@ -3055,28 +3055,30 @@ Review the draft so it does not sound like you claimed an auditor’s chair you 
 Generate a realistic image with Gemini or whatever model can draw a logbook without turning it into abstract art.
 Follow the Medium publishing steps in your app’s guide and upload the article there.
 Copy the Medium link and drop it into the Submission tab.
-Turn the article into a short LinkedIn update using a ChatGpt , attach the same image, add the Medium link, and post it.",,,,"[“Showing how responsibilities evolved after major regulatory failures like Tuskegee and Thalidomide.”,
-“Comparing early funding-only roles with modern oversight, safety tracking, and data accountability.”,
-“Explaining how PI authority, delegation, and ethics obligations strengthened after Belmont Report principles.”,
-“Demonstrating why CRAs were created and how their monitoring responsibilities shaped modern quality systems.”,
-“Tracing how Nuremberg and Helsinki led to IRB/IEC structures and how they influence site workflows.”,
-“Showing how EDC, eTMF, and contemporaneous recording principles emerged from historical failures.”,
-“Explaining how SAE reporting rules came from past abuses and now define sponsor-site communication patterns.”]","[
-“Team needed to align on historical context after a simulation showed how a pre-GCP trial failed due to unclear roles.”,
-“A simulated board review questioned whether the PI’s duties were understood in relation to Belmont ethics principles.”,
-“Sponsor oversight practices in the simulation were outdated and needed modernization to ICH-GCP equivalents.”,
-“During a role-mapping exercise, CRA responsibilities were mixed with coordinator tasks, creating ambiguity.”,
-“A historical case study inside Omega highlighted how poor documentation led to safety events.”,
-“A simulation recreated an early clinical trial communication chain to compare it with modern expectations.”,
-“Students were given a fractured trial team structure and asked to rebuild it according to present-day standards.”,
-“A multi-center 1970s-era trial simulation was updated to reflect current regulatory and ethical demands.”
+Turn the article into a short LinkedIn update using a ChatGpt , attach the same image, add the Medium link, and post it.",,,,"[
+  ""Showing how responsibilities evolved after major regulatory failures like Tuskegee and Thalidomide."",
+  ""Comparing early funding-only roles with modern oversight, safety tracking, and data accountability."",
+  ""Explaining how PI authority, delegation, and ethics obligations strengthened after Belmont Report principles."",
+  ""Demonstrating why CRAs were created and how their monitoring responsibilities shaped modern quality systems."",
+  ""Tracing how Nuremberg and Helsinki led to IRB/IEC structures and how they influence site workflows."",
+  ""Showing how EDC, eTMF, and contemporaneous recording principles emerged from historical failures."",
+  ""Explaining how SAE reporting rules came from past abuses and now define sponsor-site communication patterns.""
 ]","[
-“Your task focused on interpreting how historical failures shaped modern role expectations.”,
-“Your task centered on connecting early research ethics milestones to present-day trial responsibilities.”,
-“Your task targeted comparing pre-GCP role boundaries with contemporary ICH-GCP definitions.”,
-“Your task aimed at clarifying why modern clinical trials require strict separation of sponsor and investigator duties.”,
-“Your task was to analyze how monitoring responsibilities emerged from regulatory evolution.”,
-“Your task involved translating historical lessons into practical role-mapping steps for a modern trial team.”
+  ""Team needed to align on historical context after a simulation showed how a pre-GCP trial failed due to unclear roles."",
+  ""A simulated board review questioned whether the PI’s duties were understood in relation to Belmont ethics principles."",
+  ""Sponsor oversight practices in the simulation were outdated and needed modernization to ICH-GCP equivalents."",
+  ""During a role-mapping exercise, CRA responsibilities were mixed with coordinator tasks, creating ambiguity."",
+  ""A historical case study inside Omega highlighted how poor documentation led to safety events."",
+  ""A simulation recreated an early clinical trial communication chain to compare it with modern expectations."",
+  ""Students were given a fractured trial team structure and asked to rebuild it according to present-day standards."",
+  ""A multi-center 1970s-era trial simulation was updated to reflect current regulatory and ethical demands.""
+]","[
+  ""Your task focused on interpreting how historical failures shaped modern role expectations."",
+  ""Your task centered on connecting early research ethics milestones to present-day trial responsibilities."",
+  ""Your task targeted comparing pre-GCP role boundaries with contemporary ICH-GCP definitions."",
+  ""Your task aimed at clarifying why modern clinical trials require strict separation of sponsor and investigator duties."",
+  ""Your task was to analyze how monitoring responsibilities emerged from regulatory evolution."",
+  ""Your task involved translating historical lessons into practical role-mapping steps for a modern trial team.""
 ]"
 course_3,Pro Training in Clinical Research,,ch_3_01,Foundations of Clinical Research & GCP Basics,les_3_01_04,Introduction to Good Clinical Practice (GCP).,Creating a GCP Checklist for a Clinical Trial,"You are a new Clinical Research Coordinator (CRC) at StarCRO, helping manage a Phase II trial for a new asthma drug, AstmaRelief, sponsored by HealthPharma. Your supervisor, Dr. Lisa Chen, wants you to create a simple GCP checklist to ensure the trial team follows Good Clinical Practice (GCP) standards. The checklist will guide the team in protecting participants and ensuring reliable data.
 
