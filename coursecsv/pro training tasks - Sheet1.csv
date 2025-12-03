@@ -3269,13 +3269,11 @@ Click Post Entry and your article goes live instantly.","[
   ""Your task aimed at clarifying why modern clinical trials require strict separation of sponsor and investigator duties."",
   ""Your task was to analyze how monitoring responsibilities emerged from regulatory evolution."",
   ""Your task involved translating historical lessons into practical role-mapping steps for a modern trial team.""
-]",[
-  "I didn’t realize how many modern GCP rules exist purely because early trials lacked basic role boundaries.",
-  "Seeing historical failures made it obvious why PI autonomy cannot be compromised.",
-  "Understanding why CRAs were created helped me appreciate the monitoring structure.",
-  "Comparing old and modern sponsor duties clarified how accountability expanded over time.",
-  "The simulation showed how easily ethics violations can occur when responsibilities aren’t defined."
-],,
+]","I didn’t realize how many modern GCP rules exist purely because early trials lacked basic role boundaries,
+Seeing historical failures made it obvious why PI autonomy cannot be compromised,
+Understanding why CRAs were created helped me appreciate the monitoring structure,
+Comparing old and modern sponsor duties clarified how accountability expanded over time,
+The simulation showed how easily ethics violations can occur when responsibilities aren’t defined.",,
 course_3,Pro Training in Clinical Research,,ch_3_01,Foundations of Clinical Research & GCP Basics,les_3_01_10,GCP Audit Trails Basics.,task_3_01_10_1,GCP Audit Trail Entry,"You are a junior clinical research assistant at MediCore Labs, working on a clinical trial for DiabeSafe, a new drug for type 2 diabetes. Your team uses an electronic Trial Master File (eTMF) with an AI-supported audit trail system to track all trial actions. You’ve been tasked with filling out an audit trail document after correcting a data entry error in a patient’s Case Report Form (CRF) for an incorrect blood sugar level and explaining the importance of audit trails.
 
 Deliverables
@@ -3645,13 +3643,11 @@ Click Post Entry and your article goes live instantly.","[
   ""Clarifying the scientific intent behind each procedure and assessment to maintain traceability to objectives."",
   ""Refining safety, data capture, and visit workflows to ensure readiness for regulatory review and inspection."",
   ""Translating complex clinical objectives into a practical protocol framework that fits real-world execution.""
-]","[
-  ""I realized how sensitive recruitment becomes when inclusion criteria are written without operational context."",
-  ""Balancing scientific rigor with site feasibility was more complex than I expected."",
-  ""Remapping visit schedules showed me how easily timing logic can create deviations."",
-  ""Linking procedures to endpoints forced me to justify every line of the protocol."",
-  ""Reworking safety assessments helped me understand why protocol clarity prevents inspection findings.""
-]",,
+]","I realized how sensitive recruitment becomes when inclusion criteria are written without operational context,
+Balancing scientific rigor with site feasibility was more complex than I expected,
+Remapping visit schedules showed me how easily timing logic can create deviations,
+Linking procedures to endpoints forced me to justify every line of the protocol,
+Reworking safety assessments helped me understand why protocol clarity prevents inspection findings.",,
 course_3,Pro Training in Clinical Research,,ch_3_02,Clinical Trial Protocol Development,les_3_02_10,Protocol Review & Approval.,task_3_02_10_1,omegamentorship,,,,,,10,no,,,,,,,,,,,,,,
 course_3,Pro Training in Clinical Research,,ch_3_03,Site Selection & Study Start-Up,les_3_03_01,Site Selection Criteria.,task_3_03_01_1,Site Selection Criteria Task,"As a Clinical Research Coordinator at Zenith Clinical Solutions, you are tasked with evaluating three shortlisted sites for a Phase III clinical trial of OncoVax, an immunotherapy for Stage II colorectal cancer. Dr. Emily Chen, your supervisor, requires a data-driven recommendation to select the most suitable site based on standardized criteria.
 
@@ -3940,16 +3936,14 @@ Copy the generated link and share it anywhere.","[
   ""Translating feasibility and qualification data into a defensible decision regarding site selection."",
   ""Re-aligning contracts, budgets, and timelines to prevent downstream operational delays."",
   ""Ensuring staff readiness, training completion, and system access prior to activation.""
-]","[
-  ""The site looked perfect on paper until workload data exposed major feasibility risks."",
-  ""Negotiation delays taught me how contracts can quietly derail activation timelines."",
-  ""I realized how dependent activation is on precise regulatory documentation."",
-  ""AI predictions challenged my initial assumptions about which site would perform well."",
-  ""Training gaps during SSUM showed how easily a site can miss activation targets."",
-  ""The infrastructure audit changed my ranking of the sites entirely."",
-  ""I underestimated how much time is lost when budget assumptions are unrealistic."",
-  ""Cross-checking historical performance saved the team from selecting a weak site.""
-]",,
+]","The site looked perfect on paper until workload data exposed major feasibility risks,
+Negotiation delays taught me how contracts can quietly derail activation timelines,
+I realized how dependent activation is on precise regulatory documentation,
+AI predictions challenged my initial assumptions about which site would perform well,
+Training gaps during SSUM showed how easily a site can miss activation targets,
+The infrastructure audit changed my ranking of the sites entirely,
+I underestimated how much time is lost when budget assumptions are unrealistic,
+Cross-checking historical performance saved the team from selecting a weak site.",,
 course_3,Pro Training in Clinical Research,,ch_3_03,Site Selection & Study Start-Up,les_3_03_10,Common Start-Up Pitfalls.,task_3_03_10_1,Common Start-Up Pitfalls Task,"As a Clinical Research Coordinator at Zenith Clinical Solutions, you are troubleshooting a delayed site for a Phase II diabetes trial, DiabetaCare, testing a new oral medication. Dr. Sarah Patel, your supervisor, has tasked you with using a free web-based AI text generator to diagnose start-up pitfalls for a site enrolling 100 patients and propose solutions to ensure readiness.
 
 Deliverables
@@ -4303,16 +4297,16 @@ Click Save and Continue and your paper goes live with a shareable link.","[
   ""Correcting consent and screening documentation gaps that threaten regulatory compliance."",
   ""Detecting retention risks early to protect participant follow-through across scheduled visits."",
   ""Aligning AI recruitment predictions with ethical expectations and bias-mitigation standards.""
-]","[
-  ""I didn’t realize how much patient loss happens between interest and actual screening."",
-  ""Translating eligibility criteria into practical screening steps exposed several grey areas."",
-  ""The consent process showed me how easily comprehension gaps can undermine trust."",
-  ""Diversity review proved the recruitment strategy was hitting the wrong demographic clusters."",
-  ""AI predictions looked clean until I compared them with real screening failures."",
-  ""Retention planning made it clear that most dropouts are preventable with early communication."",
-  ""Document checks revealed how minor signature errors can trigger audit findings."",
-  ""Recruitment metrics forced me to rethink what ‘good performance’ actually means.""
-]",,
+]","
+I didn’t realize how much patient loss happens between interest and actual screening,
+Translating eligibility criteria into practical screening steps exposed several grey areas,
+The consent process showed me how easily comprehension gaps can undermine trust,
+Diversity review proved the recruitment strategy was hitting the wrong demographic clusters,
+AI predictions looked clean until I compared them with real screening failures,
+Retention planning made it clear that most dropouts are preventable with early communication,
+Document checks revealed how minor signature errors can trigger audit findings,
+Recruitment metrics forced me to rethink what ‘good performance’ actually means.
+",,
 course_3,Pro Training in Clinical Research,,ch_3_04,Patient Recruitment & Informed Consent,les_3_04_10,Ethical AI in Recruitment.,task_3_04_10_1,Auditing Ethical AI Recruitment for a Phase II Parkinson’s Trial,"You are a clinical research coordinator at a trial site in London, UK, managed by Parexel International, a leading contract research organization (CRO) with offices in Uxbridge, London. The Phase II clinical trial evaluates a new neuroprotective drug for early-stage Parkinson’s disease, aiming to enroll 90 participants aged 40–70 years across three sites: London (King’s College Hospital), Manchester (Salford Royal Hospital), and Birmingham (Queen Elizabeth Hospital). An AI-powered recruitment tool, NeuroMatch AI, is being used to screen electronic health records (EHRs) for eligible patients. Your task is to audit the tool’s deployment plan to identify one ethical risk and propose a specific improvement to ensure ethical compliance.
 
 Deliverables
@@ -4644,16 +4638,16 @@ Click Publish and confirm. Your post goes live instantly.","[
   ""Translating SDV findings into operational corrections that improve site-level data quality."",
   ""Ensuring CRF version control transitions do not disrupt ongoing data capture or user execution."",
   ""Integrating AI tools in a manner that preserves data integrity and minimizes classification risk.""
-]","[
-  ""I didn’t expect how small CRF design errors can multiply into thousands of downstream queries."",
-  ""SDV made it clear how easily transcription mistakes creep into structured fields."",
-  ""One missing value exposed how weak the site’s documentation flow actually was."",
-  ""Version control showed me why training must happen before a new CRF goes live."",
-  ""AI automation looked efficient until I saw how often it misinterpreted borderline data."",
-  ""Query spikes proved that data entry quality is the real driver of timelines."",
-  ""Audit trails revealed delays that no one noticed during daily workflows."",
-  ""Paper-to-EDC transfer errors changed how I think about data verification.""
-]",,
+]","
+I didn’t expect how small CRF design errors can multiply into thousands of downstream queries,
+SDV made it clear how easily transcription mistakes creep into structured fields,
+One missing value exposed how weak the site’s documentation flow actually was,
+Version control showed me why training must happen before a new CRF goes live,
+AI automation looked efficient until I saw how often it misinterpreted borderline data,
+Query spikes proved that data entry quality is the real driver of timelines,
+Audit trails revealed delays that no one noticed during daily workflows,
+Paper-to-EDC transfer errors changed how I think about data verification.
+",,
 course_3,Pro Training in Clinical Research,,ch_3_05,Data Collection & Case Report Forms (CRFs),les_3_05_10,Intro to EDC Systems.,task_3_05_10_1,Creating an EDC User Access Plan for a Phase II Asthma Trial,"You are a clinical data manager at a trial site in Limerick, Ireland, managed by Limerix Clinical Research Ltd., a contract research organization with offices in Castletroy, Limerick. The Phase II clinical trial evaluates a new inhaled corticosteroid for moderate asthma, aiming to enroll 50 participants aged 18–65 years at University Hospital Limerick. As part of the EDC system setup, you are tasked with creating a user access plan to assign roles and permissions for the trial team, ensuring secure and compliant data entry.
 
 Deliverables
@@ -4964,12 +4958,12 @@ Choose Publish now and your article goes live with a public link.","[
   ""My task targeted exposing feasibility, recruitment, and data workflow gaps before the study launch."",
   ""My task aimed at illustrating how protocol science, site performance, and monitoring intelligence are interconnected."",
   ""My task involved reconstructing a complete operational storyline using my simulations and tool outputs from the Zane Omega platform.""
-]","[
-  ""Working through protocol design and monitoring simulations showed me how quickly small early errors become downstream risks."",
-  ""Site feasibility and recruitment rarely align perfectly, and reconciling both taught me real operational judgment."",
-  ""CRF structure quietly controls data quality and half the monitoring load—I didn’t realize this until I built it myself."",
-  ""The Zane ProEd workflow taught me to think like a trial operator instead of a learner.""
-]",,
+]","
+Working through protocol design and monitoring simulations showed me how quickly small early errors become downstream risks,
+Site feasibility and recruitment rarely align perfectly, and reconciling both taught me real operational judgment,
+CRF structure quietly controls data quality and half the monitoring load—I didn’t realize this until I built it myself,
+The Zane ProEd workflow taught me to think like a trial operator instead of a learner.
+",,
 course_3,Pro Training in Clinical Research,,ch_3_06,Monitoring & Site Management,les_3_06_10,Close-Out Monitoring.,task_3_06_10_1,Resolving a Close-Out Complication in a Phase II Asthma Trial,"You are the Principal Investigator (PI) at a trial site in Dublin, Ireland, managed by DubliVita Clinical Research Ltd., a contract research organization with offices in Sandyford, Dublin. The Phase II clinical trial evaluating a new inhaled corticosteroid for moderate asthma concluded enrollment on 15 September 2025, with 60 participants at St. James’s Hospital, Dublin. During the close-out monitoring visit on 19 September 2025, the CRA identified a complication: a critical query on Patient ID IRE-001's Week 12 FEV1 data is unresolved due to a lost source document (spirometry report), and the site must resolve it before database lock on 30 September 2025 to avoid trial delays. As PI, you must simulate an email to the CRA and sponsor outlining your resolution plan, prioritizing actions to ensure compliance and closure.
 
 Deliverables
@@ -5156,16 +5150,16 @@ Click Save and Continue and your paper goes live with a shareable link.","[
   ""Validating AI-detected AE signals against clinical context before incorporating them into the safety record."",
   ""Elevating safety narrative quality to meet inspection expectations and demonstrate decision rationale."",
   ""Reconciling safety data across CRFs, site logs, and PV systems before executing escalation decisions.""
-]","[
-  ""I didn’t realize how quickly a misclassified AE can turn into a serious reporting violation."",
-  ""Comparing timelines with actual case data showed me how easy it is to breach the 24-hour rule."",
-  ""Causality scoring felt simple until multiple factors conflicted with each other."",
-  ""MedDRA hierarchy made sense only after I saw how coding impacts aggregate safety trends."",
-  ""Narrative drafting proved that clarity, not length, determines inspection readiness."",
-  ""AI scans picked up AEs I didn’t notice, which changed how I view narrative reviews."",
-  ""Preparing DSMB updates revealed critical gaps in follow-up documentation I had ignored."",
-  ""AE reconciliation exposed inconsistencies I assumed the system would catch automatically.""
-]",,
+]","
+I didn’t realize how quickly a misclassified AE can turn into a serious reporting violation,
+Comparing timelines with actual case data showed me how easy it is to breach the 24-hour rule,
+Causality scoring felt simple until multiple factors conflicted with each other,
+MedDRA hierarchy made sense only after I saw how coding impacts aggregate safety trends,
+Narrative drafting proved that clarity, not length, determines inspection readiness,
+AI scans picked up AEs I didn’t notice, which changed how I view narrative reviews,
+Preparing DSMB updates revealed critical gaps in follow-up documentation I had ignored,
+AE reconciliation exposed inconsistencies I assumed the system would catch automatically.
+",,
 course_3,Pro Training in Clinical Research,,ch_3_07,Adverse Events (AE) & Safety Reporting,les_3_07_10,AE Reconciliation.,task_3_07_10_1,,,,,,,,no,,,,,,,,,,,,,,
 course_3,Pro Training in Clinical Research,,ch_3_08,Regulatory Compliance & Audits,les_3_08_01,Global Regulatory Frameworks.,task_3_08_01_1,,,,,,,,no,,,,,,,,,,,,,,
 course_3,Pro Training in Clinical Research,,ch_3_08,Regulatory Compliance & Audits,les_3_08_02,FDA/EMA Submission Processes.,task_3_08_02_1,,,,,,,,no,,,,,,,,,,,,,,
@@ -5336,16 +5330,16 @@ Click Post Entry and your article goes live instantly.""","[
   ""Reconciling international regulatory requirements into a unified submission and approval strategy."",
   ""Improving audit trail reliability through systematic review of timestamps, user actions, and justification records."",
   ""Ensuring post-audit responses close findings effectively with evidence-backed resolutions.""
-]","[
-  ""I didn’t realize how minor document inconsistencies can escalate into major audit findings."",
-  ""Harmonization work showed me how far global regulations diverge on key requirements."",
-  ""AI scans exposed compliance gaps I never noticed during manual checks."",
-  ""CAPA drafting taught me that root cause analysis fails when it focuses only on symptoms."",
-  ""Audit trail review revealed activity patterns that would have failed an actual inspection."",
-  ""Document control showed me why eTMF discipline determines audit outcomes."",
-  ""Responding to IRB queries tested my ability to be precise without over-explaining."",
-  ""Submission mapping proved how easy it is to misplace a critical form in a regulatory module.""
-]",,
+]","
+I didn’t realize how minor document inconsistencies can escalate into major audit findings,
+Harmonization work showed me how far global regulations diverge on key requirements,
+AI scans exposed compliance gaps I never noticed during manual checks,
+CAPA drafting taught me that root cause analysis fails when it focuses only on symptoms,
+Audit trail review revealed activity patterns that would have failed an actual inspection,
+Document control showed me why eTMF discipline determines audit outcomes,
+Responding to IRB queries tested my ability to be precise without over-explaining,
+Submission mapping proved how easy it is to misplace a critical form in a regulatory module.
+",,
 course_3,Pro Training in Clinical Research,,ch_3_08,Regulatory Compliance & Audits,les_3_08_10,Post-Audit Reporting.,task_3_08_10_1,,,,,,,,no,,,,,,,,,,,,,,
 course_3,Pro Training in Clinical Research,,ch_3_09,Biostatistics & Data Analysis in Trials,les_3_09_01,Basic Statistical Concepts.,task_3_09_01_1,,,,,,,,no,,,,,,,,,,,,,,
 course_3,Pro Training in Clinical Research,,ch_3_09,Biostatistics & Data Analysis in Trials,les_3_09_02,Hypothesis Testing.,task_3_09_02_1,,,,,,,,no,,,,,,,,,,,,,,
@@ -5517,16 +5511,16 @@ Copy the generated link and share it anywhere.","[
   ""Ensuring sample size and power assumptions were defensible, transparent, and aligned with protocol objectives."",
   ""Correcting bias signals across the dataset before forming conclusions or conducting subgroup analyses."",
   ""Interpreting statistical outputs with regulator-ready precision, including effect size, confidence intervals, and model fit.""
-]","[
-  ""I didn’t realize how one wrong test choice can completely flip a trial conclusion."",
-  ""Power analysis exposed how unrealistic our sample size expectations were."",
-  ""Survival curve censoring made me understand why timelines matter more than I thought."",
-  ""AI anomaly detection picked up patterns I never saw manually."",
-  ""Interim analysis taught me why early signals can be misleading."",
-  ""Visualizations became meaningful only after fixing bias in the underlying data."",
-  ""Comparing SAS outputs with AI interpretations changed how I read model summaries."",
-  ""Bias correction shifted the entire conclusion of the dataset.""
-]",,
+]","
+I didn’t realize how one wrong test choice can completely flip a trial conclusion,
+Power analysis exposed how unrealistic our sample size expectations were,
+Survival curve censoring made me understand why timelines matter more than I thought,
+AI anomaly detection picked up patterns I never saw manually,
+Interim analysis taught me why early signals can be misleading,
+Visualizations became meaningful only after fixing bias in the underlying data,
+Comparing SAS outputs with AI interpretations changed how I read model summaries,
+Bias correction shifted the entire conclusion of the dataset.
+",,
 course_3,Pro Training in Clinical Research,,ch_3_09,Biostatistics & Data Analysis in Trials,les_3_09_10,Interpreting SAS Outputs.,task_3_09_10_1,,,,,,,,no,,,,,,,,,,,,,,
 course_3,Pro Training in Clinical Research,,ch_3_10,Advanced AI Applications in Clinical Trials,les_3_10_01,AI for Protocol Optimization.,task_3_10_01_1,,,,,,,,no,,,,,,,,,,,,,,
 course_3,Pro Training in Clinical Research,,ch_3_10,Advanced AI Applications in Clinical Trials,les_3_10_02,Predictive Analytics for Enrollment.,task_3_10_02_1,,,,,,,,no,,,,,,,,,,,,,,
@@ -5697,16 +5691,16 @@ Click Post Entry and your article goes live instantly.","[
   ""Comparing AI recommendations with human expert judgment to ensure balanced decision making."",
   ""Strengthening traceability and transparency in AI-assisted decisions to support audit and inspection needs."",
   ""Ensuring AI tools improve trial workflows rather than introducing inefficiencies or operational complications.""
-]","[
-  ""LLM optimization showed how much protocol complexity is completely unnecessary."",
-  ""Enrollment predictions revealed risks that site teams never flagged."",
-  ""NLP extraction changed my understanding of how much insight hides in free-text notes."",
-  ""Clustering exposed patient subgroups I didn’t know existed."",
-  ""AI RBM proved that anomalies often appear long before human teams notice them."",
-  ""Blockchain checks showed how fragile data traceability becomes without strict controls."",
-  ""Bias audit made it clear that AI can magnify small dataset imbalances."",
-  ""Digital twin outcomes forced me to question biological plausibility in simulations.""
-]",,
+]","
+LLM optimization showed how much protocol complexity is completely unnecessary,
+Enrollment predictions revealed risks that site teams never flagged,
+NLP extraction changed my understanding of how much insight hides in free-text notes,
+Clustering exposed patient subgroups I didn’t know existed,
+AI RBM proved that anomalies often appear long before human teams notice them,
+Blockchain checks showed how fragile data traceability becomes without strict controls,
+Bias audit made it clear that AI can magnify small dataset imbalances,
+Digital twin outcomes forced me to question biological plausibility in simulations.
+",,
 course_3,Pro Training in Clinical Research,,ch_3_10,Advanced AI Applications in Clinical Trials,les_3_10_10,Integrating AI with CTMS/eTMF.,task_3_10_10_1,,,,,,,,no,,,,,,,,,,,,,,
 course_3,Pro Training in Clinical Research,,ch_3_11,"eTMF, CTMS & Trial Management Systems",les_3_11_01,eTMF Fundamentals.,task_3_11_01_1,,,,,,,,no,,,,,,,,,,,,,,
 course_3,Pro Training in Clinical Research,,ch_3_11,"eTMF, CTMS & Trial Management Systems",les_3_11_02,CTMS Overview & Modules.,task_3_11_02_1,,,,,,,,no,,,,,,,,,,,,,,
@@ -5874,16 +5868,16 @@ Click Publish and confirm. Your post goes live instantly.","[
   ""Your task involved reconciling discrepancies in system-generated reports."",
   ""Your task focused on identifying scalability constraints before site expansion."",
   ""Your task centered on closing compliance gaps that threatened validation status.""
-]","[
-  ""eTMF indexing errors showed me how fragile document integrity becomes at scale."",
-  ""CTMS configuration made it clear how easily timelines fall apart when modules don’t align."",
-  ""Automation failures proved that trigger logic needs constant validation."",
-  ""Integration issues changed how I view data synchronization risk."",
-  ""Vendor dashboards revealed gaps the sites never admitted directly."",
-  ""AI plugin misclassification forced me to treat auto-indexing with skepticism."",
-  ""Load testing taught me that scaling is a technical problem, not just a staffing issue."",
-  ""Part 11 validation failures exposed how many hidden compliance layers exist inside trial systems.""
-]",,
+]","
+eTMF indexing errors showed me how fragile document integrity becomes at scale,
+CTMS configuration made it clear how easily timelines fall apart when modules don’t align,
+Automation failures proved that trigger logic needs constant validation,
+Integration issues changed how I view data synchronization risk,
+Vendor dashboards revealed gaps the sites never admitted directly,
+AI plugin misclassification forced me to treat auto-indexing with skepticism,
+Load testing taught me that scaling is a technical problem, not just a staffing issue,
+Part 11 validation failures exposed how many hidden compliance layers exist inside trial systems.
+",,
 course_3,Pro Training in Clinical Research,,ch_3_11,"eTMF, CTMS & Trial Management Systems",les_3_11_10,Troubleshooting System Issues.,task_3_11_10_1,,,,,,,,no,,,,,,,,,,,,,,
 course_3,Pro Training in Clinical Research,,ch_3_12,"Capstone Integration, Career Prep & Battle Readiness",les_3_12_01,End-to-End Trial Review.,task_3_12_01_1,,,,,,,,no,,,,,,,,,,,,,,
 course_3,Pro Training in Clinical Research,,ch_3_12,"Capstone Integration, Career Prep & Battle Readiness",les_3_12_02,Advanced Simulation Strategies.,task_3_12_02_1,,,,,,,,no,,,,,,,,,,,,,,
@@ -6046,12 +6040,12 @@ Copy your DOI link and share it anywhere. That link is permanent.","[
   ""My task aimed to demonstrate advanced operational judgement by resolving complex, multi-system problems using AI-driven workflows."",
   ""My task targeted translating biostatistics, regulatory logic, safety frameworks, and AI models into a scalable clinical operations blueprint."",
   ""My task involved reconstructing a full trial ecosystem—protocol to close-out—using simulations and tools from the Zane Omega platform.""
-]","[
-  ""Managing AE clusters and regulatory audits taught me that trial safety and compliance collapse instantly without disciplined workflows."",
-  ""Biostatistics stopped being abstract once I saw how interim results forced real protocol changes."",
-  ""System integration failures inside Omega showed me why CTMS, eTMF, and EDC alignment is make-or-break for global trials."",
-  ""AI tools helped me operate at a level I never thought possible as a fresher—Zane ProEd changed how I think about clinical R&D.""
-]",,
+]","
+Managing AE clusters and regulatory audits taught me that trial safety and compliance collapse instantly without disciplined workflows,
+Biostatistics stopped being abstract once I saw how interim results forced real protocol changes,
+System integration failures inside Omega showed me why CTMS, eTMF, and EDC alignment is make-or-break for global trials,
+AI tools helped me operate at a level I never thought possible as a fresher—Zane ProEd changed how I think about clinical R&D.
+",,
 course_3,Pro Training in Clinical Research,,ch_3_12,"Capstone Integration, Career Prep & Battle Readiness",les_3_12_10,,task_3_12_10_1,,,,,,,,no,,,,,,,,,,,,,,
 course_4,Pro Training in Regulatory Affairs,Navigate complex regulatory landscapes to achieve approvals and maintain compliance efficiently.,ch_4_01,Foundations of Regulatory Affairs,les_4_01_01,Introduction to Regulatory Affairs,task_4_01_01_1,Introduction to Regulatory Affairs,"You are a Regulatory Novice at Apex Pharma, preparing a basic document for an NDA for Zestacillin, a new antibiotic. In this ""Regulatory Basics Quest,"" you’ll use ONLYOFFICE Docs Cloud to write a short Regulatory Basics Note (100–150 words) summarizing the role of Regulatory Affairs in the NDA process in one sentence and listing one key objective (e.g., ensuring compliance). You’ll submit the note as a PDF via a ZANE Omega. 
 
@@ -7525,4 +7519,3 @@ course_6,Pro Training in Clinical Data Management,,ch_6_12,,les_6_12_07,,task_6_
 course_6,Pro Training in Clinical Data Management,,ch_6_12,,les_6_12_08,,task_6_12_08_1,,,,,,,,,,,,,,,,,,,,,,
 course_6,Pro Training in Clinical Data Management,,ch_6_12,,les_6_12_09,,task_6_12_09_1,,,,,,,,,,,,,,,,,,,,,,
 course_6,Pro Training in Clinical Data Management,,ch_6_12,,les_6_12_10,,task_6_12_10_1,,,,,,,,,,,,,,,,,,,,,,
-
