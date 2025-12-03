@@ -3269,13 +3269,13 @@ Click Post Entry and your article goes live instantly.","[
   ""Your task aimed at clarifying why modern clinical trials require strict separation of sponsor and investigator duties."",
   ""Your task was to analyze how monitoring responsibilities emerged from regulatory evolution."",
   ""Your task involved translating historical lessons into practical role-mapping steps for a modern trial team.""
-]","[
-  ""I didn’t realize how many modern GCP rules exist purely because early trials lacked basic role boundaries."",
-  ""Seeing historical failures made it obvious why PI autonomy cannot be compromised."",
-  ""Understanding why CRAs were created helped me appreciate the monitoring structure."",
-  ""Comparing old and modern sponsor duties clarified how accountability expanded over time."",
-  ""The simulation showed how easily ethics violations can occur when responsibilities aren’t defined.""
-]",,
+]",[
+  "I didn’t realize how many modern GCP rules exist purely because early trials lacked basic role boundaries.",
+  "Seeing historical failures made it obvious why PI autonomy cannot be compromised.",
+  "Understanding why CRAs were created helped me appreciate the monitoring structure.",
+  "Comparing old and modern sponsor duties clarified how accountability expanded over time.",
+  "The simulation showed how easily ethics violations can occur when responsibilities aren’t defined."
+],,
 course_3,Pro Training in Clinical Research,,ch_3_01,Foundations of Clinical Research & GCP Basics,les_3_01_10,GCP Audit Trails Basics.,task_3_01_10_1,GCP Audit Trail Entry,"You are a junior clinical research assistant at MediCore Labs, working on a clinical trial for DiabeSafe, a new drug for type 2 diabetes. Your team uses an electronic Trial Master File (eTMF) with an AI-supported audit trail system to track all trial actions. You’ve been tasked with filling out an audit trail document after correcting a data entry error in a patient’s Case Report Form (CRF) for an incorrect blood sugar level and explaining the importance of audit trails.
 
 Deliverables
@@ -7525,3 +7525,4 @@ course_6,Pro Training in Clinical Data Management,,ch_6_12,,les_6_12_07,,task_6_
 course_6,Pro Training in Clinical Data Management,,ch_6_12,,les_6_12_08,,task_6_12_08_1,,,,,,,,,,,,,,,,,,,,,,
 course_6,Pro Training in Clinical Data Management,,ch_6_12,,les_6_12_09,,task_6_12_09_1,,,,,,,,,,,,,,,,,,,,,,
 course_6,Pro Training in Clinical Data Management,,ch_6_12,,les_6_12_10,,task_6_12_10_1,,,,,,,,,,,,,,,,,,,,,,
+
