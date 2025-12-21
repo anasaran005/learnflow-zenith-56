@@ -192,11 +192,11 @@ course_2,ch_2_05,les_2_05_05,topic_2_05_05_1,Line Listings & Summary Tabulations
 course_2,ch_2_05,les_2_05_06,topic_2_05_06_1,PSUR Quality Checks,https://www.youtube.com/watch?v=VgVTAZSqPJQ,"Ensuring accuracy, consistency, and regulatory compliance before submitting safety update reports.",1
 course_2,ch_2_05,les_2_05_07,topic_2_05_07_1,DSUR Case Study Analysis,https://www.youtube.com/watch?v=DfOfN_vWnP8,Learning DSUR preparation through review of real-world clinical safety scenarios.,1
 course_2,ch_2_05,les_2_05_08,topic_2_05_08_1,Regulatory Submission of Reports,https://www.youtube.com/watch?v=rb2EO7NT0hg,Electronic handoff of safety update documents using standardized global submission formats.,1
-course_2,ch_2_05,les_2_05_09,topic_2_05_09_1,Handling PSUR Queries,https://www.youtube.com/watch?v=,Responding to authority questions with clarified data and supporting evidence.,1
-course_2,ch_2_05,les_2_05_10,topic_2_05_10_1,Periodic Report Automation,https://www.youtube.com/watch?v=,Streamlining workflows with tools that schedule data pulls and generate recurring safety reports.,1
-course_2,ch_2_06,les_2_06_01,topic_2_06_01_1,MedDRA Hierarchy Overview,https://www.youtube.com/watch?v=,Understanding the structured layers of MedDRA from detailed LLTs up to broad SOC classifications.,1
-course_2,ch_2_06,les_2_06_02,topic_2_06_02_1,"LLT, PT, and SOC Coding",https://www.youtube.com/watch?v=,Correctly assigning medical terms to the right hierarchy levels for consistent safety reporting.,1
-course_2,ch_2_06,les_2_06_03,topic_2_06_03_1,AI for MedDRA Auto-Coding,https://www.youtube.com/watch?v=,Using intelligent tools to map clinical terms to MedDRA codes faster and with fewer errors.,1
+course_2,ch_2_05,les_2_05_09,topic_2_05_09_1,Handling PSUR Queries,https://www.youtube.com/watch?v=QUKlChBDCHg,Responding to authority questions with clarified data and supporting evidence.,1
+course_2,ch_2_05,les_2_05_10,topic_2_05_10_1,Periodic Report Automation,https://www.youtube.com/watch?v=cS1v8y8KLWA,Streamlining workflows with tools that schedule data pulls and generate recurring safety reports.,1
+course_2,ch_2_06,les_2_06_01,topic_2_06_01_1,MedDRA Hierarchy Overview,https://www.youtube.com/watch?v=ns_t1hYA6gE,Understanding the structured layers of MedDRA from detailed LLTs up to broad SOC classifications.,1
+course_2,ch_2_06,les_2_06_02,topic_2_06_02_1,"LLT, PT, and SOC Coding",https://www.youtube.com/watch?v=pedkPwH59Ew,Correctly assigning medical terms to the right hierarchy levels for consistent safety reporting.,1
+course_2,ch_2_06,les_2_06_03,topic_2_06_03_1,AI for MedDRA Auto-Coding,https://www.youtube.com/watch?v=w32NOgKgjt4,Using intelligent tools to map clinical terms to MedDRA codes faster and with fewer errors.,1
 course_2,ch_2_06,les_2_06_04,topic_2_06_04_1,Coding Accuracy Checks,https://www.youtube.com/watch?v=,Verifying that selected MedDRA terms reflect the true medical meaning of each case.,1
 course_2,ch_2_06,les_2_06_05,topic_2_06_05_1,Complex Case Coding,https://www.youtube.com/watch?v=,Handling multi-symptom or ambiguous clinical scenarios with precise MedDRA term selection.,1
 course_2,ch_2_06,les_2_06_06,topic_2_06_06_1,Narrative Quality Standards,https://www.youtube.com/watch?v=,"Writing concise, medically meaningful case stories that support valid coding and assessment.",1
