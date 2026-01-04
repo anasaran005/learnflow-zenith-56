@@ -202,8 +202,8 @@ course_2,ch_2_06,les_2_06_05,topic_2_06_05_1,Complex Case Coding,https://www.you
 course_2,ch_2_06,les_2_06_06,topic_2_06_06_1,Narrative Quality Standards,https://www.youtube.com/watch?v=cOh-zz2e3ic,"Writing concise, medically meaningful case stories that support valid coding and assessment.",1
 course_2,ch_2_06,les_2_06_07,topic_2_06_07_1,Follow-Up Case Processing,https://www.youtube.com/watch?v=OlD6B02o8AU,Updating safety reports with new medical details while keeping coding accurate and current.,1
 course_2,ch_2_06,les_2_06_08,topic_2_06_08_1,Coding Error Resolution,https://www.youtube.com/watch?v=MFqpcjuS6pY,Detecting incorrect terms and applying the right fixes to maintain data integrity.,1
-course_2,ch_2_06,les_2_06_09,topic_2_06_09_1,MedDRA Version Updates,https://www.youtube.com/watch?v=,Adapting coding practices to align with each new MedDRA release.,1
-course_2,ch_2_06,les_2_06_10,topic_2_06_10_1,Case Quality Dashboards,https://www.youtube.com/watch?v=,"Visual tools that track completeness, coding accuracy, and timeliness across PV cases.",1
+course_2,ch_2_06,les_2_06_09,topic_2_06_09_1,MedDRA Version Updates,https://www.youtube.com/watch?v=T_fTcb8ao64,Adapting coding practices to align with each new MedDRA release.,1
+course_2,ch_2_06,les_2_06_10,topic_2_06_10_1,Case Quality Dashboards,https://www.youtube.com/watch?v=ykKALoJuRPw,"Visual tools that track completeness, coding accuracy, and timeliness across PV cases.",1
 course_2,ch_2_07,les_2_07_01,topic_2_07_01_1,PV Audit Overview,https://www.youtube.com/watch?v=,Introduction to pharmacovigilance audits assessing safety systems and compliance.,1
 course_2,ch_2_07,les_2_07_02,topic_2_07_02_1,Preparing for FDA PV Inspections,https://www.youtube.com/watch?v=,Strategies and checklists for U.S. FDA pharmacovigilance inspection readiness.,1
 course_2,ch_2_07,les_2_07_03,topic_2_07_03_1,EMA PV Audit Requirements,https://www.youtube.com/watch?v=,Compliance expectations and procedures for European Medicines Agency PV audits.,1
@@ -289,11 +289,11 @@ course_3,ch_3_03,les_3_03_02,topic_3_03_02_1,Feasibility Assessments.,https://ww
 course_3,ch_3_03,les_3_03_03,topic_3_03_03_1,Investigator Qualification.,https://www.youtube.com/watch?v=rQf9NfzXCXs,"Confirming that site investigators have the expertise and credentials to lead safe, ethical research.",1
 course_3,ch_3_03,les_3_03_04,topic_3_03_04_1,Site Contracts & Budgeting.,https://www.youtube.com/watch?v=P3GJAZmOcsA,Negotiating legal terms and financial plans that support trial operations at each site.,1
 course_3,ch_3_03,les_3_03_05,topic_3_03_05_1,Regulatory Submissions for Sites.,https://www.youtube.com/watch?v=4uZHviXpoyM,Getting approvals from ethics committees and authorities before enrollment begins.,1
-course_3,ch_3_03,les_3_03_06,topic_3_03_06_1,Study Start-Up Meetings (SSUM).,https://www.youtube.com/watch?v=,Aligning all stakeholders with protocol requirements and key trial deliverables.,1
-course_3,ch_3_03,les_3_03_07,topic_3_03_07_1,AI in Site Feasibility.,https://www.youtube.com/watch?v=,Predictive analytics to identify the best-performing sites and reduce delays in activation.,1
-course_3,ch_3_03,les_3_03_08,topic_3_03_08_1,Training Site Staff.,https://www.youtube.com/watch?v=,"Ensuring everyone understands protocol, GCP, and operational workflows before recruitment begins.",1
-course_3,ch_3_03,les_3_03_09,topic_3_03_09_1,Site Activation Checklists.,https://www.youtube.com/watch?v=,"Final readiness checks for systems, supplies, staff, and documentation.",1
-course_3,ch_3_03,les_3_03_10,topic_3_03_10_1,Common Start-Up Pitfalls.,https://www.youtube.com/watch?v=,"Avoidable delays like slow contracting, missing approvals, or inadequate site preparation.",1
+course_3,ch_3_03,les_3_03_06,topic_3_03_06_1,Study Start-Up Meetings (SSUM).,https://www.youtube.com/watch?v=upHrMTsYSg8,Aligning all stakeholders with protocol requirements and key trial deliverables.,1
+course_3,ch_3_03,les_3_03_07,topic_3_03_07_1,AI in Site Feasibility.,https://www.youtube.com/watch?v=f1sUH89fiIM,Predictive analytics to identify the best-performing sites and reduce delays in activation.,1
+course_3,ch_3_03,les_3_03_08,topic_3_03_08_1,Training Site Staff.,https://www.youtube.com/watch?v=lndAK4QMmm8,"Ensuring everyone understands protocol, GCP, and operational workflows before recruitment begins.",1
+course_3,ch_3_03,les_3_03_09,topic_3_03_09_1,Site Activation Checklists.,https://www.youtube.com/watch?v=dDataqqOf6c,"Final readiness checks for systems, supplies, staff, and documentation.",1
+course_3,ch_3_03,les_3_03_10,topic_3_03_10_1,Common Start-Up Pitfalls.,https://www.youtube.com/watch?v=pkYpCy_TaDA,"Avoidable delays like slow contracting, missing approvals, or inadequate site preparation.",1
 course_3,ch_3_04,les_3_04_01,topic_3_04_01_1,Recruitment Strategies Overview.,https://www.youtube.com/watch?v=,Plans to attract and enroll the right participants efficiently for the trial.,1
 course_3,ch_3_04,les_3_04_02,topic_3_04_02_1,Patient Eligibility Screening.,https://www.youtube.com/watch?v=,Checking whether candidates meet all criteria for safe and valid participation.,1
 course_3,ch_3_04,les_3_04_03,topic_3_04_03_1,Informed Consent Process.,https://www.youtube.com/watch?v=,Ensuring participants fully understand the study before voluntarily agreeing to join.,1
