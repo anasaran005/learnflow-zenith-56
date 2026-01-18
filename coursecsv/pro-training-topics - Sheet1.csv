@@ -299,11 +299,11 @@ course_3,ch_3_04,les_3_04_02,topic_3_04_02_1,Patient Eligibility Screening.,http
 course_3,ch_3_04,les_3_04_03,topic_3_04_03_1,Informed Consent Process.,https://www.youtube.com/watch?v=rlKmLycc0SM,Ensuring participants fully understand the study before voluntarily agreeing to join.,1
 course_3,ch_3_04,les_3_04_04,topic_3_04_04_1,Diversity & Inclusion in Recruitment.,https://www.youtube.com/watch?v=MLBurPWJU-g,Reaching diverse patient groups to improve equity and scientific rigor.,1
 course_3,ch_3_04,les_3_04_05,topic_3_04_05_1,Retention Techniques.,https://www.youtube.com/watch?v=B93m54Ef8G0,Keeping participants engaged and enrolled throughout the study to reduce dropouts.,1
-course_3,ch_3_04,les_3_04_06,topic_3_04_06_1,AI-Powered Patient Matching.,https://www.youtube.com/watch?v=,Smart tools that identify eligible candidates from health data quickly and accurately.,1
-course_3,ch_3_04,les_3_04_07,topic_3_04_07_1,Consent Documentation.,https://www.youtube.com/watch?v=,Accurate record keeping of signed and dated consent forms to maintain compliance.,1
-course_3,ch_3_04,les_3_04_08,topic_3_04_08_1,Handling Recruitment Challenges.,https://www.youtube.com/watch?v=,"Practical fixes for slow enrollment, communication gaps, or logistical issues.",1
-course_3,ch_3_04,les_3_04_09,topic_3_04_09_1,Metrics & Reporting Recruitment.,https://www.youtube.com/watch?v=,"Tracking progress with data on screening, enrollment, and dropouts.",1
-course_3,ch_3_04,les_3_04_10,topic_3_04_10_1,Ethical AI in Recruitment.,https://www.youtube.com/watch?v=,Applying automation responsibly without bias or privacy risks to participants.,1
+course_3,ch_3_04,les_3_04_06,topic_3_04_06_1,AI-Powered Patient Matching.,https://www.youtube.com/watch?v=34x58yXoTkg,Smart tools that identify eligible candidates from health data quickly and accurately.,1
+course_3,ch_3_04,les_3_04_07,topic_3_04_07_1,Consent Documentation.,https://www.youtube.com/watch?v=BLJcLlcvAFM,Accurate record keeping of signed and dated consent forms to maintain compliance.,1
+course_3,ch_3_04,les_3_04_08,topic_3_04_08_1,Handling Recruitment Challenges.,https://www.youtube.com/watch?v=Q-9hvuPt4GE,"Practical fixes for slow enrollment, communication gaps, or logistical issues.",1
+course_3,ch_3_04,les_3_04_09,topic_3_04_09_1,Metrics & Reporting Recruitment.,https://www.youtube.com/watch?v=CqrQueDrAHA,"Tracking progress with data on screening, enrollment, and dropouts.",1
+course_3,ch_3_04,les_3_04_10,topic_3_04_10_1,Ethical AI in Recruitment.,https://www.youtube.com/watch?v=QtH3eUMLONc,Applying automation responsibly without bias or privacy risks to participants.,1
 course_3,ch_3_05,les_3_05_01,topic_3_05_01_1,CRF Design Principles.,https://www.youtube.com/watch?v=,"Creating user-friendly forms that capture accurate, protocol-required data only.",1
 course_3,ch_3_05,les_3_05_02,topic_3_05_02_1,"Data Collection Methods (EDC, Paper).",https://www.youtube.com/watch?v=,Different ways clinical trial data is recorded and transferred into secure systems.,1
 course_3,ch_3_05,les_3_05_03,topic_3_05_03_1,Source Data Verification (SDV).,https://www.youtube.com/watch?v=,Comparing CRF entries against original medical records to ensure correctness.,1
