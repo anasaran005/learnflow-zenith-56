@@ -215,7 +215,7 @@ Sequence multiple quality risks |
 Check analyst training compliance |
 Execute structured root cause analysis |
 Formulate corrective preventive measures",Handle multi-issue quality incident,QA QC incident management,"This competency reflects practical readiness to manage simultaneous compliance and data integrity risks, supporting inspection preparedness and sustained GMP control during high-pressure quality events.",,,,,,,
-course_1,Pro Training in QA/QC ,,ch_1_01,Foundations of Quality Warfare,les_1_01_10,Recap,Omegamentorship,,,,,,10,task_1_01_10_1,no,,,,,,,,,,,,,,
+course_1,Pro Training in QA/QC ,,ch_1_01,Foundations of Quality Warfare,les_1_01_10,Recap,notask,,,,,,10,task_1_01_10_1,no,,,,,,,,,,,,,,
 course_1,Pro Training in QA/QC ,,ch_1_02,Hospital Quality Command Protocols,les_1_02_01,Entering the Ward Zone – Hospital QMS Framework & Accreditation Codes,Ward QMS Compliance Audit,"You are a Junior Quality Control Analyst at Zenith Hospital, reporting to Dr. Meera Nair, Quality Assurance Lead. During a routine ward audit in Ward 3 (General Medicine), you review the Hand Hygiene Compliance Log (LOG-2025-027) against SOP-QA-010 (Hand Hygiene Protocol). 
 
 You find that 6 out of 10 shift logs lack hand hygiene verification entries, violating SOP-QA-010 and NABH Standard AAC.5 (Access to Care and Continuity). Dr. Nair instructs you to document the non-compliance and recommend improvements using VeriSure to prepare for an upcoming NABH audit.
@@ -2220,7 +2220,7 @@ Structure pharmacovigilance case narratives",ICSR Case Documentation Workflow,In
   ""This task made me understand why accurate AE classification and proper documentation are non-negotiable in PV."",
   ""This work helped me appreciate how MedDRA and GVP serve as the backbone of modern pharmacovigilance systems.""
 ]",,,
-course_2,Pro Training in Pharmacovigilance,,ch_2_01,Foundations of Pharmacovigilance,les_2_01_10,Recap,Omegamentorship,,,,,,10,task_2_01_10_1,no,,,,,,,,,,,,,,
+course_2,Pro Training in Pharmacovigilance,,ch_2_01,Foundations of Pharmacovigilance,les_2_01_10,Recap,notask,,,,,,10,task_2_01_10_1,no,,,,,,,,,,,,,,
 course_2,Pro Training in Pharmacovigilance,,ch_2_02,Individual Case Safety Reports (ICSR),les_2_02_01,ICSR Overview & Structure,ICSR Data Entry – Cetirizine-Induced Dizziness,"As a Drug Safety Associate at Apex Pharmaceuticals, you receive a spontaneous report from a healthcare professional (HCP). A 30-year-old female patient developed severe dizziness two days after starting cetirizine (10 mg, oral, once daily) for allergies. She was hospitalized for one day and recovered. The HCP suspects cetirizine caused the dizziness. You must document the case in an ICSR Data Entry Form by tomorrow.
 
 Deliverables
@@ -2942,7 +2942,7 @@ Interpret seriousness distribution patterns |
 Design risk minimization interventions |
 Link safety data to mitigation |
 Align RMS with regulatory guidance",Risk Minimization Strategy Design,Data-Informed Risk Mitigation Planning,This capability enables translation of global safety data into practical risk control measures for marketed products. It supports regulatory-aligned risk management planning across jurisdictions with differing pharmacovigilance expectations.,,,,,,,
-course_2,Pro Training in Pharmacovigilance,,ch_2_04,Signal Detection & Risk Management,les_2_04_10,Signal Dashboards,Omegamentorship,,,,,,10,task_2_04_10_1,no,,,,,,,,,,,,,,
+course_2,Pro Training in Pharmacovigilance,,ch_2_04,Signal Detection & Risk Management,les_2_04_10,Signal Dashboards,notask,,,,,,10,task_2_04_10_1,no,,,,,,,,,,,,,,
 course_2,Pro Training in Pharmacovigilance,,ch_2_05,Aggregate Safety Reporting,les_2_05_01,PSUR Overview & Requirements,PSUR Overview & Requirements,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in India. You are tasked with preparing a PSUR overview for a potential safety issue from an ICSR based on a spontaneous report from a clinic in Europe. The report details a patient who experienced gastrointestinal bleeding after taking ibuprofen for pain. Using the official VigiAccess website (vigiaccess.org) from WHO, you will query for ibuprofen-gastrointestinal bleeding data (e.g., report count, trends), then use Grok (grok.com) to generate a creative mini-PSUR storyboard (e.g., a text-based ""comic strip"" narrative of safety summary and benefit-risk), and enter a simple PSUR storyboard summary in ΩMEGA Word for submission, ensuring compliance with regulatory authorities like CDSCO (India), EMA (Europe), FDA, MHRA.
 
 Deliverables
@@ -3173,7 +3173,7 @@ Classify query intent accurately |
 Map queries to handling strategies |
 Apply rationale selection criteria |
 Validate response alignment rules",PSUR Query Handling Exercise,Regulatory Query Resolution Logic,"Mastery of PSUR query handling enables precise engagement with regulators during post-marketing safety reviews. It supports timely, well-justified responses that maintain regulatory confidence and streamline ongoing pharmacovigilance oversight.",,,,,,,
-course_2,Pro Training in Pharmacovigilance,,ch_2_05,Aggregate Safety Reporting,les_2_05_10,Periodic Report Automation,omegamentorship,,,,,,10,task_2_05_10_1,no,,,,,,,,,,,,,,
+course_2,Pro Training in Pharmacovigilance,,ch_2_05,Aggregate Safety Reporting,les_2_05_10,Periodic Report Automation,notask,,,,,,10,task_2_05_10_1,no,,,,,,,,,,,,,,
 course_2,Pro Training in Pharmacovigilance,,ch_2_06,MedDRA Coding & Case Quality,les_2_06_01,MedDRA Hierarchy Overview,MedDRA Hierarchy Overview,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in the UK. Your team is preparing a PSUR for paracetamol-related adverse events. In this ""Quick Code Quest,"" you’ll use the Zane MedDRA Simulation Tool (accessible at Tools Section ) to code three simple patient-reported adverse events into MedDRA Preferred Terms (PTs). You’ll verify one PT for accuracy and write a brief note for the PSUR, ensuring compliance with authorities like EMA (EU), FDA (USA), MHRA (UK), and CDSCO (India).
 
 Deliverables
@@ -3406,7 +3406,7 @@ Compare terminology across MedDRA releases |
 Identify version-related term changes |
 Update safety data coding consistency |
 Document coding version impact",MedDRA Version Update Review,MedDRA Version Change Management,Effective management of MedDRA version updates ensures consistency and accuracy of safety data across reporting cycles. This capability supports regulator confidence by maintaining alignment between evolving terminologies and PSUR safety evaluations.,,,,,,,
-course_2,Pro Training in Pharmacovigilance,,ch_2_06,MedDRA Coding & Case Quality,les_2_06_10,MedDRA Version Updates,omegamentorship,,,,,,10,task_2_06_10_1,no,,,,,,,,,,,,,,
+course_2,Pro Training in Pharmacovigilance,,ch_2_06,MedDRA Coding & Case Quality,les_2_06_10,MedDRA Version Updates,notask,,,,,,10,task_2_06_10_1,no,,,,,,,,,,,,,,
 course_2,Pro Training in Pharmacovigilance,,ch_2_07,PV Audits & Inspections,les_2_07_01,PV Audit Overview,PV Audit Overview,,,,,,10,task_2_07_01_1,no,,,,,,,,,,,,,,
 course_2,Pro Training in Pharmacovigilance,,ch_2_07,PV Audits & Inspections,les_2_07_02,Preparing for FDA PV Inspections,Preparing for FDA PV Inspections,,,,,,10,task_2_07_02_1,no,,,,,,,,,,,,,,
 course_2,Pro Training in Pharmacovigilance,,ch_2_07,PV Audits & Inspections,les_2_07_03,EMA PV Audit Requirements,EMA PV Audit Requirements,,,,,,10,task_2_07_03_1,linkedin,"Choose one caption from the generated options
@@ -4679,7 +4679,7 @@ Balancing scientific rigor with site feasibility was more complex than I expecte
 Remapping visit schedules showed me how easily timing logic can create deviations,
 Linking procedures to endpoints forced me to justify every line of the protocol,
 Reworking safety assessments helped me understand why protocol clarity prevents inspection findings.",,
-course_3,Pro Training in Clinical Research,,ch_3_02,Clinical Trial Protocol Development,les_3_02_10,Protocol Review & Approval.,omegamentorship,,,,,,10,task_3_02_10_1,no,,,,,,,,,,,,,,
+course_3,Pro Training in Clinical Research,,ch_3_02,Clinical Trial Protocol Development,les_3_02_10,Protocol Review & Approval.,notask,,,,,,10,task_3_02_10_1,no,,,,,,,,,,,,,,
 course_3,Pro Training in Clinical Research,,ch_3_03,Site Selection & Study Start-Up,les_3_03_01,Site Selection Criteria.,Site Selection Criteria Task,"As a Clinical Research Coordinator at Zenith Clinical Solutions, you are tasked with evaluating three shortlisted sites for a Phase III clinical trial of OncoVax, an immunotherapy for Stage II colorectal cancer. Dr. Emily Chen, your supervisor, requires a data-driven recommendation to select the most suitable site based on standardized criteria.
 
 Deliverables
@@ -6972,7 +6972,7 @@ Use the simple toolbar if you want bold, italics, links, or images. All basic fo
 Choose Public as visibility so anyone can read it. This is free.
 Ignore all “Paid Account” or “Upgrade” prompts. You don’t need them to publish.
 Click Post Entry and your article goes live instantly.",Medium,,,,,,,,,,,,
-course_4,Pro Training in Regulatory Affairs,,ch_4_01,Foundations of Regulatory Affairs,les_4_01_10,Recap,Omegamentorship,,,,,,,task_4_01_10_1,no,,,,,,,,,,,,,,
+course_4,Pro Training in Regulatory Affairs,,ch_4_01,Foundations of Regulatory Affairs,les_4_01_10,Recap,notask,,,,,,,task_4_01_10_1,no,,,,,,,,,,,,,,
 course_4,Pro Training in Regulatory Affairs,,ch_4_02,Introduction to eCTD & Submission Systems,les_4_02_01,eCTD Overview & Module Breakdown,notask,,,,,,,task_4_02_01_1,no,,,,,,,,,,,,,,
 course_4,Pro Training in Regulatory Affairs,,ch_4_02,Introduction to eCTD & Submission Systems,les_4_02_02,Module 1: Administrative Information,Module 1: Administrative Information,"You are a Regulatory Mastermind at Apex Pharma, a global leader in pharmaceutical innovation, tasked with preparing a complete Module 1 eCTD submission for Zestacillin, a novel antibiotic (500 mg tablets) indicated for mild-to-moderate bacterial infections, including respiratory and urinary tract infections in adults. The submission targets one region of—USA (FDA). Your mission is to compile a professional Module 1 package, including a Product Profile, a regional submission form, a cover letter, supporting documents (GMP Certificate, Certificate of Analysis, Manufacturing License, Draft Labeling), and a checklist, using the provided reference document and tools. This submission will be reviewed by regulatory authorities, and any errors could delay Zestacillin’s market entry. Use ZANE tools to craft a submission that showcases precision, compliance, and strategic insight—your reputation as a Mastermind depends on it!
 
@@ -7861,7 +7861,7 @@ Use the toolbar to format text, add images, links, or headings. All free.
 Click Labels on the right side if you want categories (optional).
 Click Preview to check how it looks.
 Click Publish and confirm. Your post goes live instantly.",Blogger,,,,,,,,,,,,
-course_4,Pro Training in Regulatory Affairs,,ch_4_05,"Chemistry, Manufacturing, Controls (CMC)",les_4_05_10,CMC for Biologics vs. Small Molecules,Omegamentorship,,,,,,,task_4_05_10_1,no,,,,,,,,,,,,,,
+course_4,Pro Training in Regulatory Affairs,,ch_4_05,"Chemistry, Manufacturing, Controls (CMC)",les_4_05_10,CMC for Biologics vs. Small Molecules,notask,,,,,,,task_4_05_10_1,no,,,,,,,,,,,,,,
 course_4,Pro Training in Regulatory Affairs,,ch_4_06,Labeling & Packaging Compliance,les_4_06_01,Labeling Regulations Overview,Labeling Regulations Overview,"You are a Regulatory Labeling Inspector at Apex Pharma, headquartered at 123 Innovation Drive, Bengaluru – 560100, Karnataka, India, tasked with ensuring the labeling compliance for Zestacillin, a novel β-lactam antibiotic (500 mg film-coated tablets) for mild-to-moderate bacterial infections. Your mission is to complete a ""Labeling Compliance Form"" that verifies key labeling elements (e.g., batch number, warnings), using the reference document and gathering extra details via Perplexity AI. This form will support a regulatory submission to authorities (FDA, EMA, CDSCO, or TGA, based on your region choice), preventing errors and ensuring safety. Think of it as an exciting quest to perfect Zestacillin’s labels—your inspection skills are key!
 
 Deliverables
@@ -8074,7 +8074,7 @@ Select the license CC BY 4.0 unless you have a specific alternative.
 Review the file and all metadata carefully because Zenodo becomes a permanent record.
 Click Publish to receive your DOI, permanent link, and citation.
 Copy the DOI link and share it on LinkedIn, resume, Zane Omega portfolio, applications, or your website.""",zenodo,,,,,,,,,,,,
-course_4,Pro Training in Regulatory Affairs,,ch_4_06,Labeling & Packaging Compliance,les_4_06_10,Labeling Change Control,Labeling Change Control,omegamentorship,,,,,,task_4_06_10_1,no,,,,,,,,,,,,,,
+course_4,Pro Training in Regulatory Affairs,,ch_4_06,Labeling & Packaging Compliance,les_4_06_10,Labeling Change Control,Labeling Change Control,notask,,,,,,task_4_06_10_1,no,,,,,,,,,,,,,,
 course_4,Pro Training in Regulatory Affairs,,ch_4_07,Submission Lifecycle Management,les_4_07_01,Pre-Submission Planning,Pre-Submission Planning,,,,,,,task_4_07_01_1,no,,,,,,,,,,,,,,
 course_4,Pro Training in Regulatory Affairs,,ch_4_07,Submission Lifecycle Management,les_4_07_02,IND/CTA Submission Prep,IND/CTA Submission Prep,,,,,,,task_4_07_02_1,no,,,,,,,,,,,,,,
 course_4,Pro Training in Regulatory Affairs,,ch_4_07,Submission Lifecycle Management,les_4_07_03,NDA/BLA Submission Overview,NDA/BLA Submission Overview,,,,,,,task_4_07_03_1,linkedin,"Choose one caption from the generated options
