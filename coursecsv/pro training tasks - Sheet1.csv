@@ -7427,7 +7427,7 @@ course_1,ch_1_11,les_1_11_03,Pro Training in QA/QC ,,Smart Quality Systems & Pre
 
 **Dissolution Failure Investigation Summary – Batch B-2027-045**
 
-- Specification: Q ≥80% at 45 minutes
+- Associated Deviation ID: DEV-2027-045 (Specification: Q ≥80% at 45 minutes)
 - Results:
     - B-2027-045: 74.2% (failed)
     - Prior 5 batches: 76.8%, 77.1%, 75.9%, 78.4%, 76.2% (trend below specification)
