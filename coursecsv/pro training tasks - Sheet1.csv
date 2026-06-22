@@ -7298,7 +7298,7 @@ course_1,ch_1_11,les_1_11_02,Pro Training in QA/QC ,,Smart Quality Systems & Pre
 
 **Dissolution Failure Trend Summary – Sustained-Release Tablet**
 
-- Batches Affected: B001 to B006 (last 6 months)
+- Batches Affected: B001 to B006 (associated with Quality Deviations: DEV-2027-015, DEV-2027-019, DEV-2027-022, DEV-2027-025, DEV-2027-028, and DEV-2027-031)
 - Failure Mode: Dissolution <80% at 45 min (specification Q ≥80%)
 - Preliminary Data:
     - Polymer coating thickness variability: 8–14 µm (target 10 ±2 µm)
